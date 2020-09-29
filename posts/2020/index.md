@@ -1,70 +1,91 @@
 ---
 title: Hello World
-date: "2020-09-28T04:18:02.038Z"
-description: "Hello World"
+date: '2020-09-28T04:18:02.038Z'
+description: Hello World
 ---
+
+# 目次
+
+## 概要
+
+### この研究室で主に取り扱う分野(キーワード)
+
+### 研究室での活動内容
+
+- 研究編(ゼミの回数、曜日、どうやって研究しているのか、学会の発表はあるのかとか)
+- 日常編(新歓、BBQ、飲みなどのイベント)
+
+### 研究紹介
+
+#### B4
+
+##### 7
+
+- 研究テーマ
+- 研究内容（背景、課題、提案）
+
+##### zuya
+
+##### kuma
+
+##### よっしー
+
+##### タッキー
+
+##### だーまんさん
+
+#### M1,M2
+
+##### ちくわさん
+
+##### ともかさん
+
+##### 雫石さん
+
+### 本研究室の実績(今までにこんなことしました、こんな賞を取りました)
+
+- 研究実績
+- 発表実績
 
 This is my first post on my new fake blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+Oh, and here's a great quote from this Wikipedia on [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+> A salted duck egg is a Chinese preserved food product made by soaking duck eggs in brine, or packing each egg in damp, salted charcoal. In Asian supermarkets, these eggs are sometimes sold covered in a thick layer of salted charcoal paste. The eggs may also be sold with the salted paste removed, wrapped in plastic, and vacuum packed. From the salt curing process, the salted duck eggs have a briny aroma, a gelatin-like egg white and a firm-textured, round yolk that is bright orange-red in color.
 
 You can also write code blocks here!
 
-```js
+```javascript
 const saltyDuckEgg = "chinese preserved food product"
 ```
 
-| Number | Title                                    | Year |
-| :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
+Number | Title                                    | Year
+:----- | :--------------------------------------- | ---:
+1      | Harry Potter and the Philosopher's Stone | 2001
+2      | Harry Potter and the Chamber of Secrets  | 2002
+3      | Harry Potter and the Prisoner of Azkaban | 2004
 
 [View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
 
 This is a paragraph.
 
-    This is a paragraph.
+```
+This is a paragraph.
+```
 
 # Header 1
 
 ## Header 2
 
-    Header 1
-    ========
+```
+Header 1
+========
 
-    Header 2
-    --------
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
+Header 2
+--------
+```
 
 # Header 1
 
@@ -78,44 +99,76 @@ This is a paragraph.
 
 ###### Header 6
 
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
+```
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+```
+
+# Header 1
+
+## Header 2
+
+### Header 3
+
+#### Header 4
+
+##### Header 5
+
+###### Header 6
+
+```
+# Header 1 #
+## Header 2 ##
+### Header 3 ###
+#### Header 4 ####
+##### Header 5 #####
+###### Header 6 ######
+```
 
 > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
-    > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
 > ## This is a header.
->
+
 > 1. This is the first list item.
 > 2. This is the second list item.
->
+
 > Here's some example code:
->
->     Markdown.generate();
 
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
+> ```
+> Markdown.generate();
+> ```
+
+> ## This is a header.
+
+> 1. This is the first list item.
+> 2. This is the second list item.
+
+> Here's some example code:
+
+> ```
+> Markdown.generate();
+> ```
 
 - Red
 - Green
 - Blue
 
-* Red
-* Green
-* Blue
+- Red
+
+- Green
+
+- Blue
 
 - Red
+
 - Green
+
 - Blue
 
 ```markdown
@@ -141,52 +194,58 @@ This is a paragraph.
 ```
 
 1. Buy flour and salt
-1. Mix together with water
-1. Bake
+2. Mix together with water
+3. Bake
 
 ```markdown
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
+1\. Buy flour and salt
+1\. Mix together with water
+1\. Bake
 ```
 
 1. `code goes` here in this line
-1. **bold** goes here
+2. **bold** goes here
 
 ```markdown
-1. `code goes` here in this line
-1. **bold** goes here
+1\. `code goes` here in this line
+1\. **bold** goes here
 ```
 
 Paragraph:
 
+```
+Code
+```
+
+<!--  -->
+
+```
+Paragraph:
+
     Code
+```
 
-<!-- -->
+--------------------------------------------------------------------------------
 
-    Paragraph:
+--------------------------------------------------------------------------------
 
-        Code
+--------------------------------------------------------------------------------
 
----
+--------------------------------------------------------------------------------
 
----
+--------------------------------------------------------------------------------
 
----
+```
+* * *
 
----
+***
 
----
+*****
 
-    * * *
+- - -
 
-    ***
-
-    *****
-
-    - - -
-
-    ---------------------------------------
+---------------------------------------
+```
 
 This is [an example](http://example.com "Example") link.
 
@@ -194,15 +253,15 @@ This is [an example](http://example.com "Example") link.
 
 This is [an example][id] reference-style link.
 
+```
+This is [an example](http://example.com "Example") link.
+
+[This link](http://example.com) has no title attr.
+
+This is [an example] [id] reference-style link.
+
 [id]: http://example.com "Optional Title"
-
-    This is [an example](http://example.com "Example") link.
-
-    [This link](http://example.com) has no title attr.
-
-    This is [an example] [id] reference-style link.
-
-    [id]: http://example.com "Optional Title"
+```
 
 _single asterisks_
 
@@ -212,18 +271,26 @@ _single underscores_
 
 **double underscores**
 
-    *single asterisks*
+```
+*single asterisks*
 
-    _single underscores_
+_single underscores_
 
-    **double asterisks**
+**double asterisks**
 
-    __double underscores__
+__double underscores__
+```
 
 This paragraph has some `code` in it.
 
-    This paragraph has some `code` in it.
+```
+This paragraph has some `code` in it.
+```
 
 ![Alt Text](https://placehold.it/200x50 "Image Title")
 
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
+```
+![Alt Text](https://placehold.it/200x50 "Image Title")
+```
+
+[id]: http://example.com "Optional Title"
