@@ -1,55 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 29 Sep 2020 06:37:24 GMT</lastBuildDate><item><title><![CDATA[あつまれ OSSの沼]]></title><description><![CDATA[Zoom スライド資料 研究室の概要 本研究室でどんな内容を取り扱うのか キーワード 研究室での活動内容 研究編(ゼミの回数、曜日、どうやって研究しているのか、学会の発表はあるのかとか) 日常編(新歓、BBQ…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;ul&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 30 Sep 2020 05:38:38 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[Zoom スライド資料 研究室の概要 本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています。システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OS…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/78a698fc8dfffc4d1fd4bfa4e08503c2/75fca/%E3%81%82%E3%81%A4%E3%81%BE%E3%82%8C%E4%BD%8E%E3%83%AC%E3%82%A4%E3%83%A4%E3%81%AE%E6%A3%AE.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.88607594936708%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAAB7MaoLEN//8QAGRAAAwADAAAAAAAAAAAAAAAAAAECAxIT/9oACAEBAAEFAqyKRZdmqTOcs5yaI//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAEDAQE/AVf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAEBAAMAAAAAAAAAAAAAAAAAMQEQIf/aAAgBAQAGPwJjiomv/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITGhQVH/2gAIAQEAAT8hOwi3qMIp9uBYEdrqBtnUB8n/2gAMAwEAAgADAAAAEF8P/8QAFhEBAQEAAAAAAAAAAAAAAAAAASEQ/9oACAEDAQE/EEscf//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxCFf//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExYXHRsf/aAAgBAQABPxAy4EyqEFK2lor7FSwGtxxbr5ezZj29gdF+1Z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;低レイヤの森&quot;
+        title=&quot;低レイヤの森&quot;
+        src=&quot;/openlab-site/static/78a698fc8dfffc4d1fd4bfa4e08503c2/828fb/%E3%81%82%E3%81%A4%E3%81%BE%E3%82%8C%E4%BD%8E%E3%83%AC%E3%82%A4%E3%83%A4%E3%81%AE%E6%A3%AE.jpg&quot;
+        srcset=&quot;/openlab-site/static/78a698fc8dfffc4d1fd4bfa4e08503c2/ff44c/%E3%81%82%E3%81%A4%E3%81%BE%E3%82%8C%E4%BD%8E%E3%83%AC%E3%82%A4%E3%83%A4%E3%81%AE%E6%A3%AE.jpg 158w,
+/openlab-site/static/78a698fc8dfffc4d1fd4bfa4e08503c2/a6688/%E3%81%82%E3%81%A4%E3%81%BE%E3%82%8C%E4%BD%8E%E3%83%AC%E3%82%A4%E3%83%A4%E3%81%AE%E6%A3%AE.jpg 315w,
+/openlab-site/static/78a698fc8dfffc4d1fd4bfa4e08503c2/828fb/%E3%81%82%E3%81%A4%E3%81%BE%E3%82%8C%E4%BD%8E%E3%83%AC%E3%82%A4%E3%83%A4%E3%81%AE%E6%A3%AE.jpg 630w,
+/openlab-site/static/78a698fc8dfffc4d1fd4bfa4e08503c2/0ede0/%E3%81%82%E3%81%A4%E3%81%BE%E3%82%8C%E4%BD%8E%E3%83%AC%E3%82%A4%E3%83%A4%E3%81%AE%E6%A3%AE.jpg 945w,
+/openlab-site/static/78a698fc8dfffc4d1fd4bfa4e08503c2/3ac88/%E3%81%82%E3%81%A4%E3%81%BE%E3%82%8C%E4%BD%8E%E3%83%AC%E3%82%A4%E3%83%A4%E3%81%AE%E6%A3%AE.jpg 1260w,
+/openlab-site/static/78a698fc8dfffc4d1fd4bfa4e08503c2/75fca/%E3%81%82%E3%81%A4%E3%81%BE%E3%82%8C%E4%BD%8E%E3%83%AC%E3%82%A4%E3%83%A4%E3%81%AE%E6%A3%AE.jpg 1684w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/oss-fun/openlab-site&quot;&gt;Zoom&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/oss-fun/openlab-site&quot;&gt;スライド資料&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;研究室の概要&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;本研究室でどんな内容を取り扱うのか&lt;/li&gt;
-&lt;li&gt;キーワード&lt;/li&gt;
+&lt;li&gt;本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています。システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OSやファームウェアといったものを指します。&lt;/li&gt;
+&lt;li&gt;キーワード：コンピューティング技術(クラウド，IoTなど)，システムソフトウェア技術(仮想化，ネットワーク，システムプログラミング，並列分散処理など)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;研究室での活動内容&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;研究編(ゼミの回数、曜日、どうやって研究しているのか、学会の発表はあるのかとか)&lt;/li&gt;
-&lt;li&gt;日常編(新歓、BBQ、飲みなどのイベント)&lt;/li&gt;
+&lt;li&gt;研究編(ゼミの回数，曜日，どうやって研究しているのか，学会の発表はあるのかとか)&lt;/li&gt;
+&lt;li&gt;日常編(新歓，BBQ，飲みなどのイベント)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;研究紹介&lt;/h2&gt;
 &lt;h3&gt;研究タイトル(雫石さん)&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景、課題、提案）&lt;/li&gt;
+&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;研究タイトル(ちくわさん)&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景、課題、提案）&lt;/li&gt;
+&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;研究タイトル(ともかさん)&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景、課題、提案）&lt;/li&gt;
+&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;研究タイトル(だーまんさん)&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景、課題、提案）&lt;/li&gt;
+&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;研究タイトル(7)&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景、課題、提案）&lt;/li&gt;
+&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;研究タイトル(zuya)&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景、課題、提案）&lt;/li&gt;
+&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;研究タイトル(kuma)&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景、課題、提案）&lt;/li&gt;
+&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;研究タイトル(よっしー)&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景、課題、提案）&lt;/li&gt;
+&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;研究タイトル(タッキー)&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景、課題、提案）&lt;/li&gt;
+&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;本研究室の実績(今までにこんなことしました、こんな賞を取りました)&lt;/h2&gt;
+&lt;h2&gt;本研究室の実績(今までにこんなことしました，こんな賞を取りました)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;研究実績&lt;/p&gt;
