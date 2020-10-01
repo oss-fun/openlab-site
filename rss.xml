@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 30 Sep 2020 05:52:33 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[Zoom スライド資料 研究室の概要 本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています。システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OS…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 01 Oct 2020 05:39:57 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[Zoom スライド資料 研究室の概要 本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています。システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OS…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -38,10 +38,67 @@
 &lt;p&gt;本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています。システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OSやファームウェアといったものを指します。&lt;/p&gt;
 &lt;p&gt;キーワード：コンピューティング技術(クラウド，IoTなど)，システムソフトウェア技術(仮想化，ネットワーク，システムプログラミング，並列分散処理など)&lt;/p&gt;
 &lt;h2&gt;研究室での活動内容&lt;/h2&gt;
+&lt;p&gt;研究編(どうやって研究しているのか，学会の発表はあるのかとか)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;研究編(ゼミの回数，曜日，どうやって研究しているのか，学会の発表はあるのかとか)&lt;/li&gt;
-&lt;li&gt;日常編(新歓，BBQ，飲みなどのイベント)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ゼミ&lt;/p&gt;
+&lt;p&gt;研究室に配属されると、教員と学生が集まって話し合う「ゼミ」を行います。本研究室では、教員と学生の予定に合わせて進捗報告のゼミ1回、自分が読んだ論文の紹介をするゼミ1回の合計2回を毎週行っています。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;(画像必要)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;研究の流れ&lt;/p&gt;
+&lt;p&gt;自分の研究テーマに沿った論文を見つけて読解したり、様々な最新のシステムソフトウェア技術に触れて体感してみたりすることで、自分の研究に必要な知識や技術を身につけています。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;学会について&lt;/p&gt;
+&lt;p&gt;(一旦保留)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;日常編&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;過ごし方&lt;/p&gt;
+&lt;p&gt;今年は基本的に自宅での研究が多いので、SlackやDiscordなどのツールを用いて研究室内外のメンバーと交流しています。ゼミも大学の講義と同じように、Zoomを使用して開催しています。大学内で研究する際には、少人数で教員室の前の研究スペースを利用しています。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;イベント&lt;/p&gt;
+&lt;p&gt;本研究室では、研究以外にもメンバー内での交流を図るために、新歓，BBQ，飲みなどのイベントを開催しています。もちろん、お酒が苦手な人でも気軽に参加できるような雰囲気で楽しんでいます！プロジェクト学習で仲良くなったメンバーも参加できるかも…？&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/23db9ad32205f4c4d28cab5e8d00ab49/e6b01/%E9%A3%B2%E3%81%BF.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAAB2WVyukOC/wD/xAAcEAACAgIDAAAAAAAAAAAAAAABAgMSAAQTIjP/2gAIAQEAAQUCMtTyFsTYWsvog7qBX//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/Aaf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwGI/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECISJB/9oACAEBAAY/Aqnw1C4KELD/xAAaEAACAwEBAAAAAAAAAAAAAAABIQARMVFx/9oACAEBAAE/Ia2GAfewZykrglxOY2inBAo7M0zk/9oADAMBAAIAAwAAABAA3//EABcRAQADAAAAAAAAAAAAAAAAAAABEUH/2gAIAQMBAT8QjC3/xAAWEQEBAQAAAAAAAAAAAAAAAAAAETH/2gAIAQIBAT8QnUv/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMVGB0f/aAAgBAQABPxBhBRgeTVnzKhCDskY7zrCKRUXy/Ydig9LMheU331j73xzH/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;飲み&quot;
+        title=&quot;飲み&quot;
+        src=&quot;/openlab-site/static/23db9ad32205f4c4d28cab5e8d00ab49/828fb/%E9%A3%B2%E3%81%BF.jpg&quot;
+        srcset=&quot;/openlab-site/static/23db9ad32205f4c4d28cab5e8d00ab49/ff44c/%E9%A3%B2%E3%81%BF.jpg 158w,
+/openlab-site/static/23db9ad32205f4c4d28cab5e8d00ab49/a6688/%E9%A3%B2%E3%81%BF.jpg 315w,
+/openlab-site/static/23db9ad32205f4c4d28cab5e8d00ab49/828fb/%E9%A3%B2%E3%81%BF.jpg 630w,
+/openlab-site/static/23db9ad32205f4c4d28cab5e8d00ab49/0ede0/%E9%A3%B2%E3%81%BF.jpg 945w,
+/openlab-site/static/23db9ad32205f4c4d28cab5e8d00ab49/3ac88/%E9%A3%B2%E3%81%BF.jpg 1260w,
+/openlab-site/static/23db9ad32205f4c4d28cab5e8d00ab49/e6b01/%E9%A3%B2%E3%81%BF.jpg 3840w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;研究紹介&lt;/h2&gt;
 &lt;h3&gt;研究タイトル(雫石さん)&lt;/h3&gt;
 &lt;ul&gt;
