@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 01 Oct 2020 05:56:30 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[Zoom スライド資料 研究室の概要 本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています。システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OS…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Oct 2020 03:34:35 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[Zoom スライド資料 研究室の概要 本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています．システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OS…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -35,18 +35,18 @@
 &lt;li&gt;&lt;a href=&quot;https://github.com/oss-fun/openlab-site&quot;&gt;スライド資料&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;研究室の概要&lt;/h2&gt;
-&lt;p&gt;本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています。システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OSやファームウェアといったものを指します。&lt;/p&gt;
+&lt;p&gt;本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています．システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OSやファームウェアといったものを指します．&lt;/p&gt;
 &lt;p&gt;キーワード：コンピューティング技術(クラウド，IoTなど)，システムソフトウェア技術(仮想化，ネットワーク，システムプログラミング，並列分散処理など)&lt;/p&gt;
 &lt;h2&gt;研究室での活動内容&lt;/h2&gt;
 &lt;p&gt;研究編&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;ゼミ&lt;/p&gt;
-&lt;p&gt;研究室に配属されると、教員と学生が集まって話し合う「ゼミ」を行います。本研究室では、教員と学生の予定に合わせて進捗報告のゼミ1回、自分が読んだ論文の紹介をするゼミ1回の合計2回を毎週行っています。&lt;/p&gt;
+&lt;p&gt;研究室に配属されると，教員と学生が集まって話し合う「ゼミ」を行います．本研究室では，教員と学生の予定に合わせて進捗報告のゼミ1回，自分が読んだ論文の紹介をするゼミ1回，研究分野の近い者同士でのグループゼミ1回の合計3回を毎週行っています．&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;研究の流れ&lt;/p&gt;
-&lt;p&gt;自分の研究テーマに沿った論文を見つけて読解したり、様々な最新のシステムソフトウェア技術に触れて体感してみたりすることで、自分の研究に必要な知識や技術を身につけています。&lt;/p&gt;
+&lt;p&gt;自分の研究テーマに沿った論文を見つけて読解したり，様々な最新のシステムソフトウェア技術に触れて体感してみたりすることで，自分の研究に必要な知識や技術を身につけています．&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
@@ -91,11 +91,11 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;過ごし方&lt;/p&gt;
-&lt;p&gt;今年は基本的に自宅での研究が多いので、SlackやDiscordなどのツールを用いて研究室内外のメンバーと交流しています。ゼミも大学の講義と同じように、Zoomを使用して開催しています。大学内で研究する際には、少人数で教員室の前の研究スペースを利用しています。&lt;/p&gt;
+&lt;p&gt;今年は基本的に自宅での研究が多いので，SlackやDiscordなどのツールを用いて研究室内外のメンバーと交流しています．ゼミも大学の講義と同じように，Zoomを使用して開催しています．大学内で研究する際には，少人数で教員室の前の研究スペースを利用しています．&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;イベント&lt;/p&gt;
-&lt;p&gt;本研究室では、研究以外にもメンバー内での交流を図るために、新歓，BBQ，飲みなどのイベントを開催しています。もちろん、お酒が苦手な人でも気軽に参加できるような雰囲気で楽しんでいます！プロジェクト学習で仲良くなったメンバーも参加できるかも…？&lt;/p&gt;
+&lt;p&gt;本研究室では，研究以外にもメンバー内での交流を図るために，新歓，BBQ，飲みなどのイベントを開催しています．もちろん，お酒が苦手な人でも気軽に参加できるような雰囲気で楽しんでいます！研究室内外に関わらず，本研究室に興味がある人も参加できるかも…？&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
