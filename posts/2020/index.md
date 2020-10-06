@@ -1,5 +1,5 @@
 ---
-title: 'あつまれ![Tux](/img/pngwing.com.png)低レイヤの森'
+title: 'あつまれ![Tux](/img/Tux.png)低レイヤの森'
 date: '2020-09-28T04:18:02.038Z'
 description: OSS研究室についてのHPです
 ---
