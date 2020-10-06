@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/openlab-site`,
   siteMetadata: {
-    title: `Open OSS Lab`,
+    title: `OSS Lab`,
     description: `オープンラボ用でのOSS Labの紹介`,
     siteUrl: `https://oss-fun.github.io/`,
   },
@@ -47,7 +47,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Open OSS Lab`,
+        name: `OSS Lab`,
         short_name: `OSS Lab`,
         start_url: `/`,
         background_color: `#ffffff`,
