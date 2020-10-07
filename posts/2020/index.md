@@ -11,7 +11,7 @@ description: OSS研究室についてのHPです
 
 - 当日のタイムスケジュール
 
-# <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="70"> 松原克弥研究室の概要 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="70">
+# <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> 松原克弥研究室の概要 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
 
 本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています．システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OSやファームウェアといったものを指します．
 
