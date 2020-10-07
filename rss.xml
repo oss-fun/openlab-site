@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 07 Oct 2020 13:26:51 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[(何かネタ系の画像)  Zoom スライド資料 当日のタイムスケジュール 現在作成中です。 時間 表部屋 裏部屋 13:00 イベント イベント 14:0…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;(何かネタ系の画像)&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 07 Oct 2020 14:47:33 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[(何かネタ系の画像)  Zoom スライド資料 当日のタイムスケジュール 現在作成中です。 時間 表部屋 裏部屋 13:00 イベント イベント 14:0…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;body bgcolor=&quot;#23B1BE&quot;&gt;
+&lt;p&gt;(何かネタ系の画像)&lt;br&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -58,7 +59,9 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt; 松原克弥研究室の概要 &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt;&lt;/h1&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt; &lt;span style=&quot;font-size: 250%;&quot;&gt; &lt;b&gt;&amp;#x677E;&amp;#x539F;&amp;#x514B;&amp;#x5F25;&amp;#x7814;&amp;#x7A76;&amp;#x5BA4;&amp;#x306E;&amp;#x6982;&amp;#x8981; &lt;/b&gt; &lt;/span&gt; &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt;
+&lt;/div&gt;
 &lt;p&gt;本研究室は&lt;span style=&quot;font-size: 250%; color: red;&quot;&gt;圧倒的成長&lt;/span&gt;をモットーに，システムソフトウェアを対象に研究を行っています！&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;システムソフトウェアって何？&lt;/li&gt;
@@ -132,7 +135,7 @@
 &lt;ul&gt;
 &lt;li&gt;システムソフトウェアを研究して、良いことあるの？&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;良いことその１：ブラックボックスの解明&lt;/p&gt;
+&lt;p&gt;良いことその１：ブラックボックスの解明！&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -165,11 +168,12 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;説明&lt;/p&gt;
-&lt;p&gt;良いことその2：最新技術研究とのコラボ&lt;/p&gt;
+&lt;p&gt;Windows・Mac・Androidなど、既存システム内での動作や仕組みを理解できる！&lt;/p&gt;
+&lt;p&gt;良いことその2：最新技術研究とのコラボ！&lt;/p&gt;
 &lt;div align=&quot;center&quot;&gt;
-&lt;img src=&quot;https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png&quot; height=&quot;250&quot;&gt; &lt;/div&gt; &lt;br&gt;
-&lt;p&gt;説明&lt;/p&gt;
+&lt;img src=&quot;https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png&quot; height=&quot;250&quot;&gt;
+&lt;img src=&quot;https://illustimage.com/photo/4973.png&quot; height=&quot;250&quot;&gt; &lt;/div&gt; &lt;br&gt;
+&lt;p&gt;IoT（Internet of Things）やビックデータ、クラウドコンピューティングといった最新技術に触れることができる！&lt;/p&gt;
 &lt;p&gt;良いことその3：PCやスマホの眠れる力を呼び覚ます！&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -199,8 +203,13 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;説明&lt;/p&gt;
-&lt;p&gt;こんな人募集&lt;/p&gt;
+&lt;p&gt;PCやスマホに眠っている性能を活用する術を身に付けられる！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;こんな人にオススメ！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;コンピュータやプログラムが動いている裏側を知りたい！&lt;br&gt;
+(もう一つ何か)&lt;br&gt;
+松原克弥先生が好き！&lt;/p&gt;
 &lt;p&gt;キーワード：松原克弥，圧倒的成長，コンピューティング技術(クラウド，IoTなど)，システムソフトウェア技術(仮想化，ネットワーク，システムプログラミング，並列分散処理など)&lt;/p&gt;
 &lt;h1&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt; 研究室での活動内容 &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt;&lt;/h1&gt;
 &lt;p&gt;写真と一言説明をいくつか&lt;/p&gt;
@@ -355,4 +364,5 @@
 &lt;/li&gt;
 &lt;li&gt;受賞経歴&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;ここに「圧倒的成長！来たれOSS研！」みたいなキャッチフレーズと写真集&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;ここに「圧倒的成長！来たれOSS研！」「松原克弥研究室(うち)、来ない？」みたいなキャッチフレーズと写真集&lt;/p&gt;
+&lt;/body&gt;</content:encoded></item></channel></rss>
