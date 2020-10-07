@@ -19,7 +19,7 @@ description: OSS研究室についてのHPです
 
 キーワード：松原克弥、コンピューティング技術(クラウド，IoTなど)，システムソフトウェア技術(仮想化，ネットワーク，システムプログラミング，並列分散処理など)
 
-# 研究室での活動内容
+# <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> 研究室での活動内容 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
 
 写真と一言説明をいくつか
 
@@ -63,7 +63,7 @@ description: OSS研究室についてのHPです
 
 ![飲み](/img/飲み.jpg)
 
-# 研究紹介
+# <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> 研究紹介 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
 
 ## 研究タイトル(雫石さん)
 
@@ -113,7 +113,7 @@ description: OSS研究室についてのHPです
 
 - 研究内容（背景，課題，提案）
 
-# 本研究室の実績(今までにこんなことしました，こんな賞を取りました)
+# <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> 本研究室の実績 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
 
 - 研究実績
 
@@ -123,4 +123,4 @@ description: OSS研究室についてのHPです
 
 - 受賞経歴
 
-ここに「来たれOSS研」みたいなキャッチフレーズと写真集
+ここに「圧倒的成長！来たれOSS研！」みたいなキャッチフレーズと写真集
