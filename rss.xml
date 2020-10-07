@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 07 Oct 2020 14:47:33 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[(何かネタ系の画像)  Zoom スライド資料 当日のタイムスケジュール 現在作成中です。 時間 表部屋 裏部屋 13:00 イベント イベント 14:0…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;body bgcolor=&quot;#23B1BE&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 07 Oct 2020 15:59:17 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[(何かネタ系の画像)  Zoom スライド資料 当日のタイムスケジュール 現在作成中です。 時間 表部屋 裏部屋 13:00 イベント イベント 14:0…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;body bgcolor=&quot;#23B1BE&quot;&gt;
 &lt;p&gt;(何かネタ系の画像)&lt;br&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -208,10 +208,12 @@
 &lt;li&gt;こんな人にオススメ！&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;コンピュータやプログラムが動いている裏側を知りたい！&lt;br&gt;
-(もう一つ何か)&lt;br&gt;
+低レイヤに関する技術力を高めたい！&lt;br&gt;
 松原克弥先生が好き！&lt;/p&gt;
 &lt;p&gt;キーワード：松原克弥，圧倒的成長，コンピューティング技術(クラウド，IoTなど)，システムソフトウェア技術(仮想化，ネットワーク，システムプログラミング，並列分散処理など)&lt;/p&gt;
-&lt;h1&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt; 研究室での活動内容 &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt;&lt;/h1&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt; &lt;span style=&quot;font-size: 250%;&quot;&gt; &lt;b&gt;&amp;#x7814;&amp;#x7A76;&amp;#x5BA4;&amp;#x3067;&amp;#x306E;&amp;#x6D3B;&amp;#x52D5;&amp;#x5185;&amp;#x5BB9; &lt;/b&gt; &lt;/span&gt; &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt;
+&lt;/div&gt;
 &lt;p&gt;写真と一言説明をいくつか&lt;/p&gt;
 &lt;p&gt;研究&lt;/p&gt;
 &lt;p&gt;ゼミ&lt;/p&gt;
@@ -311,7 +313,9 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h1&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt; 研究紹介 &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt;&lt;/h1&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt; &lt;span style=&quot;font-size: 250%;&quot;&gt; &lt;b&gt;&amp;#x7814;&amp;#x7A76;&amp;#x7D39;&amp;#x4ECB; &lt;/b&gt; &lt;/span&gt; &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt;
+&lt;/div&gt;
 &lt;h2&gt;研究タイトル(雫石さん)&lt;/h2&gt;
 &lt;p&gt;所属コース・学年・名前&lt;/p&gt;
 &lt;ul&gt;
@@ -352,7 +356,9 @@
 &lt;ul&gt;
 &lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt; 本研究室の実績 &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt;&lt;/h1&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt; &lt;span style=&quot;font-size: 250%;&quot;&gt; &lt;b&gt;&amp;#x672C;&amp;#x7814;&amp;#x7A76;&amp;#x5BA4;&amp;#x306E;&amp;#x5B9F;&amp;#x7E3E; &lt;/b&gt; &lt;/span&gt; &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt;
+&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;研究実績&lt;/p&gt;
