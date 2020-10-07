@@ -69,13 +69,14 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 - こんな人にオススメ！
 
 コンピュータやプログラムが動いている裏側を知りたい！  
-(もう一つ何か)  
+低レイヤに関する技術力を高めたい！  
 松原克弥先生が好き！
 
 キーワード：松原克弥，圧倒的成長，コンピューティング技術(クラウド，IoTなど)，システムソフトウェア技術(仮想化，ネットワーク，システムプログラミング，並列分散処理など)
 
-
-# <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> 研究室での活動内容 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
+<div align="center">
+<img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> <span style="font-size: 250%;"> <b>研究室での活動内容 </b> </span> <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
+</div>
 
 写真と一言説明をいくつか
 
@@ -119,7 +120,9 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 
 ![飲み](/img/飲み.jpg)
 
-# <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> 研究紹介 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
+<div align="center">
+<img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> <span style="font-size: 250%;"> <b>研究紹介 </b> </span> <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
+</div>
 
 ## 研究タイトル(雫石さん)
 
@@ -169,7 +172,9 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 
 - 研究内容（背景，課題，提案）
 
-# <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> 本研究室の実績 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
+<div align="center">
+<img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> <span style="font-size: 250%;"> <b>本研究室の実績 </b> </span> <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
+</div>
 
 - 研究実績
 
