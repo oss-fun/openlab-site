@@ -4,7 +4,8 @@ date: '2020-09-28T04:18:02.038Z'
 description: OSS研究室についてのHPです
 ---
 
-(何かネタ系の画像)
+(何かネタ系の画像)  
+![test](/img/test.png)
 
 - [Zoom](https://github.com/oss-fun/openlab-site)
 - [スライド資料](https://github.com/oss-fun/openlab-site)
@@ -12,6 +13,23 @@ description: OSS研究室についてのHPです
 - 当日のタイムスケジュール
 
 # <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> 松原克弥研究室の概要 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
+
+本研究室は<span style="font-size: 250%; color: red;">圧倒的成長</span>をモットーに、システムソフトウェアを対象に研究を行っています！
+
+- システムソフトウェアって何？
+
+システムソフトウェアとは，PCやスマホを裏から支えるTHE・縁の下の力持ちのことです。  
+代表的なものとして、OS（オペレーティング・システム）があります。
+
+<img src=https://s3-ap-northeast-1.amazonaws.com/samurai-blog-media/blog/wp-content/uploads/2016/06/shutterstock_652192660.jpg height="100"> </br>
+
+- システムソフトウェアがないとどうなるの？  
+
+例えばインターネット。OSがないとインターネットが使えません！  
+![system1](/img/system1.png)
+
+![system2](/img/system2.png)
+
 
 本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています．システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OSやファームウェアといったものを指します．
 
