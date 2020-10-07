@@ -52,13 +52,13 @@ description: OSS研究室についてのHPです
 良いことその2：最新技術研究とのコラボ
 
 <div align="center">
-<img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="200"> </div> </br>
+<img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="250"> </div> </br>
 
 説明
 
 良いことその3：PCやスマホの眠れる力を呼び覚ます！
 
-![god](/img/god.png)
+![god](/img/god_ver2.png)
 
 説明
 
