@@ -1,10 +1,110 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 07 Oct 2020 02:27:50 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[(何かネタ系の画像) Zoom スライド資料 当日のタイムスケジュール  松原克弥研究室の概要  本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています．システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OS…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;(何かネタ系の画像)&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 07 Oct 2020 03:41:10 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[(何かネタ系の画像)  Zoom スライド資料 当日のタイムスケジュール  松原克弥研究室の概要  本研究室は圧倒的成長をモットーに、システムソフトウェアを対象に研究を行っています！ システムソフトウェアって何？ システムソフトウェアとは，PCやスマホを裏から支えるTHE…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;(何かネタ系の画像)&lt;br&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/82f1da52a275afc4c5a9eeb1718cb5c8/9b1e2/test.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAADl0lEQVQ4yx2T20/aBxzF+VP24tZt3rEqVmlRUFREFBSliCgqFW94GSjMCyoKxdVbtFprtdZbbbUOabvVW6qbNlUXdWvSxcWlzZLubS97/+yXPZyc79PJ95zv+YoamoxYbfkYTXJM5nTaG1Jxj64idr3CNZFP37KH8RfTOJZf0Dq3R0dvHU22dEoNUvQqMRp5LBFXwxBLviBOcgWRo9eGRptEfWMerU4dSx4ld3tr0NpLqD2x4lqws3mywe3gLt1PTpl56OP7e00s+iz0eqoI3m+n+ZaCLK2UzJx4RHZvHc5WA/3f1eGwq5nxqAm0Z/PTXBmBYQvza0McHC3y87qP0FwXh6sdBCdcvPQU4e8pxTdiYaBRSbUpiaLia4i8ww4qbRr0Jel0OAv4YVBPcNjAwkglx0dPeHMe4mxnmIuQm8utXt5v9jPpLmHUmoHXLMNZk4mzWole9jm5CsHy2HgttcLKlZXZeHvKWAgU8/JpC5s/+jn+5QH7hxO83RcEd/v5+2yGo6Abr1eHp0bBQJuO+6N1dH+jwyCPQpv6JaKFxw6Wxs2s+3W8DbbyesvL2ekYv51Pcnm5xJ8CLn6f58Oen3fLjeyst9HpN+CqShGQzm6oj18Pxxjxl9NSlCwITlWxLIgtTVl4tNbKQqhTYAfzz5wEt/083xsQuI9P51OcbrThHSqjojkbu11BQ3Ey/vYC3h9PsjjdjClXjCg4Z2NyshLfw1p8wnx7voY7s1WsPq5nd8PFwVYXr4MtfDwaY0ewO/KomoGFWuoduTiN17nToOLNzhAjA1YixZ8hmr1bRkfAgK0zD1u7GptLxfaKnQ+HAT4ej3NxMMLFdg/vhCjW7zXwYKgKt0eHzpRCR5WCaaeWqaFqQitd3CyWIbI2ZGG8JUdfIUWqjiYlPZxXi04+CTn++9dT/vljhZPnPeyvd7AiHHBtsokJn5kSmxyjUcpoVwHuZg3DgXIG+02IcvTxqI1J6MxJ5AuiKoH15mTa7JkE5xqFElezM21hc66e2SErg70mur/VI1PFk5gWQ21FGldvRHNNFoFZL0GUmhOFVBWBSh+LziKlpE6GujSBNG00BWYJ5dXXcTqUQvlVWOqVFJbJyNYmolQnkJuXgEaAMkeMQhlJZkY4onjpFaIkYcQlhyGRh3MjO5JUVQzpeWIydAlkFCaSlh8nzPHkG5IovJn6/99naSSkCN1LzYghVx1Lmvxr5PKv+A9f+3GfMe87BQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;test&quot;
+        title=&quot;test&quot;
+        src=&quot;/openlab-site/static/82f1da52a275afc4c5a9eeb1718cb5c8/f058b/test.png&quot;
+        srcset=&quot;/openlab-site/static/82f1da52a275afc4c5a9eeb1718cb5c8/c26ae/test.png 158w,
+/openlab-site/static/82f1da52a275afc4c5a9eeb1718cb5c8/6bdcf/test.png 315w,
+/openlab-site/static/82f1da52a275afc4c5a9eeb1718cb5c8/f058b/test.png 630w,
+/openlab-site/static/82f1da52a275afc4c5a9eeb1718cb5c8/40601/test.png 945w,
+/openlab-site/static/82f1da52a275afc4c5a9eeb1718cb5c8/78612/test.png 1260w,
+/openlab-site/static/82f1da52a275afc4c5a9eeb1718cb5c8/9b1e2/test.png 1880w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/oss-fun/openlab-site&quot;&gt;Zoom&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/oss-fun/openlab-site&quot;&gt;スライド資料&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;当日のタイムスケジュール&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt; 松原克弥研究室の概要 &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt;&lt;/h1&gt;
+&lt;p&gt;本研究室は&lt;span style=&quot;font-size: 250%; color: red;&quot;&gt;圧倒的成長&lt;/span&gt;をモットーに、システムソフトウェアを対象に研究を行っています！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;システムソフトウェアって何？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;システムソフトウェアとは，PCやスマホを裏から支えるTHE・縁の下の力持ちのことです。&lt;br&gt;
+代表的なものとして、OS（オペレーティング・システム）があります。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://s3-ap-northeast-1.amazonaws.com/samurai-blog-media/blog/wp-content/uploads/2016/06/shutterstock_652192660.jpg&quot; height=&quot;100&quot;&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;システムソフトウェアがないとどうなるの？  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;例えばインターネット。OSがないとインターネットが使えません！&lt;br&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 180px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/ffac2357f19d307ce2b1a2ca35ffd03e/e9ff0/system1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAFMklEQVQ4y42Ue0zTVxTHf7Q4B7++W1oQaNncjFGXmJgt7uVABhQsEubm5KFVEF/xgY8JUwELFORRkEeh5VUKRBQwdb6mFIiUV5kwZaBzGhSni06i23TAaH+/e3Zb1D+WvU5ycs7v/JLPPd97z70E8R8m9pIQS5a+58x9/WSEh9iDeGXWzD8uKXJGlpvAlcMSSTmkSPKvMIFQ8DJnkaSLl/ccpqf3HAaHzWZy2Tymo84mhR9i38AhhSEY+Mk/wrRa7ctc6idz+dsFBR6ubFIQiYFyR8TQd4jKykqXqqoqhl6vZ5SUlDI0mnxmdnY2MzNHw1RptK7xiclOga4MBt9H6psqlohrcLcHuVzufEcddyXDIC0G1uJ4jvg/Nvd16Tw+j/tQ7CkBDAUsGfh8PpLN9fuYnM1fgUH5GHgS+x7idF353O6GggUXjEVLT1YUhBVkp8dkqdJ2ZKnVB7Jz8vJKy3Slby5cNORGskDA59nwwdgFAsEfXA4HvKU+d4VCydtsd8E5DD2E3Y1IydNObcxrgE2FTaAsNIHmVC8Y2q9Ag+UapJ66Cp9XWmHf3h3w7uJ5lLs7C6QyX/Cc4wUsd9KGDwm8fX234i4/5bJFC51yUsuOwRdnR1Gm+Q6d0z5Gn7v1jOp9hKjBJ2DvH6ft1gc2281LJ6i+yiQg2Rw0m8VBnj7eCMu2e4jF4COTljs4PjJfBoa6EMcbG3+DGUNOt0+jqRvX0S+WTvT75X5nbeSCET00HUHKsGVIvnQxWrRgHuJwuQ7pWLavyQGUSLwYsjdkBKGvqLhC0zQgGtHUDBQe9llh/PIAPBoaAhv+nhzthYmv8mGiqQCgswYSIoPAjcu1Cfk8kHhK9juAIg8R02/+awRRVFTUNI2B2OxoYgJut3dAxMpIGL13D2KU8aD7MgWotuNAtxUDtOohNy4SkTweLRBJgHyVvOHmPov3fBhcjD+vIoji0lL1veEReGxus91vakYPurshU5UJd8buQselThge+Bbox+Mw2dUEcP4oXNYdQHtjFVRD4RYw6uIzXoxWfv+KmeHPUKs3Dza3wOTwiH16chI930+gnj0DmJoCePoUph+Nw6+Dg0B9Z4WxkWPoZM96pLeuRgWdESi9NeSsyhzIdrLMIS7E9s1bQq+PjcFUn5W+mZWN7tfXozFDLdwp18Ht6mq4ZayDEW0ZXC0ohmsDZsjpiYKDX/tDemsoymiV00WDEaC6GFLonJizwUwi/fDht46fOAFm0ynaVF2DGnV6dMxoRPV19VCNYTV1RtDVVEBJWRVkNa8HdUcgOtIWjrLaQyGrXU7lXAqD7A75T9U/vk86JWN1jKOFhV25Gg0kH0qxHUxLg1179qGdiYlIdSAJtm/eCXFrt8G2HZtAfVGBIWGgNssh5UwIOmQKQ2mnFbTqfDjsMihWvryrwyPDnNKSkqsJGxMgYHnQ9Lo1q6jbpjzqSVeBPenoSntsUiC1LT+YVnfIKXVrKL2/MQjkWz9DgXFREJQQjYI3RUNgfIzdXxkTQNTWGpzvWpfFItRoNNcTd++B5KR9YG2pgb7eXMgfVEDxlXDI71VAjkUB6rYQ2F0rt/uvi6U+WruG8ldGO3z6443rIDAuVunssM5odEJbWlq8DAZDZ2VV9VBRWYWlTF9xvqh5b0PGRfkF7KNqc9g3mebgH1LPRMLyDUrcVawD4owhW+NwLSaCKC93XkUCgxgvtuBIShLzr09YrkXBdcTC/tBVyU3h338QHWUJWB/Vsyx2dU+AMrobgwcC49Yu+RMAH77pvk+P0gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;system1&quot;
+        title=&quot;system1&quot;
+        src=&quot;/openlab-site/static/ffac2357f19d307ce2b1a2ca35ffd03e/e9ff0/system1.png&quot;
+        srcset=&quot;/openlab-site/static/ffac2357f19d307ce2b1a2ca35ffd03e/c26ae/system1.png 158w,
+/openlab-site/static/ffac2357f19d307ce2b1a2ca35ffd03e/e9ff0/system1.png 180w&quot;
+        sizes=&quot;(max-width: 180px) 100vw, 180px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 552px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/90f48e9278216aeee4ee0761ba51a282/08c0b/system2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 102.53164556962024%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEk0lEQVQ4y2WUe0zVZRjHDyAoOWUOctRcZl4ys9p0RTrFZmpeNsP8I5fkNM2stZxmRqbDaoySHDoVBQ1RUSaiICIcQOAcRDxcRDBuMrlJR0joCBzgcDm/99Pv/F7OEevd3j3n+b3f53ueu04IgeM4pKIo6g/oGbCSXHeWizUxXKyOIbPhCoPKoIbrtA2RU9dFUbMVw4MuKlt7XfYOKp1TkUfKmy3p7DVuIcSwkXfPTWTZxWk0Wmq0t8TydnakNJFR9Q+nTW3sTGmgd2DIRapzeaje3idW6IOUumTiq49y8m44c8/4sOrSqzS2GTVc6r1HnDG1crbcwoU6G8dut9Fp7XlKqNgVTalKqyD680TurAjh5qLX+SR7GQWtuRQ069mmX0lVwzkNd6W4lqiKXq4a7lO9ZC0xcTlYsP+fMD+2iIyVe7GPGa0mQod+/hh23lhLUn0cYYXbefQ4TcOlNzQTdvoWA7Nma7jWV2Zge9ggCe12NYeKDLnifBE2/0kayO4lSTsXvkZ98W66DcshaxmUbWLw0ma6n/eXOO/nNMlXW3FWQWfp6+NgbTHHIlPJX/oDA27ew6QeEjx1HJxZjMiZi9ih6h467bvi5Sml/xRE1GVExp+IulZ0eeYmgo1XSSm5S9KlUo7+doSOF/0k2HMUQpVi2mREyAaEt4/URw1/nz4HEXENEW1EhKqkMXnocs2NarXusbXgOt+WZHHSfJ+SW3/A3BkomrGHNHZet2G5XvXaeBNx14wYGkSYLQhDNTr9wwfsKTIQV1vJyaoKdhmzKW/PhLyjKN7jpbG7G8LDXSVz03RCgqE/CyVVj0irRCTcRlwrR1wuRfdXj5XdBckcvpNOZFkWv95OoK8vGwpPIXx8XYSKu7skU29fxDf83WuAnOuwPxElPBF7aDziepGcFBQrtnY9/eYk7lQYuWXMZGDx25qxM2StQKqHDjmoXsOa1dxXR7O/JQU6bkB3nto3TxyToqB1otJFp8VEXKyexilvDRfFU5JNGEd5wAL6nXlUw3e8m2b7EL4vgAvHV5N3dT+dnd3Ds2yXnd5bUUb3JNmLymgv6ZX/BLXrD7M9KR3TnggYK9vF7ill+dTxROxbyqoP5mAylY2Y5YEBmDlzuGFlLzb7vkxdZrz6mkvIqfPovkxky5rv6BhOgc1L/mlhQCCbdnyPzWqVhEKR4ycSLmit4gA9eXM2CfFpNDXnglVPUf4RPjueymZ9C7FRyfT7TdRwHf4vEbz4Q3INcnm41peLNPIQrHyfobZ07F16NeGqfJRIcupBYmt6OFBi4aP8XoIP3qBq1jzWB+9l648/PV0OjFiwI1eZo2L2drV61gwKs38hKC6feQlmpkfXMu1EDZNPNzM5tol31n1NZWmxZmfXloNk4xlPte0th73nYSZBByIZG/0Yv6h6fKMe4HuoknGH6/H7Iorw0FDZeaqB9NB5/uOposjKh4UdYMaiIGZtDOWFXecZG2pA93stup9LWRS0gZbGehehK4fPnBGh29RN9PG6T1kQMJ+lCwNZEhjI/PeW88aabUxfsZGY4ydcoTqd+Rd5ffcyKt4jnAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;system2&quot;
+        title=&quot;system2&quot;
+        src=&quot;/openlab-site/static/90f48e9278216aeee4ee0761ba51a282/08c0b/system2.png&quot;
+        srcset=&quot;/openlab-site/static/90f48e9278216aeee4ee0761ba51a282/c26ae/system2.png 158w,
+/openlab-site/static/90f48e9278216aeee4ee0761ba51a282/6bdcf/system2.png 315w,
+/openlab-site/static/90f48e9278216aeee4ee0761ba51a282/08c0b/system2.png 552w&quot;
+        sizes=&quot;(max-width: 552px) 100vw, 552px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています．システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OSやファームウェアといったものを指します．&lt;/p&gt;
 &lt;p&gt;分かりやすい実績(こんな知識ついた、何に強くなったとか)&lt;/p&gt;
 &lt;p&gt;キーワード：松原克弥、コンピューティング技術(クラウド，IoTなど)，システムソフトウェア技術(仮想化，ネットワーク，システムプログラミング，並列分散処理など)&lt;/p&gt;
