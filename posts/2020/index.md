@@ -4,6 +4,8 @@ date: '2020-09-28T04:18:02.038Z'
 description: OSS研究室についてのHPです
 ---
 
+<body bgcolor="#23B1BE">
+
 (何かネタ系の画像)  
 ![test](/img/test.png)
 
@@ -19,8 +21,9 @@ description: OSS研究室についてのHPです
 | 13:00 | イベント | イベント |
 | 14:00 | イベント | イベント |
 
-
-# <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> 松原克弥研究室の概要 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
+<div align="center">
+<img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> <span style="font-size: 250%;"> <b>松原克弥研究室の概要 </b> </span> <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
+</div>
 
 本研究室は<span style="font-size: 250%; color: red;">圧倒的成長</span>をモットーに，システムソフトウェアを対象に研究を行っています！
 
@@ -43,26 +46,31 @@ description: OSS研究室についてのHPです
 
 - システムソフトウェアを研究して、良いことあるの？
 
-良いことその１：ブラックボックスの解明
+良いことその１：ブラックボックスの解明！
 
 ![ブラックボックス](/img/black_box.png)
 
-説明
+Windows・Mac・Androidなど、既存システム内での動作や仕組みを理解できる！
 
-良いことその2：最新技術研究とのコラボ
+良いことその2：最新技術研究とのコラボ！
 
 <div align="center">
-<img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="250"> </div> </br>
+<img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="250">
+<img src=https://illustimage.com/photo/4973.png height="250"> </div> </br>
 
-説明
+IoT（Internet of Things）やビックデータ、クラウドコンピューティングといった最新技術に触れることができる！
 
 良いことその3：PCやスマホの眠れる力を呼び覚ます！
 
 ![god](/img/god_ver2.png)
 
-説明
+PCやスマホに眠っている性能を活用する術を身に付けられる！
 
-こんな人募集
+- こんな人にオススメ！
+
+コンピュータやプログラムが動いている裏側を知りたい！  
+(もう一つ何か)  
+松原克弥先生が好き！
 
 キーワード：松原克弥，圧倒的成長，コンピューティング技術(クラウド，IoTなど)，システムソフトウェア技術(仮想化，ネットワーク，システムプログラミング，並列分散処理など)
 
@@ -171,4 +179,6 @@ description: OSS研究室についてのHPです
 
 - 受賞経歴
 
-ここに「圧倒的成長！来たれOSS研！」みたいなキャッチフレーズと写真集
+ここに「圧倒的成長！来たれOSS研！」「松原克弥研究室(うち)、来ない？」みたいなキャッチフレーズと写真集
+
+</body>
