@@ -40,7 +40,6 @@ description: OSS研究室についてのHPです
 
 例えば、アプリケーション。LINEやWordなども使えません！  
 ![system2](/img/system2.png)  
-<img src=/img/system2.png height="100">
 
 - システムソフトウェアを研究して、良いことあるの？
 
@@ -53,7 +52,7 @@ description: OSS研究室についてのHPです
 良いことその2：最新技術研究とのコラボ
 
 <div align="center">
-<img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="120"> </div> </br>
+<img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="200"> </div> </br>
 
 説明
 
@@ -62,6 +61,8 @@ description: OSS研究室についてのHPです
 ![god](/img/god.png)
 
 説明
+
+こんな人募集
 
 キーワード：松原克弥，圧倒的成長，コンピューティング技術(クラウド，IoTなど)，システムソフトウェア技術(仮想化，ネットワーク，システムプログラミング，並列分散処理など)
 
