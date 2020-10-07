@@ -12,30 +12,59 @@ description: OSS研究室についてのHPです
 
 - 当日のタイムスケジュール
 
+現在作成中です。
+
+| 時間 | 表部屋 | 裏部屋 |
+| :--- | :--- | :--- |
+| 13:00 | イベント | イベント |
+| 14:00 | イベント | イベント |
+
+
 # <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> 松原克弥研究室の概要 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
 
-本研究室は<span style="font-size: 250%; color: red;">圧倒的成長</span>をモットーに、システムソフトウェアを対象に研究を行っています！
+本研究室は<span style="font-size: 250%; color: red;">圧倒的成長</span>をモットーに，システムソフトウェアを対象に研究を行っています！
 
 - システムソフトウェアって何？
 
-システムソフトウェアとは，PCやスマホを裏から支えるTHE・縁の下の力持ちのことです。  
-代表的なものとして、OS（オペレーティング・システム）があります。
+システムソフトウェアとは，PCやスマホを裏から支える縁の下の力持ちのことです。  
+代表的なものとして，OS（オペレーティング・システム）があります。  
+(例：Windows、Mac、Android、Linuxなど)
 
-<img src=https://s3-ap-northeast-1.amazonaws.com/samurai-blog-media/blog/wp-content/uploads/2016/06/shutterstock_652192660.jpg height="100"> </br>
+<div align="center">
+<img src=https://s3-ap-northeast-1.amazonaws.com/samurai-blog-media/blog/wp-content/uploads/2016/06/shutterstock_652192660.jpg height="100"> </div> </br>
 
 - システムソフトウェアがないとどうなるの？  
 
 例えばインターネット。OSがないとインターネットが使えません！  
 ![system1](/img/system1.png)
 
-![system2](/img/system2.png)
+例えば、アプリケーション。LINEやWordなども使えません！  
+![system2](/img/system2.png)  
+<img src=/img/system2.png height="100">
 
+- システムソフトウェアを研究して、良いことあるの？
 
-本研究室では，システムソフトウェアと呼ばれる分野を対象に研究を行っています．システムソフトウェアとは，アプリケーションソフトウェアよりも下の層にあたる，OSやファームウェアといったものを指します．
+良いことその１：ブラックボックスの解明
 
-分かりやすい実績(こんな知識ついた、何に強くなったとか)
+![ブラックボックス](/img/black_box.png)
 
-キーワード：松原克弥、コンピューティング技術(クラウド，IoTなど)，システムソフトウェア技術(仮想化，ネットワーク，システムプログラミング，並列分散処理など)
+説明
+
+良いことその2：最新技術研究とのコラボ
+
+<div align="center">
+<img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="120"> </div> </br>
+
+説明
+
+良いことその3：PCやスマホの眠れる力を呼び覚ます！
+
+![god](/img/god.png)
+
+説明
+
+キーワード：松原克弥，圧倒的成長，コンピューティング技術(クラウド，IoTなど)，システムソフトウェア技術(仮想化，ネットワーク，システムプログラミング，並列分散処理など)
+
 
 # <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> 研究室での活動内容 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
 
