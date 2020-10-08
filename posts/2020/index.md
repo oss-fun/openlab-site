@@ -85,7 +85,6 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 ![表部屋](/img/表部屋.JPG) </br>
 ![設備1](/img/設備1.JPG)
 ![設備2](/img/設備2.JPG) </br>
-<img src="/img/設備2.JPG" alt=設備2 width="50px"/>
 
 </div>
 
