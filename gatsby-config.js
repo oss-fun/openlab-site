@@ -50,7 +50,7 @@ module.exports = {
         name: `OSS Lab`,
         short_name: `OSS Lab`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#23B1BE`,
         theme_color: `#663399`,
         display: `minimal-ui`,
       },

@@ -4,10 +4,6 @@ date: '2020-09-28T04:18:02.038Z'
 description: OSS研究室についてのHPです
 ---
 
-<body bgcolor="#23B1BE">
-
-</body>
-
 (何かネタ系の画像)  
 ![test](/img/test.png)
 
