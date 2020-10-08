@@ -14,7 +14,7 @@ description: OSS研究室についてのHPです
 
 - 当日のタイムスケジュール
 
-現在作成中です。
+現在作成中です．
 
 | 時間 | 表部屋 | 裏部屋 |
 | :--- | :--- | :--- |
@@ -29,28 +29,28 @@ description: OSS研究室についてのHPです
 
 - システムソフトウェアって何？
 
-システムソフトウェアとは，PCやスマホを裏から支える縁の下の力持ちのことです。  
-代表的なものとして，OS（オペレーティング・システム）があります。  
-(例：Windows、Mac、Android、Linuxなど)
+システムソフトウェアとは，PCやスマホを裏から支える縁の下の力持ちのことです．  
+代表的なものとして，OS（オペレーティング・システム）があります．  
+（例：Windows，Mac，Android，Linuxなど）
 
 <div align="center">
 <img src=https://s3-ap-northeast-1.amazonaws.com/samurai-blog-media/blog/wp-content/uploads/2016/06/shutterstock_652192660.jpg height="100"> </div> </br>
 
 - システムソフトウェアがないとどうなるの？  
 
-例えばインターネット。OSがないとインターネットが使えません！  
+例えばインターネット．OSがないとインターネットが使えません！  
 ![system1](/img/system1.png)
 
-例えば、アプリケーション。LINEやWordなども使えません！  
+例えば，アプリケーション．LINEやWordなども使えません！  
 ![system2](/img/system2.png)  
 
-- システムソフトウェアを研究して、良いことあるの？
+- システムソフトウェアを研究して，良いことあるの？
 
 良いことその１：ブラックボックスの解明！
 
 ![ブラックボックス](/img/black_box.png)
 
-Windows・Mac・Androidなど、既存システム内での動作や仕組みを理解できる！
+Windows・Mac・Androidなど，既存システム内での動作や仕組みを理解できる！
 
 良いことその2：最新技術研究とのコラボ！
 
@@ -58,7 +58,7 @@ Windows・Mac・Androidなど、既存システム内での動作や仕組みを
 <img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="250">
 <img src=https://illustimage.com/photo/4973.png height="250"> </div> </br>
 
-IoT（Internet of Things）やビックデータ、クラウドコンピューティングといった最新技術に触れることができる！
+IoT（Internet of Things）やビックデータ，クラウドコンピューティングといった最新技術に触れることができる！
 
 良いことその3：PCやスマホの眠れる力を呼び覚ます！
 
@@ -72,7 +72,7 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 低レイヤに関する技術力を高めたい！  
 松原克弥先生が好き！
 
-キーワード：松原克弥，圧倒的成長，コンピューティング技術(クラウド，IoTなど)，システムソフトウェア技術(仮想化，ネットワーク，システムプログラミング，並列分散処理など)
+キーワード：松原克弥，圧倒的成長，コンピューティング技術（クラウド，IoTなど），システムソフトウェア技術（仮想化，ネットワーク，システムプログラミング，並列分散処理など）
 
 <div align="center">
 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> <span style="font-size: 250%;"> <b>研究室での活動内容 </b> </span> <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
@@ -184,6 +184,6 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 
 - 受賞経歴
 
-ここに「圧倒的成長！来たれOSS研！」「松原克弥研究室(うち)、来ない？」みたいなキャッチフレーズと写真集
+ここに「圧倒的成長！来たれOSS研！」「松原克弥研究室（うち），来ない？」みたいなキャッチフレーズと写真集
 
 </body>
