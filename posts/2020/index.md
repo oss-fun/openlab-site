@@ -211,7 +211,10 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 
 </div>
 
-![研究](/img/研究.jpg)
-![お菓子タワー](/img/お菓子タワー.png)
-![自作PC](/img/自作PC.JPG)
-![自作キーボード](/img/自作キーボード.jpg)
+![研究](/img/研究.jpg) </br>
+![お菓子タワー](/img/お菓子タワー.png) </br>
+![自作PC](/img/自作PC.JPG) </br>
+![自作キーボード](/img/自作キーボード.jpg) </br>
+![オープンキャンパス](/img/オーキャン.JPG) </br>
+![computer](/img/computer.JPG) </br>
+![game](/img/game.JPG)
