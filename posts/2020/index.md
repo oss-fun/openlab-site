@@ -85,12 +85,12 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 ![表部屋](/img/表部屋.JPG) </br>
 ![設備1](/img/設備1.JPG)
 ![設備2](/img/設備2.JPG) </br>
-<img src="/img/設備2.JPG" alt=設備2 width="50"/>
+<img src="/img/設備2.JPG" alt=設備2 width="50px"/>
 
 </div>
 
 ゼミ  
-<img src=https://matsuken.slack.com/files/U3E1RU9AP/F015DRS3T1S/____________________________2020-06-11_15.23.00.png width="100"/>
+<img src=https://matsuken.slack.com/files/U3E1RU9AP/F015DRS3T1S/____________________________2020-06-11_15.23.00.png width="100px"/>
 
 学会
 
@@ -98,8 +98,8 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 こんな先輩がいるよ
 
 中田さんの一日  
-<img src=https://files.slack.com/files-pri/T3E1FKECT-F0128K8NNCV/dsc_0201.jpg width="100"/> </br>
-<img src=https://files.slack.com/files-pri/T3E1FKECT-F012G5X7KNG/dsc_0928.jpg width="100"/> </br>
+<img src=https://files.slack.com/files-pri/T3E1FKECT-F0128K8NNCV/dsc_0201.jpg width="100px"/> </br>
+<img src=https://files.slack.com/files-pri/T3E1FKECT-F012G5X7KNG/dsc_0928.jpg width="100px"/> </br>
 
 
 (保留)研究での失敗談
