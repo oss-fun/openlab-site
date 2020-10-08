@@ -89,16 +89,16 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 </div>
 
 ゼミ  
-<img src=https://matsuken.slack.com/files/U3E1RU9AP/F015DRS3T1S/____________________________2020-06-11_15.23.00.png width="100px"/>
+
 
 学会
 
+![学会](/img/学会.jpg)
 
 こんな先輩がいるよ
 
-中田さんの一日  
-<img src=https://files.slack.com/files-pri/T3E1FKECT-F0128K8NNCV/dsc_0201.jpg width="100px"/> </br>
-<img src=https://files.slack.com/files-pri/T3E1FKECT-F012G5X7KNG/dsc_0928.jpg width="100px"/> </br>
+一日のスケジュール  
+![スケジュール1](/img/スケジュール1.JPG) </br>
 
 
 (保留)研究での失敗談
