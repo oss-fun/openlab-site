@@ -74,19 +74,25 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 キーワード：松原克弥，圧倒的成長，コンピューティング技術（クラウド，IoTなど），システムソフトウェア技術（仮想化，ネットワーク，システムプログラミング，並列分散処理など）
 
 <div align="center">
-<img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"/> <span style="font-size: 250%;"> <b>研究室での活動内容 </b> </span> <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"/>
+<img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"/> <span style="font-size: 250%;"> <b> 研究室の様子 </b> </span> <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"/>
 </div>
 
-研究+設備の話
-- 研究は表部屋と裏部屋の2つで行っています．</br>
+- 設備  
+
+研究室では、学部4年生が利用する表部屋と、院生が利用する裏部屋の2つが提供されています．
 
 <div align="center">
 
 ![表部屋](/img/表部屋.JPG) </br>
+
+</div>
+
+各部屋には、各種メカニカルキーボードやディスプレイなど、様々な研究設備が揃ってます！
+
 ![設備1](/img/設備1.JPG)
 ![設備2](/img/設備2.JPG) </br>
 
-</div>
+研究室内のメンバーや、設備に釣られてやってきた他の研究室のメンバーとコミュニケーションを取りながら、楽しく研究できます！
 
 ゼミ  
 
