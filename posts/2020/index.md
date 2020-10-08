@@ -4,6 +4,7 @@ date: '2020-09-28T04:18:02.038Z'
 description: OSS研究室についてのHPです
 ---
 
+
 (何かネタ系の画像)  
 ![test](/img/test.png)
 
@@ -76,19 +77,33 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"> <span style="font-size: 250%;"> <b>研究室での活動内容 </b> </span> <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50">
 </div>
 
-写真と一言説明をいくつか
+研究+設備の話
+- 研究は表部屋と裏部屋の2つで行っています．</br>
 
-研究
+<div align="center">
 
-ゼミ
+![表部屋](/img/表部屋.JPG) </br>
+![設備1](/img/設備1.JPG)
+![設備2](/img/設備2.JPG)
+
+</div>
+
+ゼミ  
+<img src=https://matsuken.slack.com/files/U3E1RU9AP/F015DRS3T1S/____________________________2020-06-11_15.23.00.png>
 
 学会
 
-院生3人の紹介(中田さんの紹介)
 
-中田さんの一日
+こんな先輩がいるよ
 
-(どこに入れる？)研究での失敗談
+中田さんの一日  
+<img src=https://files.slack.com/files-pri/T3E1FKECT-F0128K8NNCV/dsc_0201.jpg> </br>
+<img src=https://files.slack.com/files-pri/T3E1FKECT-F012G5X7KNG/dsc_0928.jpg> </br>
+
+
+(保留)研究での失敗談
+
+
 
 研究編
 
