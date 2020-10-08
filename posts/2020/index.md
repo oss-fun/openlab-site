@@ -19,8 +19,7 @@ description: OSS研究室についてのHPです
 | 14:00 | イベント | イベント |
 
 <div align="center">
-
-![Tux](/img/Tux.png) <span style="font-size: 250%;"> <b>松原克弥研究室の概要 </b> </span> ![Tux](/img/Tux.png)
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/> <span style="font-size: 250%;"> <b>松原克弥研究室の概要 </b> </span> <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
 
 本研究室は**圧倒的成長**をモットーに，システムソフトウェアを対象に研究を行っています！
@@ -73,7 +72,13 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 低レイヤに関する技術力を高めたい！  
 松原克弥先生が好き！
 
-<ul>キーワード：松原克弥，圧倒的成長，コンピューティング技術（クラウド，IoTなど），システムソフトウェア技術（仮想化，ネットワーク，システムプログラミング，並列分散処理など）</ul>
+キーワード：
+<ul>
+  <li>松原克弥</li>
+  <li>圧倒的成長</li>
+  <li>コンピューティング技術（クラウド，IoTなど）</li>
+  <li>システムソフトウェア技術（仮想化，ネットワーク，システムプログラミング，並列分散処理など）</li>
+</ul>
 
 <div align="center">
 <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"/> <span style="font-size: 250%;"> <b> 研究室の様子 </b> </span> <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"/>
@@ -93,7 +98,7 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 
 <div align="center">
   <img src="/img/設備1.JPG">
-  <img src="/img/設備2.JPG">
+  <img src="/img/設備2.png">
 </div>
 
 研究室内のメンバーや、設備に釣られてやってきた他の研究室のメンバーとコミュニケーションを取りながら、楽しく研究できます！
