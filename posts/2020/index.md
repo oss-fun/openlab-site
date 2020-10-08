@@ -4,7 +4,7 @@ date: '2020-09-28T04:18:02.038Z'
 description: OSS研究室についてのHPです
 ---
 
-![test](/img/test.png)
+![manyTux](/img/manyTux.jpg)
 
 - [Zoom](https://github.com/oss-fun/openlab-site)
 - [スライド資料](https://github.com/oss-fun/openlab-site)
@@ -205,4 +205,13 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 
 - 受賞経歴
 
-ここに「圧倒的成長！来たれOSS研！」「松原克弥研究室（うち），来ない？」みたいなキャッチフレーズと写真集
+<div align="center">
+
+## 圧倒的成長！低レイヤの沼が君を待っている！
+
+</div>
+
+![研究](/img/研究.jpg)
+![お菓子タワー](/img/お菓子タワー.png)
+![自作PC](/img/自作PC.JPG)
+![自作キーボード](/img/自作キーボード.jpg)
