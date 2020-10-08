@@ -23,7 +23,7 @@ description: OSS研究室についてのHPです
     <b>松原克弥研究室の概要</b>
   </span>
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
-</div>
+</div> </br>
 
 本研究室は**圧倒的成長**をモットーに，システムソフトウェアを対象に研究を行っています！
 
@@ -41,10 +41,10 @@ description: OSS研究室についてのHPです
 
 ### システムソフトウェアがないとどうなるの？  
 
-例えばインターネット．OSがないと**インターネットが使えません！**  
+例えばインターネット．OSがないと**インターネットが使えません！** </br>
 ![system1](/img/system1.png)
 
-例えばアプリケーション．**LINEやWordなども使えません！**  
+例えばアプリケーション．**LINEやWordなども使えません！** </br>
 ![system2](/img/system2.png)  
 
 ### システムソフトウェアを研究して，良いことあるの？
@@ -59,14 +59,14 @@ Windows・Mac・Androidなど，既存システム内での動作や仕組みを
 
 <div align="center">
   <img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="250"/>
-  <img src=https://illustimage.com/photo/4973.png height="300"/>
-</div>
+  <img src=https://illustimage.com/photo/4973.png height="180"/>
+</div> </br>
 
 IoT（Internet of Things）やビックデータ，クラウドコンピューティングといった最新技術に触れることができる！
 
 #### 良いことその3：**PCやスマホの眠れる力を呼び覚ます！**
 
-![god](/img/god_ver2.png)
+![god](/img/god.png)
 
 PCやスマホに眠っている性能を活用する術を身に付けられる！
 
@@ -92,7 +92,7 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
 
-- 設備  
+### 設備  
 
 研究室では、学部4年生が利用する表部屋と、院生が利用する裏部屋の2つが提供されています．
 
@@ -107,18 +107,18 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 <div align="center">
   <img src="/img/設備1.JPG">
   <img src="/img/設備2.png">
-</div>
+</div> </br>
 
 研究室内のメンバーや、設備に釣られてやってきた他の研究室のメンバーとコミュニケーションを取りながら、楽しく研究できます！
 
-- ゼミ  
+### ゼミ  
 
 
-- 学会
+### 学会
 
 ![学会](/img/学会.jpg)
 
-- イベント
+### イベント
 
 本研究室では，研究以外にもメンバー内での交流を図るために，新歓，BBQ，飲みなどのイベントを開催しています．もちろん，お酒が苦手な人でも気軽に参加できるような雰囲気で楽しんでいます！研究室内外に関わらず，本研究室に興味がある人も参加できるかも...？
 
@@ -130,49 +130,49 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
 
-## 研究タイトル(雫石さん)
+### 研究タイトル(雫石さん)
 
 所属コース・学年・名前
 
 - 研究内容（背景，課題，提案）
 
-## 研究タイトル(ちくわさん)
+### 研究タイトル(ちくわさん)
 
 所属コース・学年・名前
 
 - 研究内容（背景，課題，提案）
 
-## 研究タイトル(ともかさん)
+### 研究タイトル(ともかさん)
 
 所属コース・学年・名前
 
 - 研究内容（背景，課題，提案）
 
-## 研究タイトル(7)
+### 研究タイトル(7)
 
 所属コース・学年・名前
 
 - 研究内容（背景，課題，提案）
 
-## 研究タイトル(zuya)
+### 研究タイトル(zuya)
 
 所属コース・学年・名前
 
 - 研究内容（背景，課題，提案）
 
-## 研究タイトル(kuma)
+### 研究タイトル(kuma)
 
 所属コース・学年・名前
 
 - 研究内容（背景，課題，提案）
 
-## 研究タイトル(よっしー)
+### 研究タイトル(よっしー)
 
 所属コース・学年・名前
 
 - 研究内容（背景，課題，提案）
 
-## 研究タイトル(タッキー)
+### 研究タイトル(タッキー)
 
 所属コース・学年・名前
 
