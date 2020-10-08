@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 08 Oct 2020 04:14:59 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[(何かネタ系の画像)  Zoom スライド資料 当日のタイムスケジュール 現在作成中です． 時間 表部屋 裏部屋 13:00 イベント イベント 14:0…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;(何かネタ系の画像)&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 08 Oct 2020 05:09:10 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[(何かネタ系の画像)  Zoom スライド資料 当日のタイムスケジュール 現在作成中です． 時間 表部屋 裏部屋 13:00 イベント イベント 14:0…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;(何かネタ系の画像)&lt;br&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -213,13 +213,116 @@
 &lt;div align=&quot;center&quot;&gt;
 &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt; &lt;span style=&quot;font-size: 250%;&quot;&gt; &lt;b&gt;&amp;#x7814;&amp;#x7A76;&amp;#x5BA4;&amp;#x3067;&amp;#x306E;&amp;#x6D3B;&amp;#x52D5;&amp;#x5185;&amp;#x5BB9; &lt;/b&gt; &lt;/span&gt; &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg&quot; width=&quot;50&quot;&gt;
 &lt;/div&gt;
-&lt;p&gt;写真と一言説明をいくつか&lt;/p&gt;
-&lt;p&gt;研究&lt;/p&gt;
-&lt;p&gt;ゼミ&lt;/p&gt;
+&lt;p&gt;研究+設備の話&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;研究は表部屋と裏部屋の2つで行っています．&lt;/br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/0d2c5/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAUszIVkQf//EABkQAQEBAAMAAAAAAAAAAAAAAAECAwQQEf/aAAgBAQABBQJ5FLN166AsSZD1/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAARAAIQIiQf/aAAgBAQAGPwLU8l5qg//EABkQAAMBAQEAAAAAAAAAAAAAAAABESExkf/aAAgBAQABPyFYtcSDmJqV6NS30s0ptdHQp//aAAwDAQACAAMAAAAQI8//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCI/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qp//EABkQAQEAAwEAAAAAAAAAAAAAAAERACFBYf/aAAgBAQABPxCO4osQPFyBToKp7OHmPhStcMxZUG7ruTlbzZdYp2rXbn//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;表部屋&quot;
+        title=&quot;表部屋&quot;
+        src=&quot;/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/828fb/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg&quot;
+        srcset=&quot;/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/ff44c/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 158w,
+/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/a6688/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 315w,
+/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/828fb/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 630w,
+/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/0ede0/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 945w,
+/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/3ac88/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 1260w,
+/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/0d2c5/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 4864w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt; &lt;/br&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/43e2d923bf916bf354bcd0463307bafe/0d2c5/%E8%A8%AD%E5%82%991.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGbo5IyEv8A/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIDBBITIf/aAAgBAQABBQIHkAz6YkHCtDXUYseTf//EABYRAQEBAAAAAAAAAAAAAAAAAAABIf/aAAgBAwEBPwGMf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAICAgMAAAAAAAAAAAAAAAARAQIQISJhgf/aAAgBAQAGPwJNSN+GuPRW1o2sWiD/xAAaEAADAQEBAQAAAAAAAAAAAAABESEAQTFh/9oACAEBAAE/ITBFiqXGhYdTeKvT9amkm9wenuoCA3//2gAMAwEAAgADAAAAEJf/AP/EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8Qi6Onh//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExQWFxgf/aAAgBAQABPxCjCNL+13LIeoy54yJwNxQ67+5HuoiuCwmsIQsREuCgAeMn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;設備1&quot;
+        title=&quot;設備1&quot;
+        src=&quot;/openlab-site/static/43e2d923bf916bf354bcd0463307bafe/828fb/%E8%A8%AD%E5%82%991.jpg&quot;
+        srcset=&quot;/openlab-site/static/43e2d923bf916bf354bcd0463307bafe/ff44c/%E8%A8%AD%E5%82%991.jpg 158w,
+/openlab-site/static/43e2d923bf916bf354bcd0463307bafe/a6688/%E8%A8%AD%E5%82%991.jpg 315w,
+/openlab-site/static/43e2d923bf916bf354bcd0463307bafe/828fb/%E8%A8%AD%E5%82%991.jpg 630w,
+/openlab-site/static/43e2d923bf916bf354bcd0463307bafe/0ede0/%E8%A8%AD%E5%82%991.jpg 945w,
+/openlab-site/static/43e2d923bf916bf354bcd0463307bafe/3ac88/%E8%A8%AD%E5%82%991.jpg 1260w,
+/openlab-site/static/43e2d923bf916bf354bcd0463307bafe/0d2c5/%E8%A8%AD%E5%82%991.jpg 4864w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/4c37fd832db542ea69bd90d001e018a8/0d2c5/%E8%A8%AD%E5%82%992.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQFBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAUVcxtOfH//EAB4QAAAEBwAAAAAAAAAAAAAAAAACAxMBBBASISMx/9oACAEBAAEFAozFijm5wgPlTtP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExAhBh/9oACAEBAAY/AoaslumWTwy1/8QAHBABAAIDAAMAAAAAAAAAAAAAAQARITFRQWGR/9oACAEBAAE/IVDD4YXvHws9D5NllNpokLHktcqz/9oADAMBAAIAAwAAABAwD//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxAn/8QAHBABAQADAAMBAAAAAAAAAAAAAREAITFBUZGh/9oACAEBAAE/ELw4Eum5dn5ikSsLQLz5hCcdY1DBIi+cWuIBj3lygr1c/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;設備2&quot;
+        title=&quot;設備2&quot;
+        src=&quot;/openlab-site/static/4c37fd832db542ea69bd90d001e018a8/828fb/%E8%A8%AD%E5%82%992.jpg&quot;
+        srcset=&quot;/openlab-site/static/4c37fd832db542ea69bd90d001e018a8/ff44c/%E8%A8%AD%E5%82%992.jpg 158w,
+/openlab-site/static/4c37fd832db542ea69bd90d001e018a8/a6688/%E8%A8%AD%E5%82%992.jpg 315w,
+/openlab-site/static/4c37fd832db542ea69bd90d001e018a8/828fb/%E8%A8%AD%E5%82%992.jpg 630w,
+/openlab-site/static/4c37fd832db542ea69bd90d001e018a8/0ede0/%E8%A8%AD%E5%82%992.jpg 945w,
+/openlab-site/static/4c37fd832db542ea69bd90d001e018a8/3ac88/%E8%A8%AD%E5%82%992.jpg 1260w,
+/openlab-site/static/4c37fd832db542ea69bd90d001e018a8/0d2c5/%E8%A8%AD%E5%82%992.jpg 4864w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;ゼミ&lt;br&gt;
+&lt;img src=&quot;https://matsuken.slack.com/files/U3E1RU9AP/F015DRS3T1S/____________________________2020-06-11_15.23.00.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;学会&lt;/p&gt;
-&lt;p&gt;院生3人の紹介(中田さんの紹介)&lt;/p&gt;
-&lt;p&gt;中田さんの一日&lt;/p&gt;
-&lt;p&gt;(どこに入れる？)研究での失敗談&lt;/p&gt;
+&lt;p&gt;こんな先輩がいるよ&lt;/p&gt;
+&lt;p&gt;中田さんの一日&lt;br&gt;
+&lt;img src=&quot;https://files.slack.com/files-pri/T3E1FKECT-F0128K8NNCV/dsc_0201.jpg&quot;&gt; &lt;/br&gt;
+&lt;img src=&quot;https://files.slack.com/files-pri/T3E1FKECT-F012G5X7KNG/dsc_0928.jpg&quot;&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;(保留)研究での失敗談&lt;/p&gt;
 &lt;p&gt;研究編&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
