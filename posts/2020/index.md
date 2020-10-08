@@ -8,7 +8,6 @@ description: OSS研究室についてのHPです
 
 - [Zoom](https://github.com/oss-fun/openlab-site)
 - [スライド資料](https://github.com/oss-fun/openlab-site)
-
 - 当日のタイムスケジュール
 
 現在作成中です．
@@ -19,12 +18,16 @@ description: OSS研究室についてのHPです
 | 14:00 | イベント | イベント |
 
 <div align="center">
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/> <span style="font-size: 250%;"> <b>松原克弥研究室の概要 </b> </span> <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+  <span style="font-size: 250%;">
+    <b>松原克弥研究室の概要</b>
+  </span>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
 
 本研究室は**圧倒的成長**をモットーに，システムソフトウェアを対象に研究を行っています！
 
-- システムソフトウェアって何？
+### システムソフトウェアって何？
 
 システムソフトウェアとは，**PCやスマホを裏から支える縁の下の力持ち**のことです．  
 代表的なものとして，OS（オペレーティング・システム）があります．  
@@ -36,7 +39,7 @@ description: OSS研究室についてのHPです
 
  </div>
 
-- システムソフトウェアがないとどうなるの？  
+### システムソフトウェアがないとどうなるの？  
 
 例えばインターネット．OSがないと**インターネットが使えません！**  
 ![system1](/img/system1.png)
@@ -44,35 +47,36 @@ description: OSS研究室についてのHPです
 例えばアプリケーション．**LINEやWordなども使えません！**  
 ![system2](/img/system2.png)  
 
-- システムソフトウェアを研究して，良いことあるの？
+### システムソフトウェアを研究して，良いことあるの？
 
-良いことその１：**ブラックボックスの解明！**
+#### 良いことその１：**ブラックボックスの解明！**
 
 ![ブラックボックス](/img/black_box.png)
 
 Windows・Mac・Androidなど，既存システム内での動作や仕組みを理解できる！
 
-良いことその2：**最新技術研究とのコラボ！**
+#### 良いことその2：**最新技術研究とのコラボ！**
 
 <div align="center">
-<img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="250"/>
-<img src=https://illustimage.com/photo/4973.png height="250"/> </div>
+  <img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="250"/>
+  <img src=https://illustimage.com/photo/4973.png height="300"/>
+</div>
 
 IoT（Internet of Things）やビックデータ，クラウドコンピューティングといった最新技術に触れることができる！
 
-良いことその3：**PCやスマホの眠れる力を呼び覚ます！**
+#### 良いことその3：**PCやスマホの眠れる力を呼び覚ます！**
 
 ![god](/img/god_ver2.png)
 
 PCやスマホに眠っている性能を活用する術を身に付けられる！
 
-- こんな人にオススメ！
+### こんな人にオススメ！
 
 コンピュータやプログラムが動いている裏側を知りたい！  
 低レイヤに関する技術力を高めたい！  
 松原克弥先生が好き！
 
-キーワード：
+#### キーワード
 <ul>
   <li>松原克弥</li>
   <li>圧倒的成長</li>
@@ -81,7 +85,11 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 </ul>
 
 <div align="center">
-<img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"/> <span style="font-size: 250%;"> <b> 研究室の様子 </b> </span> <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"/>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+  <span style="font-size: 250%;">
+    <b>研究室の様子</b>
+  </span>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
 
 - 設備  
@@ -114,10 +122,12 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 
 本研究室では，研究以外にもメンバー内での交流を図るために，新歓，BBQ，飲みなどのイベントを開催しています．もちろん，お酒が苦手な人でも気軽に参加できるような雰囲気で楽しんでいます！研究室内外に関わらず，本研究室に興味がある人も参加できるかも...？
 
-
-
 <div align="center">
-<img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"/> <span style="font-size: 250%;"> <b>研究紹介 </b> </span> <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"/>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+  <span style="font-size: 250%;">
+    <b>研究紹介</b>
+  </span>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
 
 ## 研究タイトル(雫石さん)
@@ -169,7 +179,11 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 - 研究内容（背景，課題，提案）
 
 <div align="center">
-<img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"/> <span style="font-size: 250%;"> <b>本研究室の実績 </b> </span> <img src=https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg width="50"/>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+  <span style="font-size: 250%;">
+    <b>本研究室の実績</b>
+  </span>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
 
 - 研究実績
