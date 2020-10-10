@@ -197,13 +197,7 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
 
-- 研究実績
-
-  - 査読なし国内会議論文
-  - 査読付き国際会議論文
-  - 査読付き論文誌
-
-- 受賞経歴
+- [研究実績](https://researchmap.jp/ktymtbr/published_papers)
 
 <div align="center">
 
