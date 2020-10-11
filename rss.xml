@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 11 Oct 2020 12:59:27 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[Zoom スライド資料 当日のタイムスケジュール 現在作成中です． 時間 表部屋 裏部屋 13:00 イベント イベント 14:0…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 11 Oct 2020 13:50:53 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[Zoom スライド資料 当日のタイムスケジュール 現在作成中です． 時間 表部屋 裏部屋 13:00 イベント イベント 14:0…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -382,7 +382,7 @@
 &lt;h3&gt;動的解析にもとづくLinux Kernel Tinification手法&lt;/h3&gt;
 &lt;p&gt;修士2年・雫石 卓耶&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;スマート家電や自動運転車等のIoTの発展にともない，高機能化した組み込み機器のソフトウェアインフラとしてLinuxが注目されている&lt;/li&gt;
+&lt;li&gt;スマート家電や自動運転車等のIoTの発展にともない，高機能化した組み込み機器のソフトウェアインフラとして Linux が注目されている&lt;/li&gt;
 &lt;li&gt;当初，多機能なPC向けに開発されたLinuxは，組み込み用OSとしてはリソース消費量(メモリ使用量や電力消費量)が多いという課題がある&lt;/li&gt;
 &lt;li&gt;Linuxの余分な機能を排除することでリソース消費量を削減する「Linux Kernel Tinification」のためには，これまで，高度な知識と煩雑な設定が必要とされた&lt;/li&gt;
 &lt;li&gt;アプリケーションが使用しているLinux Kernel機能と，各機能が使用するリソース消費量を動的に解析することで，最適かつ効率なTinificationを実現する&lt;/li&gt;
@@ -393,7 +393,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B(%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93).png&quot;
+    href=&quot;/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -406,52 +406,282 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;研究紹介(雫石)&quot;
         title=&quot;研究紹介(雫石)&quot;
-        src=&quot;/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B(%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93).png&quot;
-        srcset=&quot;/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B(%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93).png 158w,
-/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B(%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93).png 315w,
-/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B(%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93).png 630w,
-/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B(%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93).png 800w&quot;
+        src=&quot;/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93.png&quot;
+        srcset=&quot;/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93.png 158w,
+/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93.png 315w,
+/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93.png 630w,
+/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93.png 800w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;研究タイトル(ちくわさん)&lt;/h3&gt;
-&lt;p&gt;所属コース・学年・名前&lt;/p&gt;
+&lt;h3&gt;ハードウェア仮想化技術を用いたセキュアな軽量コンテナ実現手法に関する研究&lt;/h3&gt;
+&lt;p&gt;修士1年・中田 裕貴&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
+&lt;li&gt;マイクロサービス・アーキテクチャの普及にともなって,コンテナ型仮想化技術(例 : Docker)の活用が拡大&lt;/li&gt;
+&lt;li&gt;コンテナ型仮想化技術は,アプリケーション毎に使用する計算資源やシステム機能を制限するOS機能&lt;/li&gt;
+&lt;li&gt;現在のコンテナ型仮想化技術では,一部のデバイスやネットワークスタックなどの制限できない機能が存在&lt;/li&gt;
+&lt;li&gt;これらの機能を扱うには,コンテナに対して特別な実行権限(特権)を付与する必要があるが,OS が扱える特権の粒度が不十分&lt;/li&gt;
+&lt;li&gt;本研究では,ハードウェア仮想化技術とコンテナ型仮想化技術が連携することで、OS 機能だけでは制限が不十分な特権を最粒度に分離して付与できる機能を実現&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;研究タイトル(ともかさん)&lt;/h3&gt;
-&lt;p&gt;所属コース・学年・名前&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/4a59f3084acab54c5fcd8aaf1410d013/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E7%94%B0%E3%81%95%E3%82%93.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 54.43037974683544%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACiUlEQVQoz3WS+0uTURzG95cZGZGSisstdkmdLEhKIhV/SRT9saBCKu+SU0FRvIBEyZzOmc3A3aywbWZz3qZzVzfRTf30ngP+6Bee93vOy/k+7/M851WhlNvtpqS0DJ1Oj8FgpLSsnM6ubiqrqlE/qJC98M5denp6xXFyuRz5fF72s7Mz2c/Pz+U7lTjg9bjRlBdTZdRi1GnRqu/zqb8Ts8mITltOpVFHafFtBvq6OFMGU6mkJEmn00SjUdmTySSZTAbV1WUef+iYZ6/tNH+w835onuauFd6M+ugYc9Pe66B/3IGpbY7JhU1SiagynOL09FSqEnVxcSHViVKFQ3+xrfoxvArQ2O2ne3qDpx+3aOgJ8tKyTX13gOGvQUpafFisB1zmsorCNNvb24TDYSKRiFR5fHwsoQoGg9jti9TXv6C9vY2BgQHq6upobW2hoaGRpqYmJsbHqakxMT09zcnJiSQ5OjoiFAqxv79PPB5XPpJib28PlfBtX3Kg1uipe17P23cdlKm1mMxP0Dw08KjmMX1DIxQU3mPQMizzulYjiK/zE6TZbBbVpeLf8zOA51cAq22JP8F/BMJxjpI5wvE8v10bRGyLHBwmiJ/kJdHOzg6Hh4dyLYh2d3elbZmheIT2YrjcXn6sOmU2TqeTA0W+f2sLh2I3PzNDJhbjIJaRFsVwIpGQEHuhVKzFRUnCaDzNzOcF7MtObAt2RidmGRmbYmR0isnZOZa+fefL/Ar+zR2pSEAMC4hMBYRt0SWhR/yHFRVUV1dhNpvR6/XculWAVqPBZDJRW1tLcVERlsFBrq6u5OBNJQlFsF6vF5/Pp5B7WF5exmq1YrPZWFtbY319HZfLLe2JEqQ34T+5/9bG7gnZ4QAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究紹介(中田)&quot;
+        title=&quot;研究紹介(中田)&quot;
+        src=&quot;/openlab-site/static/4a59f3084acab54c5fcd8aaf1410d013/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E7%94%B0%E3%81%95%E3%82%93.png&quot;
+        srcset=&quot;/openlab-site/static/4a59f3084acab54c5fcd8aaf1410d013/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E7%94%B0%E3%81%95%E3%82%93.png 158w,
+/openlab-site/static/4a59f3084acab54c5fcd8aaf1410d013/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E7%94%B0%E3%81%95%E3%82%93.png 315w,
+/openlab-site/static/4a59f3084acab54c5fcd8aaf1410d013/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E7%94%B0%E3%81%95%E3%82%93.png 630w,
+/openlab-site/static/4a59f3084acab54c5fcd8aaf1410d013/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E7%94%B0%E3%81%95%E3%82%93.png 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究&lt;/h3&gt;
+&lt;p&gt;修士1年・林 友佳&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
+&lt;li&gt;マイクロサービス・アーキテクチャの普及により、大規模で複雑かつ状況に応じた変化が起こるようなシステム(動的適応性を持つ分散システム)が増加している&lt;/li&gt;
+&lt;li&gt;動的適応性を持つ分散システムは、障害発生時の状態がわかりにくいため、障害発生時の原因追求や対処に時間がかかる&lt;/li&gt;
+&lt;li&gt;システムの構成要素の状態変化を地理的・時間的に比較できる UI を作成することで、障害の状況把握や発生要因の特定を支援する&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;研究タイトル(7)&lt;/h3&gt;
-&lt;p&gt;所属コース・学年・名前&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/f940b4e160691b70b8c9e0a29235060c/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%9E%97%E3%81%95%E3%82%93.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABuUlEQVQoz42S207bQBCG/bJcc8MrtK9SUfECPQRVlQKFIsVJgCTExt6T144VH0KdNLTSz8wmFka0ai/GM7O78+0/6/GUUYhlDPZsk7spgihEJCN86H/Et/F3xDfXmJ9+RvD1i7P5aQ/BxTnkvkYnGkmawFgDjz+80Brnxmp3OAwDiEWGycl7DA8PMTo6gk9+cHAA/+0baILoPbQ1jyHtLd0Nl/NlVGSNRiYF6ixFkRjkFOfk23NdewHsQhNSOer3MRv6WNYlirpG9bDCqvmB7e9fqCn+fyC/Cdmnd8e46PUIVuKBAI+PW2w2a6zXDaqq/DeweyCI7+GPh7iZ3sIuUiyLJcqyJCtQ1ZXzf+rM6yZtHCvhTJrdz8mXOZqmQb2qSeEG2+1Pgj4rVH9TKLSEIJBQElIrzOPAjU9KCktqsawKpHlKI2JgU/uiVWZwvWc6qnjBbSj2EjM1QqinNBqkdH9ZoCcI7YTi+NUzRTTPTiHD2g2O282zwRkGt75riWERjcvV+AqXo0uXtyC+bBbc7YBJZpHR8C7yBbWWwVK+i1On9F4IB1Skktf4XYWisaKWs5zrMlfPOdc/AVoiIH8MDEeoAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究紹介(林)&quot;
+        title=&quot;研究紹介(林)&quot;
+        src=&quot;/openlab-site/static/f940b4e160691b70b8c9e0a29235060c/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%9E%97%E3%81%95%E3%82%93.png&quot;
+        srcset=&quot;/openlab-site/static/f940b4e160691b70b8c9e0a29235060c/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%9E%97%E3%81%95%E3%82%93.png 158w,
+/openlab-site/static/f940b4e160691b70b8c9e0a29235060c/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%9E%97%E3%81%95%E3%82%93.png 315w,
+/openlab-site/static/f940b4e160691b70b8c9e0a29235060c/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%9E%97%E3%81%95%E3%82%93.png 630w,
+/openlab-site/static/f940b4e160691b70b8c9e0a29235060c/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%9E%97%E3%81%95%E3%82%93.png 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能&lt;/h3&gt;
+&lt;p&gt;学年4年・宮越 七菜&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
+&lt;li&gt;スケーラブルな分散システムは、稼働中に依存関係が自動で時系列変化していくため、システム設計・開発者であっても依存関係を常に把握することは困難である&lt;/li&gt;
+&lt;li&gt;既存のシステム監視ツールでは、把握しきれない依存関係の中から障害要因となり得そうなノードの監視メトリクスを問い合わせる手段がない&lt;/li&gt;
+&lt;li&gt;時系列変化する依存関係を考慮した検索範囲指定ができる監視メトリクスのクエリ機能を実現することで、スケーラブルな分散システムにおける障害発生時の対応を支援する&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;研究タイトル(zuya)&lt;/h3&gt;
-&lt;p&gt;所属コース・学年・名前&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/14ae5fb302b3f2d1661a62819832cd57/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_7.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.68354430379746%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAADdElEQVQ4y22RSU+bVxSG/StYwIINAsSOBYi/gGCF2CeVklZdZNFNpaqquogoGWiAMMQWKcYmGCtg7MTG4AEP2HjAYON5+Dw0zASEKKrUBcPT+30oVK16pKN77znPec85uipzOMlEpII6VGDEGWPUvc3rtTgjjs27u2eHifUMk4EM496EyG0z5pHzEUZdMcb9aaV2UmgYNpKotLEKL45hIPsnD9+YeKS181C9xIPJBR7rHDyeWeH7tRLfOUp8Y4zyaNbP13PrPJhy8tW0iyemsFL7Umi8ie+h0m9VeLkHI5/geeEvfnDn+NEn8XN4jydGL9/qHfwS32X2uIzxMMrsYZaZgzKLJyF0+3mGqjBcgyGhoRGcSh/J80wI/Zq95EX6gqeRXZ6GPzEQO+SntZzwPM/j+6ilGupikbFcmYniLlOlNJNFMYyYbij7hzKMJiqhShdKBBMZNjMForJni+IsEk7lxb105xnB7BQFVyRV3ieQyLORqhJKSUpNJC3eOxnimTwqZ1CsYfPwakrP8NtZ3i5Ymf3o4r0ryNyyB53FgWbejN7qwuoPU61WRHxN8DqGNFoGRtWMag3oPrqxejZQuSMJluMSRneYd6sBNIt2DK4QMzYvw7oFppZW+RBOY43lsUdT5EsSpkBc4X774GbMYOGZRo/atMJqOIHK5gthT1RwihWsmzmmzE7mhbje7ufVzHs0AnSla0pTs3+TbC7PnCPIjNWDftnLuxU/43NLvBbCS+4AKqlSZSdbIJmTvUihUsMbDGO2rbDi9pLKl0jJOcFk8kUuLy/Z3T+gXPsd33oQrz9AbDvB/tEJB4dHqPiPnX7+jMVs5uT4iHAoxLrfx//ZRjCIy+lEkkoYjfOCP1biqpubW25ubri+vlYCkiQxrdXi969jFsIWi0WJX11d/YtbXrYr+Xg8jlqtFp9VvRP80lGGZTs7O8NgMLC1tYXNZhPC/vv87e3tPReLxZRmIbGFzF9cXPwjKIOynZ+fk81msdvtCrS4uEg0GqVWq90z8lmpVEgmk0pDk8mEz+cjnU5zenp6JyivI5s8ekNDA319fXR3d9Pb20t7eztdXV33q8qCHR0d1NXV0dnZSXNzMz09Pcp7cHDwTvALLE9UX19PW1sbLS0tytnY2Eh/f//9qrKg/Ja51tZWmpqaFE4eZHp6mr8BZ9vCNIT7nP0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究紹介(宮越)&quot;
+        title=&quot;研究紹介(宮越)&quot;
+        src=&quot;/openlab-site/static/14ae5fb302b3f2d1661a62819832cd57/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_7.png&quot;
+        srcset=&quot;/openlab-site/static/14ae5fb302b3f2d1661a62819832cd57/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_7.png 158w,
+/openlab-site/static/14ae5fb302b3f2d1661a62819832cd57/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_7.png 315w,
+/openlab-site/static/14ae5fb302b3f2d1661a62819832cd57/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_7.png 630w,
+/openlab-site/static/14ae5fb302b3f2d1661a62819832cd57/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_7.png 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構&lt;/h3&gt;
+&lt;p&gt;学年4年・大野 和也&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
+&lt;li&gt;ロボットのシステム開発にRobot Operating System（ROS）の利用が拡がっている&lt;/li&gt;
+&lt;li&gt;ROSではノードと呼ばれるロボットの機能モジュールを組み合わせることで，ロボット制御システムを構築&lt;/li&gt;
+&lt;li&gt;ROSを用いたシステムでは，各ノードをどのデバイスで実行するかという配置がシステム実行開始時に決定される&lt;/li&gt;
+&lt;li&gt;変化するリソース消費量や環境に応じて，システム実行中のノードの再配置を可能とする機構の実装&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;研究タイトル(kuma)&lt;/h3&gt;
-&lt;p&gt;所属コース・学年・名前&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/b435f78bfce68a3003e1957fc4c31ee3/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_zuya.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 98.73417721518987%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABYlAAAWJQFJUiTwAAADeklEQVQ4y21U227jRgzVZ28/IEBR9CUv3XxC35oGKBokzSIFnDRN0NSxLcsXRVlZliVLsqzb6Gr7lByvvW68AxAjjTjUIXkOFSEE8jxHlmVYr9dkK2xol7ZZg1eaJHAdB2maYTQakb+gbxvsFt/hu7wUXddxcnKCy8tLNKsVgmUCb7GE6y8wm/uYOnP4YQz91cBL+1/MXRc2nYWJQEcdSPOXMZZxCvoLlIT+/vz8jMD3UTUrWLM52u02ut0ehoRmEYaIoggvVoz78QKfhiFaegRvZkHt9WCaE0QxBUyLLcKmaWS6dV2Dn23Xg/5mwvhsyec4yxFGCaI0hyhKNHUFJ8zwqW3g4tHA23SOGfmxcQyF62fbNkJC8n6tqAQJ1U0UlXT2kxy/93zcqC5eJhGMiQ1VVWHPZpiYpoyhaJqGq6sr3N7e7gvLBWfjhmVlA204xmA4wj+9IQbTUJ4XZYWyLI5AKN1uF2dnZzg/P9937n8BixqWTQgsGx7VuSwKQi0QiwrpF2bs/NkUDsCNOQy2pwOlzEFXdJSJHJ2uCtfzJTp+r6oKXy7t7ynvUfGqKULVbI2XTZ1v3T0gy0vkhHhNx0QI7P59CEI5hLv7EKUl5oQkow7zrg2GEt1kMoU5sWBZU8z9EGW9PgLzzYCxqLEk4qaiRELW6Wm4vLoh+qQy0IKJTB3/ZsCtdNYHsDf0vsGKfOtme+Hh8Qnf//Dj19qy7bOkYIdd3lFlF/j9Yk1XVUk6TqhBGaVtomK6bDZHNJMBx+MxTk9PcX19/TWIdICkSCoK0nYEy/Fgk7bfqI6scakcIY7YobBOLy4uwEPifccEqaigThuvOoaaioHWh+8HCIIAKXVb5MURSqUgFDsds9R4SW1Tmk2REYlTPKk6fmn18dvDgKZRjDkhDkjf7HcIQCLkINPpFDGRW6KiNIYDDYbl4FH3cNO1cTfy8OrGJLUSdZlLACs5O7fNZDA8+nhXTBL1mNLlUcUp8pyzHRe//tHCz7c9eEmJm7sntJ7a+LszxPVDB6YTwCQpfiab2I6kE8/MgHbl/v4vfPjwHT5+/IloQmhdH8/tjpxzcRjAjzKoTo7uTGDgCvypxzDcCP1+H/3BCCPdIAUViEnfUVZsechFZrgMfxknCMJIzsGYHJKMtEwzcNNUWDfbPae5WFQNWY28rCUTWJYp6fs/dhrtPkpWO5oAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究紹介(大野)&quot;
+        title=&quot;研究紹介(大野)&quot;
+        src=&quot;/openlab-site/static/b435f78bfce68a3003e1957fc4c31ee3/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_zuya.png&quot;
+        srcset=&quot;/openlab-site/static/b435f78bfce68a3003e1957fc4c31ee3/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_zuya.png 158w,
+/openlab-site/static/b435f78bfce68a3003e1957fc4c31ee3/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_zuya.png 315w,
+/openlab-site/static/b435f78bfce68a3003e1957fc4c31ee3/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_zuya.png 630w,
+/openlab-site/static/b435f78bfce68a3003e1957fc4c31ee3/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_zuya.png 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;VMMによる軽量かつセキュアなアドホッククラウド基盤&lt;/h3&gt;
+&lt;p&gt;学年4年・熊谷 峻&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
+&lt;li&gt;企業や研究機関内の余剰な計算資源を活用したクラウドコンピューティング技術であるアドホッククラウドが注目されている&lt;/li&gt;
+&lt;li&gt;クラウド以外のタスクの増加によってコード実行中にクラウドから離脱したり、コードがPCのOSに影響を及ぼしクラッシュしてしまったりする可能性がある&lt;/li&gt;
+&lt;li&gt;本研究では、ステートレスなクラウド環境を構築し、ハードウェア仮想化技術を用いたセキュアなアドホッククラウド基盤の実現を目指す&lt;/li&gt;
+&lt;li&gt;FaaS型クラウドを構築することでステートレスな環境を実現し、VMM内で処理を行うことで、OSからインスタンスへの影響を防ぎ、マルチOSで実現可能にする&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;研究タイトル(よっしー)&lt;/h3&gt;
-&lt;p&gt;所属コース・学年・名前&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/5540590b19ca8c3c34e1a882b177314b/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_kuma.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 77.21518987341771%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC1ElEQVQ4y22UeXPaSBDF/eWz+xlS+debKjvxVTFrDjt4FwexgNdAsCmy2CEbEEiAOHSg+5eWwIlzTNVIo5nW0+vXr7WDjNevX9HtdollbTo+jhdi2h5L0+GzqjMc6QxUjamxZGWtsdcBkcTe3t6yv7eHH0bEycty2UkOfv/tGfl8LsEmkMMwitOAmM14vD+uk3M/BEWpkMmc4gcR0QaRHdsNWJguK2FkWjaWZbJYLFCHQ2xzxXw2Y2nMsJdLzPmctZwTJRk49O4/ok2MlHX6sYRhgut4EQsrkHQ9giAgDEN8z2fwecRwbDCzY6ZWjG5GmAGsHfcrW9vbpvsImCz6Hx8YDEdYbiygwZY+/Nfr02p3+XS+z93hc+6OX9A9eYE11ZCMsUTvOH4qCMJQNlzXFVYboJUELSwfX0Sa6FP6/4/o1ct8KL9l2KqitevMJzN0Y4VpmhiGkU5d1xmPxxuGPw7bDUXTQDR08N01oZAItkQkQyzR+5FZIk8yE6mSmTJMRJDCiR08VqaVVtFYOagzm6Ul9pmMcR07tZQ2XaQ2sdeuFNFJY39KOWUlAf/U/qVab3D/8MD11RVK8ZJmp0f1+oZ2+z2VWoPLksJdp0Oz9Z5ypcJ8aX4tyKbKW0BLbHCWzZI5y1Gr1cm9eUP29JRqtcpfuRylYpHzi3NeHR5TvLykmM/z5+EBQynmT4DJTHRqNpsUzs6Yi9/KYtq/r96xEk92jo5RG03u+32y8qGRptGv1eicnGALkXiD+AND8V1VWLR3d6lIKqUrhYu3Ja4bDRrSXjVhqch+/fwivVdLJUqFAqqm/zplT9onny9wsLdPS/TJZDJksznRqsXRwQEVRaFcVtj94yU3Nw0KEnskzDWx0C8AN1U2bWl810tTcP0g3RuqYz70HphMjXTP9YIUIOnftIe3YN91yub5W/mful9VVQaDAbPpVNrR255HT/4W8XfvfAElj2GNkO3pkAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究紹介(熊谷)&quot;
+        title=&quot;研究紹介(熊谷)&quot;
+        src=&quot;/openlab-site/static/5540590b19ca8c3c34e1a882b177314b/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_kuma.png&quot;
+        srcset=&quot;/openlab-site/static/5540590b19ca8c3c34e1a882b177314b/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_kuma.png 158w,
+/openlab-site/static/5540590b19ca8c3c34e1a882b177314b/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_kuma.png 315w,
+/openlab-site/static/5540590b19ca8c3c34e1a882b177314b/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_kuma.png 630w,
+/openlab-site/static/5540590b19ca8c3c34e1a882b177314b/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_kuma.png 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;編集履歴にもとづいたイラストデータの透過的圧縮機構の実現&lt;/h3&gt;
+&lt;p&gt;学年4年・吉川 綾乃&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
+&lt;li&gt;ペンタブレット製品等の普及により、コンピュータを使って描くデジタルイラストが一般的になった&lt;/li&gt;
+&lt;li&gt;イラストでは制作過程で別名保存していくことでバックアップを取ることが多いが、そのためローカルストレージが圧迫される&lt;/li&gt;
+&lt;li&gt;ペイントソフトごとに独自のファイル形式があり、汎用的な圧縮方法を一様に適用するだけでは不十分&lt;/li&gt;
+&lt;li&gt;本研究では、メッセージから編集内容を推測し、編集内容に応じた圧縮方法を用いることにより、透過的に圧縮する機構を実現する&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;研究タイトル(タッキー)&lt;/h3&gt;
-&lt;p&gt;所属コース・学年・名前&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/bdf7f539a3b34a37214942acd78efb49/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%82%88%E3%81%A3%E3%81%97%E3%83%BC.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 33.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABYlAAAWJQFJUiTwAAABf0lEQVQoz01SS0/CQBjsr/bg86Bn0RAS48V4wgSDMWpQS6ImkEhE8ICGEi2tLS2WtpS+oM9xtzzCJJvd5Pt2dma+ZQxdh6IMoKoKDEOH4zhIkgQUaZpmu8zzUPpCdnZsG5OJBU3TyB0VlmXBcV0swQRRBF0fwfVcJGlCmieI4zgjWxLy3S7qlXtST+G6DkYjDYPBXISqyLA0FYHxh8geg1EqF/AJWf3hEQLHYR1LwunUxywIFucpwjCEaRhoNN/Rviujd7yF78MNyMUCmG5uE4Hvget08NVqzS3KcrYo1KGKZvONuNBXD1GbH+02aq8NCLUqhMIu+MIehtfnYAxJwK8kEZsR4kV2NCPTNDOFLMsid5QD3+ezGo2DquRIDJSwX2PB57fxk9+BenUGhjaVymUUS5ckXGdlMyAWqdXx2CRqpcXAbPi+P6/PZvjkeuCeKhBPD9A/2Z8rTImq6vMLyje3pNlb2fJIrnSidACS9AtRFDPSJeE6IvJwSBb5HvgHu6EET7irwf4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究紹介(吉川)&quot;
+        title=&quot;研究紹介(吉川)&quot;
+        src=&quot;/openlab-site/static/bdf7f539a3b34a37214942acd78efb49/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%82%88%E3%81%A3%E3%81%97%E3%83%BC.png&quot;
+        srcset=&quot;/openlab-site/static/bdf7f539a3b34a37214942acd78efb49/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%82%88%E3%81%A3%E3%81%97%E3%83%BC.png 158w,
+/openlab-site/static/bdf7f539a3b34a37214942acd78efb49/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%82%88%E3%81%A3%E3%81%97%E3%83%BC.png 315w,
+/openlab-site/static/bdf7f539a3b34a37214942acd78efb49/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%82%88%E3%81%A3%E3%81%97%E3%83%BC.png 630w,
+/openlab-site/static/bdf7f539a3b34a37214942acd78efb49/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%82%88%E3%81%A3%E3%81%97%E3%83%BC.png 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;ロボット制御システムにおけるOSS機能モジュール向けサンドボックスの実現&lt;/h3&gt;
+&lt;p&gt;学年4年・瀧本 恒平&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
+&lt;li&gt;様々な分野においてロボットの活用が拡大しており，ロボットシステムの開発にRobot Operating System(ROS)を用いる機会が増加している&lt;/li&gt;
+&lt;li&gt;ROSでは，ノードと呼ばれる機能モジュールを複数組み合わせることでシステムを構築し，オープンソースソフトウェア(OSS)として公開されているノードを活用することでロボットシステムの開発効率向上を図っている&lt;/li&gt;
+&lt;li&gt;OSSノードのリソース消費量(CPU使用率やメモリ使用量)が多い場合，システム内の他のノードの動作を妨げてしまう可能性がある&lt;/li&gt;
+&lt;li&gt;システム内のノードのリソース消費量の最大消費量に制限を設けるために最適なサンドボックスを実現する&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/689f5ebe514ed4763aa3498227838433/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 25.316455696202528%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAABYlAAAWJQFJUiTwAAABPElEQVQY012QTU/CUBBF/fEmbiSy0JVBkUR+gRh0oWDSqKiogPIhUkuppYpapZS+1/YdH5q48G4mczOZ3HOX3PeIUCr8dwvPafNfn3M4rrt8hr97ksQ/M9VTKYVKU1KVEicJSRyzhBgz7+zgGesMjDXks8H8sYXwTCYvAxzrjrObR9zRPUG3iOwUUJ6BX8+Q2hX8gyJeZZf7egmrd6IfBgOiVpa4uY16yBI0t3gtLPOSX8FpVXnq10BNmYce0+sd7ItNxFsN/26Dr1ENey9Pu5wj/RiTKKkfogjDAMe1OTfKTHQyMezy1WsgwkjjLDA1lsbsDCccndZ4cHwOqwZ994Pbdp+GaSP1gZQLZK0gmFEq7bOayVLaLxNEkkT7kYj+OptpT2rTMk0K+Ty5XI6rywudRxELwWwWkOo+vwFXtmy5yoImUAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究紹介(瀧本)&quot;
+        title=&quot;研究紹介(瀧本)&quot;
+        src=&quot;/openlab-site/static/689f5ebe514ed4763aa3498227838433/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC.png&quot;
+        srcset=&quot;/openlab-site/static/689f5ebe514ed4763aa3498227838433/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC.png 158w,
+/openlab-site/static/689f5ebe514ed4763aa3498227838433/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC.png 315w,
+/openlab-site/static/689f5ebe514ed4763aa3498227838433/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC.png 630w,
+/openlab-site/static/689f5ebe514ed4763aa3498227838433/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC.png 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;div align=&quot;center&quot;&gt;
   &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&amp;amp;usqp=CAU&quot; width=&quot;50&quot;&gt;
   &lt;span style=&quot;font-size: 250%;&quot;&gt;
