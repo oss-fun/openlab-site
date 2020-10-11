@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 10 Oct 2020 09:03:35 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[Zoom スライド資料 当日のタイムスケジュール 現在作成中です． 時間 表部屋 裏部屋 13:00 イベント イベント 14:0…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 11 Oct 2020 12:59:27 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[Zoom スライド資料 当日のタイムスケジュール 現在作成中です． 時間 表部屋 裏部屋 13:00 イベント イベント 14:0…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -379,11 +379,44 @@
   &lt;/span&gt;
   &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&amp;amp;usqp=CAU&quot; width=&quot;50&quot;&gt;
 &lt;/div&gt;
-&lt;h3&gt;研究タイトル(雫石さん)&lt;/h3&gt;
-&lt;p&gt;所属コース・学年・名前&lt;/p&gt;
+&lt;h3&gt;動的解析にもとづくLinux Kernel Tinification手法&lt;/h3&gt;
+&lt;p&gt;修士2年・雫石 卓耶&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;研究内容（背景，課題，提案）&lt;/li&gt;
+&lt;li&gt;スマート家電や自動運転車等のIoTの発展にともない，高機能化した組み込み機器のソフトウェアインフラとしてLinuxが注目されている&lt;/li&gt;
+&lt;li&gt;当初，多機能なPC向けに開発されたLinuxは，組み込み用OSとしてはリソース消費量(メモリ使用量や電力消費量)が多いという課題がある&lt;/li&gt;
+&lt;li&gt;Linuxの余分な機能を排除することでリソース消費量を削減する「Linux Kernel Tinification」のためには，これまで，高度な知識と煩雑な設定が必要とされた&lt;/li&gt;
+&lt;li&gt;アプリケーションが使用しているLinux Kernel機能と，各機能が使用するリソース消費量を動的に解析することで，最適かつ効率なTinificationを実現する&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B(%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93).png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.0506329113924%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAACcUlEQVQ4y3WTy27TQBSG82aAkHgOxIInYA0CsUAgseCyQSypCCAWiJZ7gYSmCiKtmkKSpuTiXOzEdnzPxXZs/5yZ2JZTlJFG8ozP/OfMf77JhVEENn6bDl4MZOxIE3hhyPeSf9kR0V6yHWX+J9+55FDVcLCnGigqOgxvmQbuqSbunw5wsy7wpMnoODP8UDQ0LAfywk1Fc0EsuD8x8eC0j5f9McT5Ij34XTFw56SPa8dtlDUr3f9J8eWJgRKJCtN5eqNcEtCbLVCigK3eCC3KvunKbI9NP7blrB05hcrtOFO0bAe256NHYmxdM23otE5ERwsP+b7Mv3XXQ9ueok2xX0cqPkgyaoa98rBEnn2SFGgUxJoxXS6hui5USjRbBjzIDUKcLxzhYWvI10wsLwzxdjDGK0FEVbfId39V4Wjugs1NYxEEXOxxLMbqZUmZz+x2Eyok6XCU9XCFQ5R6xIZDBy8Uq3gUiy3DaA2Vs97yK0cZgTWmaJ6jyu41+3GlYRrH/s+p8iCK/mMx5fCQfHgzlLEtqSlXDXu2sRL2AK4eNHGl0sTlXyeoW9N1sL/JGvKEzHPiUMp4+lnWcbux4vBAt5NaYPlLXK91caveRYFYlYkCLpiAvTvWsCVIeNoRU1B5Igq+2xzgRk3An7gKJrhNFV4qHuNioYpdSsoG08olHjQJhX16elXiySQEGELhhgYk4wklZx6/Hiqw/dVz5V2W6YpHuokKvZQvBOpHUeXrIG4Y664frsT/UuJ3ooyyqhPMFiqaiWfdIWfzkL65oDCdEagidqgp78UxBzuLUpTppkJeDWZzzp/hefSaPH7e8n0O9z+8wnE9ox/ssAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究紹介(雫石)&quot;
+        title=&quot;研究紹介(雫石)&quot;
+        src=&quot;/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B(%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93).png&quot;
+        srcset=&quot;/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B(%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93).png 158w,
+/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B(%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93).png 315w,
+/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B(%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93).png 630w,
+/openlab-site/static/2979879d120d3f8c956f6470eb1e3a9d/5a190/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B(%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93).png 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h3&gt;研究タイトル(ちくわさん)&lt;/h3&gt;
 &lt;p&gt;所属コース・学年・名前&lt;/p&gt;
 &lt;ul&gt;
