@@ -141,11 +141,16 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
 
-### 研究タイトル(雫石さん)
+### 動的解析にもとづくLinux Kernel Tinification手法
 
-所属コース・学年・名前
+修士2年・雫石 卓耶
 
-- 研究内容（背景，課題，提案）
+- スマート家電や自動運転車等のIoTの発展にともない，高機能化した組み込み機器のソフトウェアインフラとしてLinuxが注目されている
+- 当初，多機能なPC向けに開発されたLinuxは，組み込み用OSとしてはリソース消費量(メモリ使用量や電力消費量)が多いという課題がある
+- Linuxの余分な機能を排除することでリソース消費量を削減する「Linux Kernel Tinification」のためには，これまで，高度な知識と煩雑な設定が必要とされた
+- アプリケーションが使用しているLinux Kernel機能と，各機能が使用するリソース消費量を動的に解析することで，最適かつ効率なTinificationを実現する
+
+![研究紹介(雫石)](/img/研究紹介(雫石さん).png)
 
 ### 研究タイトル(ちくわさん)
 
