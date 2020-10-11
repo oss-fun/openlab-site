@@ -17,6 +17,9 @@ description: OSS研究室についてのHPです
 | 13:00 | イベント | イベント |
 | 14:00 | イベント | イベント |
 
+- [松原克弥研究室の概要](#松原克弥研究室の概要) </br>
+- [研究室の様子](#研究室の様子)
+
 <div align="center">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <span style="font-size: 250%;">
