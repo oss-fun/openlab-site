@@ -26,13 +26,13 @@ description: OSS研究室についてのHPです
 
 ### 目次
 - <a href="#topic1">システムソフトウェア研究室</a>
-- <a href="#研究室の様子">研究室の様子</a>
-- <a href="#研究紹介">研究紹介</a>
+- <a href="#topic2">研究室の様子</a>
+- <a href="#topic3">研究紹介</a>
 
 <div align="center">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <span style="font-size: 250%;">
-    <b id="topic1" name="topic1">システムソフトウェア研究室</b>
+    <b id="topic1">システムソフトウェア研究室</b>
   </span>
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div> </br>
@@ -53,7 +53,7 @@ description: OSS研究室についてのHPです
 
 ### システムソフトウェアがないとどうなるの？  
 
-例えばインターネット．OSがないと**インターネットが使えません！**
+例えばインターネット．OSがないと**ネットワークに接続できません！**
 
 ![system1](/img/system1.png)
 
@@ -82,7 +82,7 @@ IoT（Internet of Things）やビックデータ，クラウドコンピュー�
 
 ![god](/img/god.png)
 
-PCやスマホに眠っている性能を活用する術を身に付けられる！
+PCやスマホの性能を引き出し，新たな機能を創造できる！
 
 ### こんな人にオススメ！
 
@@ -101,7 +101,7 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 <div align="center">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <span style="font-size: 250%;">
-    <b name="研究室の様子">研究室の様子</b>
+    <b id="topic2">研究室の様子</b>
   </span>
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
@@ -148,7 +148,7 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 <div align="center">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <span style="font-size: 250%;">
-    <b name="研究紹介">研究紹介</b>
+    <b id="topic3">研究紹介</b>
   </span>
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
@@ -178,7 +178,7 @@ PCやスマホに眠っている性能を活用する術を身に付けられる
 
 ### 動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究
 
-修士1年・林 友佳
+高度ICT領域・修士1年・林 友佳
 
 - マイクロサービス・アーキテクチャの普及により，大規模で複雑かつ状況に応じた変化が起こるようなシステム(動的適応性を持つ分散システム)が増加している
 - 動的適応性を持つ分散システムは，障害発生時の状態がわかりにくいため，障害発生時の原因追求や対処に時間がかかる

@@ -17,6 +17,8 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          `gatsby-remark-autolink-headers`,
+          // `gatsby-plugin-catch-links`,
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -29,8 +31,6 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
-          `gatsby-remark-autolink-headers`,
-          `gatsby-plugin-catch-links`,
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
