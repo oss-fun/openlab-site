@@ -321,9 +321,9 @@ a:focus {
 
 .mokuji {
   color:black;
-  border: solid 5px black;
-  background-color: #ffffff;
-  padding-right: 30px;
+  border: solid 1px black;
+  background-color: #EFEFEF;
+  padding-left: 30px;
   max-width: 800px;
 }
 

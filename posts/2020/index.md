@@ -1,5 +1,6 @@
 ---
 title: あつまれ 低レイヤの杜
+subTitle: 〜システムソフトウェア研究室〜
 date: '2020-09-28T04:18:02.038Z'
 description: OSS研究室についてのHPです
 ---
@@ -7,13 +8,12 @@ description: OSS研究室についてのHPです
 ![manyTux](/img/manyTux.jpg)
 
 <div class="mokuji">
-  目次 </br>
-  - <a href="#abstract">当日の概要</a> </br>
-  - <a href="#topic1">システムソフトウェア研究室</a> </br>
-  - <a href="#topic2">研究室の様子</a> </br>
-  - <a href="#topic2">研究室の様子</a> </br>
-  - <a href="#topic3">研究紹介</a> </br>
-  - <a href="#topic4">最後に</a> </br>
+  <span style="font-size: 180%;"> 目次 </span> </br> </br>
+  - <a href="#abstract">当日の概要</a> </br> </br>
+  - <a href="#topic1">システムソフトウェア研究室</a> </br> </br>
+  - <a href="#topic2">研究室の様子</a> </br> </br>
+  - <a href="#topic3">研究紹介</a> </br> </br>
+  - <a href="#topic4">最後に</a> </br> </br>
 </div>
 
 </br>
@@ -23,13 +23,15 @@ description: OSS研究室についてのHPです
 </br>
 
 <div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
-  <span style="font-size: 250%;">
-    <b id="abstract">当日の概要</b>
-  </span>
+  <u>
+    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+    <span style="font-size: 250%;">
+      <b id="abstract">オープンラボ出展概要</b>
+    </span>
+  </u>
 </div> </br>
 
-- Zoomはコース共通のブレイクアウトルームで行います．
+- オープンラボ当日は，情シス・ICTコース共通zoomミーティング内のブレイクアウトルームにて，下記の催しを行います
 - 当日のタイムスケジュール
 
 研究紹介，研究室学生が答える質問コーナー，研究室＆研究活動ライブ中継，LT (Lightning Talk)会などを計画中です．
@@ -49,13 +51,15 @@ description: OSS研究室についてのHPです
 </br>
 
 <div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
-  <span style="font-size: 250%;">
-    <b id="topic1">システムソフトウェア研究室</b>
-  </span>
+  <u>
+    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+    <span style="font-size: 250%;">
+      <b id="topic1">システムソフトウェア研究</b>
+    </span>
+  </u>
 </div> </br>
 
-本研究室は，**圧倒的成長**をモットーに，システムソフトウェアを対象に研究を行っています！
+本研究室では，システムソフトウェアの研究をとおして，社会で**飛びぬけて活躍できる**エンジニアスキルを身につけることを目指しています．
 
 ### システムソフトウェアって何？
 
@@ -71,23 +75,23 @@ description: OSS研究室についてのHPです
 
 ### システムソフトウェアがないとどうなるの？  
 
-例えばインターネット．OSがないと**ネットワークに接続できません！**
+例えばインターネット．OSがないと**ネットサーフィンができません**
 
 ![system1](/img/system1.png)
 
-例えばアプリケーション．**LINEやWordなども使えません！**
+例えばアプリケーション．**LINEやWordなども使えません**
 
 ![system2](/img/system2.png)  
 
 ### システムソフトウェアを研究して，良いことあるの？
 
-#### 良いことその１：**ブラックボックスの解明！**
+#### 良いことその１：**ブラックボックスの解明**
 
 ![ブラックボックス](/img/black_box.png)
 
 Windows・Mac・Androidなど，システム内の動作や仕組みを理解できる！
 
-#### 良いことその2：**最新技術研究とのコラボ！**
+#### 良いことその2：**最新技術研究とのコラボ**
 
 <div align="center">
   <img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="250"/>
@@ -96,16 +100,16 @@ Windows・Mac・Androidなど，システム内の動作や仕組みを理解で
 
 IoT（Internet of Things）やビッグデータ，クラウドコンピューティングといった最新技術に触れることができる！
 
-#### 良いことその3：**PCやスマホの眠れる力を呼び覚ます！**
+#### 良いことその3：**PCやスマホの眠れる力を呼び覚ます**
 
 ![god](/img/god.png)
 
 PCやスマホの性能を引き出し，新たな機能を創造できる！
 
-### こんな人にオススメ！
+### こんな人にオススメ
 
-- コンピュータやプログラムが動いている裏側を知りたい！  
-- 低レイヤに関する技術力を高めたい！  
+- コンピュータやプログラムが動いている裏側を知りたい！
+- 低レイヤに関する技術力を高めたい！
 - 松原克弥先生が好き！
 
 #### キーワード
@@ -123,63 +127,12 @@ PCやスマホの性能を引き出し，新たな機能を創造できる！
 </br>
 
 <div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
-  <span style="font-size: 250%;">
-    <b id="topic2">研究室の様子</b>
-  </span>
-</div>
-
-### 設備  
-
-研究室では，学部4年生が利用する表部屋と，院生が利用する裏部屋の2つが提供されています．
-
-<div align="center">
-
-![表部屋](/img/表部屋.JPG) </br>
-![裏部屋](/img/裏部屋.JPG)
-
-</div>
-
-各部屋には，各種メカニカルキーボードやディスプレイなど，様々な研究設備が揃ってます！
-
-<div align="center">
-  <img src="/img/設備1.JPG"> </br>
-  <img src="/img/設備2.png">
-</div> </br>
-
-研究室内のメンバーや，設備に釣られてやってきた他の研究室のメンバーとコミュニケーションを取りながら，楽しく研究できます！
-
-### ゼミ
-
-本研究室では，教員と学生の予定に合わせて進捗報告のゼミ1回，自分が読んだ論文の紹介をするゼミ1回，研究分野の近い者同士でのグループゼミ1回の合計3回を毎週行っています！
-
-### 学会
-
-研究やゼミを通して順調に成果を出すことで，学会やオープンソース系の会議（RubyKaigi，OSC，Open Source Summitなど）に参加して発表を行うことができます！
-
-![学会](/img/学会.jpg)
-
-研究が上手くいけば，海外に行けるかも！？
-
-### イベント
-
-本研究室では，研究以外にもメンバー内での交流を図るために，新歓，BBQ，飲みなどのイベントを開催しています．もちろん，お酒が苦手な人でも気軽に参加できるような雰囲気で楽しんでいます！
-
-![飲み](/img/飲み.jpg)
-
-研究室内外に関わらず，本研究室に興味がある人も参加できるかも...？
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
-<div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
-  <span style="font-size: 250%;">
-    <b id="topic3">研究紹介</b>
-  </span>
+  <u>
+    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+    <span style="font-size: 250%;">
+      <b id="topic3">研究紹介</b>
+    </span>
+  </u>
 </div>
 
 ### 動的解析にもとづくLinux Kernel Tinification手法
@@ -306,10 +259,67 @@ PCやスマホの性能を引き出し，新たな機能を創造できる！
 </br>
 
 <div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
-  <span style="font-size: 250%;">
-    <b id="topic4">おわりに</b>
-  </span>
+  <u>
+    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+    <span style="font-size: 250%;">
+      <b id="topic2">研究室の様子</b>
+    </span>
+  </u>
+</div>
+
+### 設備  
+
+研究室では，学部4年生が利用する表部屋と，院生が利用する裏部屋の2つが提供されています．
+
+<div align="center">
+
+![表部屋](/img/表部屋.JPG) </br>
+![裏部屋](/img/裏部屋.JPG)
+
+</div>
+
+研究室には，高級キーボードや大型ディスプレイ，ドローンやロボットなどのデバイス，PCクラスタやサーバPCなど，こだわりの研究設備が揃っています．
+
+<div align="center">
+  <img src="/img/設備1.JPG"> </br>
+  <img src="/img/設備2.png">
+</div> </br>
+
+研究室内のメンバーだけでなく，楽しい後輩たちや他の研究室のメンバーともコミュニケーションを取りながら，楽しく研究できます！
+
+### ゼミ
+
+本研究室では，教員と学生の予定に合わせて進捗報告のゼミ1回，自分が読んだ論文の紹介をするゼミ1回，研究分野の近い者同士でのグループゼミ1回の合計3回を毎週行っています．
+
+### 学会
+
+研究やゼミを通して順調に成果を出すことで，学会やオープンソース系の会議（RubyKaigi，OSC，Open Source Summitなど）に参加して発表を行うことができます．
+
+![学会](/img/学会.jpg)
+
+研究が上手くいけば，海外に行けるかも！？
+
+### イベント
+
+本研究室では，研究以外にもメンバー内での交流を図るために，新歓，BBQ，飲みなどのイベントを開催しています．もちろん，お酒が苦手な人でも気軽に参加できるような雰囲気で楽しんでいます！
+
+![飲み](/img/飲み.jpg)
+
+研究室内外に関わらず，本研究室に興味がある人も参加できるかも...？
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<div align="left">
+  <u>
+    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+    <span style="font-size: 250%;">
+      <b id="topic4">おわりに</b>
+    </span>
+  </u>
 </div>
 
 <div align="center">
@@ -318,6 +328,7 @@ PCやスマホの性能を引き出し，新たな機能を創造できる！
 
 </div>
 
+![発表](/img/研究発表.jpg) </br>
 ![研究](/img/研究.jpg) </br>
 ![お菓子タワー](/img/お菓子タワー.png) </br>
 ![自作PC](/img/自作PC.JPG) </br>
