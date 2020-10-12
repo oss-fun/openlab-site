@@ -8,11 +8,11 @@ description: OSS研究室についてのHPです
 
 <div class="mokuji">
   <span style="font-size: 180%;"> 目次 </span> </br> </br>
-  - <a href="#abstract">当日の概要</a> </br> </br>
-  - <a href="#topic1">システムソフトウェア研究室</a> </br> </br>
-  - <a href="#topic2">研究室の様子</a> </br> </br>
-  - <a href="#topic3">研究紹介</a> </br> </br>
-  - <a href="#topic4">最後に</a> </br> </br>
+  - <a href="#abstract">オープンラボ出展概要</a> </br> </br>
+  - <a href="#topic1">システムソフトウェア研究</a> </br> </br>
+  - <a href="#topic2">研究紹介</a> </br> </br>
+  - <a href="#topic3">研究活動</a> </br> </br>
+  - <a href="#topic4">おわりに</a> </br> </br>
 </div>
 
 </br>
@@ -22,8 +22,8 @@ description: OSS研究室についてのHPです
 </br>
 
 <div align="left">
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <u>
-    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
     <span style="font-size: 250%;">
       <b id="abstract">オープンラボ出展概要</b>
     </span>
@@ -50,8 +50,8 @@ description: OSS研究室についてのHPです
 </br>
 
 <div align="left">
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <u>
-    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
     <span style="font-size: 250%;">
       <b id="topic1">システムソフトウェア研究</b>
     </span>
@@ -126,10 +126,10 @@ PCやスマホの性能を引き出し，新たな機能を創造できる！
 </br>
 
 <div align="left">
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <u>
-    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
     <span style="font-size: 250%;">
-      <b id="topic3">研究紹介</b>
+      <b id="topic2">研究紹介</b>
     </span>
   </u>
 </div>
@@ -258,10 +258,10 @@ PCやスマホの性能を引き出し，新たな機能を創造できる！
 </br>
 
 <div align="left">
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <u>
-    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
     <span style="font-size: 250%;">
-      <b id="topic2">研究活動</b>
+      <b id="topic3">研究活動</b>
     </span>
   </u>
 </div>
@@ -313,8 +313,8 @@ PCやスマホの性能を引き出し，新たな機能を創造できる！
 </br>
 
 <div align="left">
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <u>
-    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
     <span style="font-size: 250%;">
       <b id="topic4">おわりに</b>
     </span>

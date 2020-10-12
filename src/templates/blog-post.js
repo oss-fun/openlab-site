@@ -22,7 +22,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>
+          <p style="font-size:12px;">
             Created: {post.frontmatter.date}
             <br />
             Last modified: {post.fields.gitAuthorTime}
