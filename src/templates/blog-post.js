@@ -31,7 +31,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             </p>
           </div>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <h4>{post.frontmatter.subTitle}</h4>
+          <h4>〜システムソフトウェア研究室〜</h4>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -83,7 +83,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        subTitle
         date(formatString: "YYYY/MM/DD")
         description
       }
