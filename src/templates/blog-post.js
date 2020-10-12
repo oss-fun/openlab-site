@@ -23,11 +23,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>
-            <span style="font-size: 50%;">
-              Created: {post.frontmatter.date}
-              <br />
-              Last modified: {post.fields.gitAuthorTime}
-            </span>
+            Created: {post.frontmatter.date}
+            <br />
+            Last modified: {post.fields.gitAuthorTime}
           </p>
         </header>
         <section
