@@ -21,7 +21,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         itemType="http://schema.org/Article"
       >
         <header>
-          <p>
+          <p align="right">
             Created: {post.frontmatter.date}
             <br />
             Last modified: {post.fields.gitAuthorTime}
