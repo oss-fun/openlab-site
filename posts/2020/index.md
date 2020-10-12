@@ -32,7 +32,7 @@ description: OSS研究室についてのHPです
 <div align="center">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <span style="font-size: 250%;">
-    <b id="topic1">システムソフトウェア研究室</b>
+    <b id="topic1" name="topic1">システムソフトウェア研究室</b>
   </span>
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div> </br>
