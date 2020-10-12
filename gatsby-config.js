@@ -30,6 +30,7 @@ module.exports = {
             },
           },
           `gatsby-remark-autolink-headers`,
+          `gatsby-plugin-catch-links`,
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
