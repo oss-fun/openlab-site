@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 12 Oct 2020 06:55:04 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[Zoomはコース共通のブレイクアウトルームで行います． 当日のタイムスケジュール 現在作成中です． 時間 表部屋 裏部屋 13:00 イベント イベント 14:0…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 12 Oct 2020 07:08:00 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの森]]></title><description><![CDATA[Zoomはコース共通のブレイクアウトルームで行います． 当日のタイムスケジュール 現在作成中です． 時間 表部屋 裏部屋 13:00 イベント イベント 14:0…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -66,6 +66,7 @@
 &lt;li&gt;&lt;a href=&quot;#topic1&quot;&gt;システムソフトウェア研究室&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#topic2&quot;&gt;研究室の様子&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#topic3&quot;&gt;研究紹介&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#topic4&quot;&gt;最後に&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div align=&quot;center&quot;&gt;
   &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&amp;amp;usqp=CAU&quot; width=&quot;50&quot;&gt;
@@ -266,26 +267,54 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/0d2c5/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg&quot;
+    href=&quot;/openlab-site/static/81d3e93cff3951307927705e777712de/4b190/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAUszIVkQf//EABkQAQEBAAMAAAAAAAAAAAAAAAECAwQQEf/aAAgBAQABBQJ5FLN166AsSZD1/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAARAAIQIiQf/aAAgBAQAGPwLU8l5qg//EABkQAAMBAQEAAAAAAAAAAAAAAAABESExkf/aAAgBAQABPyFYtcSDmJqV6NS30s0ptdHQp//aAAwDAQACAAMAAAAQI8//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCI/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qp//EABkQAQEAAwEAAAAAAAAAAAAAAAERACFBYf/aAAgBAQABPxCO4osQPFyBToKp7OHmPhStcMxZUG7ruTlbzZdYp2rXbn//2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAUszKVEQf//EABkQAQEBAAMAAAAAAAAAAAAAAAIBAwQQEf/aAAgBAQABBQK8hWlr26SVAnI3r//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAEQACECIkH/2gAIAQEABj8C1PJeaoP/xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhMZH/2gAIAQEAAT8hMdsVUZiSrdio32IURTsSpc//2gAMAwEAAgADAAAAEGPv/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Qh//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EKf/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUFhUf/aAAgBAQABPxBZeqLNA/FiETILWe10edR8KVtgAWVBt53EBW+TS8inVbdZ/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;表部屋&quot;
         title=&quot;表部屋&quot;
-        src=&quot;/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/828fb/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg&quot;
-        srcset=&quot;/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/ff44c/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 158w,
-/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/a6688/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 315w,
-/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/828fb/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 630w,
-/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/0ede0/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 945w,
-/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/3ac88/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 1260w,
-/openlab-site/static/d870da3fb8c43de7398412fe0be4c3c2/0d2c5/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 4864w&quot;
+        src=&quot;/openlab-site/static/81d3e93cff3951307927705e777712de/828fb/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg&quot;
+        srcset=&quot;/openlab-site/static/81d3e93cff3951307927705e777712de/ff44c/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 158w,
+/openlab-site/static/81d3e93cff3951307927705e777712de/a6688/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 315w,
+/openlab-site/static/81d3e93cff3951307927705e777712de/828fb/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 630w,
+/openlab-site/static/81d3e93cff3951307927705e777712de/4b190/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/473a9665f6b0b3b5ceaae2f5e5051982/4b190/%E8%A3%8F%E9%83%A8%E5%B1%8B.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABEaIpUEGb/8QAGxAAAgMAAwAAAAAAAAAAAAAAAQIAAxEEExT/2gAIAQEAAQUCJVJ6Rnba0rUPx2GWKNn/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABwQAAEDBQAAAAAAAAAAAAAAAAABESECECJScf/aAAgBAQAGPwJ1GpRjXhlJFv/EABwQAAMAAQUAAAAAAAAAAAAAAAABESExQVFhcf/aAAgBAQABPyFTtF8w7KrPAf2tS5EMWCpI229eT//aAAwDAQACAAMAAAAQcD//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxBb/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAIAQIBAT8QCTf/xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhYTFRQf/aAAgBAQABPxClS1TOxKzl26bEzPyrig/lVnnuy+PaJu6hIUYB7AUr1+HZ/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;裏部屋&quot;
+        title=&quot;裏部屋&quot;
+        src=&quot;/openlab-site/static/473a9665f6b0b3b5ceaae2f5e5051982/828fb/%E8%A3%8F%E9%83%A8%E5%B1%8B.jpg&quot;
+        srcset=&quot;/openlab-site/static/473a9665f6b0b3b5ceaae2f5e5051982/ff44c/%E8%A3%8F%E9%83%A8%E5%B1%8B.jpg 158w,
+/openlab-site/static/473a9665f6b0b3b5ceaae2f5e5051982/a6688/%E8%A3%8F%E9%83%A8%E5%B1%8B.jpg 315w,
+/openlab-site/static/473a9665f6b0b3b5ceaae2f5e5051982/828fb/%E8%A3%8F%E9%83%A8%E5%B1%8B.jpg 630w,
+/openlab-site/static/473a9665f6b0b3b5ceaae2f5e5051982/4b190/%E8%A3%8F%E9%83%A8%E5%B1%8B.jpg 800w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -469,7 +498,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&quot;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%8B%95%E7%9A%84%E9%81%A9%E5%BF%9C%E6%80%A7%E3%82%92%E6%8C%81%E3%81%A4%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%8A%B6%E6%85%8B%E5%8F%AF%E8%A6%96%E5%8C%96%E6%89%8B%E6%B3%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6&quot; aria-label=&quot;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究&lt;/h3&gt;
-&lt;p&gt;高度ICT領域・修士1年・林 友佳&lt;/p&gt;
+&lt;p&gt;修士1年・林 友佳&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;マイクロサービス・アーキテクチャの普及により，大規模で複雑かつ状況に応じた変化が起こるようなシステム(動的適応性を持つ分散システム)が増加している&lt;/li&gt;
 &lt;li&gt;動的適応性を持つ分散システムは，障害発生時の状態がわかりにくいため，障害発生時の原因追求や対処に時間がかかる&lt;/li&gt;
@@ -694,10 +723,14 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&quot;過去の研究・発表実績&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E9%81%8E%E5%8E%BB%E3%81%AE%E7%A0%94%E7%A9%B6%E3%83%BB%E7%99%BA%E8%A1%A8%E5%AE%9F%E7%B8%BE&quot; aria-label=&quot;過去の研究・発表実績 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;過去の研究・発表実績&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://researchmap.jp/ktymtbr/published_papers&quot;&gt;研究・発表実績&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h4 id=&quot;過去の研究・発表実績はこちら&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E9%81%8E%E5%8E%BB%E3%81%AE%E7%A0%94%E7%A9%B6%E3%83%BB%E7%99%BA%E8%A1%A8%E5%AE%9F%E7%B8%BE%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89&quot; aria-label=&quot;過去の研究・発表実績はこちら permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;https://researchmap.jp/ktymtbr/published_papers&quot;&gt;過去の研究・発表実績はこちら&lt;/a&gt;&lt;/h4&gt;
+&lt;div align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&amp;amp;usqp=CAU&quot; width=&quot;50&quot;&gt;
+  &lt;span style=&quot;font-size: 250%;&quot;&gt;
+    &lt;b id=&quot;topic4&quot;&gt;&amp;#x6700;&amp;#x5F8C;&amp;#x306B;&lt;/b&gt;
+  &lt;/span&gt;
+  &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&amp;amp;usqp=CAU&quot; width=&quot;50&quot;&gt;
+&lt;/div&gt;
 &lt;div align=&quot;center&quot;&gt;
 &lt;h2 id=&quot;圧倒的成長！低レイヤの沼が君を待っている！&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%9C%A7%E5%80%92%E7%9A%84%E6%88%90%E9%95%B7%EF%BC%81%E4%BD%8E%E3%83%AC%E3%82%A4%E3%83%A4%E3%81%AE%E6%B2%BC%E3%81%8C%E5%90%9B%E3%82%92%E5%BE%85%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%81&quot; aria-label=&quot;圧倒的成長！低レイヤの沼が君を待っている！ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;圧倒的成長！低レイヤの沼が君を待っている！&lt;/h2&gt;
 &lt;/div&gt;
