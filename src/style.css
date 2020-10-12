@@ -329,6 +329,10 @@ a:focus {
   max-width: 800px;
 }
 
+.modified {
+  font-size: 12px;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
