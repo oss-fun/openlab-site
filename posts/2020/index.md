@@ -28,6 +28,7 @@ description: OSS研究室についてのHPです
 - <a href="#topic1">システムソフトウェア研究室</a>
 - <a href="#topic2">研究室の様子</a>
 - <a href="#topic3">研究紹介</a>
+- <a href="#topic4">最後に</a>
 
 <div align="center">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
@@ -113,6 +114,7 @@ PCやスマホの性能を引き出し，新たな機能を創造できる！
 <div align="center">
 
 ![表部屋](/img/表部屋.JPG)
+![裏部屋](/img/裏部屋.JPG)
 
 </div>
 
@@ -178,7 +180,7 @@ PCやスマホの性能を引き出し，新たな機能を創造できる！
 
 ### 動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究
 
-高度ICT領域・修士1年・林 友佳
+修士1年・林 友佳
 
 - マイクロサービス・アーキテクチャの普及により，大規模で複雑かつ状況に応じた変化が起こるようなシステム(動的適応性を持つ分散システム)が増加している
 - 動的適応性を持つ分散システムは，障害発生時の状態がわかりにくいため，障害発生時の原因追求や対処に時間がかかる
@@ -240,9 +242,15 @@ PCやスマホの性能を引き出し，新たな機能を創造できる！
 
 ![研究紹介(瀧本)](/img/研究紹介_タッキー.png)
 
-### 過去の研究・発表実績
+#### [過去の研究・発表実績はこちら](https://researchmap.jp/ktymtbr/published_papers)
 
-- [研究・発表実績](https://researchmap.jp/ktymtbr/published_papers)
+<div align="center">
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+  <span style="font-size: 250%;">
+    <b id="topic4">最後に</b>
+  </span>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+</div>
 
 <div align="center">
 
