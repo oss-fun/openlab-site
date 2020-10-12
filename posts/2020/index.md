@@ -19,13 +19,14 @@ description: OSS研究室についてのHPです
 </br>
 </br>
 </br>
+</br>
+</br>
 
 <div align="left">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <span style="font-size: 250%;">
     <b id="abstract">当日の概要</b>
   </span>
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div> </br>
 
 - Zoomはコース共通のブレイクアウトルームで行います．
@@ -44,13 +45,14 @@ description: OSS研究室についてのHPです
 </br>
 </br>
 </br>
+</br>
+</br>
 
 <div align="left">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <span style="font-size: 250%;">
     <b id="topic1">システムソフトウェア研究室</b>
   </span>
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div> </br>
 
 本研究室は，**圧倒的成長**をモットーに，システムソフトウェアを対象に研究を行っています！
@@ -117,13 +119,14 @@ PCやスマホの性能を引き出し，新たな機能を創造できる！
 </br>
 </br>
 </br>
+</br>
+</br>
 
 <div align="left">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <span style="font-size: 250%;">
     <b id="topic2">研究室の様子</b>
   </span>
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
 
 ### 設備  
@@ -169,13 +172,14 @@ PCやスマホの性能を引き出し，新たな機能を創造できる！
 </br>
 </br>
 </br>
+</br>
+</br>
 
 <div align="left">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <span style="font-size: 250%;">
     <b id="topic3">研究紹介</b>
   </span>
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
 
 ### 動的解析にもとづくLinux Kernel Tinification手法
@@ -298,13 +302,14 @@ PCやスマホの性能を引き出し，新たな機能を創造できる！
 </br>
 </br>
 </br>
+</br>
+</br>
 
 <div align="left">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
   <span style="font-size: 250%;">
     <b id="topic4">おわりに</b>
   </span>
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
 </div>
 
 <div align="center">
