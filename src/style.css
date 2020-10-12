@@ -306,8 +306,12 @@ a:focus {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }
 
+.blog-post header h4 {
+  font-size: 16px;
+}
+
 .blog-post header p {
-  font-size: 8px;
+  font-size: 12px;
   font-family: var(--font-heading);
 }
 
