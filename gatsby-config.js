@@ -18,7 +18,7 @@ module.exports = {
       options: {
         plugins: [
           `gatsby-remark-autolink-headers`,
-          // `gatsby-plugin-catch-links`,
+          `gatsby-plugin-catch-links`,
           {
             resolve: `gatsby-remark-images`,
             options: {
