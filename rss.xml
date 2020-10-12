@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 12 Oct 2020 11:33:18 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[オープンラボ当日は，情シス・ICTコース共通zoomミーティング内のブレイクアウトルームにて，下記の催しを行います 当日のタイムスケジュール 研究紹介，研究室学生が答える質問コーナー，研究室＆研究活動ライブ中継，LT (Lightning Talk…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 12 Oct 2020 12:06:23 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[オープンラボ当日は，情シス・ICTコース共通zoomミーティング内のブレイクアウトルームにて，下記の催しを行います 当日のタイムスケジュール 研究紹介，研究室学生が答える質問コーナー，研究室＆研究活動ライブ中継，LT (Lightning Talk…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -97,8 +97,8 @@
 &lt;/div&gt; &lt;br&gt;
 &lt;p&gt;本研究室では，システムソフトウェアの研究をとおして，社会で&lt;strong&gt;飛びぬけて活躍できる&lt;/strong&gt;エンジニアスキルを身につけることを目指しています．&lt;/p&gt;
 &lt;h3 id=&quot;システムソフトウェアって何？&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F&quot; aria-label=&quot;システムソフトウェアって何？ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;システムソフトウェアって何？&lt;/h3&gt;
-&lt;p&gt;システムソフトウェアとは，&lt;strong&gt;PCやスマホを支える縁の下の力持ち&lt;/strong&gt;のことです．&lt;br&gt;
-代表的なものとして，OS（オペレーティング・システム）があります．&lt;br&gt;
+&lt;p&gt;システムソフトウェアは，PCやスマホで動く様々なアプリケーションの快適な動作や安心・安全を支える縁の下の力持ち的なソフトウェアです．&lt;br&gt;
+代表的なものとして，OS（オペレーティングシステム）があります．&lt;br&gt;
 （例：Windows・Mac・Android・Linuxなど）&lt;/p&gt;
 &lt;div align=&quot;center&quot;&gt;
 &lt;p&gt;&lt;span
@@ -123,7 +123,7 @@
     &lt;/span&gt;&lt;/p&gt;
  &lt;/div&gt;
 &lt;h3 id=&quot;システムソフトウェアがないとどうなるの？&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%8C%E3%81%AA%E3%81%84%E3%81%A8%E3%81%A9%E3%81%86%E3%81%AA%E3%82%8B%E3%81%AE%EF%BC%9F&quot; aria-label=&quot;システムソフトウェアがないとどうなるの？ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;システムソフトウェアがないとどうなるの？&lt;/h3&gt;
-&lt;p&gt;例えばインターネット．OSがないと&lt;strong&gt;ネットサーフィンができません&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;例えばインターネット… OSがないと，複雑で難解なネットワーク通信を自分で制御しなければならず，ネットサーフィンするのも一苦労です．&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 180px; &quot;
@@ -144,7 +144,7 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;例えばアプリケーション．&lt;strong&gt;LINEやWordなども使えません&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;例えば，アプリケーションを使うとき… WordやExcel，ゲームやWebブラウザを同時に使えなかったり，フリーズしたり快適に動作しなかったりします．さらに，システム攻撃や情報漏えいに対して無防備になります．&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 190px; &quot;
@@ -165,8 +165,8 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;  &lt;/p&gt;
-&lt;h3 id=&quot;システムソフトウェアを研究して，良いことあるの？&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E7%A0%94%E7%A9%B6%E3%81%97%E3%81%A6%EF%BC%8C%E8%89%AF%E3%81%84%E3%81%93%E3%81%A8%E3%81%82%E3%82%8B%E3%81%AE%EF%BC%9F&quot; aria-label=&quot;システムソフトウェアを研究して，良いことあるの？ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;システムソフトウェアを研究して，良いことあるの？&lt;/h3&gt;
-&lt;h4 id=&quot;良いことその１：ブラックボックスの解明&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E8%89%AF%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE%EF%BC%91%EF%BC%9A%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E8%A7%A3%E6%98%8E&quot; aria-label=&quot;良いことその１：ブラックボックスの解明 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;良いことその１：&lt;strong&gt;ブラックボックスの解明&lt;/strong&gt;&lt;/h4&gt;
+&lt;h3 id=&quot;システムソフトウェアを研究して，いいことあるの？&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E7%A0%94%E7%A9%B6%E3%81%97%E3%81%A6%EF%BC%8C%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%82%E3%82%8B%E3%81%AE%EF%BC%9F&quot; aria-label=&quot;システムソフトウェアを研究して，いいことあるの？ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;システムソフトウェアを研究して，いいことあるの？&lt;/h3&gt;
+&lt;h4 id=&quot;いいことその１：ブラックボックスの解明&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE%EF%BC%91%EF%BC%9A%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E8%A7%A3%E6%98%8E&quot; aria-label=&quot;いいことその１：ブラックボックスの解明 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;いいことその１：&lt;strong&gt;ブラックボックスの解明&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -191,14 +191,14 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Windows・Mac・Androidなど，システム内の動作や仕組みを理解できる！&lt;/p&gt;
-&lt;h4 id=&quot;良いことその2：最新技術研究とのコラボ&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E8%89%AF%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE2%EF%BC%9A%E6%9C%80%E6%96%B0%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%81%A8%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C&quot; aria-label=&quot;良いことその2：最新技術研究とのコラボ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;良いことその2：&lt;strong&gt;最新技術研究とのコラボ&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Windows・Mac・Androidなど，システム内の動作や仕組みを理解できるため，ハードウェアのカスタマイズやプログラムエラーの原因究明に役立ちます！&lt;/p&gt;
+&lt;h4 id=&quot;いいことその2：最新技術研究とのコラボ&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE2%EF%BC%9A%E6%9C%80%E6%96%B0%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%81%A8%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C&quot; aria-label=&quot;いいことその2：最新技術研究とのコラボ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;いいことその2：&lt;strong&gt;最新技術研究とのコラボ&lt;/strong&gt;&lt;/h4&gt;
 &lt;div align=&quot;center&quot;&gt;
   &lt;img src=&quot;https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png&quot; height=&quot;250&quot;&gt;
   &lt;img src=&quot;https://illustimage.com/photo/4973.png&quot; height=&quot;180&quot;&gt;
 &lt;/div&gt; &lt;br&gt;
 &lt;p&gt;IoT（Internet of Things）やビッグデータ，クラウドコンピューティングといった最新技術に触れることができる！&lt;/p&gt;
-&lt;h4 id=&quot;良いことその3：pcやスマホの眠れる力を呼び覚ます&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E8%89%AF%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE3%EF%BC%9Apc%E3%82%84%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E7%9C%A0%E3%82%8C%E3%82%8B%E5%8A%9B%E3%82%92%E5%91%BC%E3%81%B3%E8%A6%9A%E3%81%BE%E3%81%99&quot; aria-label=&quot;良いことその3：pcやスマホの眠れる力を呼び覚ます permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;良いことその3：&lt;strong&gt;PCやスマホの眠れる力を呼び覚ます&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;いいことその3：pcやスマホの眠れる力を呼び覚ます&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE3%EF%BC%9Apc%E3%82%84%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E7%9C%A0%E3%82%8C%E3%82%8B%E5%8A%9B%E3%82%92%E5%91%BC%E3%81%B3%E8%A6%9A%E3%81%BE%E3%81%99&quot; aria-label=&quot;いいことその3：pcやスマホの眠れる力を呼び覚ます permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;いいことその3：&lt;strong&gt;PCやスマホの眠れる力を呼び覚ます&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 266px; &quot;
@@ -825,6 +825,50 @@
 /openlab-site/static/7bbff5e57b40a5b8ecb313900347bd38/a6688/game.jpg 315w,
 /openlab-site/static/7bbff5e57b40a5b8ecb313900347bd38/828fb/game.jpg 630w,
 /openlab-site/static/7bbff5e57b40a5b8ecb313900347bd38/4b190/game.jpg 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt; &lt;/br&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 106.32911392405065%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAVABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQDAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAa5M0tbMeVwKRjX/xAAbEAACAgMBAAAAAAAAAAAAAAABAgADBBETEv/aAAgBAQABBQKI1nXUybGVbh4pVwUubZ7FoRqf/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AXT/xAAVEQEBAAAAAAAAAAAAAAAAAAAQAf/aAAgBAgEBPwEh/8QAHRAAAQQCAwAAAAAAAAAAAAAAAQARIVECECIxgf/aAAgBAQAGPwJcjFVqCyGWLuGlAmtAedpqX//EABkQAQEBAQEBAAAAAAAAAAAAAAERADEhQf/aAAgBAQABPyE7noF9UYhwHsemqMfYziFQ6lTnmQGIS7V3iPBPd//aAAwDAQACAAMAAAAQiw88/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQAxESH/2gAIAQMBAT8QzbjPjCL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAATER/9oACAECAQE/ENdjCyP/xAAaEAEBAAMBAQAAAAAAAAAAAAABEQAhMXFR/9oACAEBAAE/ENBNYh6kDgdYxXrhOEFVFI8z38QIk39wRJR7MsQoDvXO+7ceMt0NQseODZsGK6z/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;賞状&quot;
+        title=&quot;賞状&quot;
+        src=&quot;/openlab-site/static/372d9e8f804501ee8b6787f81ebcbb20/828fb/%E8%B3%9E%E7%8A%B6.jpg&quot;
+        srcset=&quot;/openlab-site/static/372d9e8f804501ee8b6787f81ebcbb20/ff44c/%E8%B3%9E%E7%8A%B6.jpg 158w,
+/openlab-site/static/372d9e8f804501ee8b6787f81ebcbb20/a6688/%E8%B3%9E%E7%8A%B6.jpg 315w,
+/openlab-site/static/372d9e8f804501ee8b6787f81ebcbb20/828fb/%E8%B3%9E%E7%8A%B6.jpg 630w,
+/openlab-site/static/372d9e8f804501ee8b6787f81ebcbb20/4b190/%E8%B3%9E%E7%8A%B6.jpg 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt; &lt;/br&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABVNlWiWZUD//EABoQAAIDAQEAAAAAAAAAAAAAAAECAxESEwD/2gAIAQEAAQUCiUaxCAypfPxY8ow9f//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGn/8QAHBAAAQUAAwAAAAAAAAAAAAAAEQABAhAhEiLw/9oACAEBAAY/Au0mrBTwPin4yGr/xAAaEAEAAwEBAQAAAAAAAAAAAAABABEhMUFx/9oACAEBAAE/IecCLTRnYh3BCx7LLx82C5O2VP/aAAwDAQACAAMAAAAQPz//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAEDAQE/EGg5y//EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAIAQIBAT8QgbV0/8QAGxABAAMBAAMAAAAAAAAAAAAAAQARIUExccH/2gAIAQEAAT8QSVj5OxyWloipTKHC1Q5DSii42YQIxYNui9PqoEFraaZ8n//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ビジネスコンテスト&quot;
+        title=&quot;ビジネスコンテスト&quot;
+        src=&quot;/openlab-site/static/497679d37d774a0a22dc2f67034d3aac/828fb/%E3%83%93%E3%82%B8%E3%82%B3%E3%83%B3.jpg&quot;
+        srcset=&quot;/openlab-site/static/497679d37d774a0a22dc2f67034d3aac/ff44c/%E3%83%93%E3%82%B8%E3%82%B3%E3%83%B3.jpg 158w,
+/openlab-site/static/497679d37d774a0a22dc2f67034d3aac/a6688/%E3%83%93%E3%82%B8%E3%82%B3%E3%83%B3.jpg 315w,
+/openlab-site/static/497679d37d774a0a22dc2f67034d3aac/828fb/%E3%83%93%E3%82%B8%E3%82%B3%E3%83%B3.jpg 630w,
+/openlab-site/static/497679d37d774a0a22dc2f67034d3aac/4b190/%E3%83%93%E3%82%B8%E3%82%B3%E3%83%B3.jpg 800w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
