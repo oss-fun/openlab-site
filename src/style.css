@@ -307,7 +307,7 @@ a:focus {
 }
 
 .blog-post header p {
-  font-size: var(--fontSize-2);
+  font-size: 6px;
   font-family: var(--font-heading);
 }
 
@@ -327,10 +327,6 @@ a:focus {
   padding-left: 30px;
   padding-bottom: 20px;
   max-width: 800px;
-}
-
-.modified {
-  font-size: 6px;
 }
 
 /* Media queries */
