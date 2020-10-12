@@ -22,7 +22,11 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>
+            Created: {post.frontmatter.date}
+            <br />
+            Last modified: {post.fields.gitAuthorTime}
+          </p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -74,8 +78,11 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "YYYY/MM/DD")
         description
+      }
+      fields {
+        gitAuthorTime(formatString: "YYYY/MM/DD")
       }
     }
   }
