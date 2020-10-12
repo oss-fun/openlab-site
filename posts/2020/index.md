@@ -6,8 +6,8 @@ description: OSS研究室についてのHPです
 
 ![manyTux](/img/manyTux.jpg)
 
-- [Zoom](https://github.com/oss-fun/openlab-site)
-- [スライド資料](https://github.com/oss-fun/openlab-site)
+- [Zoom](https://www.fun.ac.jp/)
+- [スライド資料](https://www.fun.ac.jp/)
 - 当日のタイムスケジュール
 
 現在作成中です．
