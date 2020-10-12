@@ -319,6 +319,16 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
+.mokuji {
+  color:navy;
+  border: dashed 5px red;
+  background-color: #ccccff;
+  box-shadow: 0 10px 10px rgba(5, 0, 0,0.5);
+  border-radius: 15px;
+  padding-right: 30px;
+  max-width: 500px;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
