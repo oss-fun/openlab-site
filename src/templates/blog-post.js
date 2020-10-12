@@ -21,12 +21,12 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         itemType="http://schema.org/Article"
       >
         <header>
-          <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p style="font-size:12px;">
+          <p>
             Created: {post.frontmatter.date}
             <br />
             Last modified: {post.fields.gitAuthorTime}
           </p>
+          <h1 itemProp="headline">{post.frontmatter.title}</h1>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
