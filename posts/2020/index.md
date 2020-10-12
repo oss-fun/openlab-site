@@ -261,7 +261,7 @@ PCやスマホの性能を引き出し，新たな機能を創造できる！
   <u>
     <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
     <span style="font-size: 250%;">
-      <b id="topic2">研究室の様子</b>
+      <b id="topic2">研究活動</b>
     </span>
   </u>
 </div>
