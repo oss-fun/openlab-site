@@ -37,26 +37,102 @@ description: OSS研究室についてのHPです
 
 [質問はこちらへ](https://app.sli.do/event/j5rx9p9g/live/questions)
 
-| 時間 | 表部屋 | 裏部屋 |
-| :--- | :--- | :--- |
-| 15:30~ | 教員による研究室紹介（松原克弥）<br /> |  |
-| 15:40~ | LT「とにかくカワイイPCとキーボードを作った話」（林）<br /> |   |
-| 15:50~ | LT「」（瀧本）<br /> |   |
-| 16:00~ | 研究室所属の学部生が「みんなの疑問に答えます！」<br /> *Slidoで随時質問受け付けています |  |
-| 16:15~ | LT「デジタルイラスト入門」（吉川）<br /> |   |
-| 16:25~ | LT「ロボットはすぐ炎上する」（大野）<br /> |   |
-| 16:35~ | 教員による研究室紹介（松原克弥） | 学生による研究室紹介（中田，林） |
-| 16:45~ | LT「ゼロから始まる研究生活」（熊谷） | 研究活動ライブ「論文執筆」（中田） |
-| 16:55~ | LT「Neo4jで振り返るよわよわ未来大生の就活」（宮越） ||
-| 17:05~ | 研究室所属の院生が「みんなの疑問に答えます！」<br /> *Slidoで随時質問受け付けています | 研究活動ライブ「コードリーディング」（大野） |
-| 17:20~ | 修士研究紹介「動的解析にもとづくLinux Kernel Tinification手法」（雫石） | LT「コンピュータの中心で愛を叫ぶ」（松原克弥） |
-| 17:25~ | 卒業研究紹介「ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構」（大野） ||
-| 17:30~ | 卒業研究紹介「ロボット制御システムにおけるOSS機能モジュール向けサンドボックスの実現」（瀧本） | LT「OSの下でもRubyを使いたくて 〜 低レイヤーはつらいよ」（中田） |
-| 17:35~ | 卒業研究紹介「編集履歴にもとづいたイラストデータの透過的圧縮機構」（吉川） ||
-| 17:40~ | 修士研究紹介「動的適応性を持つ分散システムを対象としたシステム状態可視化手法」（林） | LT「」（鈴木） |
-| 17:45~ | 卒業研究紹介「スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能」（宮越） ||
-| 17:50~ | 修士研究紹介「コンテナ型クラウドサービス基盤におけるハードウェア仮想化を併用したネットワーク機能の最適化」（中田） | LT「Linuxカーネルビルドでも進捗が見たい！」（雫石） |
-| 17:55~ | 卒業研究紹介「VMMによる軽量かつセキュアなアドホッククラウド基盤」（熊谷） ||
+<table border="1">
+  <thead>
+    <tr>
+      <th align="left">時間</th>
+      <th align="left">表部屋</th>
+      <th align="left">裏部屋</th>
+    </tr>
+  </thead>
+    <tbody>
+      <tr>
+        <td align="left">15:30~</td>
+        <td align="left">教員による研究室紹介（松原克弥）<br></td>
+        <td align="left"></td>
+      </tr>
+      <tr>
+        <td align="left">15:40~</td>
+        <td align="left">LT「とにかくカワイイPCとキーボードを作った話」（林）<br></td>
+        <td align="left"></td>
+      </tr>
+      <tr>
+        <td align="left">15:50~</td>
+        <td align="left">LT「」（瀧本）<br></td>
+        <td align="left"></td>
+      </tr>
+      <tr>
+        <td align="left">16:00~</td>
+        <td align="left">研究室所属の学部生が「みんなの疑問に答えます！」<br> *Slidoで随時質問受け付けています</td>
+        <td align="left"></td>
+      </tr>
+      <tr>
+        <td align="left">16:15~</td>
+        <td align="left">LT「デジタルイラスト入門」（吉川）<br></td>
+        <td align="left"></td>
+      </tr>
+      <tr>
+        <td align="left">16:25~</td>
+        <td align="left">LT「ロボットはすぐ炎上する」（大野）<br></td>
+        <td align="left"></td>
+      </tr>
+      <tr>
+        <td align="left">16:35~</td>
+        <td align="left">教員による研究室紹介（松原克弥）</td>
+        <td align="left">学生による研究室紹介（中田，林）</td>
+      </tr>
+      <tr>
+        <td align="left">16:45~</td>
+        <td align="left">LT「ゼロから始まる研究生活」（熊谷）</td>
+        <td align="left" rowspan="2">研究活動ライブ「論文執筆」（中田）</td>
+      </tr>
+      <tr>
+        <td align="left">16:55~</td>
+        <td align="left">LT「Neo4jで振り返るよわよわ未来大生の就活」（宮越）</td>
+      </tr>
+      <tr>
+        <td align="left">17:05~</td>
+        <td align="left">研究室所属の院生が「みんなの疑問に答えます！」<br> *Slidoで随時質問受け付けています</td>
+        <td align="left">研究活動ライブ「コードリーディング」（大野）</td>
+      </tr>
+      <tr>
+        <td align="left">17:20~</td>
+        <td align="left">修士研究紹介「動的解析にもとづくLinux Kernel Tinification手法」（雫石）</td>
+        <td align="left" rowspan="2">LT「コンピュータの中心で愛を叫ぶ」（松原克弥）</td>
+      </tr>
+      <tr>
+        <td align="left">17:25~</td>
+        <td align="left">卒業研究紹介「ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構」（大野）</td>
+      </tr>
+      <tr>
+        <td align="left">17:30~</td>
+        <td align="left">卒業研究紹介「ロボット制御システムにおけるOSS機能モジュール向けサンドボックスの実現」（瀧本）</td>
+        <td align="left" rowspan="2">LT「OSの下でもRubyを使いたくて 〜 低レイヤーはつらいよ」（中田）</td>
+      </tr>
+      <tr>
+        <td align="left">17:35~</td>
+        <td align="left">卒業研究紹介「編集履歴にもとづいたイラストデータの透過的圧縮機構」（吉川）</td>
+      </tr>
+      <tr>
+        <td align="left">17:40~</td>
+        <td align="left">修士研究紹介「動的適応性を持つ分散システムを対象としたシステム状態可視化手法」（林）</td>
+        <td align="left" rowspan="2">LT「」（鈴木）</td>
+      </tr>
+      <tr>
+        <td align="left">17:45~</td>
+        <td align="left">卒業研究紹介「スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能」（宮越）</td>
+      </tr>
+      <tr>
+        <td align="left">17:50~</td>
+        <td align="left">修士研究紹介「コンテナ型クラウドサービス基盤におけるハードウェア仮想化を併用したネットワーク機能の最適化」（中田）</td>
+        <td align="left" rowspan="2">LT「Linuxカーネルビルドでも進捗が見たい！」（雫石）</td>
+      </tr>
+      <tr>
+        <td align="left">17:55~</td>
+        <td align="left">卒業研究紹介「VMMによる軽量かつセキュアなアドホッククラウド基盤」（熊谷）</td>
+      </tr>
+    </tbody>
+</table>
 
 </br>
 </br>
