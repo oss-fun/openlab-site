@@ -27,7 +27,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             Last modified: {post.fields.gitAuthorTime}
           </p>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <h4>〜 システムソフトウェア（松原克弥）研究室・127室</h4>
+          <h4>〜 システムソフトウェア（松原克弥）研究室 [127室]</h4>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
