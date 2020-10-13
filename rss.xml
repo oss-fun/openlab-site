@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 13 Oct 2020 09:14:31 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[オープンラボ当日は，情シス・ICTコース共通zoomミーティング内のブレイクアウトルームにて，下記の催しを行います 当日のタイムスケジュール 研究紹介，研究室学生が答える質問コーナー，研究室＆研究活動ライブ中継，LT (Lightning Talk…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 13 Oct 2020 09:36:37 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[オープンラボ当日は，情シス・ICTコース共通zoomミーティング内のブレイクアウトルームにて，下記の催しを行います 当日のタイムスケジュール 研究紹介，研究室学生が答える質問コーナー，研究室＆研究活動ライブ中継，LT (Lightning Talk…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -58,17 +58,17 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;15:30~&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;教員による研究室紹介（松原克弥）&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;教員による研究室紹介（松原克弥）&lt;br /&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;15:40~&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;LT「とにかくカワイイPCとキーボードを作った話」（林）&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;LT「とにかくカワイイPCとキーボードを作った話」（林）&lt;br /&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;15:50~&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;LT「」（瀧本）&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;LT「」（瀧本）&lt;br /&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -78,12 +78,12 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;16:15~&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;LT「デジタルイラスト入門」（吉川）&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;LT「デジタルイラスト入門」（吉川）&lt;br /&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;16:25~&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;LT「ロボットはすぐ炎上する」（大野）&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;LT「ロボットはすぐ炎上する」（大野）&lt;br /&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -99,7 +99,7 @@
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;16:55~&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;LT「Neo4jで振り返るよわよわ未来大生の就活」（宮越）&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;^&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;17:05~&lt;/td&gt;
@@ -114,7 +114,7 @@
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;17:25~&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;卒業研究紹介「ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構」（大野）&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;^&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;17:30~&lt;/td&gt;
@@ -124,7 +124,7 @@
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;17:35~&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;卒業研究紹介「編集履歴にもとづいたイラストデータの透過的圧縮機構」（吉川）&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;^&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;17:40~&lt;/td&gt;
@@ -134,7 +134,7 @@
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;17:45~&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;卒業研究紹介「スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能」（宮越）&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;^&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;17:50~&lt;/td&gt;
@@ -144,7 +144,7 @@
 &lt;tr&gt;
 &lt;td align=&quot;left&quot;&gt;17:55~&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;卒業研究紹介「VMMによる軽量かつセキュアなアドホッククラウド基盤」（熊谷）&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;^&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
