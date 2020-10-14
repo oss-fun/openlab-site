@@ -235,6 +235,8 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 
 ### ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構
 
+<img class="icon" alt="大野" title="大野" src="/openlab-site/static/0b6a998d9765157106725f612c27a2ae/e07e9/%E3%81%9A%E3%82%84.jpg" >
+
 <div class="icon">
 
   ![大野](/img/ずや.jpg)
