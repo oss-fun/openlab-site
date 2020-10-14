@@ -23,7 +23,7 @@ description: OSS研究室についてのHPです
 </br>
 
 <div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="40"/>
   <u>
     <span style="font-size: 250%;">
       <b id="abstract">オープンラボ出展概要</b>
@@ -235,7 +235,7 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 
 ### ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構
 
-<div align="left">
+<div align="center">
   <img class="icon" alt="大野" title="大野" src="/openlab-site/static/0b6a998d9765157106725f612c27a2ae/e07e9/%E3%81%9A%E3%82%84.jpg">
   大野 和也（知能システムコース・学部4年）
 </div> <br />
