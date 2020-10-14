@@ -340,6 +340,10 @@ a:focus {
   max-width: 800px;
 }
 
+.icon {
+  margin-left: 0;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
