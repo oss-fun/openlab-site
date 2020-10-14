@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 Oct 2020 06:11:35 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[オープンラボ当日は，情シス・ICTコース共通zoom…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 Oct 2020 06:58:42 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[オープンラボ当日は，情シス・ICTコース共通zoom…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -336,7 +336,29 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;h3 id=&quot;ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A9%9F%E8%83%BD%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%AE%E5%88%86%E6%95%A3%E9%85%8D%E7%BD%AE%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%9C%80%E9%81%A9%E5%8C%96%E6%A9%9F%E6%A7%8B&quot; aria-label=&quot;ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構&lt;/h3&gt;
-&lt;p&gt;大野 和也（知能システムコース・学部4年）&lt;/p&gt;
+&lt;div align=&quot;left&quot;&gt;
+&lt;p&gt;  &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 101.8987341772152%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/9oADAMBAAIQAxAAAAHCX0ZhplZR3OTOIsv/xAAbEAABBQEBAAAAAAAAAAAAAAACAAEDERIQIv/aAAgBAQABBQJgPJjR5Up5d65bqTyrX//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABgRAAMBAQAAAAAAAAAAAAAAAAABERAi/9oACAECAQE/AZCifWf/xAAcEAACAgIDAAAAAAAAAAAAAAABEQAhEDECQVH/2gAIAQEABj8C4loaE2xhkPybszqI3UCx/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFBcfD/2gAIAQEAAT8hBpl2c7MYlR8wQxCvUpR3pZPRS47dtJVohdyx3P/aAAwDAQACAAMAAAAQaPf9/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARECFB/9oACAEDAQE/ECwpm5zH/8QAGREBAQEAAwAAAAAAAAAAAAAAAQAhETFR/9oACAECAQE/EEDLj5M6Z7v/xAAeEAEAAgIDAAMAAAAAAAAAAAABABEhcTFBYYGR4f/aAAgBAQABPxBpC4XlrqLbzKFePIBrONIuzcDtrqcVBYLPQOvyCgHqrTC6gBcrH4qBGgsVhl6hfbP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;大野&quot;
+        title=&quot;大野&quot;
+        src=&quot;/openlab-site/static/0b6a998d9765157106725f612c27a2ae/e07e9/%E3%81%9A%E3%82%84.jpg&quot;
+        srcset=&quot;/openlab-site/static/0b6a998d9765157106725f612c27a2ae/ff44c/%E3%81%9A%E3%82%84.jpg 158w,
+/openlab-site/static/0b6a998d9765157106725f612c27a2ae/e07e9/%E3%81%9A%E3%82%84.jpg 200w&quot;
+        sizes=&quot;(max-width: 200px) 100vw, 200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;
+大野 和也（知能システムコース・学部4年）&lt;/p&gt;
+&lt;/div&gt; &lt;br /&gt;
 &lt;ul&gt;
 &lt;li&gt;ロボットのシステム開発にRobot Operating System（ROS）の利用が拡がっている&lt;/li&gt;
 &lt;li&gt;ROSではノードと呼ばれるロボットの機能モジュールを組み合わせることで，ロボット制御システムを構築&lt;/li&gt;
@@ -432,7 +454,27 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;h3 id=&quot;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%8B%95%E7%9A%84%E9%81%A9%E5%BF%9C%E6%80%A7%E3%82%92%E6%8C%81%E3%81%A4%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%8A%B6%E6%85%8B%E5%8F%AF%E8%A6%96%E5%8C%96%E6%89%8B%E6%B3%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6&quot; aria-label=&quot;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究&lt;/h3&gt;
-&lt;p&gt;林 友佳（高度ICT領域・修士1年）&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABYlAAAWJQFJUiTwAAAE0ElEQVQ4y2WUCVCVVRTHHykiyuJjX0y2xyIhKI9VEhVt1MQspjGVNHQsdBKx3MYly2lMCUfTTM1ywXSaxg0rRM2NWN8TEGRRJCUtxVABEZHt8et8D3FwvDN3zjffvfc3//+55x5VV1cXylDi8+/OTp7W1tJy9RptZRV0llfKrJDvcp7IP2XNIHteOidR1fPRM1rr7tNUVESngBqulFF0+hQnf0oj89ABSs7+wSOBKmuPi4qNe43nezFUvWFPbtbwOC+f5sprpO3YytSYcEI0DgQOtiToVStCvR2JeyOKtO+20lR5leYCnZy5+fy8UWEPsKWmhqbsXBpk48K5M9GoTQh0NifUXW2cITK1Q6wZ5tQfb/UrzHlvCndKSmnOLzAKecFy+4MH1Gf9SXv1X6xI+hAvKxWRGnvCPG0JcBqA1m2QEajMUA9bImTN21rFrLhJNIqARzm5tAmj27Ikt7GwiI6SK5w7dpgA5wFEaWwJ81AzzMWCZQlxRPk6M0Is90C1bmojVDNIxa5NGzAItLGwkC6DAVVbXV23uqpqFs97n0CHPowd6oCvbT+2r02itjCTEDcbgsVut0Ibo/IQiUGSktjRITRUVPIoO4e2+/dRNVddpyknj3uSjxitL9FeVgS7mjMndjSGW3oays8T7T+E4XIxPQqVdChgJadhPk6UXThPS4Ge5qoqVIrdVimBgozfCZON43ytiPBUU3rqEO01BdSXnWPRjMlyEX2J9LYnWPKpACM0dsa0aEVtdvox2opLaJRyU9Xn5mEQyUf37BYVA4n2MGNJ/AQqTh8i75ftdN2+JPCDsjaIIFcLIyjcy44oH0ciJAaL0ovHjtJ+uZQGuXHVQ7khJH8/bknF36EfUUP6svuLBWxMmsnr7hZ8OX8a1JaQsSdV7Noy1N6MQJeBAnRgpCgOlTrVibvW4ss06PSiUK8X4HV+2JyCt00fyaE52xZNY0tyPFoHE5YmvMuD8iyou8LN3HRSl81j1sQIsd0NHBXoyb9iVXkQjVLoqiZ5o4rCr1Ytxd/WhPH+1hxNmEB16lLWfzydnJNHJJd6Ov/WceSb1cSP8ufE3m2sTpyOp4WKRXNn0FFzi7v791O7b68Udn0D1TnZvBnmwxiNJeN8+rMh8W2o0YnVUlpv5MuBApk6lkyLYYyvPcfTdvHBhFBeE+sFmRl0SB3e+Hyt9IDC7peSsnqx2FMRO9yeKUFqAp0s2LQikfYbOQLO5UnpGVGop/Lsz1R+u4b18ZPwU6tIWfmJXNod/ks/wa2NG7oLWwGe+fUwo9xNeSfElmhvG4Y7WeJnZ8HUyYkUnjsP/1yiJPMAb40dybaFs4l2t2Gkmym/HdhNW24+15cv43FZ2bOnJ1Rl7Pz6M2K8TAiXOtNKeWg1Q3EL+IhxsWuJnZJM5Ag/PFwtsbM2w8vemkhnFfs2r6M9T8fDrIvdzUFR2Lt97UxZwwh5vwF2pgT4jCcoIplh4UnYu0zEytQcn8EOBAe4yZ7+xI/1pTrrAp13773QaI2WDc9UKqP4ko7psVNxdInD1Ws23oEJBHh6sWPdYvxcHXE060v8+GCq9VK/La0YnoFearBK7AE/be3geHoOyZ/uJCRyPisXLuf7jatYviCBjCMHuV1T87xT9+74SvwfOnUx3qsOk44AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;林&quot;
+        title=&quot;林&quot;
+        src=&quot;/openlab-site/static/de3a21a9e8953223b3e8205472053dc2/772e8/%E5%8F%8B%E4%BD%B3%E3%81%95%E3%82%93.png&quot;
+        srcset=&quot;/openlab-site/static/de3a21a9e8953223b3e8205472053dc2/c26ae/%E5%8F%8B%E4%BD%B3%E3%81%95%E3%82%93.png 158w,
+/openlab-site/static/de3a21a9e8953223b3e8205472053dc2/772e8/%E5%8F%8B%E4%BD%B3%E3%81%95%E3%82%93.png 200w&quot;
+        sizes=&quot;(max-width: 200px) 100vw, 200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt; &lt;br /&gt;
+林 友佳（高度ICT領域・修士1年）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;マイクロサービス・アーキテクチャの普及により，大規模で複雑かつ状況に応じた変化が起こるようなシステム(動的適応性を持つ分散システム)が増加している&lt;/li&gt;
 &lt;li&gt;動的適応性を持つ分散システムは，障害発生時の状態がわかりにくいため，障害発生時の原因追求や対処に時間がかかる&lt;/li&gt;
@@ -708,8 +750,10 @@
     &lt;/span&gt;
   &lt;/u&gt;
 &lt;/div&gt; &lt;br&gt;
-&lt;h4 id=&quot;メールアドレス：matsufunacjp-br-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%EF%BC%9Amatsufunacjp-br-&quot; aria-label=&quot;メールアドレス：matsufunacjp br  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;メールアドレス：matsu@fun.ac.jp &lt;br /&gt;&lt;/h4&gt;
-&lt;h4 id=&quot;研究室：本部棟-1階-127室&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E7%A0%94%E7%A9%B6%E5%AE%A4%EF%BC%9A%E6%9C%AC%E9%83%A8%E6%A3%9F-1%E9%9A%8E-127%E5%AE%A4&quot; aria-label=&quot;研究室：本部棟 1階 127室 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;研究室：本部棟 1階 127室&lt;/h4&gt;
+&lt;span style=&quot;font-size: 130%;&quot;&gt;
+- メールアドレス：matsu@fun.ac.jp &lt;br /&gt;
+- 研究室：本部棟 1階 127室
+&lt;/span&gt;
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;/br&gt;
@@ -736,18 +780,62 @@
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;発表&quot;
-        title=&quot;発表&quot;
-        src=&quot;/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8.jpg&quot;
-        srcset=&quot;/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/ff44c/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8.jpg 158w,
-/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/a6688/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8.jpg 315w,
-/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8.jpg 630w,
-/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/4b190/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A8.jpg 800w&quot;
+        alt=&quot;発表1&quot;
+        title=&quot;発表1&quot;
+        src=&quot;/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A81.jpg&quot;
+        srcset=&quot;/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/ff44c/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A81.jpg 158w,
+/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/a6688/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A81.jpg 315w,
+/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A81.jpg 630w,
+/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/4b190/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A81.jpg 800w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt; &lt;/br&gt;
+    &lt;/span&gt; &lt;br /&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 76.58227848101265%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAaWVLKJPD//EABkQAQEAAwEAAAAAAAAAAAAAAAECAAMEE//aAAgBAQABBQIMLPUx3Emvphq+uIr/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAADAAMBAAAAAAAAAAAAAAAAAREQEjFx/9oACAEBAAY/AjSP3DbUhyE6f//EABoQAQEAAgMAAAAAAAAAAAAAAAEAIWERMZH/2gAIAQEAAT8htSzvEMSKh03LDknVhF2L/9oADAMBAAIAAwAAABATz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExUbFBYYH/2gAIAQEAAT8QA8SiOBRGVFvcAMzm5QjX1x9mEGRaIFc7jbDg6Oyf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;発表2&quot;
+        title=&quot;発表2&quot;
+        src=&quot;/openlab-site/static/7b9fe9d7bcf093491b3de2d13d65456d/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A82.jpg&quot;
+        srcset=&quot;/openlab-site/static/7b9fe9d7bcf093491b3de2d13d65456d/ff44c/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A82.jpg 158w,
+/openlab-site/static/7b9fe9d7bcf093491b3de2d13d65456d/a6688/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A82.jpg 315w,
+/openlab-site/static/7b9fe9d7bcf093491b3de2d13d65456d/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A82.jpg 630w,
+/openlab-site/static/7b9fe9d7bcf093491b3de2d13d65456d/4b190/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A82.jpg 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt; &lt;br /&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 71.51898734177216%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABo4FhRFGb/8QAGhAAAwADAQAAAAAAAAAAAAAAAAECERITIv/aAAgBAQABBQK6VFbcEnr7E8HQ/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABYRAQEBAAAAAAAAAAAAAAAAAAABEv/aAAgBAgEBPwFqP//EAB0QAAICAQUAAAAAAAAAAAAAAAABAhEQEiExMqH/2gAIAQEABj8C2IaJUxXydvBLH//EABkQAQEBAQEBAAAAAAAAAAAAAAERAFEhMf/aAAgBAQABPyFwxTUoYgOx64bLrqJ8unjv/9oADAMBAAIAAwAAABAgL//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCRp//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxBTIf/EABoQAQADAQEBAAAAAAAAAAAAAAEAESFBMYH/2gAIAQEAAT8QS24U2VEWZInqaQhRgIxesAgocCQCA2ldabv2Ygkhyf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;発表3&quot;
+        title=&quot;発表3&quot;
+        src=&quot;/openlab-site/static/c8c20404f753fe42165ef1f4709fda34/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A83.jpg&quot;
+        srcset=&quot;/openlab-site/static/c8c20404f753fe42165ef1f4709fda34/ff44c/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A83.jpg 158w,
+/openlab-site/static/c8c20404f753fe42165ef1f4709fda34/a6688/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A83.jpg 315w,
+/openlab-site/static/c8c20404f753fe42165ef1f4709fda34/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A83.jpg 630w,
+/openlab-site/static/c8c20404f753fe42165ef1f4709fda34/4b190/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A83.jpg 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -769,29 +857,95 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt; &lt;/br&gt;
+    &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHVyMi8iF//xAAZEAACAwEAAAAAAAAAAAAAAAABAgADEhH/2gAIAQEAAQUC0whsZUFuYW5LCNJW3P/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAIBBAMAAAAAAAAAAAAAAAABEQIhQWExMqH/2gAIAQEABj8Cc32ZdT8MCclO+Wdouf/EABsQAAICAwEAAAAAAAAAAAAAAAERACExQVFh/9oACAEBAAE/IQYCk2AKjMwF6hBLvcLeGkfYYFWnQxw8qsz/2gAMAwEAAgADAAAAEJzP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAEDAQE/EKx//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/EJGv/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFBYXGR/9oACAEBAAE/EDjYhgrg6YrqIBbAwp3rMIQg7Il9oi4U1eaMbbuCOC6D4wR4AWODU//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHVxti8iF//xAAZEAACAwEAAAAAAAAAAAAAAAABAgADEhH/2gAIAQEAAQUC0whsZUFuYW5LCNJW3P/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAIBBAMAAAAAAAAAAAAAAAABEQIhQWExMqH/2gAIAQEABj8Cc32ZdT8MCclO+Wdouf/EABsQAAICAwEAAAAAAAAAAAAAAAERACExQVFh/9oACAEBAAE/IQYCk2AKjMwF6hBLvcLeGkfYaFWnQxw8qsz/2gAMAwEAAgADAAAAEKzP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAEDAQE/EKx//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/EJGv/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFBYXGR/9oACAEBAAE/EDnYhgrg6YrqIBbAwp3rMMQg7Il9oiwU1eaMZ7uCOC6D4wR4AWODU//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;研究&quot;
-        title=&quot;研究&quot;
-        src=&quot;/openlab-site/static/50a5f7a1cc3644240ef7f9d7bd816a7e/828fb/%E7%A0%94%E7%A9%B6.jpg&quot;
-        srcset=&quot;/openlab-site/static/50a5f7a1cc3644240ef7f9d7bd816a7e/ff44c/%E7%A0%94%E7%A9%B6.jpg 158w,
-/openlab-site/static/50a5f7a1cc3644240ef7f9d7bd816a7e/a6688/%E7%A0%94%E7%A9%B6.jpg 315w,
-/openlab-site/static/50a5f7a1cc3644240ef7f9d7bd816a7e/828fb/%E7%A0%94%E7%A9%B6.jpg 630w,
-/openlab-site/static/50a5f7a1cc3644240ef7f9d7bd816a7e/4b190/%E7%A0%94%E7%A9%B6.jpg 800w&quot;
+        alt=&quot;研究1&quot;
+        title=&quot;研究1&quot;
+        src=&quot;/openlab-site/static/641edc964b0b3465651672dfdef1fc01/828fb/%E7%A0%94%E7%A9%B61.jpg&quot;
+        srcset=&quot;/openlab-site/static/641edc964b0b3465651672dfdef1fc01/ff44c/%E7%A0%94%E7%A9%B61.jpg 158w,
+/openlab-site/static/641edc964b0b3465651672dfdef1fc01/a6688/%E7%A0%94%E7%A9%B61.jpg 315w,
+/openlab-site/static/641edc964b0b3465651672dfdef1fc01/828fb/%E7%A0%94%E7%A9%B61.jpg 630w,
+/openlab-site/static/641edc964b0b3465651672dfdef1fc01/4b190/%E7%A0%94%E7%A9%B61.jpg 800w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt; &lt;/br&gt;
+    &lt;/span&gt; &lt;br /&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFKKHxomF//xAAaEAEAAgMBAAAAAAAAAAAAAAACAQMAERIh/9oACAEBAAEFAqSyUVNcLzqdFdZYHK//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAwEBAAAAAAAAAAAAAAABEQAQQSJx/9oACAEBAAY/As8gCZymK5Sn/8QAGxABAAMBAQEBAAAAAAAAAAAAAQARITFBUXH/2gAIAQEAAT8hybq9PJmIOq5CpbBBg/PIJr06MXp/af/aAAwDAQACAAMAAAAQLA//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxBn/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/EMiP/8QAHBABAQACAwEBAAAAAAAAAAAAAREAITFRYcHw/9oACAEBAAE/ELTn4y/C41GvBAHlvGpjpFnealI3d/PcbsRjpejlSyEIEz//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究2&quot;
+        title=&quot;研究2&quot;
+        src=&quot;/openlab-site/static/ec448728bdea02cadc51f379591e9c24/828fb/%E7%A0%94%E7%A9%B62.jpg&quot;
+        srcset=&quot;/openlab-site/static/ec448728bdea02cadc51f379591e9c24/ff44c/%E7%A0%94%E7%A9%B62.jpg 158w,
+/openlab-site/static/ec448728bdea02cadc51f379591e9c24/a6688/%E7%A0%94%E7%A9%B62.jpg 315w,
+/openlab-site/static/ec448728bdea02cadc51f379591e9c24/828fb/%E7%A0%94%E7%A9%B62.jpg 630w,
+/openlab-site/static/ec448728bdea02cadc51f379591e9c24/4b190/%E7%A0%94%E7%A9%B62.jpg 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt; &lt;br /&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAWk67iUvI//EABsQAAICAwEAAAAAAAAAAAAAAAIDAREAEhMi/9oACAEBAAEFAjnZQuOuVykfZDIOz//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/AQn/xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAgEBPwFX/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECERJBECJR/9oACAEBAAY/AnHeiFrqi8mNJZEV7x//xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhMUFR/9oACAEBAAE/IYDL8OURopo6ug2qi629Q1UYz4f/2gAMAwEAAgADAAAAEEM//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAhMf/aAAgBAwEBPxAnrZf/xAAZEQABBQAAAAAAAAAAAAAAAAAAAREhMVH/2gAIAQIBAT8QW4H0f//EABsQAAMBAQEBAQAAAAAAAAAAAAERIQAxUXGB/9oACAEBAAE/EHAAEwAjgIqoSLHA/nuHAyY5MB0B0lEBMrUhLQ4vPxZhBG//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究3&quot;
+        title=&quot;研究3&quot;
+        src=&quot;/openlab-site/static/57e5404392e3ef8f1e36d8f95f83519a/828fb/%E7%A0%94%E7%A9%B63.jpg&quot;
+        srcset=&quot;/openlab-site/static/57e5404392e3ef8f1e36d8f95f83519a/ff44c/%E7%A0%94%E7%A9%B63.jpg 158w,
+/openlab-site/static/57e5404392e3ef8f1e36d8f95f83519a/a6688/%E7%A0%94%E7%A9%B63.jpg 315w,
+/openlab-site/static/57e5404392e3ef8f1e36d8f95f83519a/828fb/%E7%A0%94%E7%A9%B63.jpg 630w,
+/openlab-site/static/57e5404392e3ef8f1e36d8f95f83519a/4b190/%E7%A0%94%E7%A9%B63.jpg 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt; &lt;br /&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABTdIZqjYf/8QAHBAAAwABBQAAAAAAAAAAAAAAAQIDEQAEEhMU/9oACAEBAAEFAtqODtbpn6MagGeLBBR8WP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAIBAAAgAFBQEAAAAAAAAAAAAAAAIBETFBURIhIjKRof/aAAgBAQAGPwJl+4JR5RodfTZ6MKkb5NUrSP/EABsQAQADAQEBAQAAAAAAAAAAAAEAETEhQWGB/9oACAEBAAE/IbIW0pOQFq6mX5ofNQXlYiezpcIul/kIkOeGz//aAAwDAQACAAMAAAAQXD//xAAXEQEAAwAAAAAAAAAAAAAAAAAAASFR/9oACAEDAQE/EJ1b/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQIBAT8QR//EAB4QAQACAgIDAQAAAAAAAAAAAAERMQBRIUFxgaGR/9oACAEBAAE/EJC99GGjaX6xeGQA5XbrFk4/Yo/DBhLS6VM1DiYqjUPA81hmEQYcDv78z//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究4&quot;
+        title=&quot;研究4&quot;
+        src=&quot;/openlab-site/static/9f5142c6cba1379afa3d0ec0c7773fac/828fb/%E7%A0%94%E7%A9%B64.jpg&quot;
+        srcset=&quot;/openlab-site/static/9f5142c6cba1379afa3d0ec0c7773fac/ff44c/%E7%A0%94%E7%A9%B64.jpg 158w,
+/openlab-site/static/9f5142c6cba1379afa3d0ec0c7773fac/a6688/%E7%A0%94%E7%A9%B64.jpg 315w,
+/openlab-site/static/9f5142c6cba1379afa3d0ec0c7773fac/828fb/%E7%A0%94%E7%A9%B64.jpg 630w,
+/openlab-site/static/9f5142c6cba1379afa3d0ec0c7773fac/4b190/%E7%A0%94%E7%A9%B64.jpg 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -813,136 +967,136 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt; &lt;/br&gt;
+    &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAwT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGf0TlHMQ//xAAZEAEBAQEBAQAAAAAAAAAAAAACAQMSEBP/2gAIAQEAAQUCxw7HxMOvMQaMtt8//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAQQDAAAAAAAAAAAAAAAAAQAREiICEIH/2gAIAQEABj8ClLjKxKqmGRA3/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARMRAhUaH/2gAIAQEAAT8hys7rRlY/CQUcV7cSuGgzQV4//9oADAMBAAIAAwAAABBXz//EABURAQEAAAAAAAAAAAAAAAAAABBB/9oACAEDAQE/EIf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEBAQACAwEAAAAAAAAAAAABEQAhcTFBgZH/2gAIAQEAAT8Q4Tz80qH571+aFjI+3U+pFnm7yihsAXKXvHLzv//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAwT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGd0zlHMQ//xAAZEAEBAQEBAQAAAAAAAAAAAAACAQMSEBP/2gAIAQEAAQUCxw7HwMOvMQaMtvn/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAABBAMAAAAAAAAAAAAAAAABABESIgIQgf/aAAgBAQAGPwKUuMrEqqYZEDf/xAAbEAEAAwADAQAAAAAAAAAAAAABABExECFRof/aAAgBAQABPyHKzutGUz8JBRxXtxI4aDEarx//2gAMAwEAAgADAAAAEJff/8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQMBAT8Qh//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExcUFRkf/aAAgBAQABPxDA79aVD55grNC6ajfdzTKRdc3cUwN0AsVvvGLs/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;computer&quot;
         title=&quot;computer&quot;
-        src=&quot;/openlab-site/static/691f14ec7a4e0296921381aabe18f823/828fb/computer.jpg&quot;
-        srcset=&quot;/openlab-site/static/691f14ec7a4e0296921381aabe18f823/ff44c/computer.jpg 158w,
-/openlab-site/static/691f14ec7a4e0296921381aabe18f823/a6688/computer.jpg 315w,
-/openlab-site/static/691f14ec7a4e0296921381aabe18f823/828fb/computer.jpg 630w,
-/openlab-site/static/691f14ec7a4e0296921381aabe18f823/4b190/computer.jpg 800w&quot;
+        src=&quot;/openlab-site/static/72cb4303c611ea54c3a9246eda35b37c/828fb/computer.jpg&quot;
+        srcset=&quot;/openlab-site/static/72cb4303c611ea54c3a9246eda35b37c/ff44c/computer.jpg 158w,
+/openlab-site/static/72cb4303c611ea54c3a9246eda35b37c/a6688/computer.jpg 315w,
+/openlab-site/static/72cb4303c611ea54c3a9246eda35b37c/828fb/computer.jpg 630w,
+/openlab-site/static/72cb4303c611ea54c3a9246eda35b37c/4b190/computer.jpg 800w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt; &lt;/br&gt;
+    &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAGPRlumo6Tf/8QAGxAAAgEFAAAAAAAAAAAAAAAAAREAAgMSMkH/2gAIAQEAAQUCcsoDFHlOqn//xAAXEQADAQAAAAAAAAAAAAAAAAAAARES/9oACAEDAQE/AZTKP//EABURAQEAAAAAAAAAAAAAAAAAABEA/9oACAECAQE/AUm//8QAGxABAAICAwAAAAAAAAAAAAAAAQACEBESISL/2gAIAQEABj8Cnqg7jxoJvpwY/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARUSEx/9oACAEBAAE/IbXsBOm9clR3NYzc6J0IDyjk/9oADAMBAAIAAwAAABBML//EABYRAQEBAAAAAAAAAAAAAAAAAAAhEf/aAAgBAwEBPxCTCP/EABcRAAMBAAAAAAAAAAAAAAAAAAABMWH/2gAIAQIBAT8QVB5P/8QAHRABAQABBAMAAAAAAAAAAAAAAREAITFBYVFxwf/aAAgBAQABPxABq3yit6zZIsDQjbXnvJkGA6n33kkqN84l4oydMuFIIUCbGf/Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAGNSlPGo6Tf/8QAGxAAAgEFAAAAAAAAAAAAAAAAAREAAgMSMkH/2gAIAQEAAQUCcsoDFHlOqE//xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAIAQMBAT8BlZf/xAAVEQEBAAAAAAAAAAAAAAAAAAARAP/aAAgBAgEBPwFJv//EABsQAQACAgMAAAAAAAAAAAAAAAEAAhAREiEi/9oACAEBAAY/Ap6oO48aCb6cGP/EABkQAAMBAQEAAAAAAAAAAAAAAAABEVEhMf/aAAgBAQABPyGroivTevCU7NRmxqp6kLwi4f/aAAwDAQACAAMAAAAQ7O//xAAXEQADAQAAAAAAAAAAAAAAAAAAASER/9oACAEDAQE/EJMwof/EABcRAAMBAAAAAAAAAAAAAAAAAAABMWH/2gAIAQIBAT8QVB5P/8QAHRABAQACAgMBAAAAAAAAAAAAAREAMSFhQVFxwf/aAAgBAQABPxCDVt2it6zWDYHBGufPeTIMB5P37kkqN94jxRk6ZcMIIUCaM//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;自作PC&quot;
         title=&quot;自作PC&quot;
-        src=&quot;/openlab-site/static/c29985ae51078dc1ef41f12ced50870e/828fb/%E8%87%AA%E4%BD%9CPC.jpg&quot;
-        srcset=&quot;/openlab-site/static/c29985ae51078dc1ef41f12ced50870e/ff44c/%E8%87%AA%E4%BD%9CPC.jpg 158w,
-/openlab-site/static/c29985ae51078dc1ef41f12ced50870e/a6688/%E8%87%AA%E4%BD%9CPC.jpg 315w,
-/openlab-site/static/c29985ae51078dc1ef41f12ced50870e/828fb/%E8%87%AA%E4%BD%9CPC.jpg 630w,
-/openlab-site/static/c29985ae51078dc1ef41f12ced50870e/4b190/%E8%87%AA%E4%BD%9CPC.jpg 800w&quot;
+        src=&quot;/openlab-site/static/05d9684409de45c9b5ee58f24c9fdaf2/828fb/%E8%87%AA%E4%BD%9CPC.jpg&quot;
+        srcset=&quot;/openlab-site/static/05d9684409de45c9b5ee58f24c9fdaf2/ff44c/%E8%87%AA%E4%BD%9CPC.jpg 158w,
+/openlab-site/static/05d9684409de45c9b5ee58f24c9fdaf2/a6688/%E8%87%AA%E4%BD%9CPC.jpg 315w,
+/openlab-site/static/05d9684409de45c9b5ee58f24c9fdaf2/828fb/%E8%87%AA%E4%BD%9CPC.jpg 630w,
+/openlab-site/static/05d9684409de45c9b5ee58f24c9fdaf2/4b190/%E8%87%AA%E4%BD%9CPC.jpg 800w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt; &lt;/br&gt;
+    &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAaFNaVoQF//EABoQAAEFAQAAAAAAAAAAAAAAAAEAAgMREhD/2gAIAQEAAQUCEQQxrLU83IBXP//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhESIf/aAAgBAwEBPwGKvplH/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECERL/2gAIAQIBAT8Bk6NM/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECERAhMSL/2gAIAQEABj8CtyejzJs4U+Gsf//EABwQAQACAQUAAAAAAAAAAAAAAAEAETEQIVFxof/aAAgBAQABPyHY8acQL2UUyGNcdIBoVp//2gAMAwEAAgADAAAAEDAv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQBh/9oACAEDAQE/ECBM7//EABYRAQEBAAAAAAAAAAAAAAAAAAABMf/aAAgBAgEBPxDAg//EABwQAQACAgMBAAAAAAAAAAAAAAEAETFBIVFhgf/aAAgBAQABPxA6XbWPL03FZQc7B93Ebc7QlsiK6GYdEKwRW8z/2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgP/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHcWdKsQBf/xAAaEAEAAgMBAAAAAAAAAAAAAAABABICAxAR/9oACAEBAAEFAjUQpeuMzV2B5z//xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIREiH/2gAIAQMBAT8Bir6ZR//EABgRAAIDAAAAAAAAAAAAAAAAAAABAhES/9oACAECAQE/AZOjTP/EABsQAAICAwEAAAAAAAAAAAAAAAABAhEQITEi/9oACAEBAAY/Arcno8ybOFPhrH//xAAcEAEAAgEFAAAAAAAAAAAAAAABABExECFRcaH/2gAIAQEAAT8h2PGnEC9FFMllyukA0KNP/9oADAMBAAIAAwAAABCQL//EABYRAQEBAAAAAAAAAAAAAAAAAAEAYf/aAAgBAwEBPxAgTO//xAAWEQEBAQAAAAAAAAAAAAAAAAAAATH/2gAIAQIBAT8QwIP/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFRYYH/2gAIAQEAAT8QGl21jl6cxcUGdkPvMTtjtCWkIrobh0dGiK3uf//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;自作キーボード&quot;
         title=&quot;自作キーボード&quot;
-        src=&quot;/openlab-site/static/c1858c7fe7d587ae67290e4e6c498588/828fb/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg&quot;
-        srcset=&quot;/openlab-site/static/c1858c7fe7d587ae67290e4e6c498588/ff44c/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg 158w,
-/openlab-site/static/c1858c7fe7d587ae67290e4e6c498588/a6688/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg 315w,
-/openlab-site/static/c1858c7fe7d587ae67290e4e6c498588/828fb/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg 630w,
-/openlab-site/static/c1858c7fe7d587ae67290e4e6c498588/4b190/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg 800w&quot;
+        src=&quot;/openlab-site/static/eb2693a98b68ce2883a34d5168628bfb/828fb/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg&quot;
+        srcset=&quot;/openlab-site/static/eb2693a98b68ce2883a34d5168628bfb/ff44c/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg 158w,
+/openlab-site/static/eb2693a98b68ce2883a34d5168628bfb/a6688/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg 315w,
+/openlab-site/static/eb2693a98b68ce2883a34d5168628bfb/828fb/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg 630w,
+/openlab-site/static/eb2693a98b68ce2883a34d5168628bfb/4b190/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg 800w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt; &lt;/br&gt;
+    &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAgX/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAFOLSHQIgv/xAAaEAACAgMAAAAAAAAAAAAAAAABAgADEzJB/9oACAEBAAEFAlvZVzGIKysr27//xAAWEQEBAQAAAAAAAAAAAAAAAAABEFH/2gAIAQMBAT8BTJ//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGn/8QAGxAAAQQDAAAAAAAAAAAAAAAAAQACEBESIXH/2gAIAQEABj8CorZKGTbPYqP/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMUFRYf/aAAgBAQABPyHMDXGX2aBJ9KJVPE3Zz1FRA1s//9oADAMBAAIAAwAAABDn7//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QR6yG/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAgEBPxAB0sv/xAAaEAEAAwEBAQAAAAAAAAAAAAABACExEWFR/9oACAEBAAE/EOyRpg89mIBGBeNfI8Bx1S+zbSzY0tkdwBUT/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAgX/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAFOLSHQIgv/xAAbEAACAgMBAAAAAAAAAAAAAAABAgADERMhMv/aAAgBAQABBQJb2VdxiCsrK/We/wD/xAAWEQEBAQAAAAAAAAAAAAAAAAABEFH/2gAIAQMBAT8BTJ//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGn/8QAGxAAAQQDAAAAAAAAAAAAAAAAAQACEBESIXH/2gAIAQEABj8CorZKGTbPYqP/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMUFRYf/aAAgBAQABPyHMDXGX2aBJ9KJVPE3Zz1FCBrZ//9oADAMBAAIAAwAAABBjL//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QR6yG/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAgEBPxAB0sv/xAAbEAEAAwEBAQEAAAAAAAAAAAABACExEWFBUf/aAAgBAQABPxDskafTnszAIwLxr8jwHHVL7NizY3WRtAFRP//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;オープンキャンパス&quot;
         title=&quot;オープンキャンパス&quot;
-        src=&quot;/openlab-site/static/0af2a6fecd1bc371b2459ec664bec520/828fb/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg&quot;
-        srcset=&quot;/openlab-site/static/0af2a6fecd1bc371b2459ec664bec520/ff44c/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg 158w,
-/openlab-site/static/0af2a6fecd1bc371b2459ec664bec520/a6688/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg 315w,
-/openlab-site/static/0af2a6fecd1bc371b2459ec664bec520/828fb/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg 630w,
-/openlab-site/static/0af2a6fecd1bc371b2459ec664bec520/4b190/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg 800w&quot;
+        src=&quot;/openlab-site/static/1f2246df6d1e261b316d2d05dc4ac3c6/828fb/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg&quot;
+        srcset=&quot;/openlab-site/static/1f2246df6d1e261b316d2d05dc4ac3c6/ff44c/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg 158w,
+/openlab-site/static/1f2246df6d1e261b316d2d05dc4ac3c6/a6688/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg 315w,
+/openlab-site/static/1f2246df6d1e261b316d2d05dc4ac3c6/828fb/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg 630w,
+/openlab-site/static/1f2246df6d1e261b316d2d05dc4ac3c6/4b190/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg 800w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt; &lt;/br&gt;
+    &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAHlW5HGkClP/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAyExMv/aAAgBAQABBQLoVFjgBjkr1rPf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAwEBPwG0en//xAAWEQEBAQAAAAAAAAAAAAAAAAAAMQH/2gAIAQIBAT8BjI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARAREiEx/9oACAEBAAY/AhZurOxsZ//EABsQAQEAAgMBAAAAAAAAAAAAAAEAITERUWGh/9oACAEBAAE/IQce7Kdc7lQcpIxe9fRf/9oADAMBAAIAAwAAABCg7//EABcRAQEBAQAAAAAAAAAAAAAAAAEAIRH/2gAIAQMBAT8Q2CXFl//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8QkNmkP//EABsQAQEAAwADAAAAAAAAAAAAAAERACExQWFx/9oACAEBAAE/ECNQFtmJUSKpE9zdcC+B7O4JuXvnCEat9+OCGcMf/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAHlWZXGkClP/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAyExMv/aAAgBAQABBQLqqixwAxyV61nv/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAwEBPwG0en//xAAWEQEBAQAAAAAAAAAAAAAAAAAAMQH/2gAIAQIBAT8BjI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARAREiEx/9oACAEBAAY/AhZurOxsZ//EABoQAAIDAQEAAAAAAAAAAAAAAAABESExUaH/2gAIAQEAAT8hSdGlpzno1JSGhQsej0H/2gAMAwEAAgADAAAAEGDv/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAhEf/aAAgBAwEBPxDYJcWX/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxAMLdC//8QAGxABAQADAAMAAAAAAAAAAAAAAREAITFBYXH/2gAIAQEAAT8QJVAW2YlRIqkJ7m65C6Hs7iDUvfOETVvvzBDOGP/Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;game&quot;
         title=&quot;game&quot;
-        src=&quot;/openlab-site/static/7bbff5e57b40a5b8ecb313900347bd38/828fb/game.jpg&quot;
-        srcset=&quot;/openlab-site/static/7bbff5e57b40a5b8ecb313900347bd38/ff44c/game.jpg 158w,
-/openlab-site/static/7bbff5e57b40a5b8ecb313900347bd38/a6688/game.jpg 315w,
-/openlab-site/static/7bbff5e57b40a5b8ecb313900347bd38/828fb/game.jpg 630w,
-/openlab-site/static/7bbff5e57b40a5b8ecb313900347bd38/4b190/game.jpg 800w&quot;
+        src=&quot;/openlab-site/static/9e6f3fba0b85ff061b8ed29d60dddfda/828fb/game.jpg&quot;
+        srcset=&quot;/openlab-site/static/9e6f3fba0b85ff061b8ed29d60dddfda/ff44c/game.jpg 158w,
+/openlab-site/static/9e6f3fba0b85ff061b8ed29d60dddfda/a6688/game.jpg 315w,
+/openlab-site/static/9e6f3fba0b85ff061b8ed29d60dddfda/828fb/game.jpg 630w,
+/openlab-site/static/9e6f3fba0b85ff061b8ed29d60dddfda/4b190/game.jpg 800w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt; &lt;/br&gt;
+    &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAADGklEQVQozx2Ta08bdBSHm2giAcolYzqgZSQKDlfKretqoZUNNQWhXNaW0lZw5dLZUmgLtNCOlXZIgV4Mch+XZHPOjcEMBhIz9kKNCYlGY6LxE/g9Hv/xxUnOyS95zjm/nCMJul3Egn7CE2P4A+NEwkGm/F6q3lOQlVNAKh7lxxcPOTna5SC1iFpZi06vJ7kwx+z0BA5bL3dc/ej172PutSCZuNWNd2SQqBDj0RncrkHuRYI0NKiQ5hagbWxEo9NzU6cj9qGKfGkhll4z8dlpvO4ROjvbMZl7GPjMwZfpeSRL+iZM3V0sxyKcnT4jlUyQWE6gFZD8wiLyCi/yWpaUOmU1nhY1ao0Gl2h6R4TNZqHD2I7Z0oPdYWV4eEAAa2to1TUxfy/ED6dH/P7rOSurK4xPBPikq4eq6jpKL79DjaqOCmUFxu5OPu23Y7Nbab7xAQ3q65gsJhz9NpxDAhi+8i7NlZVkkveZjkzh7DPzYHcbfzDImM9DaMZHLBbG0NaGRky3sbrGw/1djr8/JplJ83ZFJWqtFqewzWrvRdJXXk5LWRlLy/ME/B4MLc08PXzGwmKc9EKEg2/22FnPYBJeB8RaP22kefFVisePn/DzL+eYrH2Ul8m4dl2NsacLSa1cjlomo7FRy+S4B59vnCdPv2Zze53QZIiIiMzdKVK2ViK3LaQHnfy2HGJ54T6bW1uE49PcMH1Evape2KNAIhMweZmc6qtVxOeinIhJz2bHWBXn8+juJDOmj1ka6OBl0IXXP87nW2ucZ2b461GG05PnHD3fZ2MnSSjkJTsnF4lcLqNUVvo/MJmY59UXM/ydDHAYGGb/tp0zkR/PevkuOknA52Z0a4XDvVX+3ZzjYG2RUY+T0REH11Q1ZOdKkbxVfInc/Hx0TVr297b5YyfFn5kJXkZ97Pb3sTHkIGHqJmY1My3qQZOR/h4jjvY23ENOLOJkDIabFL1ZhFRwJMUlJSIpQKFUsrG5zj8HD3g1O8q3riECZgsahVJYcpkcaR6vZ2XzRk4WeRcKuSI+ptXQgULo9fXVXLhYRHHJJf4DVjPTfJgfKgYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAADGklEQVQozw3T60/bVRzH8SaaiINyydiErSULZoxLS7mVrbXrQHRCGEJLb2u5jLJR1lLajpa24CjXde2v01XoxqjKYrYJDKJOjNM90Bivifpg8T/wD3l7HnwfnCevzzmffI8s6vWwFA0xNxMgFJpmfm6WSMhPXZ2KgsJSpMWb/LS/zTf7eXZSt2htaMRgNCKtLXIzPoPLaWfSM4LRqMNisyKbGTThnxgnEZthORHD6xlnQaAtLW3Ii0rR6d/irOE8nQYDia42iuVl2OxWlhfiTHkn6O+/hMVqZvTKEB9lVpCljAYspgHSS/O8ONxFkpIkxU30AikuKxdzjFcK5DSpVUx2tqE9dw6PCJ0U43Ta6Hv/ElabGdeQg2vXRgXYpKHnvIHVhSjfHe7z1x+/kl3PMhUK0tM3QE2DhkplNepmDdX1b9IrANfwZRwCu9B5gdb2s+KpFoZGnLivCnCu9gwdNTV8mFklGg8zKtK28g8IRiL4/JNEZqdJiCouvtdNm1bL+t0s25/m+erZ16QyGapPn0ar1+MWtTlcdmSXT52iq6qKVGqVYOA673YY+eLpLmvJJaTVODuP8mxt3MFs6ifktPLjusTBXYnHj57w8y+/M2h3oDhRSasI6zcPIGtSKmlXKNDrdYQDXgLTAR7vfM69zQ0iN2aJhcJIsRBp+0XiIxbSV8b4MxkmtbbM/c1N4ksxOga7aG5toU7VgEwhMGWVElV9LcuLCZ7dXuH7uI+Po2EeCihmfofkcC/Pb7jxTvmYyGX5LRPl5bbEt4dPOdj7jHt5iWjUz+uFRciUSgUnFSeprztD+tYKL1ZivEwG2fO7+WTYwQ+3g3w55+VgPkTQ7+F67g57+Sz/bSywu57E53MzNTGEtk3DkSI5sjcqK5CXiH3TtZPP3+efBxJ/p4M8/8DPlig553ayZuojIXYtKgLGzL0Mi7OrtwfvuBub1UR399uUHy8XTgmy4xUCLC2lQa0ml9vg3yc5DsNXeTg2yrR5EJ1ag0JZRaG8hFcLjvBaYQHFR8uobWymp7sPlapRfAI1R4+VU3migv8BYtLQsYUNIVMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;お菓子タワー&quot;
         title=&quot;お菓子タワー&quot;
-        src=&quot;/openlab-site/static/b81923de9c0439d5808d45202247a891/f058b/%E3%81%8A%E8%8F%93%E5%AD%90%E3%82%BF%E3%83%AF%E3%83%BC.png&quot;
-        srcset=&quot;/openlab-site/static/b81923de9c0439d5808d45202247a891/c26ae/%E3%81%8A%E8%8F%93%E5%AD%90%E3%82%BF%E3%83%AF%E3%83%BC.png 158w,
-/openlab-site/static/b81923de9c0439d5808d45202247a891/6bdcf/%E3%81%8A%E8%8F%93%E5%AD%90%E3%82%BF%E3%83%AF%E3%83%BC.png 315w,
-/openlab-site/static/b81923de9c0439d5808d45202247a891/f058b/%E3%81%8A%E8%8F%93%E5%AD%90%E3%82%BF%E3%83%AF%E3%83%BC.png 630w,
-/openlab-site/static/b81923de9c0439d5808d45202247a891/5a190/%E3%81%8A%E8%8F%93%E5%AD%90%E3%82%BF%E3%83%AF%E3%83%BC.png 800w&quot;
+        src=&quot;/openlab-site/static/383ebcf1d62e69e1c9e1e66fca013d6c/f058b/%E3%81%8A%E8%8F%93%E5%AD%90%E3%82%BF%E3%83%AF%E3%83%BC.png&quot;
+        srcset=&quot;/openlab-site/static/383ebcf1d62e69e1c9e1e66fca013d6c/c26ae/%E3%81%8A%E8%8F%93%E5%AD%90%E3%82%BF%E3%83%AF%E3%83%BC.png 158w,
+/openlab-site/static/383ebcf1d62e69e1c9e1e66fca013d6c/6bdcf/%E3%81%8A%E8%8F%93%E5%AD%90%E3%82%BF%E3%83%AF%E3%83%BC.png 315w,
+/openlab-site/static/383ebcf1d62e69e1c9e1e66fca013d6c/f058b/%E3%81%8A%E8%8F%93%E5%AD%90%E3%82%BF%E3%83%AF%E3%83%BC.png 630w,
+/openlab-site/static/383ebcf1d62e69e1c9e1e66fca013d6c/5a190/%E3%81%8A%E8%8F%93%E5%AD%90%E3%82%BF%E3%83%AF%E3%83%BC.png 800w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt; &lt;/br&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+    &lt;/span&gt; &lt;br /&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
