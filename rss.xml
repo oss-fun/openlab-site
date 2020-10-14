@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 Oct 2020 08:14:10 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[オープンラボ当日は，情シス・ICTコース共通zoom…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 Oct 2020 08:29:09 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[オープンラボ当日は，情シス・ICTコース共通zoom…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -160,7 +160,7 @@
 &lt;div align=&quot;center&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 257px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 257px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -183,7 +183,7 @@
 &lt;p&gt;例えばインターネット… OSがないと，複雑で難解なネットワーク通信を自分で制御しなければならず，ネットサーフィンするのも一苦労です．&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 180px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 180px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -204,7 +204,7 @@
 &lt;p&gt;例えば，アプリケーションを使うとき… WordやExcel，ゲームやWebブラウザを同時に使えなかったり，フリーズしたり快適に動作しなかったりします．さらに，システム攻撃や情報漏えいに対して無防備になります．&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 190px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 190px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -226,7 +226,7 @@
 &lt;h4 id=&quot;いいことその１：ブラックボックスの解明&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE%EF%BC%91%EF%BC%9A%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E8%A7%A3%E6%98%8E&quot; aria-label=&quot;いいことその１：ブラックボックスの解明 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;いいことその１：&lt;strong&gt;ブラックボックスの解明&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -258,7 +258,7 @@
 &lt;h4 id=&quot;いいことその3：pcやスマホの眠れる力を呼び覚ます&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE3%EF%BC%9Apc%E3%82%84%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E7%9C%A0%E3%82%8C%E3%82%8B%E5%8A%9B%E3%82%92%E5%91%BC%E3%81%B3%E8%A6%9A%E3%81%BE%E3%81%99&quot; aria-label=&quot;いいことその3：pcやスマホの眠れる力を呼び覚ます permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;いいことその3：&lt;strong&gt;PCやスマホの眠れる力を呼び覚ます&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 266px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 266px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -313,7 +313,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -337,8 +337,27 @@
 &lt;/br&gt;
 &lt;h3 id=&quot;ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A9%9F%E8%83%BD%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%AE%E5%88%86%E6%95%A3%E9%85%8D%E7%BD%AE%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%9C%80%E9%81%A9%E5%8C%96%E6%A9%9F%E6%A7%8B&quot; aria-label=&quot;ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構&lt;/h3&gt;
 &lt;div align=&quot;left&quot;&gt;
-  &lt;img class=&quot;icon&quot; alt=&quot;大野&quot; title=&quot;大野&quot; src=&quot;/openlab-site/static/0b6a998d9765157106725f612c27a2ae/e07e9/%E3%81%9A%E3%82%84.jpg&quot;&gt;
-  大野 和也（知能システムコース・学部4年）
+&lt;p&gt;  &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 200px; margin-left: 0&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 101.8987341772152%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/9oADAMBAAIQAxAAAAHCX0ZhplZR3OTOIsv/xAAbEAABBQEBAAAAAAAAAAAAAAACAAEDERIQIv/aAAgBAQABBQJgPJjR5Up5d65bqTyrX//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABgRAAMBAQAAAAAAAAAAAAAAAAABERAi/9oACAECAQE/AZCifWf/xAAcEAACAgIDAAAAAAAAAAAAAAABEQAhEDECQVH/2gAIAQEABj8C4loaE2xhkPybszqI3UCx/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFBcfD/2gAIAQEAAT8hBpl2c7MYlR8wQxCvUpR3pZPRS47dtJVohdyx3P/aAAwDAQACAAMAAAAQaPf9/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARECFB/9oACAEDAQE/ECwpm5zH/8QAGREBAQEAAwAAAAAAAAAAAAAAAQAhETFR/9oACAECAQE/EEDLj5M6Z7v/xAAeEAEAAgIDAAMAAAAAAAAAAAABABEhcTFBYYGR4f/aAAgBAQABPxBpC4XlrqLbzKFePIBrONIuzcDtrqcVBYLPQOvyCgHqrTC6gBcrH4qBGgsVhl6hfbP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;大野&quot;
+        title=&quot;大野&quot;
+        src=&quot;/openlab-site/static/0b6a998d9765157106725f612c27a2ae/e07e9/%E3%81%9A%E3%82%84.jpg&quot;
+        srcset=&quot;/openlab-site/static/0b6a998d9765157106725f612c27a2ae/ff44c/%E3%81%9A%E3%82%84.jpg 158w,
+/openlab-site/static/0b6a998d9765157106725f612c27a2ae/e07e9/%E3%81%9A%E3%82%84.jpg 200w&quot;
+        sizes=&quot;(max-width: 200px) 100vw, 200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;
+大野 和也（知能システムコース・学部4年）&lt;/p&gt;
 &lt;/div&gt; &lt;br /&gt;
 &lt;ul&gt;
 &lt;li&gt;ロボットのシステム開発にRobot Operating System（ROS）の利用が拡がっている&lt;/li&gt;
@@ -348,7 +367,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -380,7 +399,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -412,7 +431,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -436,9 +455,27 @@
 &lt;/br&gt;
 &lt;h3 id=&quot;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%8B%95%E7%9A%84%E9%81%A9%E5%BF%9C%E6%80%A7%E3%82%92%E6%8C%81%E3%81%A4%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%8A%B6%E6%85%8B%E5%8F%AF%E8%A6%96%E5%8C%96%E6%89%8B%E6%B3%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6&quot; aria-label=&quot;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究&lt;/h3&gt;
 &lt;div align=&quot;left&quot;&gt;
-  &lt;img class=&quot;icon&quot; alt=&quot;林&quot; title=&quot;林&quot; src=&quot;/openlab-site/static/de3a21a9e8953223b3e8205472053dc2/772e8/%E5%8F%8B%E4%BD%B3%E3%81%95%E3%82%93.png&quot;&gt;
-  林 友佳（高度ICT領域・修士1年）
-  
+&lt;p&gt;  &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 200px; margin-left: 0&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABYlAAAWJQFJUiTwAAAE0ElEQVQ4y2WUCVCVVRTHHykiyuJjX0y2xyIhKI9VEhVt1MQspjGVNHQsdBKx3MYly2lMCUfTTM1ywXSaxg0rRM2NWN8TEGRRJCUtxVABEZHt8et8D3FwvDN3zjffvfc3//+55x5VV1cXylDi8+/OTp7W1tJy9RptZRV0llfKrJDvcp7IP2XNIHteOidR1fPRM1rr7tNUVESngBqulFF0+hQnf0oj89ABSs7+wSOBKmuPi4qNe43nezFUvWFPbtbwOC+f5sprpO3YytSYcEI0DgQOtiToVStCvR2JeyOKtO+20lR5leYCnZy5+fy8UWEPsKWmhqbsXBpk48K5M9GoTQh0NifUXW2cITK1Q6wZ5tQfb/UrzHlvCndKSmnOLzAKecFy+4MH1Gf9SXv1X6xI+hAvKxWRGnvCPG0JcBqA1m2QEajMUA9bImTN21rFrLhJNIqARzm5tAmj27Ikt7GwiI6SK5w7dpgA5wFEaWwJ81AzzMWCZQlxRPk6M0Is90C1bmojVDNIxa5NGzAItLGwkC6DAVVbXV23uqpqFs97n0CHPowd6oCvbT+2r02itjCTEDcbgsVut0Ibo/IQiUGSktjRITRUVPIoO4e2+/dRNVddpyknj3uSjxitL9FeVgS7mjMndjSGW3oays8T7T+E4XIxPQqVdChgJadhPk6UXThPS4Ge5qoqVIrdVimBgozfCZON43ytiPBUU3rqEO01BdSXnWPRjMlyEX2J9LYnWPKpACM0dsa0aEVtdvox2opLaJRyU9Xn5mEQyUf37BYVA4n2MGNJ/AQqTh8i75ftdN2+JPCDsjaIIFcLIyjcy44oH0ciJAaL0ovHjtJ+uZQGuXHVQ7khJH8/bknF36EfUUP6svuLBWxMmsnr7hZ8OX8a1JaQsSdV7Noy1N6MQJeBAnRgpCgOlTrVibvW4ss06PSiUK8X4HV+2JyCt00fyaE52xZNY0tyPFoHE5YmvMuD8iyou8LN3HRSl81j1sQIsd0NHBXoyb9iVXkQjVLoqiZ5o4rCr1Ytxd/WhPH+1hxNmEB16lLWfzydnJNHJJd6Ov/WceSb1cSP8ufE3m2sTpyOp4WKRXNn0FFzi7v791O7b68Udn0D1TnZvBnmwxiNJeN8+rMh8W2o0YnVUlpv5MuBApk6lkyLYYyvPcfTdvHBhFBeE+sFmRl0SB3e+Hyt9IDC7peSsnqx2FMRO9yeKUFqAp0s2LQikfYbOQLO5UnpGVGop/Lsz1R+u4b18ZPwU6tIWfmJXNod/ks/wa2NG7oLWwGe+fUwo9xNeSfElmhvG4Y7WeJnZ8HUyYkUnjsP/1yiJPMAb40dybaFs4l2t2Gkmym/HdhNW24+15cv43FZ2bOnJ1Rl7Pz6M2K8TAiXOtNKeWg1Q3EL+IhxsWuJnZJM5Ag/PFwtsbM2w8vemkhnFfs2r6M9T8fDrIvdzUFR2Lt97UxZwwh5vwF2pgT4jCcoIplh4UnYu0zEytQcn8EOBAe4yZ7+xI/1pTrrAp13773QaI2WDc9UKqP4ko7psVNxdInD1Ws23oEJBHh6sWPdYvxcHXE060v8+GCq9VK/La0YnoFearBK7AE/be3geHoOyZ/uJCRyPisXLuf7jatYviCBjCMHuV1T87xT9+74SvwfOnUx3qsOk44AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;林&quot;
+        title=&quot;林&quot;
+        src=&quot;/openlab-site/static/de3a21a9e8953223b3e8205472053dc2/772e8/%E5%8F%8B%E4%BD%B3%E3%81%95%E3%82%93.png&quot;
+        srcset=&quot;/openlab-site/static/de3a21a9e8953223b3e8205472053dc2/c26ae/%E5%8F%8B%E4%BD%B3%E3%81%95%E3%82%93.png 158w,
+/openlab-site/static/de3a21a9e8953223b3e8205472053dc2/772e8/%E5%8F%8B%E4%BD%B3%E3%81%95%E3%82%93.png 200w&quot;
+        sizes=&quot;(max-width: 200px) 100vw, 200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;
+林 友佳（高度ICT領域・修士1年）&lt;/p&gt;
 &lt;/div&gt; &lt;br /&gt;
 &lt;ul&gt;
 &lt;li&gt;マイクロサービス・アーキテクチャの普及により，大規模で複雑かつ状況に応じた変化が起こるようなシステム(動的適応性を持つ分散システム)が増加している&lt;/li&gt;
@@ -447,7 +484,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -478,7 +515,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -511,7 +548,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -543,7 +580,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -586,7 +623,7 @@
 &lt;div align=&quot;center&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -608,7 +645,7 @@
     &lt;/span&gt; &lt;/br&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -631,14 +668,14 @@
 &lt;/div&gt;
 &lt;p&gt;研究室には，高級キーボードや大型ディスプレイ，ドローンやロボットなどのデバイス，PCクラスタやサーバPCなど，こだわりの研究設備が揃っています．&lt;/p&gt;
 &lt;div align=&quot;center&quot;&gt;
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGbzcmZCX//xAAaEAEAAgMBAAAAAAAAAAAAAAABAgMEEhMh/9oACAEBAAEFAh5Az2kosCVOMHPI8u//xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAIAQMBAT8BjH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAdEAACAgEFAAAAAAAAAAAAAAABEQACECEiMWGB/9oACAEBAAY/Ak0Y35NNvUrY8rBAn//EABkQAQADAQEAAAAAAAAAAAAAAAEAESFBYf/aAAgBAQABPyFhNjazY8bHaTFy+vqFXfa4oPrNEoJ//9oADAMBAAIAAwAAABDH/wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAEDAQE/EIujp4f/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEAAwADAQEAAAAAAAAAAAABABEhMUFhcYH/2gAIAQEAAT8QowDQf1d8S3DqMueZGwlxQ67/AHJhr5dcGErIjVinca8UgB8J/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;  1&quot; title=&quot;  1&quot; src=&quot;/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/828fb/%E8%A8%AD%E5%82%991.jpg&quot; srcset=&quot;/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/ff44c/%E8%A8%AD%E5%82%991.jpg 158w,
 /openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/a6688/%E8%A8%AD%E5%82%991.jpg 315w,
 /openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/828fb/%E8%A8%AD%E5%82%991.jpg 630w,
 /openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/4b190/%E8%A8%AD%E5%82%991.jpg 800w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
     &lt;/span&gt; &lt;br&gt;
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEOElEQVQ4yx2Ue1DUVRTHf/8004xpPnLfsLDuwuLCIouwgguygMAuuyzIY1kegivmIxEZwcdUalZgiaaCiQIyTmlTzqTO6EjqlI9WTFY0owRy0j8ohDEaS82a7NPNO3Pm3DNz7vf7vd975kr/PBzmj7Ehvj9xnOCnewj2HOXuYJDb3/ZyZ/AiIyMHGRv6mIl7QZ49GeXvR/d58Mswt3rPMfB1gHv9V3j2dIyJ+wP8++wvpImRW4z9PMSl0z0M9p2jbf8uwnQ6TDEx6PRGatcU8etEGw/GL/F4YpQ/fx9l5M5Nvuw5Q38gyPiPN7nVd57hgQD/L8mR5WDLps0M//AVv41+x+fHDhGi1aI3GFAow6it8zA+KgDv9/L44RhPH41yNSCI9x2gpf0EZ784z5mTR+k5cYQn43eRKoqdeHK9DPYH+On2Nd7fvhVDRCRGUzSRUdHkujMJ9h3n7p3rDA1cpP9aD42NDThdHmwpC0hNTSMl1U5L81aGg2eRvG4HNlsqS6sryffkCmV6Jk2eyqSXpjHp5elMmS6j61AHnR2tHDrYRHPzWxgFkTHKhCk6loTEeSTPt7F3x9vcuHwKKSUpCaVKgUajQq5QMEuvR63WoFJqUKhDiDSZqFpSxc6dzbTvb6Jh/VoSrFbsGRk4nU6WVJfRvO11Th/r5uKpI0jr61/DaDQQZTTiKy+ko2sXK1f4yXU5WOKvYOOmRgqKimnZs4cP2nfT1Lqbrdub8eR7RH8ZGZkZ+Gv87HrvHU591oXUFziJv7oEmVIpPItAO0vLTLGfMnUa5YurONDVQXtHO40b11Mm6iKvT4AspLNzH33fXOBw54d8dLCVNxvX8u62N5CuXj5NubcAnUqNaqaMUJmCSHHVeI2Wpi2buX6jlyuB87S27qC+fjWbNtSzfLmfxoY1rKldgS8/j22rl/NJ227OdXcjHe5uo2vfThaZLRTGxOGzWKlOSKYsdi4LhFfe0iLWrVvFxg11NAiQZcv8LK2pxucrweHIwTQ7irpyLxcO7GWLrxJpcXkBJUV55IQbKNRGkCULJWOGGvt0NZNfeJHklGQxJrXU1a3kVaGsstJHqa+YfKHMbk9DNyscuVpJlMjhr8iRaldV4XYvJFGmwqUIwy4PIXmmhjkzlGiFlykLbNTUVLFy1TLKK0vFY+U8j/T0NMyxZiIj9c9DJpcTqQtHKizIxlfqwahUEa9QEy0TbMJHvVxJeIgGa5KVHGcW85ISSEy0kJhgwSpyQkLc83q2yUhEhF5MiYFEixkpJzsVlztLHFZj0oUxVzTotaFEx5jQhocSYzaRZk9hvs1Kut1GriOT/Lwciha5cLuysKfNJ0mQxcfHYjEZkDLT5+FwphNtNmKeY2KuNR6DMUJ8DAYs8XFkZ9nxlhRQWeGloqyIkkIXxQKspNAtQJ3kubKFl6kCMI64OWb+A3XFkeLfIuemAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;  2&quot; title=&quot;  2&quot; src=&quot;/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/f058b/%E8%A8%AD%E5%82%992.png&quot; srcset=&quot;/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/c26ae/%E8%A8%AD%E5%82%992.png 158w,
 /openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/6bdcf/%E8%A8%AD%E5%82%992.png 315w,
@@ -653,7 +690,7 @@
 &lt;p&gt;研究やゼミを通して順調に成果を出すことで，学会やオープンソース系の会議（RubyKaigi，OSC，Open Source Summitなど）に参加することができます．&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -679,7 +716,7 @@
 &lt;p&gt;本研究室では，研究以外にもメンバー内での交流を図るために，新歓，BBQ，飲みなどのイベントを開催しています．もちろん，お酒が苦手な人でも気軽に参加できるような雰囲気で楽しんでいます！&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -737,7 +774,7 @@
 &lt;/div&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -759,7 +796,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -781,7 +818,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -803,7 +840,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -825,7 +862,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -847,7 +884,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -869,7 +906,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -891,7 +928,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -913,7 +950,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -935,7 +972,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -957,7 +994,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -979,7 +1016,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -1001,7 +1038,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -1023,7 +1060,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -1045,7 +1082,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
