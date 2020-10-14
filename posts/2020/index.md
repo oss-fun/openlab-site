@@ -237,7 +237,7 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 
 <div align="left">
 
-  <img class="icon" alt="大野" title="大野" src="/openlab-site/static/0b6a998d9765157106725f612c27a2ae/e07e9/%E3%81%9A%E3%82%84.jpg">
+  ![大野](/img/ずや.jpg)
   大野 和也（知能システムコース・学部4年）
 
 </div> <br />
@@ -284,9 +284,9 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 
 <div align="left">
 
-  <img class="icon" alt="林" title="林" src="/openlab-site/static/de3a21a9e8953223b3e8205472053dc2/772e8/%E5%8F%8B%E4%BD%B3%E3%81%95%E3%82%93.png">
+  ![林](/img/友佳さん.png)
   林 友佳（高度ICT領域・修士1年）
-  
+
 </div> <br />
 
 - マイクロサービス・アーキテクチャの普及により，大規模で複雑かつ状況に応じた変化が起こるようなシステム(動的適応性を持つ分散システム)が増加している
