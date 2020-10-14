@@ -23,7 +23,7 @@ description: OSS研究室についてのHPです
 </br>
 
 <div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="40"/>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
   <u>
     <span style="font-size: 250%;">
       <b id="abstract">オープンラボ出展概要</b>
@@ -135,7 +135,7 @@ description: OSS研究室についてのHPです
 </br>
 
 <div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
   <u>
     <span style="font-size: 250%;">
       <b id="topic1">システムソフトウェア研究</b>
@@ -211,7 +211,7 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 
 <div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
   <u>
     <span style="font-size: 250%;">
       <b id="topic2">研究紹介</b>
@@ -235,9 +235,11 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 
 ### ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構
 
-<div align="center">
+<div align="left">
+
   <img class="icon" alt="大野" title="大野" src="/openlab-site/static/0b6a998d9765157106725f612c27a2ae/e07e9/%E3%81%9A%E3%82%84.jpg">
   大野 和也（知能システムコース・学部4年）
+
 </div> <br />
 
 - ロボットのシステム開発にRobot Operating System（ROS）の利用が拡がっている
@@ -281,8 +283,10 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 ### 動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究
 
 <div align="left">
+
   <img class="icon" alt="林" title="林" src="/openlab-site/static/de3a21a9e8953223b3e8205472053dc2/772e8/%E5%8F%8B%E4%BD%B3%E3%81%95%E3%82%93.png">
   林 友佳（高度ICT領域・修士1年）
+  
 </div> <br />
 
 - マイクロサービス・アーキテクチャの普及により，大規模で複雑かつ状況に応じた変化が起こるようなシステム(動的適応性を持つ分散システム)が増加している
@@ -349,7 +353,7 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 
 <div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
   <u>
     <span style="font-size: 250%;">
       <b id="topic3">研究活動</b>
@@ -404,7 +408,7 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 
 <div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
   <u>
     <span style="font-size: 250%;">
       <b id="topic4">問い合わせ先</b>
@@ -424,7 +428,7 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 
 <div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU width="50"/>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
   <u>
     <span style="font-size: 250%;">
       <b id="topic5">おわりに</b>
