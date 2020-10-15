@@ -81,7 +81,7 @@ description: OSS研究室についてのHPです
       </tr>
       <tr>
         <td align="left">16:55~</td>
-        <td align="left">LT「Neo4jで振り返るよわよわ未来大生の就活」（宮越）</td>
+        <td align="left">LT「Neo4jで振り返る、よわよわ未来大生の就活」（宮越）</td>
       </tr>
       <tr>
         <td align="left" bgcolor="#EFEFEF">17:05~</td>
