@@ -406,10 +406,7 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
   </u>
 </div> <br />
 
-<span style="font-size: 130%;">
-- メールアドレス：matsu@fun.ac.jp <br />
-- 研究室：本部棟 1階 127室
-</span>
+<img src="./img/メールアドレス.png">
 
 </br>
 </br>
