@@ -161,11 +161,17 @@ description: OSS研究室についてのHPです
 
 例えばインターネット... OSがないと，複雑で難解なネットワーク通信を自分で制御しなければならず，ネットサーフィンするのも一苦労です．
 
+<div align="center">
+
 ![system1](/img/system1.png)
+
+</div>
 
 例えば，アプリケーションを使うとき... WordやExcel，ゲームやWebブラウザを同時に使えなかったり，フリーズしたり快適に動作しなかったりします．さらに，システム攻撃や情報漏えいに対して無防備になります．
 
-![system2](/img/system2.png)  
+<div align="center">
+  <img src="./img/system2.png">
+</div>
 
 ### システムソフトウェアを研究して，いいことあるの？
 
