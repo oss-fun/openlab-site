@@ -62,7 +62,7 @@ description: OSS研究室についてのHPです
       </tr>
       <tr>
         <td>15:50~</td>
-        <td>LT「」（瀧本）<br></td>
+        <td>LT「ROSで簡単にロボット動かしてみた」（瀧本）<br></td>
       </tr>
       <tr>
         <td class="odd">16:00~</td>
