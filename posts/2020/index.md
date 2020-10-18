@@ -7,13 +7,15 @@ description: OSS研究室についてのHPです
 ![manyTux](/img/manyTux.jpg)
 
 <div class="mokuji">
-  <span style="font-size: 180%;"> 目次 </span> </br> </br>
-  - <a href="#abstract">オープンラボ出展概要</a> </br> </br>
-  - <a href="#topic1">システムソフトウェア研究</a> </br> </br>
-  - <a href="#topic2">研究紹介</a> </br> </br>
-  - <a href="#topic3">研究活動</a> </br> </br>
-  - <a href="#topic4">問い合わせ先</a> </br> </br>
-  - <a href="#topic5">おわりに</a> </br> </br>
+  <span style="font-size: 180%;"> 目次 </span>
+    <ul>
+      <li><a href="#abstract">オープンラボ出展概要</a> </li>
+      <li><a href="#topic1">システムソフトウェア研究</a> </li>
+      <li><a href="#topic2">研究紹介</a> </li>
+      <li><a href="#topic3">研究活動</a> </li>
+      <li><a href="#topic4">問い合わせ先</a> </li>
+      <li><a href="#topic5">おわりに</a> </li>
+    </ul>
 </div>
 
 </br>
