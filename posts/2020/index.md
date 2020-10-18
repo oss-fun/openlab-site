@@ -24,13 +24,11 @@ description: OSS研究室についてのHPです
 </br>
 </br>
 
-<div align="left">
+<div class="topic">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <u>
-    <span style="font-size: 250%;">
-      <b id="abstract">オープンラボ出展概要</b>
-    </span>
-  </u>
+  <span>
+    <b id="abstract">オープンラボ出展概要</b>
+  </span>
 </div> </br>
 
 - オープンラボ当日は，情シス・ICTコース共通zoomミーティング内のブレイクアウトルームにて，下記の催しを行います．
@@ -136,13 +134,11 @@ description: OSS研究室についてのHPです
 </br>
 </br>
 
-<div align="left">
+<div class="topic">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <u>
-    <span style="font-size: 250%;">
-      <b id="topic1">システムソフトウェア研究</b>
-    </span>
-  </u>
+  <span>
+    <b id="topic1">システムソフトウェア研究</b>
+  </span>
 </div> </br>
 
 本研究室では，システムソフトウェアの研究をとおして，社会で**飛びぬけて活躍できる**エンジニアスキルを身につけることを目指しています．
@@ -218,13 +214,11 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 </br>
 
-<div align="left">
+<div class="topic">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <u>
-    <span style="font-size: 250%;">
-      <b id="topic2">研究紹介</b>
-    </span>
-  </u>
+  <span>
+    <b id="topic2">研究紹介</b>
+  </span>
 </div> <br />
 
 ### 動的解析にもとづくLinux Kernel Tinification手法
@@ -350,13 +344,11 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 </br>
 
-<div align="left">
+<div class="topic">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <u>
-    <span style="font-size: 250%;">
-      <b id="topic3">研究活動</b>
-    </span>
-  </u>
+  <span>
+    <b id="topic3">研究活動</b>
+  </span>
 </div> <br />
 
 ### 設備  
@@ -405,13 +397,11 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 </br>
 
-<div align="left">
+<div class="topic">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <u>
-    <span style="font-size: 250%;">
-      <b id="topic4">問い合わせ先</b>
-    </span>
-  </u>
+  <span>
+    <b id="topic4">問い合わせ先</b>
+  </span>
 </div> <br />
 
 <img src="./img/メールアドレス.png">
@@ -422,13 +412,11 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 </br>
 
-<div align="left">
+<div class="topic">
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <u>
-    <span style="font-size: 250%;">
-      <b id="topic5">おわりに</b>
-    </span>
-  </u>
+  <span>
+    <b id="topic5">おわりに</b>
+  </span>
 </div>
 
 <div align="center">

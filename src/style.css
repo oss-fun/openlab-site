@@ -246,6 +246,9 @@ table .odd {
   background-color: #EFEFEF;
 }
 
+.topic span {
+  font-size: 250%;
+}
 
 /* Link */
 
