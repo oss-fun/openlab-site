@@ -36,94 +36,94 @@ description: OSS研究室についてのHPです
 
 <table border="1">
   <thead>
-    <tr bgcolor="#23B1BE">
-      <th align="left">時間</th>
-      <th align="left" width="365">表部屋</th>
-      <th align="left" width="365">裏部屋</th>
+    <tr>
+      <th>時間</th>
+      <th width="365">表</th>
+      <th width="365">裏（研究室の沼）</th>
     </tr>
   </thead>
     <tbody>
       <tr>
-        <td align="left">15:30~</td>
-        <td align="left">教員による研究室紹介（松原克弥）<br></td>
-        <td align="left" rowspan="6"></td>
+        <td>15:30~</td>
+        <td>教員による研究室紹介（松原克弥）<br></td>
+        <td rowspan="6"></td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">15:40~</td>
-        <td align="left">LT「とにかくカワイイPCとキーボードを作った話」（林）<br></td>
+        <td class="odd">15:40~</td>
+        <td>LT「とにかくカワイイPCとキーボードを作った話」（林）<br></td>
       </tr>
       <tr>
-        <td align="left">15:50~</td>
-        <td align="left">LT「」（瀧本）<br></td>
+        <td>15:50~</td>
+        <td>LT「」（瀧本）<br></td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">16:00~</td>
-        <td align="left">研究室所属の学部生が「みんなの疑問に答えます！」<br />
+        <td class="odd">16:00~</td>
+        <td>研究室所属の学部生が「みんなの疑問に答えます！」<br />
         ＊<a href="https://app.sli.do/event/j5rx9p9g/live/questions">Slido</a>で随時質問受け付けています</td>
       </tr>
       <tr>
-        <td align="left">16:15~</td>
-        <td align="left">LT「デジタルイラスト入門」（吉川）<br></td>
+        <td>16:15~</td>
+        <td >LT「デジタルイラスト入門」（吉川）<br></td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">16:25~</td>
-        <td align="left">LT「ロボットはすぐ炎上する」（大野）<br></td>
+        <td class="odd">16:25~</td>
+        <td>LT「ロボットはすぐ炎上する」（大野）<br></td>
       </tr>
       <tr>
-        <td align="left">16:35~</td>
-        <td align="left">教員による研究室紹介（松原克弥）</td>
-        <td align="left">学生による研究室紹介（中田，林）</td>
+        <td>16:35~</td>
+        <td>教員による研究室紹介（松原克弥）</td>
+        <td>学生による研究室紹介（中田，林）</td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">16:45~</td>
-        <td align="left">LT「ゼロから始まる研究生活」（熊谷）</td>
-        <td align="left" rowspan="2">研究活動ライブ「論文執筆」（中田）</td>
+        <td class="odd">16:45~</td>
+        <td>LT「ゼロから始まる研究生活」（熊谷）</td>
+        <td rowspan="2">研究活動ライブ「論文執筆」（中田）</td>
       </tr>
       <tr>
-        <td align="left">16:55~</td>
-        <td align="left">LT「Neo4jで振り返る、よわよわ未来大生の就活」（宮越）</td>
+        <td>16:55~</td>
+        <td>LT「Neo4jで振り返る、よわよわ未来大生の就活」（宮越）</td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">17:05~</td>
-        <td align="left">研究室所属の院生が「みんなの疑問に答えます！」<br />
+        <td class="odd">17:05~</td>
+        <td>研究室所属の院生が「みんなの疑問に答えます！」<br />
         ＊<a href="https://app.sli.do/event/j5rx9p9g/live/questions">Slido</a>で随時質問受け付けています</td>
-        <td align="left">研究活動ライブ「コードリーディング」（大野）</td>
+        <td>研究活動ライブ「コードリーディング」（大野）</td>
       </tr>
       <tr>
-        <td align="left">17:20~</td>
-        <td align="left">修士研究紹介「動的解析にもとづくLinux Kernel Tinification手法」（雫石）</td>
-        <td align="left" rowspan="2">LT「コンピュータの中心で愛を叫ぶ」（松原克弥）</td>
+        <td>17:20~</td>
+        <td>修士研究紹介「動的解析にもとづくLinux Kernel Tinification手法」（雫石）</td>
+        <td rowspan="2">LT「コンピュータの中心で愛を叫ぶ」（松原克弥）</td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">17:25~</td>
-        <td align="left">卒業研究紹介「ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構」（大野）</td>
+        <td class="odd">17:25~</td>
+        <td>卒業研究紹介「ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構」（大野）</td>
       </tr>
       <tr>
-        <td align="left">17:30~</td>
-        <td align="left">卒業研究紹介「ロボット制御システムにおけるOSS機能モジュール向けサンドボックスの実現」（瀧本）</td>
-        <td align="left" rowspan="2">LT「OSの下でもRubyを使いたくて 〜 低レイヤーはつらいよ」（中田）</td>
+        <td>17:30~</td>
+        <td>卒業研究紹介「ロボット制御システムにおけるOSS機能モジュール向けサンドボックスの実現」（瀧本）</td>
+        <td rowspan="2">LT「OSの下でもRubyを使いたくて 〜 低レイヤーはつらいよ」（中田）</td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">17:35~</td>
-        <td align="left">卒業研究紹介「編集履歴にもとづいたイラストデータの透過的圧縮機構」（吉川）</td>
+        <td class="odd">17:35~</td>
+        <td>卒業研究紹介「編集履歴にもとづいたイラストデータの透過的圧縮機構」（吉川）</td>
       </tr>
       <tr>
-        <td align="left">17:40~</td>
-        <td align="left">修士研究紹介「動的適応性を持つ分散システムを対象としたシステム状態可視化手法」（林）</td>
-        <td align="left" rowspan="2">LT「」（鈴木）</td>
+        <td>17:40~</td>
+        <td>修士研究紹介「動的適応性を持つ分散システムを対象としたシステム状態可視化手法」（林）</td>
+        <td rowspan="2">LT「」（鈴木）</td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">17:45~</td>
-        <td align="left">卒業研究紹介「スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能」（宮越）</td>
+        <td class="odd">17:45~</td>
+        <td>卒業研究紹介「スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能」（宮越）</td>
       </tr>
       <tr>
-        <td align="left">17:50~</td>
-        <td align="left">修士研究紹介「コンテナ型クラウドサービス基盤におけるハードウェア仮想化を併用したネットワーク機能の最適化」（中田）</td>
-        <td align="left" rowspan="2">LT「Linuxカーネルビルドでも進捗が見たい！」（雫石）</td>
+        <td>17:50~</td>
+        <td >修士研究紹介「コンテナ型クラウドサービス基盤におけるハードウェア仮想化を併用したネットワーク機能の最適化」（中田）</td>
+        <td rowspan="2">LT「Linuxカーネルビルドでも進捗が見たい！」（雫石）</td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">17:55~</td>
-        <td align="left">卒業研究紹介「VMMによる軽量かつセキュアなアドホッククラウド基盤」（熊谷）</td>
+        <td class="odd">17:55~</td>
+        <td>卒業研究紹介「VMMによる軽量かつセキュアなアドホッククラウド基盤」（熊谷）</td>
       </tr>
     </tbody>
 </table>

@@ -230,9 +230,21 @@ table {
   border-spacing: 0.25rem;
 }
 
+table thead tr {
+  background-color: var(--color-primary);
+}
+
 table thead tr th {
   border-bottom: 1px solid var(--color-accent);
+
+  box-align: "left";
+  color: white;
 }
+
+table .odd {
+  background-color: #EFEFEF;
+}
+
 
 /* Link */
 
