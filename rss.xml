@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 16 Oct 2020 09:06:38 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[オープンラボ当日は，情シス・ICTコース共通zoom…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 18 Oct 2020 13:51:44 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[オープンラボ当日は，情シス・ICTコース共通zoom…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -21,121 +21,131 @@
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;div class=&quot;mokuji&quot;&gt;
-  &lt;span style=&quot;font-size: 180%;&quot;&gt; 目次 &lt;/span&gt; &lt;/br&gt; &lt;/br&gt;
-  - &lt;a href=&quot;#abstract&quot;&gt;オープンラボ出展概要&lt;/a&gt; &lt;/br&gt; &lt;/br&gt;
-  - &lt;a href=&quot;#topic1&quot;&gt;システムソフトウェア研究&lt;/a&gt; &lt;/br&gt; &lt;/br&gt;
-  - &lt;a href=&quot;#topic2&quot;&gt;研究紹介&lt;/a&gt; &lt;/br&gt; &lt;/br&gt;
-  - &lt;a href=&quot;#topic3&quot;&gt;研究活動&lt;/a&gt; &lt;/br&gt; &lt;/br&gt;
-  - &lt;a href=&quot;#topic4&quot;&gt;問い合わせ先&lt;/a&gt; &lt;/br&gt; &lt;/br&gt;
-  - &lt;a href=&quot;#topic5&quot;&gt;おわりに&lt;/a&gt; &lt;/br&gt; &lt;/br&gt;
+  &lt;span style=&quot;font-size: 180%;&quot;&gt; 目次 &lt;/span&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#abstract&quot;&gt;オープンラボ出展概要&lt;/a&gt; &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#topic1&quot;&gt;システムソフトウェア研究&lt;/a&gt; &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#topic2&quot;&gt;研究紹介&lt;/a&gt; &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#topic3&quot;&gt;研究活動&lt;/a&gt; &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#topic4&quot;&gt;問い合わせ先&lt;/a&gt; &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#topic5&quot;&gt;おわりに&lt;/a&gt; &lt;/li&gt;
+    &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;div align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&amp;amp;usqp=CAU&quot; height=&quot;35&quot;&gt;
-  &lt;u&gt;
-    &lt;span style=&quot;font-size: 250%;&quot;&gt;
-      &lt;b id=&quot;abstract&quot;&gt;&amp;#x30AA;&amp;#x30FC;&amp;#x30D7;&amp;#x30F3;&amp;#x30E9;&amp;#x30DC;&amp;#x51FA;&amp;#x5C55;&amp;#x6982;&amp;#x8981;&lt;/b&gt;
-    &lt;/span&gt;
-  &lt;/u&gt;
-&lt;/div&gt; &lt;br&gt;
+&lt;div class=&quot;topic&quot;&gt;
+  &lt;table class=&quot;title&quot;&gt;
+    &lt;tbody&gt;&lt;tr&gt;
+      &lt;td width=&quot;75&quot; height=&quot;auto&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 144px; &quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 115.97222222222221%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHcyrcCNREZFyZ1aFz/AP/EABsQAAICAwEAAAAAAAAAAAAAAAIDAREABBIj/9oACAEBAAEFAjmgVLA2M2LItqPNRdrYvrKMsGKj/8QAFREBAQAAAAAAAAAAAAAAAAAAEBL/2gAIAQMBAT8BKP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBES/9oACAECAQE/AYwhKj//xAAfEAACAgEEAwAAAAAAAAAAAAABAgAREAMSQWEiMTL/2gAIAQEABj8CY9RAzfV4TT4PubgaKmxFY8iGeQWusf/EABsQAQEBAAMBAQAAAAAAAAAAAAERACFBYRAx/9oACAEBAAE/IWMYimoGAPi7J1+HWoORxcoiNEyEPIt/dVDel3Bb/9oADAMBAAIAAwAAABBXAIH/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREQQf/aAAgBAwEBPxDmVUN11n//xAAYEQEBAQEBAAAAAAAAAAAAAAABESEAEP/aAAgBAgEBPxBtI55kld4AB3//xAAhEAEAAgEDBAMAAAAAAAAAAAABABFBITFhEFFx4YGRof/aAAgBAQABPxAiSZOGtIhh+MNAnz76CETmZL+z+EGtUbsfcV6d2DmCXhlERs1xDTBNkS82bRxbefE//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;tux&quot; title=&quot;tux&quot; src=&quot;/openlab-site/static/38aa4d5a849c0a2a4b8c4e0f1aaa076b/56357/tux.jpg&quot; srcset=&quot;/openlab-site/static/38aa4d5a849c0a2a4b8c4e0f1aaa076b/56357/tux.jpg 144w&quot; sizes=&quot;(max-width: 144px) 100vw, 144px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+    &lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;span&gt;
+          &lt;b id=&quot;abstract&quot;&gt;&amp;#x30AA;&amp;#x30FC;&amp;#x30D7;&amp;#x30F3;&amp;#x30E9;&amp;#x30DC;&amp;#x51FA;&amp;#x5C55;&amp;#x6982;&amp;#x8981;&lt;/b&gt;
+        &lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;オープンラボ当日は，情シス・ICTコース共通zoomミーティング内のブレイクアウトルームにて，下記の催しを行います．&lt;/li&gt;
 &lt;li&gt;当日のタイムスケジュール&lt;/li&gt;
 &lt;/ul&gt;
 &lt;table border=&quot;1&quot;&gt;
   &lt;thead&gt;
-    &lt;tr bgcolor=&quot;#23B1BE&quot;&gt;
-      &lt;th align=&quot;left&quot;&gt;時間&lt;/th&gt;
-      &lt;th align=&quot;left&quot; width=&quot;365&quot;&gt;表部屋&lt;/th&gt;
-      &lt;th align=&quot;left&quot; width=&quot;365&quot;&gt;裏部屋&lt;/th&gt;
+    &lt;tr&gt;
+      &lt;th&gt;時間&lt;/th&gt;
+      &lt;th width=&quot;365&quot;&gt;表&lt;/th&gt;
+      &lt;th width=&quot;365&quot;&gt;裏（研究室の沼）&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
     &lt;tbody&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot;&gt;15:30~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;教員による研究室紹介（松原克弥）&lt;br&gt;&lt;/td&gt;
-        &lt;td align=&quot;left&quot; rowspan=&quot;6&quot;&gt;&lt;/td&gt;
+        &lt;td&gt;15:30~&lt;/td&gt;
+        &lt;td&gt;教員による研究室紹介（松原克弥）&lt;br&gt;&lt;/td&gt;
+        &lt;td rowspan=&quot;6&quot;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot; bgcolor=&quot;#EFEFEF&quot;&gt;15:40~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;LT「とにかくカワイイPCとキーボードを作った話」（林）&lt;br&gt;&lt;/td&gt;
+        &lt;td class=&quot;odd&quot;&gt;15:40~&lt;/td&gt;
+        &lt;td&gt;LT「とにかくカワイイPCとキーボードを作った話」（林）&lt;br&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot;&gt;15:50~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;LT「」（瀧本）&lt;br&gt;&lt;/td&gt;
+        &lt;td&gt;15:50~&lt;/td&gt;
+        &lt;td&gt;LT「」（瀧本）&lt;br&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot; bgcolor=&quot;#EFEFEF&quot;&gt;16:00~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;研究室所属の学部生が「みんなの疑問に答えます！」&lt;br /&gt;
+        &lt;td class=&quot;odd&quot;&gt;16:00~&lt;/td&gt;
+        &lt;td&gt;研究室所属の学部生が「みんなの疑問に答えます！」&lt;br /&gt;
         ＊&lt;a href=&quot;https://app.sli.do/event/j5rx9p9g/live/questions&quot;&gt;Slido&lt;/a&gt;で随時質問受け付けています&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot;&gt;16:15~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;LT「デジタルイラスト入門」（吉川）&lt;br&gt;&lt;/td&gt;
+        &lt;td&gt;16:15~&lt;/td&gt;
+        &lt;td &gt;LT「デジタルイラスト入門」（吉川）&lt;br&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot; bgcolor=&quot;#EFEFEF&quot;&gt;16:25~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;LT「ロボットはすぐ炎上する」（大野）&lt;br&gt;&lt;/td&gt;
+        &lt;td class=&quot;odd&quot;&gt;16:25~&lt;/td&gt;
+        &lt;td&gt;LT「ロボットはすぐ炎上する」（大野）&lt;br&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot;&gt;16:35~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;教員による研究室紹介（松原克弥）&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;学生による研究室紹介（中田，林）&lt;/td&gt;
+        &lt;td&gt;16:35~&lt;/td&gt;
+        &lt;td&gt;教員による研究室紹介（松原克弥）&lt;/td&gt;
+        &lt;td&gt;学生による研究室紹介（中田，林）&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot; bgcolor=&quot;#EFEFEF&quot;&gt;16:45~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;LT「ゼロから始まる研究生活」（熊谷）&lt;/td&gt;
-        &lt;td align=&quot;left&quot; rowspan=&quot;2&quot;&gt;研究活動ライブ「論文執筆」（中田）&lt;/td&gt;
+        &lt;td class=&quot;odd&quot;&gt;16:45~&lt;/td&gt;
+        &lt;td&gt;LT「ゼロから始まる研究生活」（熊谷）&lt;/td&gt;
+        &lt;td rowspan=&quot;2&quot;&gt;研究活動ライブ「論文執筆」（中田）&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot;&gt;16:55~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;LT「Neo4jで振り返る、よわよわ未来大生の就活」（宮越）&lt;/td&gt;
+        &lt;td&gt;16:55~&lt;/td&gt;
+        &lt;td&gt;LT「Neo4jで振り返る、よわよわ未来大生の就活」（宮越）&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot; bgcolor=&quot;#EFEFEF&quot;&gt;17:05~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;研究室所属の院生が「みんなの疑問に答えます！」&lt;br /&gt;
+        &lt;td class=&quot;odd&quot;&gt;17:05~&lt;/td&gt;
+        &lt;td&gt;研究室所属の院生が「みんなの疑問に答えます！」&lt;br /&gt;
         ＊&lt;a href=&quot;https://app.sli.do/event/j5rx9p9g/live/questions&quot;&gt;Slido&lt;/a&gt;で随時質問受け付けています&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;研究活動ライブ「コードリーディング」（大野）&lt;/td&gt;
+        &lt;td&gt;研究活動ライブ「コードリーディング」（大野）&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot;&gt;17:20~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;修士研究紹介「動的解析にもとづくLinux Kernel Tinification手法」（雫石）&lt;/td&gt;
-        &lt;td align=&quot;left&quot; rowspan=&quot;2&quot;&gt;LT「コンピュータの中心で愛を叫ぶ」（松原克弥）&lt;/td&gt;
+        &lt;td&gt;17:20~&lt;/td&gt;
+        &lt;td&gt;修士研究紹介「動的解析にもとづくLinux Kernel Tinification手法」（雫石）&lt;/td&gt;
+        &lt;td rowspan=&quot;2&quot;&gt;LT「コンピュータの中心で愛を叫ぶ」（松原克弥）&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot; bgcolor=&quot;#EFEFEF&quot;&gt;17:25~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;卒業研究紹介「ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構」（大野）&lt;/td&gt;
+        &lt;td class=&quot;odd&quot;&gt;17:25~&lt;/td&gt;
+        &lt;td&gt;卒業研究紹介「ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構」（大野）&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot;&gt;17:30~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;卒業研究紹介「ロボット制御システムにおけるOSS機能モジュール向けサンドボックスの実現」（瀧本）&lt;/td&gt;
-        &lt;td align=&quot;left&quot; rowspan=&quot;2&quot;&gt;LT「OSの下でもRubyを使いたくて 〜 低レイヤーはつらいよ」（中田）&lt;/td&gt;
+        &lt;td&gt;17:30~&lt;/td&gt;
+        &lt;td&gt;卒業研究紹介「ロボット制御システムにおけるOSS機能モジュール向けサンドボックスの実現」（瀧本）&lt;/td&gt;
+        &lt;td rowspan=&quot;2&quot;&gt;LT「OSの下でもRubyを使いたくて 〜 低レイヤーはつらいよ」（中田）&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot; bgcolor=&quot;#EFEFEF&quot;&gt;17:35~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;卒業研究紹介「編集履歴にもとづいたイラストデータの透過的圧縮機構」（吉川）&lt;/td&gt;
+        &lt;td class=&quot;odd&quot;&gt;17:35~&lt;/td&gt;
+        &lt;td&gt;卒業研究紹介「編集履歴にもとづいたイラストデータの透過的圧縮機構」（吉川）&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot;&gt;17:40~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;修士研究紹介「動的適応性を持つ分散システムを対象としたシステム状態可視化手法」（林）&lt;/td&gt;
-        &lt;td align=&quot;left&quot; rowspan=&quot;2&quot;&gt;LT「」（鈴木）&lt;/td&gt;
+        &lt;td&gt;17:40~&lt;/td&gt;
+        &lt;td&gt;修士研究紹介「動的適応性を持つ分散システムを対象としたシステム状態可視化手法」（林）&lt;/td&gt;
+        &lt;td rowspan=&quot;2&quot;&gt;LT「」（鈴木）&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot; bgcolor=&quot;#EFEFEF&quot;&gt;17:45~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;卒業研究紹介「スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能」（宮越）&lt;/td&gt;
+        &lt;td class=&quot;odd&quot;&gt;17:45~&lt;/td&gt;
+        &lt;td&gt;卒業研究紹介「スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能」（宮越）&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot;&gt;17:50~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;修士研究紹介「コンテナ型クラウドサービス基盤におけるハードウェア仮想化を併用したネットワーク機能の最適化」（中田）&lt;/td&gt;
-        &lt;td align=&quot;left&quot; rowspan=&quot;2&quot;&gt;LT「Linuxカーネルビルドでも進捗が見たい！」（雫石）&lt;/td&gt;
+        &lt;td&gt;17:50~&lt;/td&gt;
+        &lt;td &gt;修士研究紹介「コンテナ型クラウドサービス基盤におけるハードウェア仮想化を併用したネットワーク機能の最適化」（中田）&lt;/td&gt;
+        &lt;td rowspan=&quot;2&quot;&gt;LT「Linuxカーネルビルドでも進捗が見たい！」（雫石）&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td align=&quot;left&quot; bgcolor=&quot;#EFEFEF&quot;&gt;17:55~&lt;/td&gt;
-        &lt;td align=&quot;left&quot;&gt;卒業研究紹介「VMMによる軽量かつセキュアなアドホッククラウド基盤」（熊谷）&lt;/td&gt;
+        &lt;td class=&quot;odd&quot;&gt;17:55~&lt;/td&gt;
+        &lt;td&gt;卒業研究紹介「VMMによる軽量かつセキュアなアドホッククラウド基盤」（熊谷）&lt;/td&gt;
       &lt;/tr&gt;
     &lt;/tbody&gt;
 &lt;/table&gt;
@@ -144,23 +154,30 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;div align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&amp;amp;usqp=CAU&quot; height=&quot;35&quot;&gt;
-  &lt;u&gt;
-    &lt;span style=&quot;font-size: 250%;&quot;&gt;
-      &lt;b id=&quot;topic1&quot;&gt;&amp;#x30B7;&amp;#x30B9;&amp;#x30C6;&amp;#x30E0;&amp;#x30BD;&amp;#x30D5;&amp;#x30C8;&amp;#x30A6;&amp;#x30A7;&amp;#x30A2;&amp;#x7814;&amp;#x7A76;&lt;/b&gt;
-    &lt;/span&gt;
-  &lt;/u&gt;
-&lt;/div&gt; &lt;br&gt;
+&lt;div class=&quot;topic&quot;&gt;
+  &lt;table class=&quot;title&quot;&gt;
+    &lt;tbody&gt;&lt;tr&gt;
+      &lt;td width=&quot;75&quot; height=&quot;auto&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 144px; &quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 115.97222222222221%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHcyrcCNREZFyZ1aFz/AP/EABsQAAICAwEAAAAAAAAAAAAAAAIDAREABBIj/9oACAEBAAEFAjmgVLA2M2LItqPNRdrYvrKMsGKj/8QAFREBAQAAAAAAAAAAAAAAAAAAEBL/2gAIAQMBAT8BKP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBES/9oACAECAQE/AYwhKj//xAAfEAACAgEEAwAAAAAAAAAAAAABAgAREAMSQWEiMTL/2gAIAQEABj8CY9RAzfV4TT4PubgaKmxFY8iGeQWusf/EABsQAQEBAAMBAQAAAAAAAAAAAAERACFBYRAx/9oACAEBAAE/IWMYimoGAPi7J1+HWoORxcoiNEyEPIt/dVDel3Bb/9oADAMBAAIAAwAAABBXAIH/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREQQf/aAAgBAwEBPxDmVUN11n//xAAYEQEBAQEBAAAAAAAAAAAAAAABESEAEP/aAAgBAgEBPxBtI55kld4AB3//xAAhEAEAAgEDBAMAAAAAAAAAAAABABFBITFhEFFx4YGRof/aAAgBAQABPxAiSZOGtIhh+MNAnz76CETmZL+z+EGtUbsfcV6d2DmCXhlERs1xDTBNkS82bRxbefE//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;tux&quot; title=&quot;tux&quot; src=&quot;/openlab-site/static/38aa4d5a849c0a2a4b8c4e0f1aaa076b/56357/tux.jpg&quot; srcset=&quot;/openlab-site/static/38aa4d5a849c0a2a4b8c4e0f1aaa076b/56357/tux.jpg 144w&quot; sizes=&quot;(max-width: 144px) 100vw, 144px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+    &lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;span&gt;
+          &lt;b id=&quot;topic1&quot;&gt;&amp;#x30B7;&amp;#x30B9;&amp;#x30C6;&amp;#x30E0;&amp;#x30BD;&amp;#x30D5;&amp;#x30C8;&amp;#x30A6;&amp;#x30A7;&amp;#x30A2;&amp;#x7814;&amp;#x7A76;&lt;/b&gt;
+        &lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;hr&gt;
 &lt;p&gt;本研究室では，システムソフトウェアの研究をとおして，社会で&lt;strong&gt;飛びぬけて活躍できる&lt;/strong&gt;エンジニアスキルを身につけることを目指しています．&lt;/p&gt;
 &lt;h3 id=&quot;システムソフトウェアって何？&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95%EF%BC%9F&quot; aria-label=&quot;システムソフトウェアって何？ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;システムソフトウェアって何？&lt;/h3&gt;
 &lt;p&gt;システムソフトウェアは，PCやスマホで動く様々なアプリケーションの快適な動作や安心・安全を支える&lt;strong&gt;縁の下の力持ち的&lt;/strong&gt;なソフトウェアです．&lt;br&gt;
 代表的なものとして，OS（オペレーティングシステム）があります．&lt;br&gt;
 （例：Windows，Mac，Android，Linuxなど）&lt;/p&gt;
-&lt;div align=&quot;center&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 257px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 257px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -178,13 +195,11 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
- &lt;/div&gt;
 &lt;h3 id=&quot;システムソフトウェアがないとどうなるの？&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%8C%E3%81%AA%E3%81%84%E3%81%A8%E3%81%A9%E3%81%86%E3%81%AA%E3%82%8B%E3%81%AE%EF%BC%9F&quot; aria-label=&quot;システムソフトウェアがないとどうなるの？ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;システムソフトウェアがないとどうなるの？&lt;/h3&gt;
 &lt;p&gt;例えばインターネット… OSがないと，複雑で難解なネットワーク通信を自分で制御しなければならず，ネットサーフィンするのも一苦労です．&lt;/p&gt;
-&lt;div align=&quot;center&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 180px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 180px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -202,20 +217,32 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
 &lt;p&gt;例えば，アプリケーションを使うとき… WordやExcel，ゲームやWebブラウザを同時に使えなかったり，フリーズしたり快適に動作しなかったりします．さらに，システム攻撃や情報漏えいに対して無防備になります．&lt;/p&gt;
-&lt;div align=&quot;center&quot;&gt;
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 190px; margin-left: 0&quot;&gt;
-      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 104.43037974683544%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEa0lEQVQ4y3WVfUxVdRjHj7yuZTrTtNqyrD+yNZy1ZuWK5pqrObOtKabhCxioSU6wlrNm7maKAeryJSYgmBaDgQt5kYuAL2goIHS5CCSXC5JUIApcL3C5957fp9895164uPU799lzzvP7Pd/7fV7OcxS8SwgxQT+8PPb/2Zrgo/gDaffy53AN09BTTWNvLebeOv613/G5Mjji5tbdETruObD2OXCpfkSkKP5gqrw867c/s9h5MZrokvd489QstpVHjDHYe/4OyRe6KTT38XVhB4VN9zS7WwMW4ww9a8RmlzuQaj5MqSWbby5t4JWTU9lcvEjaByRzwbGqLnLqeshtsfGjyU6x+W/NV/UxFF7Kf+TVkRGXj2lVEhmfvs6m+ihq71zk56ajbC1ZjGpvYdTp5FhFC6c7BKX5VzgXZ6C4vU8HlDieS1FVPcyKI1Vc+Owo6uTHZGYVjkbNwGCK59fmVFKvb5P0myWDUZJq2slOK4UnZ+GS57r279dz6HRpaVN84V45cRV3WJgGJoJDND0Q+z69pu2oxnAoXgjXP8SREsFwQKh+TgqhUne2eWumonQO9vPFjQoyDhRxafFO7EE6Q3dQgKZZMAUKPkCUv4VYrui2SZM0MI+oi9cifipHZFcjHoyglHZZSLh2nqz6WjKrTKScysI2d7bmqIYE6Y5vzENESlBFPgd6bUGBiM0GRFEzIr8Wse8swtKDYvxL5qStiY1VRSSbf+dIewPWWznwznxULfzAMTYicJIe6tOPo+alIOpuI3r7ZWpHEQ0dCGsvSmV3B+sqC8hsNXPAdIPYslzsjgrISUR9ZIoXKEBn5Ll/Zibcln94rxx34lnUxHOoBskusQTRLhmOynJXWK9hvJmDseUM1eZ87g9X49y7VbKRuQqQrDwi8+ZhzORQGuJjaLQUQ62sdkkJGIug0igr7RyvMqNNOLsKOFnehDF+D66Q4LFQ3X7ieR6Wci18Hmdy11FzdTc9llTcrtbxd9nl1pv7dn839TEJ4y3hlbu7Yji4Q/bbC8/pttBgTdfMVPg27mXiN71ESuL3OiC+oeDp9tiNOlhQkKaHlGAcWbtwDFfw2v4iVmw/QePUp7Q9Z4jeq+5X57Mtei3Jhw77TRv5tmiQG6LGmNmnzaAgKZ2+/sswWMye4wcJSzxPTNplut9+d4x92+RpxK2OxjY05GWoNbjqHU5Sli6Fuc8yZDpN//1KWU0jD9rSyTOeJNviwlBvY0VZH4WLIhicNZsly9ZTYCzT/F1utx6yPyg2G2Lgvrzphl5ZvYECsvMMLMu9xcJfOpl7vJU56RZePNXNgoRMNid8pVER3jE4IYfCF7pnvrm0rNJak8G8H/KZmtbH9NQOnjhmYfqhZh492ErYii3crKvRz0t2YyE//AkQqr45NDTC8pVrmBP+Ec9H7mLa51kE7ChD2ddCqBxzKd8ZJoBNmDZ+Hwh8I81qtbImMoqoyDVErfqY9as/YeXaGJZs2c26LV/S8493uPpqIH3/AzUdHfM8sN34AAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;system2&quot; title=&quot;system2&quot; src=&quot;/openlab-site/static/a1a089214e7a369687fda6f0fd9952fe/a2d4f/system2.png&quot; srcset=&quot;/openlab-site/static/a1a089214e7a369687fda6f0fd9952fe/c26ae/system2.png 158w,
-/openlab-site/static/a1a089214e7a369687fda6f0fd9952fe/a2d4f/system2.png 190w&quot; sizes=&quot;(max-width: 190px) 100vw, 190px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-    &lt;/span&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 190px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 104.43037974683544%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEa0lEQVQ4y3WVfUxVdRjHj7yuZTrTtNqyrD+yNZy1ZuWK5pqrObOtKabhCxioSU6wlrNm7maKAeryJSYgmBaDgQt5kYuAL2goIHS5CCSXC5JUIApcL3C5957fp9895164uPU799lzzvP7Pd/7fV7OcxS8SwgxQT+8PPb/2Zrgo/gDaffy53AN09BTTWNvLebeOv613/G5Mjji5tbdETruObD2OXCpfkSkKP5gqrw867c/s9h5MZrokvd489QstpVHjDHYe/4OyRe6KTT38XVhB4VN9zS7WwMW4ww9a8RmlzuQaj5MqSWbby5t4JWTU9lcvEjaByRzwbGqLnLqeshtsfGjyU6x+W/NV/UxFF7Kf+TVkRGXj2lVEhmfvs6m+ihq71zk56ajbC1ZjGpvYdTp5FhFC6c7BKX5VzgXZ6C4vU8HlDieS1FVPcyKI1Vc+Owo6uTHZGYVjkbNwGCK59fmVFKvb5P0myWDUZJq2slOK4UnZ+GS57r279dz6HRpaVN84V45cRV3WJgGJoJDND0Q+z69pu2oxnAoXgjXP8SREsFwQKh+TgqhUne2eWumonQO9vPFjQoyDhRxafFO7EE6Q3dQgKZZMAUKPkCUv4VYrui2SZM0MI+oi9cifipHZFcjHoyglHZZSLh2nqz6WjKrTKScysI2d7bmqIYE6Y5vzENESlBFPgd6bUGBiM0GRFEzIr8Wse8swtKDYvxL5qStiY1VRSSbf+dIewPWWznwznxULfzAMTYicJIe6tOPo+alIOpuI3r7ZWpHEQ0dCGsvSmV3B+sqC8hsNXPAdIPYslzsjgrISUR9ZIoXKEBn5Ll/Zibcln94rxx34lnUxHOoBskusQTRLhmOynJXWK9hvJmDseUM1eZ87g9X49y7VbKRuQqQrDwi8+ZhzORQGuJjaLQUQ62sdkkJGIug0igr7RyvMqNNOLsKOFnehDF+D66Q4LFQ3X7ieR6Wci18Hmdy11FzdTc9llTcrtbxd9nl1pv7dn839TEJ4y3hlbu7Yji4Q/bbC8/pttBgTdfMVPg27mXiN71ESuL3OiC+oeDp9tiNOlhQkKaHlGAcWbtwDFfw2v4iVmw/QePUp7Q9Z4jeq+5X57Mtei3Jhw77TRv5tmiQG6LGmNmnzaAgKZ2+/sswWMye4wcJSzxPTNplut9+d4x92+RpxK2OxjY05GWoNbjqHU5Sli6Fuc8yZDpN//1KWU0jD9rSyTOeJNviwlBvY0VZH4WLIhicNZsly9ZTYCzT/F1utx6yPyg2G2Lgvrzphl5ZvYECsvMMLMu9xcJfOpl7vJU56RZePNXNgoRMNid8pVER3jE4IYfCF7pnvrm0rNJak8G8H/KZmtbH9NQOnjhmYfqhZh492ErYii3crKvRz0t2YyE//AkQqr45NDTC8pVrmBP+Ec9H7mLa51kE7ChD2ddCqBxzKd8ZJoBNmDZ+Hwh8I81qtbImMoqoyDVErfqY9as/YeXaGJZs2c26LV/S8493uPpqIH3/AzUdHfM8sN34AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;system2&quot;
+        title=&quot;system2&quot;
+        src=&quot;/openlab-site/static/a1a089214e7a369687fda6f0fd9952fe/a2d4f/system2.png&quot;
+        srcset=&quot;/openlab-site/static/a1a089214e7a369687fda6f0fd9952fe/c26ae/system2.png 158w,
+/openlab-site/static/a1a089214e7a369687fda6f0fd9952fe/a2d4f/system2.png 190w&quot;
+        sizes=&quot;(max-width: 190px) 100vw, 190px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&quot;システムソフトウェアを研究して，いいことあるの？&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E7%A0%94%E7%A9%B6%E3%81%97%E3%81%A6%EF%BC%8C%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%82%E3%82%8B%E3%81%AE%EF%BC%9F&quot; aria-label=&quot;システムソフトウェアを研究して，いいことあるの？ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;システムソフトウェアを研究して，いいことあるの？&lt;/h3&gt;
 &lt;h4 id=&quot;いいことその１：ブラックボックスの解明&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE%EF%BC%91%EF%BC%9A%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E8%A7%A3%E6%98%8E&quot; aria-label=&quot;いいことその１：ブラックボックスの解明 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;いいことその１：&lt;strong&gt;ブラックボックスの解明&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -239,15 +266,28 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;WindowsやMac，Androidなど，システム内の動作や仕組みを理解できるため，システムやアプリケーションのチューンナップ，エラー発生や動作不安定の原因究明に役立ちます．&lt;/p&gt;
 &lt;h4 id=&quot;いいことその2：最新技術研究とのコラボ&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE2%EF%BC%9A%E6%9C%80%E6%96%B0%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%81%A8%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C&quot; aria-label=&quot;いいことその2：最新技術研究とのコラボ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;いいことその2：&lt;strong&gt;最新技術研究とのコラボ&lt;/strong&gt;&lt;/h4&gt;
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png&quot; height=&quot;250&quot;&gt;
-  &lt;img src=&quot;https://illustimage.com/photo/4973.png&quot; height=&quot;180&quot;&gt;
-&lt;/div&gt; &lt;br&gt;
-&lt;p&gt;IoT（Internet of Things）やビッグデータ，クラウドコンピューティングといった最新技術に触れることができる．&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;&lt;tr&gt;
+    &lt;td width=&quot;180&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 122.15189873417722%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAYCAYAAAD6S912AAAACXBIWXMAAAsSAAALEgHS3X78AAAGU0lEQVQ4y02VCXATZRSA/wBCGUedUVFBS4FeFGigpYit5ZBjdPBkECuMDIOggoKilHGGetuRUcTBDmUcR4pgtW2OJmnapmd6kjQ90iO9cjTJNklzbK62ljbZzf/c3dTqm/n3/f/ue9++9/7376JzqiCCfsTJHc1VJOks5KH/SYUePXSjDiV9ICnm13cgPgCKWXh4GFBJz8UF+65RZgrDpdyiQJKPgLFm5WcdWtqsWrW1uKPkXLGq5Zh9wiK3k0Gr0VJfd0met33H9Q9XXq5GjzDmi1h7WWMvb941Kr/Wn+Xekv4DWva1Qr+2WNWT4yGdFqApmLsXDsP/xOjw6zw+/xBBdP12pODqk+ijdxYiprzM5VtVHwfbIw081W003NTabLY+h2sOM86euTnsC4cgRNOUlvREAHCEhXoxBmJmDkxO34DROlxaq9weyzJeLPo3zIrjS+90jJ5mjT/t64bTqhYoHNZFvtJ24XLLGO7zkvhDVRsU6Yfx+3dbIufV7XR+Xw99oVcDQ7MRMFkaBI/fQg9wLLZuMSVoSWOv/hwLzO24C6dbm6jCIV0kV3OXvqbrp3u9JH1Ro6K/0XbRn3V30H+ZDBGh2UTndXfMNPg8YHcFmh779cuVUaA5GmSZ+r2n9WN1bUO2iSnfXBhmwhFwzYZgisbApm+fY1LH0TqyRf2bouBeCCAwOQnV/fpv9tej5RzopjaN02EnWlrViVLEndpTZsI+5HDYDITZUKQ3mPLddlun3+lqahmw5BMEIXM4PbZ+g/N3db/4QpHGex5dg+VHDbBoYZdv96ZzehqA913XJf5V5coNiwtgxRMlxIGHS+FybOnsX6vLPMXp8uCVVxRjOfWaNanKfrRZNIDiL3ef2Wg1o4dZf6HuVYQ0wzz0bw8NGFcsn6hCS7zkWy+rx462FfQWQF5vHRxtVwO/ZhJSayjYIgtAhtxde1IpPgCTaLHbhB5sH4p5iPUfHJ2PUDOCuNYpqkf3jVizLhmI/WGXfzeM25/B5EQqTdi20tnyHnqVMERf78nDrfZ3QDF6jjARGR819KEk1lc9FGWgbj1v4YQMmFadMBC7IyZHJgxZ0sPDlqdxl2kvHGusxrECD14tCMLnqkJsJhLCdicfRqw7wTT+3GHW1zi+J1pDrWEZR27RoW0DpsTpMftOGDRvow1WPvRbXsD7qnX4UG0NpMsssEbkw3HCWZzT0AZGIjvk9D8Lg5Ys6bqL0SOoHlnCkg9yC6M5Jn/cnQ46cyY1RmTgUWsmLuj5Hr9RVw157T9BioSEBBEJG8rdeI3wb5zbdhMbrWlgGc+gDUT2Tpbhdh3nIeVIFge8ovn+z76JF2DCtpZq0ufgK50/4lPNCqgcPgYHa9sgVjADSSI3rBeTkCL24CdLp/FLiiZaZjoPemL/L9ymBIE3f1qeWRQrgtYvtHegbOAkvatqBDKkVvhMfRteq1VBnCAAm6QkJJV7uSiTmcHAmfRnqPXVFOyrGhZxoBvzvfh1FxnHlwUHzqgq4d3mavrn7nycKApAPDuEfthYTjJzL6wVehlNcmNTOYkZKBVfOQtpsilZFNTDQyv/bOXC3CzxVb2taocjDXLqaGMtTiwPYqZenHOy2APJQgeT7gSsYaAJYhInM8AEsZeOl8/AtgryBgcsdPJQqsSxmJ2nSkMXznY2Myk2U7uq9Pil2h6mTaaYerngKWGIicgIBxUCrn7JDDCJAa4TkXRixTTsU/g/YRnLbrt4aK8iyOX9WoM/JUE0dW+tMAhbpbZIPBPJ2eYyrDXtwhfa/oDjjaVwqL4Rry+fxHECP1MKD50o9gNf4p3+QDWVyTJ2V/t46N0WP0K/Obi0d1aShZsaMFN0T3hFyUzk0t1b2GOPBQsRj932BKzUH4Idci1srxikEsUBppV8TBt5X5//qKKP1dMInWIuOcoAd6vSPHv/Zqn3j+SqWUiSBBnwBHWiUUh9pb5Gq437acFgLrVDPkLtaTBDclUItlaQXKro0RaUq5mOcrPkPk7vVfgX/l5bJN6P06Te6S01c5BaCxAnA8iqccDLrW7YXINhfXnQlF1JvsnaZlf6Fh9WBjm/Ey2TCJ1um0KZ89Dna/6D8qW+1Wky7xdpMldZvMDZvE4YUKaIgwJmk86g6/0xURvPIvS+ibNfctvN6X8AlHU08oFSunoAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;bigdata&quot; title=&quot;bigdata&quot; src=&quot;/openlab-site/static/93c330a3b894a1c1d166d761793ff971/f058b/bigdata.png&quot; srcset=&quot;/openlab-site/static/93c330a3b894a1c1d166d761793ff971/c26ae/bigdata.png 158w,
+/openlab-site/static/93c330a3b894a1c1d166d761793ff971/6bdcf/bigdata.png 315w,
+/openlab-site/static/93c330a3b894a1c1d166d761793ff971/f058b/bigdata.png 630w,
+/openlab-site/static/93c330a3b894a1c1d166d761793ff971/ae6b7/bigdata.png 655w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+    &lt;/span&gt;&lt;/td&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 480px; &quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAERklEQVQ4y72Ue1BUdRTHf6zKlHZ1hrEmJ2XIdMYsGxuoGYcZm+hB+cxXEqQZkgKCBEECsUkuiDykWidSZqxEQ1YkYGwUEQQZYV1gl2WRXfYFCwvLPlh2rywPA36nsxfZtLE/mmn6/fP7/e695zPne7/nHEL+zxXTbOZ2vtpBou8Mkv23+klYdS/ZeaWbe777ag/ZUdn9z4DjxhFuzzWPkmM9LOFrHdw9tsXCe/i7D8p1vE2XtNx582UtCf6161FQvm2M5CDEvU7i+cSAa056t5OXrLTPiZNaPbCDjaaFmKX37H2DSOPl3oPOKR8F5llmYN/axx+beZzUsjFKPCgJr+93hlb1dm+v1PPDqgzcu02l2sfLzbOOec7ZJlc4Sr70lXo4JaHNuv+wbAiipSzsre2HkKp+2FXrhOBidYH7261lOq/3itV/gXIGXRwMZXLSci2jR4XjAMctFPiG+5CgcEBk0yDsu2mcDLlmoNvK9VPvl6hp0DkVBBbeXeuOWX+2k1cwMkmWfyOZgeY+kFzg+mMegs2CvlFIUdrvY3aTMRLzNP43+nF1L3x4pZtuLtXSd853Ta3/RQvrTndsdcetyZN5/91dLrvsQZefoPcey9exkKQYolESMw2tM9KwG32wA2FBF9X0rQtd9M2flXTdGSW8+l2bYEVGM+OOfS61iTOInDB5pIYgePhrnZMmd9rpoVYLTZFa4KLWARV6J5SpHVDYZoXdpVp4/UcFBJxqp2tOymGFoNmxLE0c4mYsTRPzZkvFP8c8BpmmCUhVDU8fxkC+3ApN5lEoR5hIPQzFnXY4r7DBda2DbilSwepcKazKapn2E8jg2RQx+MQ3+D9kzKgw/x5AmsYxkdQxBFjINLLRRNNbzHC1h4Wiu0Pwk9wGZUo7hJfpaIBQTl/MbqXLj0koSp1YnCoHJrZe6AFmGkeKs9DVI532yc9lVoo1Rz+pMwK6CskNA1CpccBvqmE4UKEHf6EcVudIYWVGM13GF9Nnvrw9uSixBZ6IvFnsAabrnamZVoAEuW38ELoa0TBA99zoo9izFAuXxl/vpdF4fu2HdvpKvoyuymqlfkfv0CXJjdModXx+vAzmRtSkeoBohA9K1RzRTcFBsQX21ZuwgI2wvdIAwSU6ePeCBt44q4K1QgW8lCeHFzJaYWmaBBYnNQGT2AbzPqvVkL3VPhzsi3Yb5wxK9cWJIsL2soZWGVhsL+dGkYZ9u0jFYgGz/qfkLNYbuzKzmfXli50olV0Ud8uKUkW88BpfNwOznHE5UWHzDIA9NX0Ldv3ew2y5rGVwijDYBUzg6Q4m4Hs5g64yz6dLmCUpjQxKZZ6MqlswG+eBoaPkQYZe2Ble/3Zmzo+u85obUcvFeR+oJSQKByfKnB1P5NM6I/nomoFsq9CTDSUaHE0qEljYQdBd8nKulGBnECxk8nTSbbIwtp6gZC72qZj6GeB/vf4E3kKQumkV3pYAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;cloud&quot; title=&quot;cloud&quot; src=&quot;/openlab-site/static/612ff2708dc55200ee749fea1520ce84/e85cb/cloud.png&quot; srcset=&quot;/openlab-site/static/612ff2708dc55200ee749fea1520ce84/c26ae/cloud.png 158w,
+/openlab-site/static/612ff2708dc55200ee749fea1520ce84/6bdcf/cloud.png 315w,
+/openlab-site/static/612ff2708dc55200ee749fea1520ce84/e85cb/cloud.png 480w&quot; sizes=&quot;(max-width: 480px) 100vw, 480px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+    &lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;IoT（Internet of Things）やビッグデータ，クラウドコンピューティングといった最新技術に触れることができます．&lt;/p&gt;
 &lt;h4 id=&quot;いいことその3：pcやスマホの眠れる力を呼び覚ます&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE3%EF%BC%9Apc%E3%82%84%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E7%9C%A0%E3%82%8C%E3%82%8B%E5%8A%9B%E3%82%92%E5%91%BC%E3%81%B3%E8%A6%9A%E3%81%BE%E3%81%99&quot; aria-label=&quot;いいことその3：pcやスマホの眠れる力を呼び覚ます permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;いいことその3：&lt;strong&gt;PCやスマホの眠れる力を呼び覚ます&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 266px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 266px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -265,7 +305,7 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;PCやスマホの性能を引き出し，新たな機能を創造できる．&lt;/p&gt;
+&lt;p&gt;PCやスマホの性能を引き出し，新たな機能を創造できます．&lt;/p&gt;
 &lt;h3 id=&quot;こんな人にオススメ&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%81%93%E3%82%93%E3%81%AA%E4%BA%BA%E3%81%AB%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1&quot; aria-label=&quot;こんな人にオススメ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;こんな人にオススメ&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;コンピュータやプログラムが動いている裏側を知りたい！&lt;/li&gt;
@@ -284,19 +324,32 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;div align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&amp;amp;usqp=CAU&quot; height=&quot;35&quot;&gt;
-  &lt;u&gt;
-    &lt;span style=&quot;font-size: 250%;&quot;&gt;
-      &lt;b id=&quot;topic2&quot;&gt;&amp;#x7814;&amp;#x7A76;&amp;#x7D39;&amp;#x4ECB;&lt;/b&gt;
-    &lt;/span&gt;
-  &lt;/u&gt;
-&lt;/div&gt; &lt;br&gt;
+&lt;div class=&quot;topic&quot;&gt;
+  &lt;table class=&quot;title&quot;&gt;
+    &lt;tbody&gt;&lt;tr&gt;
+      &lt;td width=&quot;75&quot; height=&quot;auto&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 144px; &quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 115.97222222222221%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHcyrcCNREZFyZ1aFz/AP/EABsQAAICAwEAAAAAAAAAAAAAAAIDAREABBIj/9oACAEBAAEFAjmgVLA2M2LItqPNRdrYvrKMsGKj/8QAFREBAQAAAAAAAAAAAAAAAAAAEBL/2gAIAQMBAT8BKP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBES/9oACAECAQE/AYwhKj//xAAfEAACAgEEAwAAAAAAAAAAAAABAgAREAMSQWEiMTL/2gAIAQEABj8CY9RAzfV4TT4PubgaKmxFY8iGeQWusf/EABsQAQEBAAMBAQAAAAAAAAAAAAERACFBYRAx/9oACAEBAAE/IWMYimoGAPi7J1+HWoORxcoiNEyEPIt/dVDel3Bb/9oADAMBAAIAAwAAABBXAIH/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREQQf/aAAgBAwEBPxDmVUN11n//xAAYEQEBAQEBAAAAAAAAAAAAAAABESEAEP/aAAgBAgEBPxBtI55kld4AB3//xAAhEAEAAgEDBAMAAAAAAAAAAAABABFBITFhEFFx4YGRof/aAAgBAQABPxAiSZOGtIhh+MNAnz76CETmZL+z+EGtUbsfcV6d2DmCXhlERs1xDTBNkS82bRxbefE//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;tux&quot; title=&quot;tux&quot; src=&quot;/openlab-site/static/38aa4d5a849c0a2a4b8c4e0f1aaa076b/56357/tux.jpg&quot; srcset=&quot;/openlab-site/static/38aa4d5a849c0a2a4b8c4e0f1aaa076b/56357/tux.jpg 144w&quot; sizes=&quot;(max-width: 144px) 100vw, 144px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+    &lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;span&gt;
+          &lt;b id=&quot;topic2&quot;&gt;&amp;#x7814;&amp;#x7A76;&amp;#x7D39;&amp;#x4ECB;&lt;/b&gt;
+        &lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;hr&gt;
 &lt;h3 id=&quot;動的解析にもとづくlinux-kernel-tinification手法&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%8B%95%E7%9A%84%E8%A7%A3%E6%9E%90%E3%81%AB%E3%82%82%E3%81%A8%E3%81%A5%E3%81%8Flinux-kernel-tinification%E6%89%8B%E6%B3%95&quot; aria-label=&quot;動的解析にもとづくlinux kernel tinification手法 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;動的解析にもとづくLinux Kernel Tinification手法&lt;/h3&gt;
-&lt;p&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; margin-left: 0&quot;&gt;
+&lt;table class=&quot;author&quot;&gt;
+  &lt;tbody&gt;&lt;tr&gt;
+    &lt;td width=&quot;100&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABy80RZtYxSJYB/8QAGxAAAgIDAQAAAAAAAAAAAAAAAhEBAxIgISP/2gAIAQEAAQUCEvKJVVZIHx8y0//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAgEBPwFnf//EABUQAQEAAAAAAAAAAAAAAAAAABEw/9oACAEBAAY/AiP/xAAZEAEAAwEBAAAAAAAAAAAAAAAAARExIXH/2gAIAQEAAT8ho8HNRxQjNOLC1rf/2gAMAwEAAgADAAAAEHswAf/EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPxAjf//EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAECAQE/EGD/xAAaEAADAQEBAQAAAAAAAAAAAAAAARExIUFR/9oACAEBAAE/EGuR+i590Y993SD0cQUIriKhUGx//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;    &quot; title=&quot;    &quot; src=&quot;/openlab-site/static/387204bcacaf3fcb96f42316274a2f94/b9e9c/%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93.jpg&quot; srcset=&quot;/openlab-site/static/387204bcacaf3fcb96f42316274a2f94/b9e9c/%E9%9B%AB%E7%9F%B3%E3%81%95%E3%82%93.jpg 100w&quot; sizes=&quot;(max-width: 100px) 100vw, 100px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-    &lt;/span&gt;雫石 卓耶（高度ICT領域・修士2年）&lt;/p&gt;
+    &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;name&quot;&gt;&lt;b&gt;&amp;#x96EB;&amp;#x77F3; &amp;#x5353;&amp;#x8036;&lt;/b&gt;&lt;br&gt;&amp;#x9AD8;&amp;#x5EA6;ICT&amp;#x9818;&amp;#x57DF;&amp;#x30FB;&amp;#x4FEE;&amp;#x58EB;2&amp;#x5E74;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
 &lt;ul&gt;
 &lt;li&gt;スマート家電や自動運転車等のIoTの発展にともない，高機能化した組み込み機器のソフトウェアインフラとして Linux が注目されている&lt;/li&gt;
 &lt;li&gt;当初，多機能なPC向けに開発されたLinuxは，組み込み用OSとしてはリソース消費量(メモリ使用量や電力消費量)が多いという課題がある&lt;/li&gt;
@@ -305,7 +358,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -328,10 +381,15 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;h3 id=&quot;ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A9%9F%E8%83%BD%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%AE%E5%88%86%E6%95%A3%E9%85%8D%E7%BD%AE%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%9C%80%E9%81%A9%E5%8C%96%E6%A9%9F%E6%A7%8B&quot; aria-label=&quot;ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構&lt;/h3&gt;
-&lt;p&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; margin-left: 0&quot;&gt;
+&lt;table class=&quot;author&quot;&gt;
+  &lt;tbody&gt;&lt;tr&gt;
+    &lt;td width=&quot;100&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAaMfWxFQ0AhIWwZv/8QAGxAAAgIDAQAAAAAAAAAAAAAAAQIAEQMSIjH/2gAIAQEAAQUCIyEurK+sPTUZzM5p3Y2PP//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABYRAQEBAAAAAAAAAAAAAAAAAAARQf/aAAgBAgEBPwGRWI//xAAeEAACAQMFAAAAAAAAAAAAAAAAARECECESMUFRof/aAAgBAQAGPwKrjX2Q7OtvC2JcmT0Vv//EABwQAAICAwEBAAAAAAAAAAAAAAABESExQVGBof/aAAgBAQABPyGhoQ8EhpRTY6pEaTnRuqh9EoUsY1J1oTnDMB//2gAMAwEAAgADAAAAEFjwQf/EABgRAAMBAQAAAAAAAAAAAAAAAAABITER/9oACAEDAQE/EE5dKPWcP//EABkRAAIDAQAAAAAAAAAAAAAAAAABEBFRMf/aAAgBAgEBPxBpwUyFMP/EAB8QAQADAAIBBQAAAAAAAAAAAAEAESExUUFxscHh8P/aAAgBAQABPxBXUEKgsVb3XELv4xNA+IUahdhB6CZTy9cnKvRpbV+zDUcHdyjsQxxXW5VaIch+6m2eU+p//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;zuya&quot; title=&quot;zuya&quot; src=&quot;/openlab-site/static/3be58cfc0f1dfe123886023c4c83380d/b9e9c/zuya.jpg&quot; srcset=&quot;/openlab-site/static/3be58cfc0f1dfe123886023c4c83380d/b9e9c/zuya.jpg 100w&quot; sizes=&quot;(max-width: 100px) 100vw, 100px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-    &lt;/span&gt;大野 和也（知能システムコース・学部4年）&lt;/p&gt;
+    &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;name&quot;&gt;&lt;b&gt;&amp;#x5927;&amp;#x91CE; &amp;#x548C;&amp;#x4E5F;&lt;/b&gt;&lt;br&gt;&amp;#x77E5;&amp;#x80FD;&amp;#x30B7;&amp;#x30B9;&amp;#x30C6;&amp;#x30E0;&amp;#x30B3;&amp;#x30FC;&amp;#x30B9;&amp;#x30FB;&amp;#x5B66;&amp;#x90E8;4&amp;#x5E74;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
 &lt;ul&gt;
 &lt;li&gt;ロボットのシステム開発にRobot Operating System（ROS）の利用が拡がっている&lt;/li&gt;
 &lt;li&gt;ROSではノードと呼ばれるロボットの機能モジュールを組み合わせることで，ロボット制御システムを構築&lt;/li&gt;
@@ -340,7 +398,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -363,10 +421,15 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;h3 id=&quot;ロボット制御システムにおけるoss機能モジュール向けサンドボックスの実現&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8Boss%E6%A9%9F%E8%83%BD%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%90%91%E3%81%91%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E5%AE%9F%E7%8F%BE&quot; aria-label=&quot;ロボット制御システムにおけるoss機能モジュール向けサンドボックスの実現 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ロボット制御システムにおけるOSS機能モジュール向けサンドボックスの実現&lt;/h3&gt;
-&lt;p&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; margin-left: 0&quot;&gt;
+&lt;table class=&quot;author&quot;&gt;
+  &lt;tbody&gt;&lt;tr&gt;
+    &lt;td width=&quot;100&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIEBQP/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAAB6SqgthkGaUgUphz/AP/EAB0QAAIBBAMAAAAAAAAAAAAAAAABAgMREhMUISL/2gAIAQEAAQUCjJmCZD1F1VA25HMsR7Kzsj//xAAVEQEBAAAAAAAAAAAAAAAAAAAQQf/aAAgBAwEBPwEh/8QAFxEBAAMAAAAAAAAAAAAAAAAAABARQf/aAAgBAgEBPwFTY//EAB4QAAIBAwUAAAAAAAAAAAAAAAABEQIxYRASIVGh/9oACAEBAAY/AouNpw8MlGTohU+m53k40//EABsQAQADAQADAAAAAAAAAAAAAAEAESExQWHB/9oACAEBAAE/IVfeDFLdggtPGyoz2JQUlIV8BhUavRSJTghP/9oADAMBAAIAAwAAABDryML/xAAWEQEBAQAAAAAAAAAAAAAAAAABABD/2gAIAQMBAT8QCVnH/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/ECG//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFRQWGB/9oACAEBAAE/EGsW6dV98QAwolK+cRCaGnFpzGAW8Q1esg+27VE2Htdyizuqj5AK/R69wlsZk4T/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;    &quot; title=&quot;    &quot; src=&quot;/openlab-site/static/a2f47c5bc6e4c04106a2e48bedbdf9cb/b9e9c/%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC.jpg&quot; srcset=&quot;/openlab-site/static/a2f47c5bc6e4c04106a2e48bedbdf9cb/b9e9c/%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC.jpg 100w&quot; sizes=&quot;(max-width: 100px) 100vw, 100px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-    &lt;/span&gt;瀧本 恒平（知能システムコース・学部4年）&lt;/p&gt;
+    &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;name&quot;&gt;&lt;b&gt;&amp;#x7027;&amp;#x672C; &amp;#x6052;&amp;#x5E73;&lt;/b&gt;&lt;br&gt;&amp;#x77E5;&amp;#x80FD;&amp;#x30B7;&amp;#x30B9;&amp;#x30C6;&amp;#x30E0;&amp;#x30B3;&amp;#x30FC;&amp;#x30B9;&amp;#x30FB;&amp;#x5B66;&amp;#x90E8;4&amp;#x5E74;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
 &lt;ul&gt;
 &lt;li&gt;様々な分野においてロボットの活用が拡大しており，ロボットシステムの開発にRobot Operating System(ROS)を用いる機会が増加している&lt;/li&gt;
 &lt;li&gt;ROSでは，ノードと呼ばれる機能モジュールを複数組み合わせることでシステムを構築し，オープンソースソフトウェア(OSS)として公開されているノードを活用することでロボットシステムの開発効率向上を図っている&lt;/li&gt;
@@ -375,7 +438,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -398,10 +461,15 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;h3 id=&quot;編集履歴にもとづいたイラストデータの透過的圧縮機構の実現&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E7%B7%A8%E9%9B%86%E5%B1%A5%E6%AD%B4%E3%81%AB%E3%82%82%E3%81%A8%E3%81%A5%E3%81%84%E3%81%9F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E9%80%8F%E9%81%8E%E7%9A%84%E5%9C%A7%E7%B8%AE%E6%A9%9F%E6%A7%8B%E3%81%AE%E5%AE%9F%E7%8F%BE&quot; aria-label=&quot;編集履歴にもとづいたイラストデータの透過的圧縮機構の実現 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;編集履歴にもとづいたイラストデータの透過的圧縮機構の実現&lt;/h3&gt;
-&lt;p&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; margin-left: 0&quot;&gt;
+&lt;table class=&quot;author&quot;&gt;
+  &lt;tbody&gt;&lt;tr&gt;
+    &lt;td width=&quot;100&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAAEB0lEQVQ4y4VUSUgkVxiustslrhFcLjI2LqBjUMxBJAfpbpdGBEdHFLwEDzImghOhPeSgILhGjHE/qYPOuCujGA+KehAEERXBpd2XqLjbijROrKr35/8r1T06I8yDqv+9qv997/v+5XGcMtzd3WULAGR4evn4+GgcHR2NarX6g0ql+tvBwaEG/aKtezw9PWU/FxcX7qvh5ORkndrRC0F+RnNPZzzz/Gl19vDwkK2zs/PXoPb29jIYstHjqRAaGgoREREPyErAtRgeHv4QFRUlIfPHoHYBAQFPgQjdy8vLtuZ5fhbBITIy8sFgMEBWVhbLyclhGRkZ9E1C6Qx9ACW/VPbbJSQk2NhyeXl5trh5e3v/gEZEEFhbW2NnZ2fMYrGwm5sbOD09ZaurqxAfHy+QdIxvtsJBRa/09PTPLKOjo9VkXV1dtb6+vrCwsCCJosgwSfRYh7yenJwU/Pz8ICgoqJj2XF1d8U8kJyYmWj98X1VV9SE1NRUmJiaktrY2NjU1ZUO7vLyEzs5OVlZWxpKTk2FsbOz6LxzW6oiNjZUlcgcHBzLl1tbWMpQHOp3u0/HxMaAEKCwslCXv7OwwBGRarZZVV1cDHiqQ7/7+vkgVRPvxG89pNBquo6NDzm5fX5+upKTkU21tLRESCIQ2ra+vs8XFRXZ/fw+bm5vyP2KPaqTR0dHfFYY8Kv0sOyUlRaVM3xQXF0uP44YK4PDw0BZDmvT09FDpyElpaGjgnytsmWVwcLArGm1jY+O7paUlYXd3F46Ojtj5+TkBs9nZWcDQTGHiDFT/jzEwrty3xi/IFsbHxwXMrDQyMgJ6vX7f+lNpU3lQQp5IRoZ6MoojseWHhoZ6FNkiJYbk3t7egtFo/I385ufnZVX+/v5cYGDg/0AoS7YxMTGm3NzcOusBmJwuQqqpqREHBwcZDigoKGAbGxtwcXFBTLPILz8/3x6zryotLbXjHrHh6urqKtvb200KnjeyuzGbzQQohYWFAdUe9fb29rZAmcbSef9lfND/aXKam5sX3dzcfsRSaD45OaFNF8QyLi6O4e1DHQKYHLGiouJYEATA3jaEhIT4I5k+rEGdDai/v1+lyPyju7v7GmWZ09LScoaHh+U2wbIQsSUphiKtMzMzc+fm5j7OzMxct7S0rGCLwsDAgAUTo+HwErDJbmpqGqAN6DhKa2y7E1rjIRJeYwQo0Lq8vNyIv190dXVRpwBeIBaTyQRY7G+5pKQkrre3VwbEoL/C+T8Y6De0LioqGiTpyFjEywL29vYYHgaY0Z+ys7PjsZdheXlZwDYVsLSgsrLyLfdMTakx49/RpL6+/ldidHd397C1tfUvzTEhd/jLDevzNbYqYPyElZUVmJ6eNuNFHPgf+f6ZncdMS/QAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;    &quot; title=&quot;    &quot; src=&quot;/openlab-site/static/8e8b82bf424507b906c70ae9396b8279/7e516/%E3%82%88%E3%81%A3%E3%81%97%E3%83%BC.png&quot; srcset=&quot;/openlab-site/static/8e8b82bf424507b906c70ae9396b8279/7e516/%E3%82%88%E3%81%A3%E3%81%97%E3%83%BC.png 100w&quot; sizes=&quot;(max-width: 100px) 100vw, 100px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-    &lt;/span&gt;吉川 綾乃（高度ICTコース・学部4年）&lt;/p&gt;
+    &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;name&quot;&gt;&lt;b&gt;&amp;#x5409;&amp;#x5DDD; &amp;#x7DBE;&amp;#x4E43;&lt;/b&gt;&lt;br&gt;&amp;#x9AD8;&amp;#x5EA6;ICT&amp;#x30B3;&amp;#x30FC;&amp;#x30B9;&amp;#x30FB;&amp;#x5B66;&amp;#x90E8;4&amp;#x5E74;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
 &lt;ul&gt;
 &lt;li&gt;ペンタブレット製品等の普及により，コンピュータを使って描くデジタルイラストが一般的になった&lt;/li&gt;
 &lt;li&gt;イラストでは制作過程で別名保存していくことでバックアップを取ることが多いが，そのためローカルストレージが圧迫される&lt;/li&gt;
@@ -410,7 +478,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -433,10 +501,15 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;h3 id=&quot;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%8B%95%E7%9A%84%E9%81%A9%E5%BF%9C%E6%80%A7%E3%82%92%E6%8C%81%E3%81%A4%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%8A%B6%E6%85%8B%E5%8F%AF%E8%A6%96%E5%8C%96%E6%89%8B%E6%B3%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6&quot; aria-label=&quot;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究&lt;/h3&gt;
-&lt;p&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; margin-left: 0&quot;&gt;
+&lt;table class=&quot;author&quot;&gt;
+  &lt;tbody&gt;&lt;tr&gt;
+    &lt;td width=&quot;100&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABYlAAAWJQFJUiTwAAAE1UlEQVQ4y22UCVCUZRjHPwyVIbmW5ZblWnAFWXEXZYEsLzwYmTwbI0vRPCfN1BmPKXMUbdKQHLscNY/SdAoVGwWdEg9gQQ5BQBQ51JwUFJcb1mX59e4Sasc33/O973f93v9zvI/U09OD5bCMfXPLYTQYaL9TTeeNMp6VlFqts/QGbbdu09nwmP/7zzJK/35oam2lubQUkwAYK29zNz+fvIxM9OcyqM7V01l5C3NZOS1FxRifNP4HKr180/WonqbsHLqFiovp6SxMnEmsWolG6YkmyIOYYYHMnRHPiYMH6LhVRVtuHu21db3QPoV9MGN9PYbLVzBWVbMzeTMqT3uGym3RKhyJ9HMW5oRmsANhbgNQymytiz0qrxBQPe01tf90ubu1jcar2ZhvV/Htrp0EOEmMCnBBp3RjmABrfJ2I9JcJc2FUoCu6IDnB4pu3p8fTJMLSLP41NjT0umy5tJSX05F/jZu5uWiDvdH5ORKtlKNys2PB9AnEjVASIdRZgBbT+rkQHexOkKNE6vYt9Aj3DSLWPaZuJFNzC41XroDI6LZPNhIq78e4UA+GuPZn9bzpPC7LYuzwIAEcZIWN/FulRXGEtz3jo8KpF5XQIlR2PXyI1FF3lyYRuxYhfebkMegUduj8HZgcFUbzzUuY7uYTL+bhXvaMDJAJdc5CvZt1boEP93Ml5+xZnhUWC08rkJpLSqzu3tHnoQvzZ8IQJyJ87Mk8shseFNJWdZWNi+egdH7FCtIonK0x1Cl7TeU2kMyffqT7RjmGggIkgwA9u14i6uwcaoULbwTaMXdiJLXZ6ZRn/CCgRVRdTiNC4SoWGmRNlMXlmBB3YkM8CJYP4PSRQ/QIdU9FxiXLxVxWQZqorXAfB2J8bUlZO599m1cQq3Bg29JZ8GexUPyleO+MSt7f6r4FNlrlRajXIC6cOC4UlvFUiJMMBYWYhdwTB/YTJoDRiv58tiiBvR8vR+vej7lxUTypzIH6EmqyT7N9zfvMHKuxxu91lSeRwV6UXMyiq7AIQ14+UovYSlRUsn93qnX1MSpHDsyOpfqz1axLnMKvxw9jvFcE96+hT/uOxZMiSf9+D1tWJqFysWHWlHF0iMJuOHmKB/v2IXU3NmIQwMT4McSIDMep7Nn87iS4mQV/FNFVm4exJhcelrDuvQRUoqDPHDvMhoUz8H1V4pSIHzV11O1K4cn5zN7CPrhnFxoPiXi1nGkjRCn4OJK6aZVISL5Qpqel5IIYC6jJOUXejrXs/2g+oTKJlUlzMNbdxyDquDZ5K6ampl5g1vkMYvzsmKaVMX6ojOGeDgyRDWRWwiKKL/4ODdfFmUnSWwn8snUNU0UytN42HP06FdP1Uu5sWM/TS1m9W8/c3W2d7P0imXEBErGBLmhEciIDFPiqkhg/9VOWL0tm4uhRaNReyJztULg6EDvYhh0bV9Glv8ajtLQXzeHl9rX3802o3e1Qiy6jDo5BrfuQ8KgP8PSbzUAbe4YF+/BadAgasdfjwmTo00/Sfe8+fW35RYM1m5936rzcHN55MwFX+WR8guah0i7F3zuEneuXMDI0BGfbfkxUK7h65mdobcdsMj2HPW+wfQ/63G9r7+Losd9YsCgFrW4Zy+YtIfPoV6xYkMihb1IoEjXX11RfhlnGvwCKLjVSxzXMRwAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;     &quot; title=&quot;     &quot; src=&quot;/openlab-site/static/523884b7d3c25e6ce231601d77dd1d0c/7e516/%E3%81%A8%E3%82%82%E3%81%8B%E3%81%95%E3%82%93.png&quot; srcset=&quot;/openlab-site/static/523884b7d3c25e6ce231601d77dd1d0c/7e516/%E3%81%A8%E3%82%82%E3%81%8B%E3%81%95%E3%82%93.png 100w&quot; sizes=&quot;(max-width: 100px) 100vw, 100px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-    &lt;/span&gt;林 友佳（高度ICT領域・修士1年）&lt;/p&gt;
+    &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;name&quot;&gt;&lt;b&gt;&amp;#x6797; &amp;#x53CB;&amp;#x4F73;&lt;/b&gt;&lt;br&gt;&amp;#x9AD8;&amp;#x5EA6;ICT&amp;#x9818;&amp;#x57DF;&amp;#x30FB;&amp;#x4FEE;&amp;#x58EB;1&amp;#x5E74;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
 &lt;ul&gt;
 &lt;li&gt;マイクロサービス・アーキテクチャの普及により，大規模で複雑かつ状況に応じた変化が起こるようなシステム(動的適応性を持つ分散システム)が増加している&lt;/li&gt;
 &lt;li&gt;動的適応性を持つ分散システムは，障害発生時の状態がわかりにくいため，障害発生時の原因追求や対処に時間がかかる&lt;/li&gt;
@@ -444,7 +517,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -467,10 +540,15 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;h3 id=&quot;スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%A9%E3%83%96%E3%83%AB%E3%81%AA%E5%88%86%E6%95%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E7%9B%A3%E8%A6%96%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BE%9D%E5%AD%98%E9%96%A2%E4%BF%82%E3%81%AE%E6%99%82%E7%B3%BB%E5%88%97%E5%A4%89%E5%8C%96%E3%82%92%E8%80%83%E6%85%AE%E3%81%97%E3%81%9F%E3%82%AF%E3%82%A8%E3%83%AA%E6%A9%9F%E8%83%BD&quot; aria-label=&quot;スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能&lt;/h3&gt;
-&lt;p&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; margin-left: 0&quot;&gt;
+&lt;table class=&quot;author&quot;&gt;
+  &lt;tbody&gt;&lt;tr&gt;
+    &lt;td width=&quot;100&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/2gAMAwEAAhADEAAAAbdGB5pwehKLEJv/xAAbEAACAgMBAAAAAAAAAAAAAAAAAQIhEBESMf/aAAgBAQABBQLu3aom9L2JIeP/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAZEAEAAgMAAAAAAAAAAAAAAAABESEAECD/2gAIAQEABj8CgKMvcyHP/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBUf/aAAgBAQABPyEV63aV7CYaJYIWnIHrGRYO7dw5mrLVcz//2gAMAwEAAgADAAAAECDwP//EABcRAAMBAAAAAAAAAAAAAAAAAAABERD/2gAIAQMBAT8QhMR//8QAFxEBAAMAAAAAAAAAAAAAAAAAAQAQEf/aAAgBAgEBPxBtXZ//xAAeEAEBAQABBAMAAAAAAAAAAAABEQBRITFBYXHB4f/aAAgBAQABPxAdaodpeMUB4r4/R0AAA9DmWyULF9ZgEwISHl9/ecq1UO0OMQ8Q+LKRRGdN/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;7&quot; title=&quot;7&quot; src=&quot;/openlab-site/static/f00489b9a5c5646ffb0fd4ed91859a05/b9e9c/7.jpg&quot; srcset=&quot;/openlab-site/static/f00489b9a5c5646ffb0fd4ed91859a05/b9e9c/7.jpg 100w&quot; sizes=&quot;(max-width: 100px) 100vw, 100px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-    &lt;/span&gt;宮越 七菜（情報システムコース・学部4年）&lt;/p&gt;
+    &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;name&quot;&gt;&lt;b&gt;&amp;#x5BAE;&amp;#x8D8A; &amp;#x4E03;&amp;#x83DC;&lt;/b&gt;&lt;br&gt;&amp;#x60C5;&amp;#x5831;&amp;#x30B7;&amp;#x30B9;&amp;#x30C6;&amp;#x30E0;&amp;#x30B3;&amp;#x30FC;&amp;#x30B9;&amp;#x30FB;&amp;#x5B66;&amp;#x90E8;4&amp;#x5E74;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
 &lt;ul&gt;
 &lt;li&gt;スケーラブルな分散システムは，稼働中に依存関係が自動で時系列変化していくため，システム設計・開発者であっても依存関係を常に把握することは困難である&lt;/li&gt;
 &lt;li&gt;既存のシステム監視ツールでは，把握しきれない依存関係の中から障害要因となり得そうなノードの監視メトリクスを問い合わせる手段がない&lt;/li&gt;
@@ -478,7 +556,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -501,10 +579,15 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;h3 id=&quot;ハードウェア仮想化技術を用いたセキュアな軽量コンテナ実現手法に関する研究&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E4%BB%AE%E6%83%B3%E5%8C%96%E6%8A%80%E8%A1%93%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%82%BB%E3%82%AD%E3%83%A5%E3%82%A2%E3%81%AA%E8%BB%BD%E9%87%8F%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E5%AE%9F%E7%8F%BE%E6%89%8B%E6%B3%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6&quot; aria-label=&quot;ハードウェア仮想化技術を用いたセキュアな軽量コンテナ実現手法に関する研究 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ハードウェア仮想化技術を用いたセキュアな軽量コンテナ実現手法に関する研究&lt;/h3&gt;
-&lt;p&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; margin-left: 0&quot;&gt;
+&lt;table class=&quot;author&quot;&gt;
+  &lt;tbody&gt;&lt;tr&gt;
+    &lt;td width=&quot;100&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB7suctorQqg//xAAaEAACAgMAAAAAAAAAAAAAAAAAAQIRECAh/9oACAEBAAEFApMTO4opaf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABcQAAMBAAAAAAAAAAAAAAAAAAAgITH/2gAIAQEABj8ChTH/AP/EABsQAAIDAAMAAAAAAAAAAAAAAAABESFhIHHx/9oACAEBAAE/IWJUljYreE+g1D7LO2zLh//aAAwDAQACAAMAAAAQHO8A/8QAFhEAAwAAAAAAAAAAAAAAAAAAESAh/9oACAEDAQE/EIE//8QAFhEBAQEAAAAAAAAAAAAAAAAAAREg/9oACAECAQE/EFbj/8QAHhAAAgEEAwEAAAAAAAAAAAAAAREAIUFhcSAxUZH/2gAIAQEAAT8QJwDKUBmAihtxGdAN1RwX8XlEMm09m2Tw/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;     &quot; title=&quot;     &quot; src=&quot;/openlab-site/static/5b69cc4e21992bb54c8ead406e3b4689/b9e9c/%E3%81%A1%E3%81%8F%E3%82%8F%E3%81%95%E3%82%93.jpg&quot; srcset=&quot;/openlab-site/static/5b69cc4e21992bb54c8ead406e3b4689/b9e9c/%E3%81%A1%E3%81%8F%E3%82%8F%E3%81%95%E3%82%93.jpg 100w&quot; sizes=&quot;(max-width: 100px) 100vw, 100px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-    &lt;/span&gt;中田 裕貴（高度ICT領域・修士1年）&lt;/p&gt;
+    &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;name&quot;&gt;&lt;b&gt;&amp;#x4E2D;&amp;#x7530; &amp;#x88D5;&amp;#x8CB4;&lt;/b&gt;&lt;br&gt;&amp;#x9AD8;&amp;#x5EA6;ICT&amp;#x9818;&amp;#x57DF;&amp;#x30FB;&amp;#x4FEE;&amp;#x58EB;1&amp;#x5E74;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
 &lt;ul&gt;
 &lt;li&gt;マイクロサービス・アーキテクチャの普及にともなって,コンテナ型仮想化技術(例 : Docker)の活用が拡大&lt;/li&gt;
 &lt;li&gt;コンテナ型仮想化技術は,アプリケーション毎に使用する計算資源やシステム機能を制限するOS機能&lt;/li&gt;
@@ -514,7 +597,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -537,10 +620,15 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;h3 id=&quot;vmmによる軽量かつセキュアなアドホッククラウド基盤&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#vmm%E3%81%AB%E3%82%88%E3%82%8B%E8%BB%BD%E9%87%8F%E3%81%8B%E3%81%A4%E3%82%BB%E3%82%AD%E3%83%A5%E3%82%A2%E3%81%AA%E3%82%A2%E3%83%89%E3%83%9B%E3%83%83%E3%82%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E5%9F%BA%E7%9B%A4&quot; aria-label=&quot;vmmによる軽量かつセキュアなアドホッククラウド基盤 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;VMMによる軽量かつセキュアなアドホッククラウド基盤&lt;/h3&gt;
-&lt;p&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; margin-left: 0&quot;&gt;
+&lt;table class=&quot;author&quot;&gt;
+  &lt;tbody&gt;&lt;tr&gt;
+    &lt;td width=&quot;100&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD8klEQVQ4yz1URUiuURT8lqIgKhjY3d31263Y3d1dGCCKGKiYoLgxUcQAUSwUAxe60I3gTlduRMG9q3nMeby3uPz3v/e7c86ZmXMUVbAKoaGhUKlUCAkJQU1NDRoaGtDY2IiWlha0tbXJ6unpQV9fHzo6OuS+rq5OFr+vrq5GRUUF6uvroURERCAqKgrR0dGIjIyUj1pbW9HV1YWBgQGMjY1hbm4Oy8vL8jsyMiL3BGpqakJtba3sq6qq/gJ6eXkhODgYCQkJspjN0NAQZmZmsLKygsPDQ8zPz2NxcREnJyfY3NzE6Ogo2tvb0dzcLIAEY4bcKyYmJrCzs0NgYCDc3NyQkpIiJSUmJuL4+Bh3d3cSgKBnZ2e4v78XUGZKwMrKSpSUlKC4uFj2ioODAzw8PODj4yPA/v7+SEtLw+TkJJ6enrC9vS3ZHhwc4Pb2Fi8vL7i6usLS0pLQwsyKiopQUFAgewEkmKenJwwMDODu7i6l7+zs4ObmBvb29ggPDxcqWOrj4yNeX19xdHSEiYmJ/1mWlZWJOAqz8/Pzg6+vL3R0dGBjYyMKX15eCoiiKHB2dkZYWJiIQV6/vr7w/PyM9fV19Pb2CnfMjuIoBKJdqLatra2UPzs7i7e3N6ytrcHIyEii9/f3S/kMtre3h+/vb1xcXGB8fFzsRVByr8TGxoptWGZ6erqkf3p6io+PD7y/vyM+Pl7E+f39xc/PD3JycqTcz89PCcisc3NzBYw2UjIzM5GXlyfE8pC87O/vY3d3V5R1dXVFUFAQHh4eRO3h4WFcX1/L2tjYEK8y6/LyclFbKS0tlQ29RIKpKAEJTgtZWFhATU1NSqL3VldXJVBycjL4NisrC1NTUxJocHAQSkxMjJQbFxcHFxcXIZ9RMzIyhFM+4FlnZ6cov7CwIAAaGhowNzcHK2QH8YxdpbBceojeo8nZ11QsPz8fVlZWwsvW1pZQwawpzvn5udBkbGwsdmOn0Sn0sEKSWT8/ZjbsFgpF+6irq0NbWxvd3d3Sy0lJSTA1NZVq+IZ00LfMlB7mnaKrqysbHjISP6CRLS0t4eTkJKZ3dHTE9PS0ZGdmZiYDhJxz7+3tLe/oVWIphoaGEklPT0845LBg2eSNez6mTykAW4/GptoMyvuAgACpiLTxTGF25IoZ0sT6+voyG1NTUyU7LtqCwFSYAlAIckZADhUGz87OFh8rHAgsidmRP35I/lgGleY9y6FPqTQ9ye5iNpxI9CmdQlEZSCEIH7BkcsCLfyRzOrNXOXwZne3JYUJA+pLCcHiw07iYjMJI1tbW0NLSgqampiwKwzJo3sLCQpl1ND//MxtOdr4j1/wlGCvhIPkDhoZIeFS9lG0AAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;kuma&quot; title=&quot;kuma&quot; src=&quot;/openlab-site/static/325194f2e70849bebbae6fddf595db09/7e516/kuma.png&quot; srcset=&quot;/openlab-site/static/325194f2e70849bebbae6fddf595db09/7e516/kuma.png 100w&quot; sizes=&quot;(max-width: 100px) 100vw, 100px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-    &lt;/span&gt;熊谷 峻（情報システムコース・学部4年）&lt;/p&gt;
+    &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;name&quot;&gt;&lt;b&gt;&amp;#x718A;&amp;#x8C37; &amp;#x5CFB;&lt;/b&gt;&lt;br&gt;&amp;#x60C5;&amp;#x5831;&amp;#x30B7;&amp;#x30B9;&amp;#x30C6;&amp;#x30E0;&amp;#x30B3;&amp;#x30FC;&amp;#x30B9;&amp;#x30FB;&amp;#x5B66;&amp;#x90E8;4&amp;#x5E74;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
 &lt;ul&gt;
 &lt;li&gt;企業や研究機関内の余剰な計算資源を活用したクラウドコンピューティング技術であるアドホッククラウドが注目されている&lt;/li&gt;
 &lt;li&gt;クラウド以外のタスクの増加によってコード実行中にクラウドから離脱したり，コードがPCのOSに影響を及ぼしクラッシュしてしまったりする可能性がある&lt;/li&gt;
@@ -549,7 +637,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -579,20 +667,27 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;div align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&amp;amp;usqp=CAU&quot; height=&quot;35&quot;&gt;
-  &lt;u&gt;
-    &lt;span style=&quot;font-size: 250%;&quot;&gt;
-      &lt;b id=&quot;topic3&quot;&gt;&amp;#x7814;&amp;#x7A76;&amp;#x6D3B;&amp;#x52D5;&lt;/b&gt;
-    &lt;/span&gt;
-  &lt;/u&gt;
-&lt;/div&gt; &lt;br&gt;
+&lt;div class=&quot;topic&quot;&gt;
+  &lt;table class=&quot;title&quot;&gt;
+    &lt;tbody&gt;&lt;tr&gt;
+      &lt;td width=&quot;75&quot; height=&quot;auto&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 144px; &quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 115.97222222222221%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHcyrcCNREZFyZ1aFz/AP/EABsQAAICAwEAAAAAAAAAAAAAAAIDAREABBIj/9oACAEBAAEFAjmgVLA2M2LItqPNRdrYvrKMsGKj/8QAFREBAQAAAAAAAAAAAAAAAAAAEBL/2gAIAQMBAT8BKP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBES/9oACAECAQE/AYwhKj//xAAfEAACAgEEAwAAAAAAAAAAAAABAgAREAMSQWEiMTL/2gAIAQEABj8CY9RAzfV4TT4PubgaKmxFY8iGeQWusf/EABsQAQEBAAMBAQAAAAAAAAAAAAERACFBYRAx/9oACAEBAAE/IWMYimoGAPi7J1+HWoORxcoiNEyEPIt/dVDel3Bb/9oADAMBAAIAAwAAABBXAIH/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREQQf/aAAgBAwEBPxDmVUN11n//xAAYEQEBAQEBAAAAAAAAAAAAAAABESEAEP/aAAgBAgEBPxBtI55kld4AB3//xAAhEAEAAgEDBAMAAAAAAAAAAAABABFBITFhEFFx4YGRof/aAAgBAQABPxAiSZOGtIhh+MNAnz76CETmZL+z+EGtUbsfcV6d2DmCXhlERs1xDTBNkS82bRxbefE//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;tux&quot; title=&quot;tux&quot; src=&quot;/openlab-site/static/38aa4d5a849c0a2a4b8c4e0f1aaa076b/56357/tux.jpg&quot; srcset=&quot;/openlab-site/static/38aa4d5a849c0a2a4b8c4e0f1aaa076b/56357/tux.jpg 144w&quot; sizes=&quot;(max-width: 144px) 100vw, 144px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+    &lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;span&gt;
+          &lt;b id=&quot;topic3&quot;&gt;&amp;#x7814;&amp;#x7A76;&amp;#x6D3B;&amp;#x52D5;&lt;/b&gt;
+        &lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;hr&gt;
 &lt;h3 id=&quot;設備&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E8%A8%AD%E5%82%99&quot; aria-label=&quot;設備 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;設備&lt;/h3&gt;
 &lt;p&gt;研究室では，学部4年生が利用する表部屋と，院生が利用する裏部屋の2つが提供されています．&lt;/p&gt;
-&lt;div align=&quot;center&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -611,10 +706,10 @@
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt; &lt;/br&gt;
-&lt;span
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -634,24 +729,51 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
 &lt;p&gt;研究室には，高級キーボードや大型ディスプレイ，ドローンやロボットなどのデバイス，PCクラスタやサーバPCなど，こだわりの研究設備が揃っています．&lt;/p&gt;
-&lt;div align=&quot;center&quot;&gt;
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;&gt;
-      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGbzcmZCX//xAAaEAEAAgMBAAAAAAAAAAAAAAABAgMEEhMh/9oACAEBAAEFAh5Az2kosCVOMHPI8u//xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAIAQMBAT8BjH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAdEAACAgEFAAAAAAAAAAAAAAABEQACECEiMWGB/9oACAEBAAY/Ak0Y35NNvUrY8rBAn//EABkQAQADAQEAAAAAAAAAAAAAAAEAESFBYf/aAAgBAQABPyFhNjazY8bHaTFy+vqFXfa4oPrNEoJ//9oADAMBAAIAAwAAABDH/wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAEDAQE/EIujp4f/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEAAwADAQEAAAAAAAAAAAABABEhMUFhcYH/2gAIAQEAAT8QowDQf1d8S3DqMueZGwlxQ67/AHJhr5dcGErIjVinca8UgB8J/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;  1&quot; title=&quot;  1&quot; src=&quot;/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/828fb/%E8%A8%AD%E5%82%991.jpg&quot; srcset=&quot;/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/ff44c/%E8%A8%AD%E5%82%991.jpg 158w,
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGbzcmZCX//xAAaEAEAAgMBAAAAAAAAAAAAAAABAgMEEhMh/9oACAEBAAEFAh5Az2kosCVOMHPI8u//xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAIAQMBAT8BjH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAdEAACAgEFAAAAAAAAAAAAAAABEQACECEiMWGB/9oACAEBAAY/Ak0Y35NNvUrY8rBAn//EABkQAQADAQEAAAAAAAAAAAAAAAEAESFBYf/aAAgBAQABPyFhNjazY8bHaTFy+vqFXfa4oPrNEoJ//9oADAMBAAIAAwAAABDH/wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAEDAQE/EIujp4f/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEAAwADAQEAAAAAAAAAAAABABEhMUFhcYH/2gAIAQEAAT8QowDQf1d8S3DqMueZGwlxQ67/AHJhr5dcGErIjVinca8UgB8J/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;キーボード&quot;
+        title=&quot;キーボード&quot;
+        src=&quot;/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/828fb/%E8%A8%AD%E5%82%991.jpg&quot;
+        srcset=&quot;/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/ff44c/%E8%A8%AD%E5%82%991.jpg 158w,
 /openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/a6688/%E8%A8%AD%E5%82%991.jpg 315w,
 /openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/828fb/%E8%A8%AD%E5%82%991.jpg 630w,
-/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/4b190/%E8%A8%AD%E5%82%991.jpg 800w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-    &lt;/span&gt; &lt;br&gt;
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;&gt;
-      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEOElEQVQ4yx2Ue1DUVRTHf/8004xpPnLfsLDuwuLCIouwgguygMAuuyzIY1kegivmIxEZwcdUalZgiaaCiQIyTmlTzqTO6EjqlI9WTFY0owRy0j8ohDEaS82a7NPNO3Pm3DNz7vf7vd975kr/PBzmj7Ehvj9xnOCnewj2HOXuYJDb3/ZyZ/AiIyMHGRv6mIl7QZ49GeXvR/d58Mswt3rPMfB1gHv9V3j2dIyJ+wP8++wvpImRW4z9PMSl0z0M9p2jbf8uwnQ6TDEx6PRGatcU8etEGw/GL/F4YpQ/fx9l5M5Nvuw5Q38gyPiPN7nVd57hgQD/L8mR5WDLps0M//AVv41+x+fHDhGi1aI3GFAow6it8zA+KgDv9/L44RhPH41yNSCI9x2gpf0EZ784z5mTR+k5cYQn43eRKoqdeHK9DPYH+On2Nd7fvhVDRCRGUzSRUdHkujMJ9h3n7p3rDA1cpP9aD42NDThdHmwpC0hNTSMl1U5L81aGg2eRvG4HNlsqS6sryffkCmV6Jk2eyqSXpjHp5elMmS6j61AHnR2tHDrYRHPzWxgFkTHKhCk6loTEeSTPt7F3x9vcuHwKKSUpCaVKgUajQq5QMEuvR63WoFJqUKhDiDSZqFpSxc6dzbTvb6Jh/VoSrFbsGRk4nU6WVJfRvO11Th/r5uKpI0jr61/DaDQQZTTiKy+ko2sXK1f4yXU5WOKvYOOmRgqKimnZs4cP2nfT1Lqbrdub8eR7RH8ZGZkZ+Gv87HrvHU591oXUFziJv7oEmVIpPItAO0vLTLGfMnUa5YurONDVQXtHO40b11Mm6iKvT4AspLNzH33fXOBw54d8dLCVNxvX8u62N5CuXj5NubcAnUqNaqaMUJmCSHHVeI2Wpi2buX6jlyuB87S27qC+fjWbNtSzfLmfxoY1rKldgS8/j22rl/NJ227OdXcjHe5uo2vfThaZLRTGxOGzWKlOSKYsdi4LhFfe0iLWrVvFxg11NAiQZcv8LK2pxucrweHIwTQ7irpyLxcO7GWLrxJpcXkBJUV55IQbKNRGkCULJWOGGvt0NZNfeJHklGQxJrXU1a3kVaGsstJHqa+YfKHMbk9DNyscuVpJlMjhr8iRaldV4XYvJFGmwqUIwy4PIXmmhjkzlGiFlykLbNTUVLFy1TLKK0vFY+U8j/T0NMyxZiIj9c9DJpcTqQtHKizIxlfqwahUEa9QEy0TbMJHvVxJeIgGa5KVHGcW85ISSEy0kJhgwSpyQkLc83q2yUhEhF5MiYFEixkpJzsVlztLHFZj0oUxVzTotaFEx5jQhocSYzaRZk9hvs1Kut1GriOT/Lwciha5cLuysKfNJ0mQxcfHYjEZkDLT5+FwphNtNmKeY2KuNR6DMUJ8DAYs8XFkZ9nxlhRQWeGloqyIkkIXxQKspNAtQJ3kubKFl6kCMI64OWb+A3XFkeLfIuemAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;  2&quot; title=&quot;  2&quot; src=&quot;/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/f058b/%E8%A8%AD%E5%82%992.png&quot; srcset=&quot;/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/c26ae/%E8%A8%AD%E5%82%992.png 158w,
+/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/4b190/%E8%A8%AD%E5%82%991.jpg 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEOElEQVQ4yx2Ue1DUVRTHf/8004xpPnLfsLDuwuLCIouwgguygMAuuyzIY1kegivmIxEZwcdUalZgiaaCiQIyTmlTzqTO6EjqlI9WTFY0owRy0j8ohDEaS82a7NPNO3Pm3DNz7vf7vd975kr/PBzmj7Ehvj9xnOCnewj2HOXuYJDb3/ZyZ/AiIyMHGRv6mIl7QZ49GeXvR/d58Mswt3rPMfB1gHv9V3j2dIyJ+wP8++wvpImRW4z9PMSl0z0M9p2jbf8uwnQ6TDEx6PRGatcU8etEGw/GL/F4YpQ/fx9l5M5Nvuw5Q38gyPiPN7nVd57hgQD/L8mR5WDLps0M//AVv41+x+fHDhGi1aI3GFAow6it8zA+KgDv9/L44RhPH41yNSCI9x2gpf0EZ784z5mTR+k5cYQn43eRKoqdeHK9DPYH+On2Nd7fvhVDRCRGUzSRUdHkujMJ9h3n7p3rDA1cpP9aD42NDThdHmwpC0hNTSMl1U5L81aGg2eRvG4HNlsqS6sryffkCmV6Jk2eyqSXpjHp5elMmS6j61AHnR2tHDrYRHPzWxgFkTHKhCk6loTEeSTPt7F3x9vcuHwKKSUpCaVKgUajQq5QMEuvR63WoFJqUKhDiDSZqFpSxc6dzbTvb6Jh/VoSrFbsGRk4nU6WVJfRvO11Th/r5uKpI0jr61/DaDQQZTTiKy+ko2sXK1f4yXU5WOKvYOOmRgqKimnZs4cP2nfT1Lqbrdub8eR7RH8ZGZkZ+Gv87HrvHU591oXUFziJv7oEmVIpPItAO0vLTLGfMnUa5YurONDVQXtHO40b11Mm6iKvT4AspLNzH33fXOBw54d8dLCVNxvX8u62N5CuXj5NubcAnUqNaqaMUJmCSHHVeI2Wpi2buX6jlyuB87S27qC+fjWbNtSzfLmfxoY1rKldgS8/j22rl/NJ227OdXcjHe5uo2vfThaZLRTGxOGzWKlOSKYsdi4LhFfe0iLWrVvFxg11NAiQZcv8LK2pxucrweHIwTQ7irpyLxcO7GWLrxJpcXkBJUV55IQbKNRGkCULJWOGGvt0NZNfeJHklGQxJrXU1a3kVaGsstJHqa+YfKHMbk9DNyscuVpJlMjhr8iRaldV4XYvJFGmwqUIwy4PIXmmhjkzlGiFlykLbNTUVLFy1TLKK0vFY+U8j/T0NMyxZiIj9c9DJpcTqQtHKizIxlfqwahUEa9QEy0TbMJHvVxJeIgGa5KVHGcW85ISSEy0kJhgwSpyQkLc83q2yUhEhF5MiYFEixkpJzsVlztLHFZj0oUxVzTotaFEx5jQhocSYzaRZk9hvs1Kut1GriOT/Lwciha5cLuysKfNJ0mQxcfHYjEZkDLT5+FwphNtNmKeY2KuNR6DMUJ8DAYs8XFkZ9nxlhRQWeGloqyIkkIXxQKspNAtQJ3kubKFl6kCMI64OWb+A3XFkeLfIuemAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;モニター&quot;
+        title=&quot;モニター&quot;
+        src=&quot;/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/f058b/%E8%A8%AD%E5%82%992.png&quot;
+        srcset=&quot;/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/c26ae/%E8%A8%AD%E5%82%992.png 158w,
 /openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/6bdcf/%E8%A8%AD%E5%82%992.png 315w,
 /openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/f058b/%E8%A8%AD%E5%82%992.png 630w,
-/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/5a190/%E8%A8%AD%E5%82%992.png 800w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-    &lt;/span&gt;
-&lt;/div&gt; &lt;br&gt;
+/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/5a190/%E8%A8%AD%E5%82%992.png 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;研究室内のメンバーだけでなく，楽しい後輩たちや他の研究室のメンバーともコミュニケーションを取りながら，楽しく研究できます．&lt;/p&gt;
 &lt;h3 id=&quot;ゼミ&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%BC%E3%83%9F&quot; aria-label=&quot;ゼミ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ゼミ&lt;/h3&gt;
 &lt;p&gt;本研究室では，教員と学生の予定に合わせて進捗報告のゼミ1回，自分が読んだ論文の紹介をするゼミ1回，研究分野の近い者同士でのグループゼミ1回の合計3回を毎週行っています．&lt;/p&gt;
@@ -659,7 +781,7 @@
 &lt;p&gt;研究やゼミを通して順調に成果を出すことで，学会やオープンソース系の会議（RubyKaigi，OSC，Open Source Summitなど）に参加することができます．&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -685,7 +807,7 @@
 &lt;p&gt;本研究室では，研究以外にもメンバー内での交流を図るために，新歓，BBQ，飲みなどのイベントを開催しています．もちろん，お酒が苦手な人でも気軽に参加できるような雰囲気で楽しんでいます！&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -713,40 +835,71 @@
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;div align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&amp;amp;usqp=CAU&quot; height=&quot;35&quot;&gt;
-  &lt;u&gt;
-    &lt;span style=&quot;font-size: 250%;&quot;&gt;
-      &lt;b id=&quot;topic4&quot;&gt;&amp;#x554F;&amp;#x3044;&amp;#x5408;&amp;#x308F;&amp;#x305B;&amp;#x5148;&lt;/b&gt;
-    &lt;/span&gt;
-  &lt;/u&gt;
-&lt;/div&gt; &lt;br&gt;
-&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;&gt;
-      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 10.759493670886075%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAYAAABYBvyLAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAXUlEQVQI14WN2wqAIABD/f9PTM28gD0kXjIwDVf2Hh0YgzE2UmtFzgdS2h/PiCm9LpWG0gYTZbB2hVIGIUQMeu/4gowSnwU25+B9AGUcYpFvNjSOamso5URr1+/gDWY+meofbggsAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;       &quot; title=&quot;       &quot; src=&quot;/openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/f058b/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png&quot; srcset=&quot;/openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/c26ae/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png 158w,
+&lt;div class=&quot;topic&quot;&gt;
+  &lt;table class=&quot;title&quot;&gt;
+    &lt;tbody&gt;&lt;tr&gt;
+      &lt;td width=&quot;75&quot; height=&quot;auto&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 144px; &quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 115.97222222222221%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHcyrcCNREZFyZ1aFz/AP/EABsQAAICAwEAAAAAAAAAAAAAAAIDAREABBIj/9oACAEBAAEFAjmgVLA2M2LItqPNRdrYvrKMsGKj/8QAFREBAQAAAAAAAAAAAAAAAAAAEBL/2gAIAQMBAT8BKP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBES/9oACAECAQE/AYwhKj//xAAfEAACAgEEAwAAAAAAAAAAAAABAgAREAMSQWEiMTL/2gAIAQEABj8CY9RAzfV4TT4PubgaKmxFY8iGeQWusf/EABsQAQEBAAMBAQAAAAAAAAAAAAERACFBYRAx/9oACAEBAAE/IWMYimoGAPi7J1+HWoORxcoiNEyEPIt/dVDel3Bb/9oADAMBAAIAAwAAABBXAIH/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREQQf/aAAgBAwEBPxDmVUN11n//xAAYEQEBAQEBAAAAAAAAAAAAAAABESEAEP/aAAgBAgEBPxBtI55kld4AB3//xAAhEAEAAgEDBAMAAAAAAAAAAAABABFBITFhEFFx4YGRof/aAAgBAQABPxAiSZOGtIhh+MNAnz76CETmZL+z+EGtUbsfcV6d2DmCXhlERs1xDTBNkS82bRxbefE//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;tux&quot; title=&quot;tux&quot; src=&quot;/openlab-site/static/38aa4d5a849c0a2a4b8c4e0f1aaa076b/56357/tux.jpg&quot; srcset=&quot;/openlab-site/static/38aa4d5a849c0a2a4b8c4e0f1aaa076b/56357/tux.jpg 144w&quot; sizes=&quot;(max-width: 144px) 100vw, 144px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+    &lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;span&gt;
+          &lt;b id=&quot;topic4&quot;&gt;&amp;#x554F;&amp;#x3044;&amp;#x5408;&amp;#x308F;&amp;#x305B;&amp;#x5148;&lt;/b&gt;
+        &lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 10.759493670886075%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAYAAABYBvyLAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAXUlEQVQI14WN2wqAIABD/f9PTM28gD0kXjIwDVf2Hh0YgzE2UmtFzgdS2h/PiCm9LpWG0gYTZbB2hVIGIUQMeu/4gowSnwU25+B9AGUcYpFvNjSOamso5URr1+/gDWY+meofbggsAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;連絡先&quot;
+        title=&quot;連絡先&quot;
+        src=&quot;/openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/f058b/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png&quot;
+        srcset=&quot;/openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/c26ae/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png 158w,
 /openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/6bdcf/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png 315w,
 /openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/f058b/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png 630w,
-/openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/5a190/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png 800w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-    &lt;/span&gt;
+/openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/5a190/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png 800w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;div align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&amp;amp;usqp=CAU&quot; height=&quot;35&quot;&gt;
-  &lt;u&gt;
-    &lt;span style=&quot;font-size: 250%;&quot;&gt;
-      &lt;b id=&quot;topic5&quot;&gt;&amp;#x304A;&amp;#x308F;&amp;#x308A;&amp;#x306B;&lt;/b&gt;
-    &lt;/span&gt;
-  &lt;/u&gt;
+&lt;div class=&quot;topic&quot;&gt;
+  &lt;table class=&quot;title&quot;&gt;
+    &lt;tbody&gt;&lt;tr&gt;
+      &lt;td width=&quot;75&quot; height=&quot;auto&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 144px; &quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 115.97222222222221%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHcyrcCNREZFyZ1aFz/AP/EABsQAAICAwEAAAAAAAAAAAAAAAIDAREABBIj/9oACAEBAAEFAjmgVLA2M2LItqPNRdrYvrKMsGKj/8QAFREBAQAAAAAAAAAAAAAAAAAAEBL/2gAIAQMBAT8BKP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBES/9oACAECAQE/AYwhKj//xAAfEAACAgEEAwAAAAAAAAAAAAABAgAREAMSQWEiMTL/2gAIAQEABj8CY9RAzfV4TT4PubgaKmxFY8iGeQWusf/EABsQAQEBAAMBAQAAAAAAAAAAAAERACFBYRAx/9oACAEBAAE/IWMYimoGAPi7J1+HWoORxcoiNEyEPIt/dVDel3Bb/9oADAMBAAIAAwAAABBXAIH/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREQQf/aAAgBAwEBPxDmVUN11n//xAAYEQEBAQEBAAAAAAAAAAAAAAABESEAEP/aAAgBAgEBPxBtI55kld4AB3//xAAhEAEAAgEDBAMAAAAAAAAAAAABABFBITFhEFFx4YGRof/aAAgBAQABPxAiSZOGtIhh+MNAnz76CETmZL+z+EGtUbsfcV6d2DmCXhlERs1xDTBNkS82bRxbefE//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;tux&quot; title=&quot;tux&quot; src=&quot;/openlab-site/static/38aa4d5a849c0a2a4b8c4e0f1aaa076b/56357/tux.jpg&quot; srcset=&quot;/openlab-site/static/38aa4d5a849c0a2a4b8c4e0f1aaa076b/56357/tux.jpg 144w&quot; sizes=&quot;(max-width: 144px) 100vw, 144px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+    &lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;span&gt;
+          &lt;b id=&quot;topic5&quot;&gt;&amp;#x304A;&amp;#x308F;&amp;#x308A;&amp;#x306B;&lt;/b&gt;
+        &lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;&lt;/table&gt;
 &lt;/div&gt;
+&lt;hr&gt;
 &lt;div align=&quot;center&quot;&gt;
 &lt;h2 id=&quot;当研究室にきて，圧倒的成長しよう！br低レイヤ沼が君を待っている！&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%BD%93%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%AB%E3%81%8D%E3%81%A6%EF%BC%8C%E5%9C%A7%E5%80%92%E7%9A%84%E6%88%90%E9%95%B7%E3%81%97%E3%82%88%E3%81%86%EF%BC%81br%E4%BD%8E%E3%83%AC%E3%82%A4%E3%83%A4%E6%B2%BC%E3%81%8C%E5%90%9B%E3%82%92%E5%BE%85%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%81&quot; aria-label=&quot;当研究室にきて，圧倒的成長しよう！br低レイヤ沼が君を待っている！ permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;当研究室にきて，圧倒的成長しよう！&lt;/br&gt;低レイヤ沼が君を待っている！&lt;/h2&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -768,7 +921,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -790,7 +943,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -812,7 +965,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -834,7 +987,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -856,7 +1009,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -878,7 +1031,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -900,7 +1053,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -922,7 +1075,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -944,7 +1097,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -966,7 +1119,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -988,7 +1141,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -1010,7 +1163,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -1032,7 +1185,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
@@ -1054,7 +1207,7 @@
     &lt;/span&gt; &lt;br /&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; margin-left: 0&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
