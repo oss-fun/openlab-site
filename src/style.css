@@ -89,8 +89,9 @@ footer {
 
 hr {
   background: var(--color-accent);
-  height: 1px;
+  height: 2px;
   border: 0;
+  margin-top: 0;
 }
 
 /* Heading */
@@ -248,6 +249,7 @@ table .odd {
 
 .topic span {
   font-size: 250%;
+  vertical-align: 5%;
 }
 
 /* Link */
