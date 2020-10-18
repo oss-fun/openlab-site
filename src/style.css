@@ -224,52 +224,6 @@ blockquote > ul,
 blockquote > ol {
   list-style-position: inside;
 }
-/* time table */
-table {
-  width: 100%;
-  margin-bottom: var(--spacing-8);
-  border-collapse: collapse;
-  border-spacing: 0.25rem;
-}
-
-table thead tr {
-  background-color: var(--color-primary);
-}
-
-table thead tr th {
-  border-bottom: 1px solid var(--color-accent);
-
-  box-align: "left";
-  color: white;
-}
-
-table .odd {
-  background-color: #EFEFEF;
-}
-
-/* tux and title */
-.topic span {
-  font-size: 250%;
-  vertical-align: 5%;
-}
-
-table.title {
-  margin-bottom: var(--spacing-0);
-}
-
-/* research author */
-.author tr td {
-  text-align: left;
-}
-
-.author tr td.name {
-  font-size: 120%;
-  padding-left: var(--spacing-6);
-}
-
-.author tr td.name b {
-  font-size: 120%;
-}
 
 /* Link */
 
@@ -354,11 +308,6 @@ a:focus {
   font-size: 20px;
 }
 
-.blog-post header p {
-  font-size: 12px;
-  font-family: var(--font-heading);
-}
-
 .blog-post-nav ul {
   margin: var(--spacing-0);
 }
@@ -366,20 +315,6 @@ a:focus {
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
 }
-
-.mokuji {
-  color:black;
-  border: solid 1px black;
-  background-color: #EFEFEF;
-  padding-top: 20px;
-  padding-left: 30px;
-  padding-bottom: 20px;
-  max-width: 800px;
-}
-
-/* .mokuji ul {
-  padding-left: var(--spacing-8);
-} */
 
 .icon {
   margin-left: 0;

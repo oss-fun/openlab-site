@@ -1,0 +1,114 @@
+article.blog-post {
+  header {
+    p {
+      text-align: right;
+      font-size: 12px;
+      font-family: var(--font-heading);
+    }
+  }
+
+  section[itemprop="articleBody"] {
+    $grid: 20px;
+
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      margin-top: $grid * 5;
+    }
+
+    h2 + h3,
+    h2 + h4,
+    h2 + h5,
+    h2 + h6,
+    h3 + h4,
+    h3 + h5,
+    h3 + h6,
+    h4 + h5,
+    h4 + h6,
+    h5 + h6 {
+      margin-top: $grid * 1.5;
+    }
+
+    .post_index {
+      color: black;
+      background: #efefef;
+      padding: $grid;
+
+      h2 {
+        margin-top: 0;
+      }
+    }
+
+    > h2 {
+      padding: $grid $grid / 2;
+      font-size: 2.5rem;
+      border-bottom: 2px solid var(--color-accent);
+
+      &::before {
+        $image_height: 2em;
+
+        content: "";
+        position: relative;
+        top: 0.6em;
+        display: inline-block;
+        height: $image_height;
+        width: $image_height * (144 / 167);
+        margin-right: $grid / 4;
+        background: url(./tux.jpg);
+        background-size: contain;
+      }
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+
+      * {
+        padding: 0.5em;
+      }
+
+      td {
+        border: solid 1px #ccc;
+      }
+
+      th {
+        color: white;
+        background: var(--color-primary);
+        border-bottom: 1px solid var(--color-accent);
+      }
+
+      tr:nth-child(2n) td:nth-child(1) {
+        background: #efefef;
+      }
+    }
+
+    .super_emphasis {
+      text-align: center;
+      font-size: 2rem;
+      font-weight: bold;
+    }
+
+    .author {
+      $avatar_size: $grid * 4;
+
+      display: flex;
+      align-items: center;
+      margin: $grid * 2 0;
+
+      p:nth-child(1) {
+        width: $avatar_size;
+        height: $avatar_size;
+        margin: 0 $grid 0 0;
+        border-radius: 50%;
+        overflow: hidden;
+      }
+
+      p:nth-child(2) {
+        margin: 0;
+        font-size: 1.2rem;
+      }
+    }
+  }
+}
