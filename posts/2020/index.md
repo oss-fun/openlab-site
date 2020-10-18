@@ -7,13 +7,15 @@ description: OSS研究室についてのHPです
 ![manyTux](/img/manyTux.jpg)
 
 <div class="mokuji">
-  <span style="font-size: 180%;"> 目次 </span> </br> </br>
-  - <a href="#abstract">オープンラボ出展概要</a> </br> </br>
-  - <a href="#topic1">システムソフトウェア研究</a> </br> </br>
-  - <a href="#topic2">研究紹介</a> </br> </br>
-  - <a href="#topic3">研究活動</a> </br> </br>
-  - <a href="#topic4">問い合わせ先</a> </br> </br>
-  - <a href="#topic5">おわりに</a> </br> </br>
+  <span style="font-size: 180%;"> 目次 </span>
+    <ul>
+      <li><a href="#abstract">オープンラボ出展概要</a> </li>
+      <li><a href="#topic1">システムソフトウェア研究</a> </li>
+      <li><a href="#topic2">研究紹介</a> </li>
+      <li><a href="#topic3">研究活動</a> </li>
+      <li><a href="#topic4">問い合わせ先</a> </li>
+      <li><a href="#topic5">おわりに</a> </li>
+    </ul>
 </div>
 
 </br>
@@ -22,108 +24,114 @@ description: OSS研究室についてのHPです
 </br>
 </br>
 
-<div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <u>
-    <span style="font-size: 250%;">
-      <b id="abstract">オープンラボ出展概要</b>
-    </span>
-  </u>
-</div> </br>
+<div class="topic">
+  <table class="title">
+    <tr>
+      <td width="75" height="auto"><img src="./img/tux.jpg"></td>
+      <td>
+        <span>
+          <b id="abstract">オープンラボ出展概要</b>
+        </span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+***
 
 - オープンラボ当日は，情シス・ICTコース共通zoomミーティング内のブレイクアウトルームにて，下記の催しを行います．
 - 当日のタイムスケジュール
 
 <table border="1">
   <thead>
-    <tr bgcolor="#23B1BE">
-      <th align="left">時間</th>
-      <th align="left" width="365">表部屋</th>
-      <th align="left" width="365">裏部屋</th>
+    <tr>
+      <th>時間</th>
+      <th width="365">表</th>
+      <th width="365">裏（研究室の沼）</th>
     </tr>
   </thead>
     <tbody>
       <tr>
-        <td align="left">15:30~</td>
-        <td align="left">教員による研究室紹介（松原克弥）<br></td>
-        <td align="left" rowspan="6"></td>
+        <td>15:30~</td>
+        <td>教員による研究室紹介（松原克弥）<br></td>
+        <td rowspan="6"></td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">15:40~</td>
-        <td align="left">LT「とにかくカワイイPCとキーボードを作った話」（林）<br></td>
+        <td class="odd">15:40~</td>
+        <td>LT「とにかくカワイイPCとキーボードを作った話」（林）<br></td>
       </tr>
       <tr>
-        <td align="left">15:50~</td>
-        <td align="left">LT「」（瀧本）<br></td>
+        <td>15:50~</td>
+        <td>LT「」（瀧本）<br></td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">16:00~</td>
-        <td align="left">研究室所属の学部生が「みんなの疑問に答えます！」<br />
+        <td class="odd">16:00~</td>
+        <td>研究室所属の学部生が「みんなの疑問に答えます！」<br />
         ＊<a href="https://app.sli.do/event/j5rx9p9g/live/questions">Slido</a>で随時質問受け付けています</td>
       </tr>
       <tr>
-        <td align="left">16:15~</td>
-        <td align="left">LT「デジタルイラスト入門」（吉川）<br></td>
+        <td>16:15~</td>
+        <td >LT「デジタルイラスト入門」（吉川）<br></td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">16:25~</td>
-        <td align="left">LT「ロボットはすぐ炎上する」（大野）<br></td>
+        <td class="odd">16:25~</td>
+        <td>LT「ロボットはすぐ炎上する」（大野）<br></td>
       </tr>
       <tr>
-        <td align="left">16:35~</td>
-        <td align="left">教員による研究室紹介（松原克弥）</td>
-        <td align="left">学生による研究室紹介（中田，林）</td>
+        <td>16:35~</td>
+        <td>教員による研究室紹介（松原克弥）</td>
+        <td>学生による研究室紹介（中田，林）</td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">16:45~</td>
-        <td align="left">LT「ゼロから始まる研究生活」（熊谷）</td>
-        <td align="left" rowspan="2">研究活動ライブ「論文執筆」（中田）</td>
+        <td class="odd">16:45~</td>
+        <td>LT「ゼロから始まる研究生活」（熊谷）</td>
+        <td rowspan="2">研究活動ライブ「論文執筆」（中田）</td>
       </tr>
       <tr>
-        <td align="left">16:55~</td>
-        <td align="left">LT「Neo4jで振り返る、よわよわ未来大生の就活」（宮越）</td>
+        <td>16:55~</td>
+        <td>LT「Neo4jで振り返る、よわよわ未来大生の就活」（宮越）</td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">17:05~</td>
-        <td align="left">研究室所属の院生が「みんなの疑問に答えます！」<br />
+        <td class="odd">17:05~</td>
+        <td>研究室所属の院生が「みんなの疑問に答えます！」<br />
         ＊<a href="https://app.sli.do/event/j5rx9p9g/live/questions">Slido</a>で随時質問受け付けています</td>
-        <td align="left">研究活動ライブ「コードリーディング」（大野）</td>
+        <td>研究活動ライブ「コードリーディング」（大野）</td>
       </tr>
       <tr>
-        <td align="left">17:20~</td>
-        <td align="left">修士研究紹介「動的解析にもとづくLinux Kernel Tinification手法」（雫石）</td>
-        <td align="left" rowspan="2">LT「コンピュータの中心で愛を叫ぶ」（松原克弥）</td>
+        <td>17:20~</td>
+        <td>修士研究紹介「動的解析にもとづくLinux Kernel Tinification手法」（雫石）</td>
+        <td rowspan="2">LT「コンピュータの中心で愛を叫ぶ」（松原克弥）</td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">17:25~</td>
-        <td align="left">卒業研究紹介「ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構」（大野）</td>
+        <td class="odd">17:25~</td>
+        <td>卒業研究紹介「ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構」（大野）</td>
       </tr>
       <tr>
-        <td align="left">17:30~</td>
-        <td align="left">卒業研究紹介「ロボット制御システムにおけるOSS機能モジュール向けサンドボックスの実現」（瀧本）</td>
-        <td align="left" rowspan="2">LT「OSの下でもRubyを使いたくて 〜 低レイヤーはつらいよ」（中田）</td>
+        <td>17:30~</td>
+        <td>卒業研究紹介「ロボット制御システムにおけるOSS機能モジュール向けサンドボックスの実現」（瀧本）</td>
+        <td rowspan="2">LT「OSの下でもRubyを使いたくて 〜 低レイヤーはつらいよ」（中田）</td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">17:35~</td>
-        <td align="left">卒業研究紹介「編集履歴にもとづいたイラストデータの透過的圧縮機構」（吉川）</td>
+        <td class="odd">17:35~</td>
+        <td>卒業研究紹介「編集履歴にもとづいたイラストデータの透過的圧縮機構」（吉川）</td>
       </tr>
       <tr>
-        <td align="left">17:40~</td>
-        <td align="left">修士研究紹介「動的適応性を持つ分散システムを対象としたシステム状態可視化手法」（林）</td>
-        <td align="left" rowspan="2">LT「」（鈴木）</td>
+        <td>17:40~</td>
+        <td>修士研究紹介「動的適応性を持つ分散システムを対象としたシステム状態可視化手法」（林）</td>
+        <td rowspan="2">LT「」（鈴木）</td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">17:45~</td>
-        <td align="left">卒業研究紹介「スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能」（宮越）</td>
+        <td class="odd">17:45~</td>
+        <td>卒業研究紹介「スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能」（宮越）</td>
       </tr>
       <tr>
-        <td align="left">17:50~</td>
-        <td align="left">修士研究紹介「コンテナ型クラウドサービス基盤におけるハードウェア仮想化を併用したネットワーク機能の最適化」（中田）</td>
-        <td align="left" rowspan="2">LT「Linuxカーネルビルドでも進捗が見たい！」（雫石）</td>
+        <td>17:50~</td>
+        <td >修士研究紹介「コンテナ型クラウドサービス基盤におけるハードウェア仮想化を併用したネットワーク機能の最適化」（中田）</td>
+        <td rowspan="2">LT「Linuxカーネルビルドでも進捗が見たい！」（雫石）</td>
       </tr>
       <tr>
-        <td align="left" bgcolor="#EFEFEF">17:55~</td>
-        <td align="left">卒業研究紹介「VMMによる軽量かつセキュアなアドホッククラウド基盤」（熊谷）</td>
+        <td class="odd">17:55~</td>
+        <td>卒業研究紹介「VMMによる軽量かつセキュアなアドホッククラウド基盤」（熊谷）</td>
       </tr>
     </tbody>
 </table>
@@ -134,14 +142,20 @@ description: OSS研究室についてのHPです
 </br>
 </br>
 
-<div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <u>
-    <span style="font-size: 250%;">
-      <b id="topic1">システムソフトウェア研究</b>
-    </span>
-  </u>
-</div> </br>
+<div class="topic">
+  <table class="title">
+    <tr>
+      <td width="75" height="auto"><img src="./img/tux.jpg"></td>
+      <td>
+        <span>
+          <b id="topic1">システムソフトウェア研究</b>
+        </span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+***
 
 本研究室では，システムソフトウェアの研究をとおして，社会で**飛びぬけて活躍できる**エンジニアスキルを身につけることを目指しています．
 
@@ -151,27 +165,18 @@ description: OSS研究室についてのHPです
 代表的なものとして，OS（オペレーティングシステム）があります．  
 （例：Windows，Mac，Android，Linuxなど）
 
-<div align="center">
-
 ![OS](/img/OS.png)
-
- </div>
 
 ### システムソフトウェアがないとどうなるの？  
 
 例えばインターネット... OSがないと，複雑で難解なネットワーク通信を自分で制御しなければならず，ネットサーフィンするのも一苦労です．
 
-<div align="center">
-
 ![system1](/img/system1.png)
 
-</div>
 
 例えば，アプリケーションを使うとき... WordやExcel，ゲームやWebブラウザを同時に使えなかったり，フリーズしたり快適に動作しなかったりします．さらに，システム攻撃や情報漏えいに対して無防備になります．
 
-<div align="center">
-  <img src="./img/system2.png">
-</div>
+![system2](./img/system2.png)
 
 ### システムソフトウェアを研究して，いいことあるの？
 
@@ -183,18 +188,22 @@ WindowsやMac，Androidなど，システム内の動作や仕組みを理解で
 
 #### いいことその2：**最新技術研究とのコラボ**
 
-<div align="center">
-  <img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="250"/>
-  <img src=https://illustimage.com/photo/4973.png height="180"/>
-</div> </br>
+<table>
+  <tr>
+    <td width="180"><img src="./img/bigdata.png"></td>
+    <td width="200"><img src="./img/cloud.png"></td>
+  </tr>
+</table>
 
-IoT（Internet of Things）やビッグデータ，クラウドコンピューティングといった最新技術に触れることができる．
+
+
+IoT（Internet of Things）やビッグデータ，クラウドコンピューティングといった最新技術に触れることができます．
 
 #### いいことその3：**PCやスマホの眠れる力を呼び覚ます**
 
 ![god](/img/god.png)
 
-PCやスマホの性能を引き出し，新たな機能を創造できる．
+PCやスマホの性能を引き出し，新たな機能を創造できます．
 
 ### こんな人にオススメ
 
@@ -216,18 +225,29 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 </br>
 
-<div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <u>
-    <span style="font-size: 250%;">
-      <b id="topic2">研究紹介</b>
-    </span>
-  </u>
-</div> <br />
+<div class="topic">
+  <table class="title">
+    <tr>
+      <td width="75" height="auto"><img src="./img/tux.jpg"></td>
+      <td>
+        <span>
+          <b id="topic2">研究紹介</b>
+        </span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+***
 
 ### 動的解析にもとづくLinux Kernel Tinification手法
 
-<img src="./img/雫石さん.jpg" align="middle">雫石 卓耶（高度ICT領域・修士2年）
+<table class="author">
+  <tr>
+    <td width="100"><img src="./img/雫石さん.jpg"></td>
+    <td class="name"><b>雫石 卓耶</b></br>高度ICT領域・修士2年</td>
+  </tr>
+</table>
 
 - スマート家電や自動運転車等のIoTの発展にともない，高機能化した組み込み機器のソフトウェアインフラとして Linux が注目されている
 - 当初，多機能なPC向けに開発されたLinuxは，組み込み用OSとしてはリソース消費量(メモリ使用量や電力消費量)が多いという課題がある
@@ -240,8 +260,12 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 
 ### ロボット制御システムにおける機能モジュールの分散配置に対する最適化機構
-
-<img src="./img/zuya.jpg" align="middle">大野 和也（知能システムコース・学部4年）
+<table class="author">
+  <tr>
+    <td width="100"><img src="./img/zuya.jpg"></td>
+    <td class="name"><b>大野 和也</b></br>知能システムコース・学部4年</td>
+  </tr>
+</table>
 
 - ロボットのシステム開発にRobot Operating System（ROS）の利用が拡がっている
 - ROSではノードと呼ばれるロボットの機能モジュールを組み合わせることで，ロボット制御システムを構築
@@ -254,8 +278,12 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 
 ### ロボット制御システムにおけるOSS機能モジュール向けサンドボックスの実現
-
-<img src="./img/タッキー.jpg" align="middle">瀧本 恒平（知能システムコース・学部4年）
+<table class="author">
+  <tr>
+    <td width="100"><img src="./img/タッキー.jpg"></td>
+    <td class="name"><b>瀧本 恒平</b></br>知能システムコース・学部4年</td>
+  </tr>
+</table>
 
 - 様々な分野においてロボットの活用が拡大しており，ロボットシステムの開発にRobot Operating System(ROS)を用いる機会が増加している
 - ROSでは，ノードと呼ばれる機能モジュールを複数組み合わせることでシステムを構築し，オープンソースソフトウェア(OSS)として公開されているノードを活用することでロボットシステムの開発効率向上を図っている
@@ -269,7 +297,12 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 
 ### 編集履歴にもとづいたイラストデータの透過的圧縮機構の実現
 
-<img src="./img/よっしー.png" align="middle">吉川 綾乃（高度ICTコース・学部4年）
+<table class="author">
+  <tr>
+    <td width="100"><img src="./img/よっしー.png"></td>
+    <td class="name"><b>吉川 綾乃</b></br>高度ICTコース・学部4年</td>
+  </tr>
+</table>
 
 - ペンタブレット製品等の普及により，コンピュータを使って描くデジタルイラストが一般的になった
 - イラストでは制作過程で別名保存していくことでバックアップを取ることが多いが，そのためローカルストレージが圧迫される
@@ -283,7 +316,12 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 
 ### 動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究
 
-<img src="./img/ともかさん.png" align="middle">林 友佳（高度ICT領域・修士1年）
+<table class="author">
+  <tr>
+    <td width="100"><img src="./img/ともかさん.png"></td>
+    <td class="name"><b>林 友佳</b></br>高度ICT領域・修士1年</td>
+  </tr>
+</table>
 
 - マイクロサービス・アーキテクチャの普及により，大規模で複雑かつ状況に応じた変化が起こるようなシステム(動的適応性を持つ分散システム)が増加している
 - 動的適応性を持つ分散システムは，障害発生時の状態がわかりにくいため，障害発生時の原因追求や対処に時間がかかる
@@ -296,7 +334,12 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 
 ### スケーラブルな分散システムの監視における依存関係の時系列変化を考慮したクエリ機能
 
-<img src="./img/7.jpg" align="middle">宮越 七菜（情報システムコース・学部4年）
+<table class="author">
+  <tr>
+    <td width="100"><img src="./img/7.jpg"></td>
+    <td class="name"><b>宮越 七菜</b></br>情報システムコース・学部4年</td>
+  </tr>
+</table>
 
 - スケーラブルな分散システムは，稼働中に依存関係が自動で時系列変化していくため，システム設計・開発者であっても依存関係を常に把握することは困難である
 - 既存のシステム監視ツールでは，把握しきれない依存関係の中から障害要因となり得そうなノードの監視メトリクスを問い合わせる手段がない
@@ -309,7 +352,12 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 
 ### ハードウェア仮想化技術を用いたセキュアな軽量コンテナ実現手法に関する研究
 
-<img src="./img/ちくわさん.jpg" align="middle">中田 裕貴（高度ICT領域・修士1年）
+<table class="author">
+  <tr>
+    <td width="100"><img src="./img/ちくわさん.jpg"></td>
+    <td class="name"><b>中田 裕貴</b></br>高度ICT領域・修士1年</td>
+  </tr>
+</table>
 
 - マイクロサービス・アーキテクチャの普及にともなって,コンテナ型仮想化技術(例 : Docker)の活用が拡大
 - コンテナ型仮想化技術は,アプリケーション毎に使用する計算資源やシステム機能を制限するOS機能
@@ -324,7 +372,12 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 
 ### VMMによる軽量かつセキュアなアドホッククラウド基盤
 
-<img src="./img/kuma.png" align="middle">熊谷 峻（情報システムコース・学部4年）
+<table class="author">
+  <tr>
+    <td width="100"><img src="./img/kuma.png"></td>
+    <td class="name"><b>熊谷 峻</b></br>情報システムコース・学部4年</td>
+  </tr>
+</table>
 
 - 企業や研究機関内の余剰な計算資源を活用したクラウドコンピューティング技術であるアドホッククラウドが注目されている
 - クラウド以外のタスクの増加によってコード実行中にクラウドから離脱したり，コードがPCのOSに影響を及ぼしクラッシュしてしまったりする可能性がある
@@ -348,32 +401,34 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 </br>
 
-<div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <u>
-    <span style="font-size: 250%;">
-      <b id="topic3">研究活動</b>
-    </span>
-  </u>
-</div> <br />
+<div class="topic">
+  <table class="title">
+    <tr>
+      <td width="75" height="auto"><img src="./img/tux.jpg"></td>
+      <td>
+        <span>
+          <b id="topic3">研究活動</b>
+        </span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+***
 
 ### 設備  
 
 研究室では，学部4年生が利用する表部屋と，院生が利用する裏部屋の2つが提供されています．
 
-<div align="center">
+![表部屋](/img/表部屋.JPG)
 
-![表部屋](/img/表部屋.JPG) </br>
 ![裏部屋](/img/裏部屋.JPG)
-
-</div>
 
 研究室には，高級キーボードや大型ディスプレイ，ドローンやロボットなどのデバイス，PCクラスタやサーバPCなど，こだわりの研究設備が揃っています．
 
-<div align="center">
-  <img src="/img/設備1.JPG"> </br>
-  <img src="/img/設備2.png">
-</div> </br>
+![キーボード](/img/設備1.JPG)
+
+![モニター](/img/設備2.png)
 
 研究室内のメンバーだけでなく，楽しい後輩たちや他の研究室のメンバーともコミュニケーションを取りながら，楽しく研究できます．
 
@@ -403,31 +458,43 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 </br>
 
-<div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <u>
-    <span style="font-size: 250%;">
-      <b id="topic4">問い合わせ先</b>
-    </span>
-  </u>
-</div> <br />
-
-<img src="./img/メールアドレス.png">
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
-<div align="left">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <u>
-    <span style="font-size: 250%;">
-      <b id="topic5">おわりに</b>
-    </span>
-  </u>
+<div class="topic">
+  <table class="title">
+    <tr>
+      <td width="75" height="auto"><img src="./img/tux.jpg"></td>
+      <td>
+        <span>
+          <b id="topic4">問い合わせ先</b>
+        </span>
+      </td>
+    </tr>
+  </table>
 </div>
+
+***
+
+![連絡先](./img/メールアドレス.png)
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<div class="topic">
+  <table class="title">
+    <tr>
+      <td width="75" height="auto"><img src="./img/tux.jpg"></td>
+      <td>
+        <span>
+          <b id="topic5">おわりに</b>
+        </span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+***
 
 <div align="center">
 
