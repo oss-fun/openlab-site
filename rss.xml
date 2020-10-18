@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 18 Oct 2020 16:12:56 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，情シス・ICT コース共通 zoom…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 18 Oct 2020 16:19:40 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，情シス・ICT コース共通 zoom…]]></description><link>https://oss-fun.github.io/2020/</link><guid isPermaLink="false">https://oss-fun.github.io/2020/</guid><pubDate>Mon, 28 Sep 2020 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -114,7 +114,7 @@
     &lt;tr&gt;
       &lt;td&gt;17:40~&lt;/td&gt;
       &lt;td&gt;修士研究紹介「動的適応性を持つ分散システムを対象としたシステム状態可視化手法」（林）&lt;/td&gt;
-      &lt;td rowspan=&quot;2&quot;&gt;LT「」（鈴木）&lt;/td&gt;
+      &lt;td rowspan=&quot;2&quot;&gt;LT「Cでつくるゴミカスコンテナランタイム」（鈴木）&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;17:45~&lt;/td&gt;
