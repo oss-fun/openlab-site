@@ -243,6 +243,20 @@ table thead tr th {
   color: white;
 }
 
+.author tr td {
+  text-align: left;
+}
+
+.author tr td.name {
+  font-size: 120%;
+  padding-left: var(--spacing-6);
+}
+
+.author tr td.name b {
+  font-size: 120%;
+}
+
+
 table .odd {
   background-color: #EFEFEF;
 }
