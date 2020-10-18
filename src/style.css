@@ -224,7 +224,7 @@ blockquote > ul,
 blockquote > ol {
   list-style-position: inside;
 }
-
+/* time table */
 table {
   width: 100%;
   margin-bottom: var(--spacing-8);
@@ -243,6 +243,21 @@ table thead tr th {
   color: white;
 }
 
+table .odd {
+  background-color: #EFEFEF;
+}
+
+/* tux and title */
+.topic span {
+  font-size: 250%;
+  vertical-align: 5%;
+}
+
+table.title {
+  margin-bottom: var(--spacing-0);
+}
+
+/* research author */
 .author tr td {
   text-align: left;
 }
@@ -254,16 +269,6 @@ table thead tr th {
 
 .author tr td.name b {
   font-size: 120%;
-}
-
-
-table .odd {
-  background-color: #EFEFEF;
-}
-
-.topic span {
-  font-size: 250%;
-  vertical-align: 5%;
 }
 
 /* Link */

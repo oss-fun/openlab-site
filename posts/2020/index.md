@@ -25,10 +25,16 @@ description: OSS研究室についてのHPです
 </br>
 
 <div class="topic">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <span>
-    <b id="abstract">オープンラボ出展概要</b>
-  </span>
+  <table class="title">
+    <tr>
+      <td width="75" height="auto"><img src="./img/tux.jpg"></td>
+      <td>
+        <span>
+          <b id="abstract">オープンラボ出展概要</b>
+        </span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ***
@@ -137,10 +143,16 @@ description: OSS研究室についてのHPです
 </br>
 
 <div class="topic">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <span>
-    <b id="topic1">システムソフトウェア研究</b>
-  </span>
+  <table class="title">
+    <tr>
+      <td width="75" height="auto"><img src="./img/tux.jpg"></td>
+      <td>
+        <span>
+          <b id="topic1">システムソフトウェア研究</b>
+        </span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ***
@@ -153,27 +165,18 @@ description: OSS研究室についてのHPです
 代表的なものとして，OS（オペレーティングシステム）があります．  
 （例：Windows，Mac，Android，Linuxなど）
 
-<div align="center">
-
 ![OS](/img/OS.png)
-
- </div>
 
 ### システムソフトウェアがないとどうなるの？  
 
 例えばインターネット... OSがないと，複雑で難解なネットワーク通信を自分で制御しなければならず，ネットサーフィンするのも一苦労です．
 
-<div align="center">
-
 ![system1](/img/system1.png)
 
-</div>
 
 例えば，アプリケーションを使うとき... WordやExcel，ゲームやWebブラウザを同時に使えなかったり，フリーズしたり快適に動作しなかったりします．さらに，システム攻撃や情報漏えいに対して無防備になります．
 
-<div align="center">
-  <img src="./img/system2.png">
-</div>
+![system2](./img/system2.png)
 
 ### システムソフトウェアを研究して，いいことあるの？
 
@@ -185,10 +188,14 @@ WindowsやMac，Androidなど，システム内の動作や仕組みを理解で
 
 #### いいことその2：**最新技術研究とのコラボ**
 
-<div align="center">
-  <img src=https://1.bp.blogspot.com/-9c9lDlSaaEQ/Vozi3iRp5QI/AAAAAAAA2xw/4_b8WllbWss/s800/computer_big_data.png height="250"/>
-  <img src=https://illustimage.com/photo/4973.png height="180"/>
-</div> </br>
+<table>
+  <tr>
+    <td width="180"><img src="./img/bigdata.png"></td>
+    <td width="200"><img src="./img/cloud.png"></td>
+  </tr>
+</table>
+
+
 
 IoT（Internet of Things）やビッグデータ，クラウドコンピューティングといった最新技術に触れることができる．
 
@@ -219,10 +226,16 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 
 <div class="topic">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <span>
-    <b id="topic2">研究紹介</b>
-  </span>
+  <table class="title">
+    <tr>
+      <td width="75" height="auto"><img src="./img/tux.jpg"></td>
+      <td>
+        <span>
+          <b id="topic2">研究紹介</b>
+        </span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ***
@@ -389,10 +402,16 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 
 <div class="topic">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <span>
-    <b id="topic3">研究活動</b>
-  </span>
+  <table class="title">
+    <tr>
+      <td width="75" height="auto"><img src="./img/tux.jpg"></td>
+      <td>
+        <span>
+          <b id="topic3">研究活動</b>
+        </span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ***
@@ -401,19 +420,15 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 
 研究室では，学部4年生が利用する表部屋と，院生が利用する裏部屋の2つが提供されています．
 
-<div align="center">
+![表部屋](/img/表部屋.JPG)
 
-![表部屋](/img/表部屋.JPG) </br>
 ![裏部屋](/img/裏部屋.JPG)
-
-</div>
 
 研究室には，高級キーボードや大型ディスプレイ，ドローンやロボットなどのデバイス，PCクラスタやサーバPCなど，こだわりの研究設備が揃っています．
 
-<div align="center">
-  <img src="/img/設備1.JPG"> </br>
-  <img src="/img/設備2.png">
-</div> </br>
+![キーボード](/img/設備1.JPG)
+
+![モニター](/img/設備2.png)
 
 研究室内のメンバーだけでなく，楽しい後輩たちや他の研究室のメンバーともコミュニケーションを取りながら，楽しく研究できます．
 
@@ -444,15 +459,21 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 
 <div class="topic">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <span>
-    <b id="topic4">問い合わせ先</b>
-  </span>
+  <table class="title">
+    <tr>
+      <td width="75" height="auto"><img src="./img/tux.jpg"></td>
+      <td>
+        <span>
+          <b id="topic4">問い合わせ先</b>
+        </span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ***
 
-<img src="./img/メールアドレス.png">
+![連絡先](./img/メールアドレス.png)
 
 </br>
 </br>
@@ -461,10 +482,16 @@ PCやスマホの性能を引き出し，新たな機能を創造できる．
 </br>
 
 <div class="topic">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSf1DgVs-OOPtCmqclEHbvMCo0L6PLb5SfNg&usqp=CAU height="35"/>
-  <span>
-    <b id="topic5">おわりに</b>
-  </span>
+  <table class="title">
+    <tr>
+      <td width="75" height="auto"><img src="./img/tux.jpg"></td>
+      <td>
+        <span>
+          <b id="topic5">おわりに</b>
+        </span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ***
