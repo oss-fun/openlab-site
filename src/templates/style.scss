@@ -76,7 +76,7 @@ article.blog-post {
       th {
         color: white;
         background: var(--color-primary);
-        border-bottom: 1px solid var(--color-accent);
+        border: 1px solid var(--color-accent);
       }
 
       tr:nth-child(2n) td:nth-child(1) {
