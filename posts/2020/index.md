@@ -28,7 +28,7 @@ description: OSS研究室についてのHPです
     <tr>
       <th>時間</th>
       <th width="365">オモテ</th>
-      <th width="365">ウラ（研究室の沼）</th>
+      <th width="365">ウラ（低レイヤ沼）</th>
     </tr>
   </thead>
   <tbody>
