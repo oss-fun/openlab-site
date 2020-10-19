@@ -27,8 +27,8 @@ description: OSS研究室についてのHPです
   <thead>
     <tr>
       <th>時間</th>
-      <th width="365">表</th>
-      <th width="365">裏（研究室の沼）</th>
+      <th>表</th>
+      <th>裏（研究室の沼）</th>
     </tr>
   </thead>
   <tbody>
