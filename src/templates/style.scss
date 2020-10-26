@@ -42,7 +42,8 @@ article.blog-post {
     }
 
     > h2 {
-      padding: $grid $grid / 2;
+      position: relative;
+      padding: $grid $grid / 2 $grid 85px;
       font-size: 2.5rem;
       border-bottom: 2px solid var(--color-accent);
 
@@ -50,8 +51,9 @@ article.blog-post {
         $image_height: 2em;
 
         content: "";
-        position: relative;
-        top: 0.6em;
+        position: absolute;
+        bottom: $grid * 0.75;
+        left: $grid / 2;
         display: inline-block;
         height: $image_height;
         width: $image_height * (144 / 167);
