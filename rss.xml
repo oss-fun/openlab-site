@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 15 Oct 2021 14:11:03 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，情シス・ICT コース共通 zoom…]]></description><link>https://oss-fun.github.io/2021/</link><guid isPermaLink="false">https://oss-fun.github.io/2021/</guid><pubDate>Fri, 08 Oct 2021 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 16 Oct 2021 13:42:54 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，情シス・ICT コース共通 zoom…]]></description><link>https://oss-fun.github.io/2021/</link><guid isPermaLink="false">https://oss-fun.github.io/2021/</guid><pubDate>Fri, 08 Oct 2021 04:18:02 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -67,13 +67,23 @@
   &lt;td&gt;クラウド系研究紹介&lt;br&gt;
     &lt;ui&gt;
       &lt;li&gt;未使用ストレージ領域を活用するデータベースシステムの実現（熊谷）&lt;/li&gt;
-      &lt;li&gt;アプリケーション特性にフィットしたコンテナサンドボックス実現を目指した集中強化型コンテナネットワーク隔離手法（中田）&lt;/li&gt;
+      &lt;li&gt;アプリケーション特性にフィットしたコンテナサンドボックス実現に向けた集中強化型コンテナネットワーク隔離手法（中田）&lt;/li&gt;
       &lt;li&gt;動的適応性を持つ分散システムを対象としたシステム状態可視化手法に関する研究（林）&lt;/li&gt;
       &lt;li&gt;ボランティアコンピューティングを用いたサーバレスアーキテクチャの提案（工藤）&lt;/li&gt;
       &lt;li&gt;広域可搬デバイスを対象とした P2P 型 OS プロビジョニング（森川）&lt;/li&gt;
     &lt;/ui&gt;
   &lt;/td&gt;
-  &lt;td&gt;LT&lt;/td&gt;
+  &lt;td&gt;
+  LT
+    &lt;ui&gt;
+      &lt;li&gt;研究の刃 無限文字起こし編（大野）&lt;/li&gt;
+      &lt;li&gt;TBA（管）&lt;/li&gt;
+      &lt;li&gt;TBA（瀧本）&lt;/li&gt;
+      &lt;li&gt;TBA（渡邊）&lt;/li&gt;
+      &lt;li&gt;TBA（吉川）&lt;/li&gt;
+      &lt;li&gt;TBA（伊藤）&lt;/li&gt;
+    &lt;/ui&gt;
+  &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
   &lt;td&gt;16:30~&lt;/td&gt;
@@ -95,7 +105,16 @@
       &lt;li&gt;実機を用いたロボット制御プログラミング学習に適した VOD 型 e-Learning 教材（渡邊）&lt;/li&gt;
     &lt;/ui&gt;
   &lt;/td&gt;
-  &lt;td rowspan=&quot;2&quot;&gt;LT&lt;/td&gt;
+  &lt;td rowspan=&quot;2&quot;&gt;
+  LT
+    &lt;ui&gt;
+        &lt;li&gt;ゼロから始める研究生活 M1 Season（熊谷）&lt;/li&gt;
+        &lt;li&gt;今日からはじめる爆速ネットワーク処理（中田）&lt;/li&gt;
+        &lt;li&gt;論文執筆体験記（林）&lt;/li&gt;
+        &lt;li&gt;すみっこにおけるネットワーク管理（工藤）&lt;/li&gt;
+        &lt;li&gt;TBA（森川）&lt;/li&gt;
+    &lt;/ui&gt;
+  &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
   &lt;td&gt;17:45~&lt;/td&gt;
