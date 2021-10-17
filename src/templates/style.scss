@@ -63,6 +63,11 @@ article.blog-post {
       }
     }
 
+    //FIXME
+    table.timetable tbody tr td ui li::marker {
+      content: none;
+    }
+
     table {
       width: 100%;
       border-collapse: collapse;
