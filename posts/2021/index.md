@@ -22,7 +22,7 @@ description: OSS研究室についてのHPです
 
 - オープンラボ当日は，情シス・ICT コース共通 zoom ミーティング内のブレイクアウトルームにて，下記の催しを行います．
 - 当日のタイムスケジュール
-<table>
+<table class="timetable">
   <thead>
     <tr>
       <th>時間</th>
