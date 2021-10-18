@@ -34,8 +34,8 @@ description: OSS研究室についてのHPです
   <tbody>
     <tr>
       <td>15:30~</td>
-      <td>教員による研究室紹介<br>slidoによるQ&A<br></td>
-      <td>学生による裏研究室紹介<br>slidoによるQ&A<br></td>
+      <td>教員による研究室紹介<br><a class="slido" href="https://app.sli.do/event/j5rx9p9g/live/questions">slidoによるQ&A</a><br></td>
+      <td>学生による裏研究室紹介<br><a class="slido" href="https://app.sli.do/event/j5rx9p9g/live/questions">slidoによるQ&A</a><br></td>
       <td rowspan="6">研究室メンバへの相談や雑談にどうぞ</td>
     </tr>
     <tr>
@@ -68,8 +68,8 @@ description: OSS研究室についてのHPです
     </tr>
     <tr>
       <td>17:00~</td>
-      <td>教員による研究室紹介<br>slidoによるQ&A<br></td>
-      <td>学生による裏研究室紹介<br>slidoによるQ&A<br></td>
+      <td>教員による研究室紹介<br><a class="slido" href="https://app.sli.do/event/j5rx9p9g/live/questions">slidoによるQ&A</a><br></td>
+      <td>学生による裏研究室紹介<br><a class="slido" href="https://app.sli.do/event/j5rx9p9g/live/questions">slidoによるQ&A</a><br></td>
     </tr>
     <tr>
       <td>17:15~</td>
