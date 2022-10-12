@@ -208,7 +208,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 
 <div class="author">
 
-<!-- ![sora](./img/管.png) -->
+![sora](./img/sora.jpeg)
 
 **柿本 翔大**  
 情報システムコース・学部 4 年
@@ -267,7 +267,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 
 <div class="author">
 
-<!-- ![beru](./img/icon_itou.png) -->
+![beru](./img/beru.png)
 
 **伊藤 璃音**  
 情報システムコース・学部 4 年
@@ -304,7 +304,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 
 <div class="author">
 
-<!-- ![ishi](./img/icon_morikawa.png) -->
+![ishi](./img/ishi.jpeg)
 
 **石本 直也**  
 情報アーキテクチャ領域・修士 1 年
