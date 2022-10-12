@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 12 Oct 2022 03:59:35 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 12 Oct 2022 04:11:50 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -399,7 +399,27 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&quot;ロボット制御システムにおける機能モジュールのライブマイグレーション機構&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A9%9F%E8%83%BD%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%83%9E%E3%82%A4%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%A9%9F%E6%A7%8B&quot; aria-label=&quot;ロボット制御システムにおける機能モジュールのライブマイグレーション機構 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ロボット制御システムにおける機能モジュールのライブマイグレーション機構&lt;/h3&gt;
 &lt;div class=&quot;author&quot;&gt;
-&lt;!-- ![sora](./img/管.png) --&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHtxUNpUK4LcRq//8QAGhAAAgIDAAAAAAAAAAAAAAAAAREAAhAhMf/aAAgBAQABBQIx4Ldm6nVjDyf/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAYEAACAwAAAAAAAAAAAAAAAAAQIQABEf/aAAgBAQAGPwIpzdQqUP/EABwQAAICAgMAAAAAAAAAAAAAAAABESExQVGBkf/aAAgBAQABPyFlvAkmhWjHT0IsCLgaFjEheY6P/9oADAMBAAIAAwAAABCfx4P/xAAWEQEBAQAAAAAAAAAAAAAAAAAQARH/2gAIAQMBAT8Qwh//xAAXEQEAAwAAAAAAAAAAAAAAAAAQARFB/9oACAECAQE/EKIw/8QAHRABAAMAAwADAAAAAAAAAAAAAQARITFBUWGRsf/aAAgBAQABPxBi2x1CVdO57EAnDCUUGbSy/wBIaIACvfkrogjjfxDMotN7JuJWzYBXD6n/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;sora&quot;
+        title=&quot;sora&quot;
+        src=&quot;/openlab-site/static/52605e014416b64d954db5c1e200655a/36dd4/sora.jpg&quot;
+        srcset=&quot;/openlab-site/static/52605e014416b64d954db5c1e200655a/ff44c/sora.jpg 158w,
+/openlab-site/static/52605e014416b64d954db5c1e200655a/a6688/sora.jpg 315w,
+/openlab-site/static/52605e014416b64d954db5c1e200655a/36dd4/sora.jpg 512w&quot;
+        sizes=&quot;(max-width: 512px) 100vw, 512px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;柿本 翔大&lt;/strong&gt;&lt;br&gt;
 情報システムコース・学部 4 年&lt;/p&gt;
 &lt;/div&gt;
@@ -524,7 +544,27 @@
 &lt;!-- ![研究紹介(伊藤)](./img/研究紹介_べる.png) --&gt;
 &lt;h3 id=&quot;p2p-型-web-アーカイブ実現を目指したユーザ透過なアーカイビング機構&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#p2p-%E5%9E%8B-web-%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E5%AE%9F%E7%8F%BE%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%9F%E3%83%A6%E3%83%BC%E3%82%B6%E9%80%8F%E9%81%8E%E3%81%AA%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%93%E3%83%B3%E3%82%B0%E6%A9%9F%E6%A7%8B&quot; aria-label=&quot;p2p 型 web アーカイブ実現を目指したユーザ透過なアーカイビング機構 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;P2P 型 Web アーカイブ実現を目指したユーザ透過なアーカイビング機構&lt;/h3&gt;
 &lt;div class=&quot;author&quot;&gt;
-&lt;!-- ![beru](./img/icon_itou.png) --&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAABYlAAAWJQFJUiTwAAADAUlEQVQ4y31UW4/cNBTOz+cJiRd4qJAQoogKwQtSEawQRapUdma3u2S0c9tcHMe5Or4mzs1Ogme26hYoe3TkRNb5zvcdy5+d5Z+hp1m2QymbmHBQYIBJDFFx40rVmXk+VTys53De/81mUhXN6jam0iYoWZjjsKxAXgI/jAhPS9YU5YdM78DTMqtKYHcbiwax2iYo6QlsyUsCGYdMWgXR5TXJ8nkcH8FWR54SmjO692JMEW8sc1i8B1cQE0hFnOHkzzV8c0VA9KD/BCZK32+hrAQ5eCjDsVDIgksaFGfZBYZZCXkdEYHerHP3Lt4cpLaMs2PM5OUdcL26YiSM0yiB8jR2VLGwJCEmlj8qKliQ+O0mff4C//Rz+vK3hDUW7dDW7IsOru5EVtGC5h6I69ZOaHkAZjbtUUW7Y/jyIv7qm+SLZ/lnnxeffAq+/q6OYge9Wh2+/wU8+5a++IHlFfYhsuNJFTERWvKKByUJ0hImBbq9Ays3sQV7EHz5HF9eO+GPv3q/X/uXO/T6KvUQTcssr07kvAYWT4VPediP6Oih1a13e4SFuI9IcPE6X711ggD7AT5E/HB9BDtIiSgsj1RA1CGXAZce52HXl7tjsnaPV3uA6D5t7l+t4MUfTuBl3l1sD3t7sc72ISOc0hrxOpCNb5FCeFyEg+YRqq5cd5duA+xWZm+Vbg5Oglh442+K/q/LY3a7F1TITjPRJKoLhsHr+0C1UNZ8s5U3biDNDdbrYvK9jMnWIY1GWxCmwk84CZDqtRp0K5smirm7ybc7jElTloOsh7ZrB42VSbDidd/2xlFNh0vBYS5z0rZDP07azGZZzKg1ZYax6XwZ57Mj9LSM2oy9aUejtXHmaarloNTU9aYfjDaLHoZRsOVjMc/WPsupZpzmh7uth6mlQ1+P4zDbPcs5KrX8T0xWV2fs+ugqrfTQGD0utvE7w9rPB9Z9BFvHW/X/8rPRs53WMs/Lk/HRx+DU9YzUqh05H4UYGJ+MeaKP898t07V9mmrGdKOm+SkdfwN0g14KQfhRIQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;beru&quot;
+        title=&quot;beru&quot;
+        src=&quot;/openlab-site/static/bfa8ee6ecda87b15fbf4eaa5b21d18e9/01e7c/beru.png&quot;
+        srcset=&quot;/openlab-site/static/bfa8ee6ecda87b15fbf4eaa5b21d18e9/c26ae/beru.png 158w,
+/openlab-site/static/bfa8ee6ecda87b15fbf4eaa5b21d18e9/6bdcf/beru.png 315w,
+/openlab-site/static/bfa8ee6ecda87b15fbf4eaa5b21d18e9/01e7c/beru.png 512w&quot;
+        sizes=&quot;(max-width: 512px) 100vw, 512px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;伊藤 璃音&lt;/strong&gt;&lt;br&gt;
 情報システムコース・学部 4 年&lt;/p&gt;
 &lt;/div&gt;
@@ -615,7 +655,27 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&quot;高集積エッジクラウド基盤実現に向けたwebassemblyサンドボックスの可観測性に関する研究&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E9%AB%98%E9%9B%86%E7%A9%8D%E3%82%A8%E3%83%83%E3%82%B8%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E5%9F%BA%E7%9B%A4%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9Fwebassembly%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E5%8F%AF%E8%A6%B3%E6%B8%AC%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6&quot; aria-label=&quot;高集積エッジクラウド基盤実現に向けたwebassemblyサンドボックスの可観測性に関する研究 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;高集積エッジクラウド基盤実現に向けたWebAssemblyサンドボックスの可観測性に関する研究&lt;/h3&gt;
 &lt;div class=&quot;author&quot;&gt;
-&lt;!-- ![ishi](./img/icon_morikawa.png) --&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/aAAwDAQACEAMQAAAB5cL7T1eehTKkHUC//8QAHBABAAEEAwAAAAAAAAAAAAAAAQACAxESECEz/9oACAEBAAEFAremhTni35nYjSzZIuZ//8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIQEQP/2gAIAQMBAT8BTmuAzZ//xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAgEBPwFWP//EABsQAQACAgMAAAAAAAAAAAAAAAEAERBhITJB/9oACAEBAAY/Auou46wyz2UlYoZzP//EABsQAQADAAMBAAAAAAAAAAAAAAEAETFBUYFh/9oACAEBAAE/IX7pZ3mbKkXOJoyu7SXhLpnsBWAYjtK/Z//aAAwDAQACAAMAAAAQxAA8/8QAGBEBAQADAAAAAAAAAAAAAAAAARARMVH/2gAIAQMBAT8QWzmYI0z/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxASxJ//xAAbEAEBAAMBAQEAAAAAAAAAAAABEQAhMVFBwf/aAAgBAQABPxBT5AOxrSUOSePceaGgdzfebIS5KfZiUdag6vmJBHoTBQYgeg9x1sEh+eYEjUqrn//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ishi&quot;
+        title=&quot;ishi&quot;
+        src=&quot;/openlab-site/static/aa2a7dff3dee9a93a2206d1661f6afae/36dd4/ishi.jpg&quot;
+        srcset=&quot;/openlab-site/static/aa2a7dff3dee9a93a2206d1661f6afae/ff44c/ishi.jpg 158w,
+/openlab-site/static/aa2a7dff3dee9a93a2206d1661f6afae/a6688/ishi.jpg 315w,
+/openlab-site/static/aa2a7dff3dee9a93a2206d1661f6afae/36dd4/ishi.jpg 512w&quot;
+        sizes=&quot;(max-width: 512px) 100vw, 512px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;石本 直也&lt;/strong&gt;&lt;br&gt;
 情報アーキテクチャ領域・修士 1 年&lt;/p&gt;
 &lt;/div&gt;
