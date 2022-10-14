@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 14 Oct 2022 07:56:48 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 14 Oct 2022 08:37:30 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -455,6 +455,61 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;連合学習処理を対象としたネットワーク通信機構の最適化に関する研究&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E9%80%A3%E5%90%88%E5%AD%A6%E7%BF%92%E5%87%A6%E7%90%86%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E9%80%9A%E4%BF%A1%E6%A9%9F%E6%A7%8B%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6&quot; aria-label=&quot;連合学習処理を対象としたネットワーク通信機構の最適化に関する研究 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;連合学習処理を対象としたネットワーク通信機構の最適化に関する研究&lt;/h3&gt;
+&lt;div class=&quot;author&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMCAQT/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAHnuluEU1IZOVyGv//EABoQAAMAAwEAAAAAAAAAAAAAAAABAgMSExH/2gAIAQEAAQUCxpU9RNmJFz7EzOvWh5aOtH//xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BI//EABgRAAIDAAAAAAAAAAAAAAAAAAABAhAR/9oACAECAQE/AYmq/wD/xAAcEAACAgIDAAAAAAAAAAAAAAAAARExAhIgIUH/2gAIAQEABj8CaKHFST6ZLaxdxw//xAAcEAACAwADAQAAAAAAAAAAAAABEQAhMUFRcYH/2gAIAQEAAT8hQElDO+IEN19hBYEQU50FS/kOVwVBKG3KYojFE9E8J//aAAwDAQACAAMAAAAQmyD+/8QAGBEAAgMAAAAAAAAAAAAAAAAAAREAECH/2gAIAQMBAT8QOFRr/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPxBVLkiH/8QAHhAAAwEAAgIDAAAAAAAAAAAAAREhADFBUWFxkdH/2gAIAQEAAT8QgvRhcCvqEYBkAg3d7GTuIQECcv1jkGgQKNQx9h7pxpHyYggegAx3LND8A6MUEcXF/wCd/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;sora&quot;
+        title=&quot;sora&quot;
+        src=&quot;/openlab-site/static/05fea5e5b60b9c3479c2d5dec108e9ca/36dd4/hika.jpg&quot;
+        srcset=&quot;/openlab-site/static/05fea5e5b60b9c3479c2d5dec108e9ca/ff44c/hika.jpg 158w,
+/openlab-site/static/05fea5e5b60b9c3479c2d5dec108e9ca/a6688/hika.jpg 315w,
+/openlab-site/static/05fea5e5b60b9c3479c2d5dec108e9ca/36dd4/hika.jpg 512w&quot;
+        sizes=&quot;(max-width: 512px) 100vw, 512px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;村上 光&lt;/strong&gt;&lt;br&gt;
+知能システムコース・学部 4 年&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;データプライバシ保護や負荷分散、ネットワーク通信量削減などの諸問題を解決した分散機械学習方式「連合学習」が注目を集めている&lt;/li&gt;
+&lt;li&gt;性能特性の異なる異種デバイスが連合学習に参画すると、学習進捗の差が起因となる偏った学習結果が課題となりうる&lt;/li&gt;
+&lt;li&gt;多くの連合学習フレームワーク実装で採用されているgRPCが用いる下位プロトコルHTTP/2は、計算資源や通信帯域が限られたネットワーク環境でオーバーヘッドが増大することが知られている&lt;/li&gt;
+&lt;li&gt;本研究では、連合学習に最適な通信プロトコルの検討と、gRPCが用いる下位プロトコルをデバイス毎に切り替える機構の実現を行う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.69620253164557%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHrvFo5y//EABoQAAICAwAAAAAAAAAAAAAAAAECAAMRITH/2gAIAQEAAQUCIU2NtVwqr22Cf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAEEAwEAAAAAAAAAAAAAAAEAAhAhEUFRgf/aAAgBAQAGPwIP2KRaayg3keR//8QAHRAAAgICAwEAAAAAAAAAAAAAAAERITFBYXGRwf/aAAgBAQABPyGQlLS/SKi0kh1B0sHNr6ZZ2MX2f//aAAwDAQACAAMAAAAQp8//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHRABAAICAgMAAAAAAAAAAAAAAREhAGExUUGBof/aAAgBAQABPxBwJFOFxw7xjgZZtItI1lNIG5oCPkY1unZnzxoIR0OzAexn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究紹介(ひかる)&quot;
+        title=&quot;研究紹介(ひかる)&quot;
+        src=&quot;/openlab-site/static/ffdd13eeb9900cfc8019c3d668b44f22/828fb/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%81%B2%E3%81%8B%E3%82%8B.jpg&quot;
+        srcset=&quot;/openlab-site/static/ffdd13eeb9900cfc8019c3d668b44f22/ff44c/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%81%B2%E3%81%8B%E3%82%8B.jpg 158w,
+/openlab-site/static/ffdd13eeb9900cfc8019c3d668b44f22/a6688/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%81%B2%E3%81%8B%E3%82%8B.jpg 315w,
+/openlab-site/static/ffdd13eeb9900cfc8019c3d668b44f22/828fb/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%81%B2%E3%81%8B%E3%82%8B.jpg 630w,
+/openlab-site/static/ffdd13eeb9900cfc8019c3d668b44f22/0ede0/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%81%B2%E3%81%8B%E3%82%8B.jpg 945w,
+/openlab-site/static/ffdd13eeb9900cfc8019c3d668b44f22/a9cfd/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E3%81%B2%E3%81%8B%E3%82%8B.jpg 1259w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&quot;デジタルイラストを対象としたコンテンツストレージの最適化&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96&quot; aria-label=&quot;デジタルイラストを対象としたコンテンツストレージの最適化 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;デジタルイラストを対象としたコンテンツストレージの最適化&lt;/h3&gt;
 &lt;div class=&quot;author&quot;&gt;
 &lt;p&gt;&lt;span
@@ -714,8 +769,8 @@
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;ishi&quot;
-        title=&quot;ishi&quot;
+        alt=&quot;ysd&quot;
+        title=&quot;ysd&quot;
         src=&quot;/openlab-site/static/66b2f6aa8ceca9e2e63ab4178d9a63a6/01e7c/ysd.png&quot;
         srcset=&quot;/openlab-site/static/66b2f6aa8ceca9e2e63ab4178d9a63a6/c26ae/ysd.png 158w,
 /openlab-site/static/66b2f6aa8ceca9e2e63ab4178d9a63a6/6bdcf/ysd.png 315w,
@@ -730,16 +785,14 @@
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;ネットワークエッジに計算資源を配置しクラウド基盤を構成するエッジクラウドの登場&lt;/li&gt;
-&lt;li&gt;VM・コンテナに比べてリソースの消費量が少ない軽量サンドボックス実現技術として Webassembly と専用の仮想マシンの登場&lt;/li&gt;
-&lt;li&gt;中央集権的なデータセンターで構成されるメガクラウド基盤に比べエッジクラウドは計算資源が乏しい&lt;/li&gt;
-&lt;li&gt;軽量サンドボックスの WebAssembly をスレッド単位で利用し超軽量サンドボックスを実現&lt;/li&gt;
-&lt;li&gt;WebAssemblyによる超軽量サンドボックスを使ったクラウド基盤の高集積化&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&quot;超軽量サンドボックスの実現&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E8%B6%85%E8%BB%BD%E9%87%8F%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E5%AE%9F%E7%8F%BE&quot; aria-label=&quot;超軽量サンドボックスの実現 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;超軽量サンドボックスの実現&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;複数のWebAssemblyを実行する際に，WebAssembly毎にプロセスとWebAssemblyランタイムが必要でありサンドボックスが冗長&lt;/li&gt;
-&lt;li&gt;プロセスとWebAssemblyランタイムを1つにまとめることで，オーバーヘッドを削減する&lt;/li&gt;
-&lt;li&gt;WebAssemblyサンドボックスを既存システム(Kubernetes等)から透過的にコンテナとして扱えるようにする&lt;/li&gt;
+&lt;li&gt;中央集権的なデータセンターで構成されるメガクラウド基盤に比べエッジクラウドは計算資源が乏しいため、現在より軽量なサンドボックスが必要&lt;/li&gt;
+&lt;li&gt;VM・コンテナに比べてリソースの消費量が少ない軽量サンドボックス実現技術として Webassembly と専用の仮想マシンの適応&lt;/li&gt;
+&lt;li&gt;複数のWebAssemblyを実行する際に、WebAssembly毎にプロセスとWebAssemblyランタイムが必要&lt;/li&gt;
+&lt;li&gt;WebAssemblyを利用したサンドボックスのさらなる軽量化のために、プロセスやランタイムのオーバーヘッドを削減したい&lt;/li&gt;
+&lt;li&gt;また，集積度が高いクラウド基盤では、状態情報をもとにして自動管理&lt;/li&gt;
+&lt;li&gt;軽量サンドボックスを使った高集積クラウド基盤のために、自動管理に必要なサンドボックス状態把握機構が必要&lt;/li&gt;
+&lt;li&gt;WebAssembly をスレッド単位で利用し超軽量サンドボックスを実現&lt;/li&gt;
+&lt;li&gt;WebAssemblyによる超軽量サンドボックスを管理するランタイム側と、専用のコード埋め込みにより個別メモリ状態把握機構を実現&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -747,46 +800,19 @@
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAABaElEQVQoz5VR21LCMBTk5/0e/0AfnGF01IFRYLhYoEmapE3S0kvappfUIwFB39iHzJlzsrsnm9FwI+ww7KhYeFhlejTcDh7JPSJ5oUfWgtbQdV1VVcaYvu/tUf7kcwZMa2Patr1WOTlrrQOCA0K0Ls7bXQCKQUDgQhyriySQsyPq2nhEekRE6rBG0Y7K5mhSV6VSCgxJmKz8MC0qGG2wKMt6cOQ8z7Qun95n48kC0ejhefrysXIb1qaN47hpmtnGf3z9mK2348l8PF2meXFZG8aMM8Z5nCQBpZyzHoLw3qr7u6FroZZS+AjtfYQxpoxCBD9kF5gxDZfK8/F0NkeUsUgAwZaHjm0sRGhtpGLMw8/F0vMRE6p0ZOcMORMeYsrX2y1mnDAOIQ1XmYMc9FfeFlEKxX8yFTKIxNfeD4Sk4OzItnfkUCq4ALYkjKD4Q4Z/PqRZckhVDEeWZrl7zi/yooC+PI6hcHF+A0NJc6uQg2BeAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACVElEQVQoz02S32vTcBTF+y8LvogPIuKj+CSCD+LDnocICgNFmajTbm7rutq1XZp1bZN88/tXkyZpPt5ktnjhkpPkcu75nu/pBEnJYF5iBjVuAp60HddMrA3Birbqputa+t97i+sdTrM1UZJRlBs6ZZ6QBSa5N6W0zij8KVUwpbB61N4fcHuwUlumHdn/pDPDYajN8cKETppERL4NlchZB+0zCRSeqeFbunwLydMQ27bZbDZsa0uWxDGGYaKUTVGUdJIkRcnw7jxSaZpimgrHiyiEIy9rwQHrdU4lpGVZ3nVV4Xo+nloSuibVOqXTEGTrAt30sfwYN4gZzx3cKEef24wmOmNthqF85nZK91xjNLVYqoCvR38wFjNGvW/M9AlVvKDTSPeE5PO7T/S6F9zMDD7uH3A1uEZfOqIsJkzW+EnBrRFy8maP3ocDhsen/Hr1GuPkkNhfkEeNbTGdxpWV53H28gXjt/uo/gXHz59xe/ilPf7P8wFBFLd45bv0Hj7g4vEj+k+fcHb/Hov3e+KjhXlzRewthVAU5qsV9mzGbDTiejjE1DQCpUjzioG2xI8z8RGUlzKfTjnrdjn+ccT1oI+hXTK4+M1p9zvTcV8IxeQ8z1Guy9I0meo6ynHww5ibhcvl5ZC+tBNvxN8Ux3XQZfl4MpHLdAh9R7SvpWVjnd952BJaFovFAk3U2aLOa24vyjDtQJbFZIXMZZnEQ7Vzuiy2bYXvB7vwN9Up5PozGfTER0eUWULc4DAM29w1aWqWNngl1jT/mkxalmpxFEVUEp9tlP4CAw85PlzFfmsAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;研究紹介(石本)&quot;
         title=&quot;研究紹介(石本)&quot;
-        src=&quot;/openlab-site/static/37077b7b529f2bc48cf384f9c1f034d5/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png&quot;
-        srcset=&quot;/openlab-site/static/37077b7b529f2bc48cf384f9c1f034d5/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 158w,
-/openlab-site/static/37077b7b529f2bc48cf384f9c1f034d5/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 315w,
-/openlab-site/static/37077b7b529f2bc48cf384f9c1f034d5/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 630w,
-/openlab-site/static/37077b7b529f2bc48cf384f9c1f034d5/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 945w,
-/openlab-site/static/37077b7b529f2bc48cf384f9c1f034d5/d9199/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 960w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h4 id=&quot;超軽量サンドボックスによるクラウド基盤の実現&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E8%B6%85%E8%BB%BD%E9%87%8F%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E5%9F%BA%E7%9B%A4%E3%81%AE%E5%AE%9F%E7%8F%BE&quot; aria-label=&quot;超軽量サンドボックスによるクラウド基盤の実現 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;超軽量サンドボックスによるクラウド基盤の実現&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;クラウド基盤を自動管理する際に，WebAssembly はスレッド単位で実行されるため従来の技術では状態把握ができない&lt;/li&gt;
-&lt;li&gt;複数動作する個々のサンドボックス状態のメモリ状態把握する&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 48.10126582278481%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAACXklEQVQoz32S3W8SQRTF+ev8E3zTxNgHEu2rRh8ata0PmiaNwaRJayukJtQao6kJ2lZoFU2pUAqFUspHgV2WsrALy3f5+jm7JBpfnOROMnfuPXPnnGPjP6vf72MYBvV6HU3TaDabdHtdiuEkZ56fZPaPyH4L01R1q348GmOLRyIULi5QSyWkXI5quUz/6soq6Ha7tNttdF1HkiRazRatboev86ssX7vL5u05Nm49QQ4lJhOMwZaIhCkXcpSlAkoug14qUlVVjEaDhohkMkk+n7dAFUWh1+sxHozoGE1q5Spt3WAgfmLmzbC9/Z5lduMErXXF6900C+9PuBRTyrJEKBTC4/FwFAqKCQsiJ1uPjEYjGk0DSZy3d3cIHB6SSqUoFovY3I5NntqfEwmEWZ13snjvJanzc4uvTCZDJBIlFj8TU8pUq1VarZagoSPAFIpy0apJJBLUajWLZ1t0bp3w/WV+PVwjOuMkNO1AOoih1ms09AqH6Qp3XHHsq8dcVNoWVa/2ctZ5xn2EXjf+EdKmZmXkWJrYjyDZ8ClqqkCrZlAThUZdw7t3wk27ixtTa+Jbl1bT4pKP61NOHsxuCW5rDAaDiSZjoXJF1yhrFRKpJAVFpli+RBO5bqdjKRrzB/jw+AXO6UcEDw5IqzKfHE5W7DN4HW/QBA1DwekfQNNjptdUIYR5eRo/JRgM4vf78Wx/JrIfIOH2Et0U4d7h2OUh/s5HdP0L8n7U4nU4HP4FNDczzGVeqMIypudKivClsFBWmDf37CPS0g6Kax9lzYe84iW3sEXe5aNhNCb94wngb1OTxeoXmhOcAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;研究紹介(吉田)&quot;
-        title=&quot;研究紹介(吉田)&quot;
-        src=&quot;/openlab-site/static/e788d0222fc1653947b63319a7f94917/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E5%90%89%E7%94%B0.png&quot;
-        srcset=&quot;/openlab-site/static/e788d0222fc1653947b63319a7f94917/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E5%90%89%E7%94%B0.png 158w,
-/openlab-site/static/e788d0222fc1653947b63319a7f94917/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E5%90%89%E7%94%B0.png 315w,
-/openlab-site/static/e788d0222fc1653947b63319a7f94917/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E5%90%89%E7%94%B0.png 630w,
-/openlab-site/static/e788d0222fc1653947b63319a7f94917/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E5%90%89%E7%94%B0.png 945w,
-/openlab-site/static/e788d0222fc1653947b63319a7f94917/3fca6/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E5%90%89%E7%94%B0.png 1112w&quot;
+        src=&quot;/openlab-site/static/72e7c82d444871b220426f56bd255963/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png&quot;
+        srcset=&quot;/openlab-site/static/72e7c82d444871b220426f56bd255963/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 158w,
+/openlab-site/static/72e7c82d444871b220426f56bd255963/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 315w,
+/openlab-site/static/72e7c82d444871b220426f56bd255963/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 630w,
+/openlab-site/static/72e7c82d444871b220426f56bd255963/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 945w,
+/openlab-site/static/72e7c82d444871b220426f56bd255963/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 1260w,
+/openlab-site/static/72e7c82d444871b220426f56bd255963/2093e/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 1858w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -804,8 +830,8 @@
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;mori&quot;
-        title=&quot;mori&quot;
+        alt=&quot;awa&quot;
+        title=&quot;awa&quot;
         src=&quot;/openlab-site/static/f3261f330ae2b6804507feff3847171e/36dd4/awa.jpg&quot;
         srcset=&quot;/openlab-site/static/f3261f330ae2b6804507feff3847171e/ff44c/awa.jpg 158w,
 /openlab-site/static/f3261f330ae2b6804507feff3847171e/a6688/awa.jpg 315w,
