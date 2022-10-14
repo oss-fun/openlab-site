@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 13 Oct 2022 07:50:59 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 14 Oct 2022 03:19:21 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -677,7 +677,7 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&quot;高集積エッジクラウド基盤実現に向けたwebassemblyサンドボックスの可観測性に関する研究&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E9%AB%98%E9%9B%86%E7%A9%8D%E3%82%A8%E3%83%83%E3%82%B8%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E5%9F%BA%E7%9B%A4%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9Fwebassembly%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E5%8F%AF%E8%A6%B3%E6%B8%AC%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6&quot; aria-label=&quot;高集積エッジクラウド基盤実現に向けたwebassemblyサンドボックスの可観測性に関する研究 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;高集積エッジクラウド基盤実現に向けたWebAssemblyサンドボックスの可観測性に関する研究&lt;/h3&gt;
+&lt;h3 id=&quot;超軽量サンドボックスによる高集積エッジクラウド基盤の実現&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E8%B6%85%E8%BB%BD%E9%87%8F%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E9%AB%98%E9%9B%86%E7%A9%8D%E3%82%A8%E3%83%83%E3%82%B8%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E5%9F%BA%E7%9B%A4%E3%81%AE%E5%AE%9F%E7%8F%BE&quot; aria-label=&quot;超軽量サンドボックスによる高集積エッジクラウド基盤の実現 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;超軽量サンドボックスによる高集積エッジクラウド基盤の実現&lt;/h3&gt;
 &lt;div class=&quot;author&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -703,15 +703,154 @@
 &lt;p&gt;&lt;strong&gt;石本 直也&lt;/strong&gt;&lt;br&gt;
 情報アーキテクチャ領域・修士 1 年&lt;/p&gt;
 &lt;/div&gt;
+&lt;div class=&quot;author&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAABRNAAAUTQGUyo0vAAABcElEQVQ4y+2Tz0sCQRTH+5O71qmgS0GYVggdAkv7QRRFRXZUVyuC1aB1/VGxrrqrOzM7b3bX3VWzGpNAQwuCTgXvMI95n+/7zryZKURbP46pPwA7BnW+gJ2P6KfG0JZBbQweWN0JMHgIOgh8xDo8JeDalgfMG4gyq1dHWFJlw3Q+wQ5nsKHjeh43FKwVCHgKYvGyJlYxV+GAXC1c5o4iyWWdUG5hFGZdXJdBXKH5HVPaZnYvLJYXrvKB26KKW2pT20ws7WXCMWFVxxx2R21zMd4jtwbZICldgPN6LFfm0vdnpRoG/1GvRFPBeO4wJoTGwX3nbSptsetZomRM+yXxpG1kH2ZSd2XDrjTUSDJwLu7HhOAk2OeeWXoa1STL7h3klfmMtHgjK8jWEIoKod30Onc+1raLCKXFE7N0ikxA1MW0VWhQFVsEeIFbNQy12awhPDzq0TlDG7FnXjpIgbn9q35fE/AJ8/n5v30k/7/ql+A3AYpJ3MQ/bXMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ishi&quot;
+        title=&quot;ishi&quot;
+        src=&quot;/openlab-site/static/66b2f6aa8ceca9e2e63ab4178d9a63a6/01e7c/ysd.png&quot;
+        srcset=&quot;/openlab-site/static/66b2f6aa8ceca9e2e63ab4178d9a63a6/c26ae/ysd.png 158w,
+/openlab-site/static/66b2f6aa8ceca9e2e63ab4178d9a63a6/6bdcf/ysd.png 315w,
+/openlab-site/static/66b2f6aa8ceca9e2e63ab4178d9a63a6/01e7c/ysd.png 512w&quot;
+        sizes=&quot;(max-width: 512px) 100vw, 512px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;吉田 龍信&lt;/strong&gt;&lt;br&gt;
+情報システムコース・学部 4 年&lt;/p&gt;
+&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;ネットワークエッジに計算資源を配置しクラウド基盤を構成するエッジクラウドの登場&lt;/li&gt;
-&lt;li&gt;軽量なサンドボックス実現技術として Webassembly と専用の仮想マシンの登場&lt;/li&gt;
+&lt;li&gt;VM・コンテナに比べてリソースの消費量が少ない軽量サンドボックス実現技術として Webassembly と専用の仮想マシンの登場&lt;/li&gt;
 &lt;li&gt;中央集権的なデータセンターで構成されるメガクラウド基盤に比べエッジクラウドは計算資源が乏しい&lt;/li&gt;
-&lt;li&gt;従来の隔離技術では隔離に必要なオーバヘッドが大きいため，軽量な WebAssembly を利用&lt;/li&gt;
-&lt;li&gt;WebAssembly はスレッド単位で実行されるため従来の技術では状態把握ができない&lt;/li&gt;
-&lt;li&gt;クラウド基盤の高集積化のためにサンドボックスの状態把握機構を実現すること&lt;/li&gt;
+&lt;li&gt;軽量サンドボックスの WebAssembly をスレッド単位で利用し超軽量サンドボックスを実現&lt;/li&gt;
+&lt;li&gt;WebAssemblyによる超軽量サンドボックスを使ったクラウド基盤の高集積化&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- ![研究紹介(いしもっち)](./img/研究紹介_森川.png) --&gt;
+&lt;h4 id=&quot;超軽量サンドボックスの実現&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E8%B6%85%E8%BB%BD%E9%87%8F%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E5%AE%9F%E7%8F%BE&quot; aria-label=&quot;超軽量サンドボックスの実現 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;超軽量サンドボックスの実現&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;複数のWebAssemblyを実行する際に、WebAssembly毎にプロセスとWebAssemblyランタイムが必要でありサンドボックスが冗長&lt;/li&gt;
+&lt;li&gt;プロセスとWebAssemblyランタイムを1つにまとめることで、オーバーヘッドを削減する&lt;/li&gt;
+&lt;li&gt;WebAssemblyサンドボックスを既存システム(Kubernetes等)から透過的にコンテナとして扱えるようにする&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAABaElEQVQoz5VR21LCMBTk5/0e/0AfnGF01IFRYLhYoEmapE3S0kvappfUIwFB39iHzJlzsrsnm9FwI+ww7KhYeFhlejTcDh7JPSJ5oUfWgtbQdV1VVcaYvu/tUf7kcwZMa2Patr1WOTlrrQOCA0K0Ls7bXQCKQUDgQhyriySQsyPq2nhEekRE6rBG0Y7K5mhSV6VSCgxJmKz8MC0qGG2wKMt6cOQ8z7Qun95n48kC0ejhefrysXIb1qaN47hpmtnGf3z9mK2348l8PF2meXFZG8aMM8Z5nCQBpZyzHoLw3qr7u6FroZZS+AjtfYQxpoxCBD9kF5gxDZfK8/F0NkeUsUgAwZaHjm0sRGhtpGLMw8/F0vMRE6p0ZOcMORMeYsrX2y1mnDAOIQ1XmYMc9FfeFlEKxX8yFTKIxNfeD4Sk4OzItnfkUCq4ALYkjKD4Q4Z/PqRZckhVDEeWZrl7zi/yooC+PI6hcHF+A0NJc6uQg2BeAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究紹介(石本)&quot;
+        title=&quot;研究紹介(石本)&quot;
+        src=&quot;/openlab-site/static/37077b7b529f2bc48cf384f9c1f034d5/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png&quot;
+        srcset=&quot;/openlab-site/static/37077b7b529f2bc48cf384f9c1f034d5/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 158w,
+/openlab-site/static/37077b7b529f2bc48cf384f9c1f034d5/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 315w,
+/openlab-site/static/37077b7b529f2bc48cf384f9c1f034d5/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 630w,
+/openlab-site/static/37077b7b529f2bc48cf384f9c1f034d5/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 945w,
+/openlab-site/static/37077b7b529f2bc48cf384f9c1f034d5/d9199/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 960w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4 id=&quot;超軽量サンドボックスによるクラウド基盤の実現&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E8%B6%85%E8%BB%BD%E9%87%8F%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E5%9F%BA%E7%9B%A4%E3%81%AE%E5%AE%9F%E7%8F%BE&quot; aria-label=&quot;超軽量サンドボックスによるクラウド基盤の実現 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;超軽量サンドボックスによるクラウド基盤の実現&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;クラウド基盤を自動管理する際に、WebAssembly はスレッド単位で実行されるため従来の技術では状態把握ができない&lt;/li&gt;
+&lt;li&gt;複数動作する個々のサンドボックス状態のメモリ状態把握する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 48.10126582278481%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAACXklEQVQoz32S3W8SQRTF+ev8E3zTxNgHEu2rRh8ata0PmiaNwaRJayukJtQao6kJ2lZoFU2pUAqFUspHgV2WsrALy3f5+jm7JBpfnOROMnfuPXPnnGPjP6vf72MYBvV6HU3TaDabdHtdiuEkZ56fZPaPyH4L01R1q348GmOLRyIULi5QSyWkXI5quUz/6soq6Ha7tNttdF1HkiRazRatboev86ssX7vL5u05Nm49QQ4lJhOMwZaIhCkXcpSlAkoug14qUlVVjEaDhohkMkk+n7dAFUWh1+sxHozoGE1q5Spt3WAgfmLmzbC9/Z5lduMErXXF6900C+9PuBRTyrJEKBTC4/FwFAqKCQsiJ1uPjEYjGk0DSZy3d3cIHB6SSqUoFovY3I5NntqfEwmEWZ13snjvJanzc4uvTCZDJBIlFj8TU8pUq1VarZagoSPAFIpy0apJJBLUajWLZ1t0bp3w/WV+PVwjOuMkNO1AOoih1ms09AqH6Qp3XHHsq8dcVNoWVa/2ctZ5xn2EXjf+EdKmZmXkWJrYjyDZ8ClqqkCrZlAThUZdw7t3wk27ixtTa+Jbl1bT4pKP61NOHsxuCW5rDAaDiSZjoXJF1yhrFRKpJAVFpli+RBO5bqdjKRrzB/jw+AXO6UcEDw5IqzKfHE5W7DN4HW/QBA1DwekfQNNjptdUIYR5eRo/JRgM4vf78Wx/JrIfIOH2Et0U4d7h2OUh/s5HdP0L8n7U4nU4HP4FNDczzGVeqMIypudKivClsFBWmDf37CPS0g6Kax9lzYe84iW3sEXe5aNhNCb94wngb1OTxeoXmhOcAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究紹介(吉田)&quot;
+        title=&quot;研究紹介(吉田)&quot;
+        src=&quot;/openlab-site/static/e788d0222fc1653947b63319a7f94917/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E5%90%89%E7%94%B0.png&quot;
+        srcset=&quot;/openlab-site/static/e788d0222fc1653947b63319a7f94917/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E5%90%89%E7%94%B0.png 158w,
+/openlab-site/static/e788d0222fc1653947b63319a7f94917/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E5%90%89%E7%94%B0.png 315w,
+/openlab-site/static/e788d0222fc1653947b63319a7f94917/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E5%90%89%E7%94%B0.png 630w,
+/openlab-site/static/e788d0222fc1653947b63319a7f94917/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E5%90%89%E7%94%B0.png 945w,
+/openlab-site/static/e788d0222fc1653947b63319a7f94917/3fca6/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E5%90%89%E7%94%B0.png 1112w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;異種os機能連携によるセキュアコンテナの実現&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E7%95%B0%E7%A8%AEos%E6%A9%9F%E8%83%BD%E9%80%A3%E6%90%BA%E3%81%AB%E3%82%88%E3%82%8B%E3%82%BB%E3%82%AD%E3%83%A5%E3%82%A2%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E3%81%AE%E5%AE%9F%E7%8F%BE&quot; aria-label=&quot;異種os機能連携によるセキュアコンテナの実現 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;異種OS機能連携によるセキュアコンテナの実現&lt;/h3&gt;
+&lt;div class=&quot;author&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAEDAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB9zvKpqhQKD//xAAZEAABBQAAAAAAAAAAAAAAAAABAAIQIEH/2gAIAQEAAQUCJly2n//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABQQAQAAAAAAAAAAAAAAAAAAADD/2gAIAQEABj8CH//EABwQAQACAQUAAAAAAAAAAAAAAAERIQAQIDFhgf/aAAgBAQABPyGGTrDjQwjfmEpLrb//2gAMAwEAAgADAAAAEOjPAP/EABYRAAMAAAAAAAAAAAAAAAAAABEgIf/aAAgBAwEBPxA1P//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAECAQE/ECP/xAAcEAEAAQUBAQAAAAAAAAAAAAABEQAQIUFRMaH/2gAIAQEAAT8QngZJFKQ9LBKZ+gmdUkKdufLRf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;mori&quot;
+        title=&quot;mori&quot;
+        src=&quot;/openlab-site/static/f3261f330ae2b6804507feff3847171e/36dd4/awa.jpg&quot;
+        srcset=&quot;/openlab-site/static/f3261f330ae2b6804507feff3847171e/ff44c/awa.jpg 158w,
+/openlab-site/static/f3261f330ae2b6804507feff3847171e/a6688/awa.jpg 315w,
+/openlab-site/static/f3261f330ae2b6804507feff3847171e/36dd4/awa.jpg 512w&quot;
+        sizes=&quot;(max-width: 512px) 100vw, 512px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;鈴木 進太郎&lt;/strong&gt;&lt;br&gt;
+情報システムコース・学部 4 年&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;クラウド環境におけるアプリケーション実行環境としてコンテナが活用&lt;/li&gt;
+&lt;li&gt;クラウドサービスにおける実行環境としてコンテナを活用する際、クラウド事業者はコンテナ間の隔離を強固にする必要がある&lt;/li&gt;
+&lt;li&gt;隔離の強固にするため、コンテナとは異なる隔離レイヤの追加を行うことがある。&lt;/li&gt;
+&lt;li&gt;しかし、隔離レイヤの追加は、強固な隔離とコンテナの軽量さや高速な起動のトレードオフを発生させる&lt;/li&gt;
+&lt;li&gt;隔離と軽量さ・性能のトレードオフを解消するために、異種OS上でのコンテナの互換実行を行うことで、OSカーネルの脆弱性を悪用した攻撃を回避&lt;/li&gt;
+&lt;li&gt;更に、異種OS上のセキュリティ機構を適用可能にすることで、様々なOSのセキュリティ機構を組み合わせた隔離レイヤの追加が可能になる&lt;/li&gt;
+&lt;li&gt;FreeBSD jailやFreeBSD capsicumなどサンドボックス技術を利用し、その上でLinuxアプリケーションを動作させることで実現を目指す&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 33.54430379746836%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAAAsTAAALEwEAmpwYAAABh0lEQVQoz02RXY/SUBCG+Z+auIkmXpj4J0z8Ld56tdkLE7NocBE0LBtgF0pLv0s/aIHSz9PH066gk0zOnDMz7zvvmZ5mqNiuRVkUxPEOTVfxgy11XXO2MIy4+fwJT/1FbE7hFHBw5ljKiJM3h6amkXVN09D7vZzwoM4oK4Eb+fxcjFEsVSahkCTHNO1A9/6MyVMfXR+CCPHdCaPRNaEzlkhVB9g29aq9S5E4ZLFNHjvkO5vq4MmsIIoi1PW6A8xmE9K7W5Jhn91wQHLXJ/5yTToeIMoSzhMK/Tu1MeDw9JVC/YYwftCYA5o8uUhuxW8/fsC5eon59jXzVy/Q3lzhyth+/w5xPP4DpJIXcZJdUlp9fD7LA42oOtmNEF1xqm/YL+akq2Xn2VrhpKyIHxcUWXYh7/lBiLYxMEybrYxNyyaM4gtj6605vo/uOGiWxWqjszYMNras3e+7r8nz/HnCJEnwPE9uMpBbjgmCgOwv4/+ArgSb3t/zMJ2iKgrKctm9JbLnjNEu8Q9u/AjwCuJhSAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究紹介(鈴木)&quot;
+        title=&quot;研究紹介(鈴木)&quot;
+        src=&quot;/openlab-site/static/212cbcf6e3b2c5e74257dbc64ff54ae5/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8.png&quot;
+        srcset=&quot;/openlab-site/static/212cbcf6e3b2c5e74257dbc64ff54ae5/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8.png 158w,
+/openlab-site/static/212cbcf6e3b2c5e74257dbc64ff54ae5/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8.png 315w,
+/openlab-site/static/212cbcf6e3b2c5e74257dbc64ff54ae5/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8.png 630w,
+/openlab-site/static/212cbcf6e3b2c5e74257dbc64ff54ae5/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8.png 945w,
+/openlab-site/static/212cbcf6e3b2c5e74257dbc64ff54ae5/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8.png 1260w,
+/openlab-site/static/212cbcf6e3b2c5e74257dbc64ff54ae5/3c492/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8.png 1300w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://researchmap.jp/ktymtbr/published_papers&quot;&gt;&lt;strong&gt;過去の卒業研究・修士研究（発表論文へのリンク）&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;研究活動&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E7%A0%94%E7%A9%B6%E6%B4%BB%E5%8B%95&quot; aria-label=&quot;研究活動 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;研究活動&lt;/h2&gt;
 &lt;h3 id=&quot;設備&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E8%A8%AD%E5%82%99&quot; aria-label=&quot;設備 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;設備&lt;/h3&gt;
