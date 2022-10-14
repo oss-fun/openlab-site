@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 14 Oct 2022 08:37:30 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 14 Oct 2022 08:49:12 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -800,19 +800,19 @@
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACVElEQVQoz02S32vTcBTF+y8LvogPIuKj+CSCD+LDnocICgNFmajTbm7rutq1XZp1bZN88/tXkyZpPt5ktnjhkpPkcu75nu/pBEnJYF5iBjVuAp60HddMrA3Birbqputa+t97i+sdTrM1UZJRlBs6ZZ6QBSa5N6W0zij8KVUwpbB61N4fcHuwUlumHdn/pDPDYajN8cKETppERL4NlchZB+0zCRSeqeFbunwLydMQ27bZbDZsa0uWxDGGYaKUTVGUdJIkRcnw7jxSaZpimgrHiyiEIy9rwQHrdU4lpGVZ3nVV4Xo+nloSuibVOqXTEGTrAt30sfwYN4gZzx3cKEef24wmOmNthqF85nZK91xjNLVYqoCvR38wFjNGvW/M9AlVvKDTSPeE5PO7T/S6F9zMDD7uH3A1uEZfOqIsJkzW+EnBrRFy8maP3ocDhsen/Hr1GuPkkNhfkEeNbTGdxpWV53H28gXjt/uo/gXHz59xe/ilPf7P8wFBFLd45bv0Hj7g4vEj+k+fcHb/Hov3e+KjhXlzRewthVAU5qsV9mzGbDTiejjE1DQCpUjzioG2xI8z8RGUlzKfTjnrdjn+ccT1oI+hXTK4+M1p9zvTcV8IxeQ8z1Guy9I0meo6ynHww5ibhcvl5ZC+tBNvxN8Ux3XQZfl4MpHLdAh9R7SvpWVjnd952BJaFovFAk3U2aLOa24vyjDtQJbFZIXMZZnEQ7Vzuiy2bYXvB7vwN9Up5PozGfTER0eUWULc4DAM29w1aWqWNngl1jT/mkxalmpxFEVUEp9tlP4CAw85PlzFfmsAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACQklEQVQoz22SWW/TQBSF84MRiGeWH4BU8QtA8IIQj/DEQxdUFdq0SdQ0SuNmqR0n8b7G8RLH/phxWCrBla5mNDP3zD33nJay2jKYFzhxhR1VuGLV3ZLhYku2rZFR1zJ/7+s/KaOqavw4xfZj0qKkRWpCsqK2O9RWmzqcQDgE6wzcLrV5AWXyD9hDUG1po8x0vHBNyzBWJMn6V0FFXVV4novr2ESh35yHYYBlmvwv4jjGdV2CIGC329FKkoQs3fCAG57rYFkWfphQ7GCTlUTrlLzIycsd+Xbb5EZQtBwHe6Xh2UvKPBGURRhuxJ0uugrW6FbA3cLFCjLG0znKRGU4GrO0QjQj5uz7gKlqoS0cTk56GPcjlN4x2mTALlJpySkoN3ccfvyMdr9g0Lnh+NMXNN1mafqiu12TUS5mNV3QffOOwdE3hudtem/fY16fk6cBZRoJhbJ9h6vzH1wevMK4bKMeHXL1+oBEnRFlBadX12yLYj9L5ZbO08f0Xzyj//I5vSePML5+EHO0MFSF2FvtASPPw9Z1xre3zGczHLFP4jVBUjBSDbKiIhEdWt6auabS7XREdtFmE1bqkJtem87FKVOlvwcMowhHKKXN5yyWS1yhspyrpltc9weMxvcEKUKkGFuINROfTiYTbNsmDlyBIBmUgnK+B/R9v7mUD+cCVBb5QYzjJxh22HS2lWoLe5mmhS4YqKra1ARBiNShkgYRawMorROGIY6wgCfoS0/lefaP59I0be6k7+RbWbNJpOn/Gv0nZKA3WB+3cfUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;研究紹介(石本)&quot;
         title=&quot;研究紹介(石本)&quot;
-        src=&quot;/openlab-site/static/72e7c82d444871b220426f56bd255963/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png&quot;
-        srcset=&quot;/openlab-site/static/72e7c82d444871b220426f56bd255963/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 158w,
-/openlab-site/static/72e7c82d444871b220426f56bd255963/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 315w,
-/openlab-site/static/72e7c82d444871b220426f56bd255963/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 630w,
-/openlab-site/static/72e7c82d444871b220426f56bd255963/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 945w,
-/openlab-site/static/72e7c82d444871b220426f56bd255963/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 1260w,
-/openlab-site/static/72e7c82d444871b220426f56bd255963/2093e/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 1858w&quot;
+        src=&quot;/openlab-site/static/120e37dd8ee24a395edf09db276b42f9/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png&quot;
+        srcset=&quot;/openlab-site/static/120e37dd8ee24a395edf09db276b42f9/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 158w,
+/openlab-site/static/120e37dd8ee24a395edf09db276b42f9/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 315w,
+/openlab-site/static/120e37dd8ee24a395edf09db276b42f9/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 630w,
+/openlab-site/static/120e37dd8ee24a395edf09db276b42f9/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 945w,
+/openlab-site/static/120e37dd8ee24a395edf09db276b42f9/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 1260w,
+/openlab-site/static/120e37dd8ee24a395edf09db276b42f9/37c35/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC.png 1810w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
