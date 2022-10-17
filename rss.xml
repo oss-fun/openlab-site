@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 17 Oct 2022 01:31:35 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 17 Oct 2022 01:38:07 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -784,15 +784,11 @@
 高度ICTコース・学部 4 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;ネットワークエッジに計算資源を配置しクラウド基盤を構成するエッジクラウドの登場&lt;/li&gt;
-&lt;li&gt;中央集権的なデータセンターで構成されるメガクラウド基盤に比べエッジクラウドは計算資源が乏しいため，現在より軽量なサンドボックスが必要&lt;/li&gt;
-&lt;li&gt;VM・コンテナに比べてリソースの消費量が少ない軽量サンドボックス実現技術として Webassembly と専用の仮想マシンの適応&lt;/li&gt;
-&lt;li&gt;複数のWebAssemblyを実行する際に，WebAssembly毎にプロセスとWebAssemblyランタイムが必要&lt;/li&gt;
-&lt;li&gt;WebAssemblyを利用したサンドボックスのさらなる軽量化のために，プロセスやランタイムのオーバーヘッドを削減したい&lt;/li&gt;
-&lt;li&gt;また，集積度が高いクラウド基盤では，状態情報をもとにして自動管理&lt;/li&gt;
-&lt;li&gt;軽量サンドボックスを使った高集積クラウド基盤のために，自動管理に必要なサンドボックス状態把握機構が必要&lt;/li&gt;
-&lt;li&gt;WebAssembly をスレッド単位で利用し超軽量サンドボックスを実現&lt;/li&gt;
-&lt;li&gt;WebAssemblyによる超軽量サンドボックスを管理するランタイム側と，専用のコード埋め込みにより個別メモリ状態把握機構を実現&lt;/li&gt;
+&lt;li&gt;データセンターで構成される従来のクラウド基盤に比べて，，ユーザにより近いところに広域分散配置されるエッジクラウド基盤は，計算資源に制約が大きい&lt;/li&gt;
+&lt;li&gt;従来のクラウド基盤において採用されている仮想化（VM）やコンテナ技術に比べて，より計算資源消費量が少なくできる Webassembly に着目&lt;/li&gt;
+&lt;li&gt;本研究では，WebAssemblyをエッジクラウドの実行基盤として採用するために，WebAssemblyランタイムのさらなる軽量化技術の確立と超軽量化したWebAssemblyインスタンスをクラウド基盤で運用管理するための可観測性を実現&lt;/li&gt;
+&lt;li&gt;従来，プロセスを単位として起動・実行されるWebAssemblyランタイムを，WebAssemblyのメモリ隔離を維持しつつスレッド単位で起動・実行することでさらに軽量化&lt;/li&gt;
+&lt;li&gt;スレッド単位で動作しているWebAssemblyランタイム毎の実行メトリック（CPU使用率，メモリ使用量など）の取得を，，WebAssemblyコード変換技術とランタイム機能拡張の組み合わせにより実現&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
