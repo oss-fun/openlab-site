@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 Oct 2022 12:02:20 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 17 Oct 2022 01:19:40 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -845,13 +845,12 @@
 情報システムコース・学部 4 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;クラウドサービスにおける実行環境としてコンテナを活用する際，不特定多数のユーザが単一ホスト内に同居する&lt;/li&gt;
-&lt;li&gt;そのため，クラウド事業者はコンテナ間の隔離を強固にする必要があり，コンテナとは異なる隔離レイヤの追加することがある&lt;/li&gt;
-&lt;li&gt;しかし，隔離レイヤの追加により，コンテナの軽量さや高速な起動という特性が損なわれてしまう&lt;/li&gt;
-&lt;li&gt;多くのクラウドサービスではコンテナをLinux環境で動かしており，カーネルの脆弱性とコンテナの脆弱性が直結&lt;/li&gt;
-&lt;li&gt;Linuxコンテナを異種OS上で動作させることで，カーネル依存の脆弱性を回避&lt;/li&gt;
-&lt;li&gt;さらに，異種OSのセキュリティ機構を組み合わせることで，コンテナの特性損失を低減した新たな隔離レイヤの実現&lt;/li&gt;
-&lt;li&gt;FreeBSDのLinuxバイナリ互換機能や，FreeBSD jail, FreeBSD capsicumといったセキュリティ機構を利用して実装&lt;/li&gt;
+&lt;li&gt;FaaS（Funtion as a Service）やエッジクラウドなどのクラウド利用形態の進化にともなって，軽量さやDevOpsとの親和性が高いコンテナ型クラウドに注目が集まっている&lt;/li&gt;
+&lt;li&gt;同一ホスト上のコンテナ間ではOSカーネルを共有することになるため，マルチテナント向け高集積クラウド基盤ではのコンテナ間の隔離を強化する必要がある&lt;/li&gt;
+&lt;li&gt;仮想化（VM）技術などの隔離強化技術を組み合わせる手法では，コンテナの軽量さが犠牲になる&lt;/li&gt;
+&lt;li&gt;本研究では，コンテナを実現しているLinuxカーネルに着目し，Linuxカーネルの脆弱性回避と異種OSの隔離技術を組み合わせることで，コンテナの軽量さを維持しつつ隔離を強化したセキュアコンテナを実現する&lt;/li&gt;
+&lt;li&gt;異なるOSカーネル上でLinuxコンテナの実行を可能にすることで，Linuxカーネルに起因する脆弱性への攻撃を回避する&lt;/li&gt;
+&lt;li&gt;異種OSとしてFreeBSDを採用し，Linuxにはないセキュリティ機構capsicumを適用して，OSカーネル呼び出しを検査・制限することで，OSカーネルを保護する&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
