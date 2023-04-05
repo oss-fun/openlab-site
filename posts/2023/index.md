@@ -1,6 +1,6 @@
 ---
 title: あつまれ 低レイヤの杜
-date: "2022-09-28T15:54:23+09:00"
+date: "2022-04-05T15:54:23+09:00"
 description: OSS研究室についてのHPです
 ---
 
@@ -39,10 +39,10 @@ description: OSS研究室についてのHPです
       <td>16:30~</td>
       <td>研究室メンバーによるLT（M2)
         <ui>
-          <li>ゼロから始める研究生活 M2 Season（熊谷）</li>
-          <li>おいしくて強くなるIPFS lite（伊藤）</li>
-          <li>Rustで始めるwebフロントエンド開発（森川）</li>
-          <li>研究と就職活動で役立てられたこと（石本）</li>
+          <li>ゼロから始める研究生活 M2 Season（熊谷）　</li>
+          <li>おいしくて強くなるIPFS lite（伊藤）　</li>
+          <li>Rustで始めるwebフロントエンド開発（森川）　</li>
+          <li>研究と就職活動で役立てられたこと（石本）　</li>
       </ui>
       </td>
     </tr>
@@ -50,8 +50,8 @@ description: OSS研究室についてのHPです
       <td>16:50~</td>
       <td>研究室メンバーによるLT（M1)
         <ui>
-          <li>みんなが知らないjailの話（鈴木）</li>
-          <li>みんなで作ろう学習モデル<br>～機械学習の新手法：連合学習について～（村上）</li>
+          <li>みんなが知らないjailの話（鈴木）　</li>
+          <li>みんなで作ろう学習モデル～機械学習の新手法：連合学習について～（村上）　</li>
         </ui>
       </td>
     </tr>
@@ -59,11 +59,11 @@ description: OSS研究室についてのHPです
       <td>17:00~</td>
       <td>研究室メンバーによるLT（B4）
         <ui>
-          <li>CyberAgentのインターンに行ってきたよ（藤井）</li>
-          <li>私はLoiloNote見習いエンジニアだ。（中村）</li>
-          <li>大学院推薦のための書類を出した時の話（坂口）</li>
-          <li>シスプロはいいぞ（斉藤）</li>
-          <li>就活と春休み（中川）</li>
+          <li>CyberAgentのインターンに行ってきたよ（藤井）　</li>
+          <li>私はLoiloNote見習いエンジニアだ。（中村）　</li>
+          <li>大学院推薦のための書類を出した時の話（坂口）　</li>
+          <li>シスプロはいいぞ（斉藤）　</li>
+          <li>就活と春休み（中川）　</li>
         </ui>
       </td>
     </tr>
@@ -78,8 +78,7 @@ description: OSS研究室についてのHPです
   </tbody>
 </table>
 
-LT会中は、以下のslidoで質問やコメントを募集しています！
-<a class="slido" href="https://app.sli.do/event/pNqDh9i6Swkb7pTu5FDaQ3/live/questions">slido</a>
+LT会中は、<a class="slido" href="https://app.sli.do/event/pNqDh9i6Swkb7pTu5FDaQ3/live/questions">slido</a>で質問やコメントを募集しています！
 
 ## システムソフトウェア研究
 
