@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 05 Apr 2023 11:47:06 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 研究室紹介出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに 研究室紹介出展概要 当日は，ブレイクアウトルームで，研究室メンバーのLT大会をします． LT会タイムスケジュール ※事情により，時間や内容を変更する場合があります LT…]]></description><link>https://oss-fun.github.io/2023/</link><guid isPermaLink="false">https://oss-fun.github.io/2023/</guid><pubDate>Wed, 05 Apr 2023 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 06 Apr 2023 03:31:08 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 研究室紹介出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに 研究室紹介出展概要 当日は，ブレイクアウトルームで，研究室メンバーのLT大会をします． LT会タイムスケジュール ※事情により，時間や内容を変更する場合があります LT…]]></description><link>https://oss-fun.github.io/2023/</link><guid isPermaLink="false">https://oss-fun.github.io/2023/</guid><pubDate>Wed, 05 Apr 2023 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -333,7 +333,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;大野 和也&lt;/strong&gt;&lt;br&gt;
-知能情報科学領域・修士 2 年&lt;/p&gt;
+知能情報科学領域・卒業&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;ROS では，複数のノード間でトピックというデータパスを利用したデータ通信を行い，ロボット制御システムを実現している&lt;/li&gt;
@@ -403,7 +403,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;瀧本 恒平&lt;/strong&gt;&lt;br&gt;
-知能情報科学領域・修士 2 年&lt;/p&gt;
+知能情報科学領域・卒業&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;ロボット制御プログラミングには，ソースコードを記述して PC 上で動作させるような通常のプログラミング学習と異なり，ロボットの物理的な装置の挙動について意識する必要がある，という特徴がある&lt;/li&gt;
@@ -475,7 +475,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;柿本 翔大&lt;/strong&gt;&lt;br&gt;
-情報システムコース・学部 4 年&lt;/p&gt;
+情報システムコース・卒業&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;ロボット開発には ROS(Robot Operating System) の利用が拡大&lt;/li&gt;
@@ -549,7 +549,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;村上 光&lt;/strong&gt;&lt;br&gt;
-知能システムコース・学部 4 年&lt;/p&gt;
+知能システムコース・卒業&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;データプライバシ保護や負荷分散，ネットワーク通信量削減などの諸問題を解決した分散機械学習方式「連合学習」が注目を集めている&lt;/li&gt;
@@ -618,7 +618,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;吉川 綾乃&lt;/strong&gt;&lt;br&gt;
-高度 ICT 領域・修士 2 年&lt;/p&gt;
+高度 ICT 領域・卒業&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;デジタルイラストなどのアート作品を販売するためのNFT(Non-Fungible Token) サービスでは，データの保管にIPFS(InterPlanetary File System) を利用&lt;/li&gt;
@@ -689,7 +689,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;伊藤 晋梧&lt;/strong&gt;&lt;br&gt;
-高度ICT領域・修士 1 年&lt;/p&gt;
+高度ICT領域・修士 2 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;Inter-Planetary Filesystem(IPFS)と呼ばれる分散ファイルシステムが現在普及し始めている&lt;/li&gt;
@@ -763,7 +763,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;伊藤 璃音&lt;/strong&gt;&lt;br&gt;
-情報システムコース・学部 4 年&lt;/p&gt;
+情報システムコース・卒業&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;増え続ける Web ページをアーカイブして保存するという取り組みが存在&lt;/li&gt;
@@ -834,7 +834,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;森川 太斗&lt;/strong&gt;&lt;br&gt;
-情報アーキテクチャ領域・修士 1 年&lt;/p&gt;
+情報アーキテクチャ領域・修士 2 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;IoT デバイスは OS などのソフトウェアの管理が重要である一方で，広域に分散して配置されているため管理が煩雑&lt;/li&gt;
@@ -906,7 +906,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;石本 直也&lt;/strong&gt;&lt;br&gt;
-情報アーキテクチャ領域・修士 1 年&lt;/p&gt;
+情報アーキテクチャ領域・修士 2 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;author&quot;&gt;
 &lt;p&gt;&lt;span
@@ -939,7 +939,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;吉田 龍信&lt;/strong&gt;&lt;br&gt;
-高度ICTコース・学部 4 年&lt;/p&gt;
+高度ICTコース・卒業&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;データセンターで構成される従来のクラウド基盤に比べて，，ユーザにより近いところに広域分散配置されるエッジクラウド基盤は，計算資源に制約が大きい&lt;/li&gt;
@@ -1012,7 +1012,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;鈴木 進太郎&lt;/strong&gt;&lt;br&gt;
-情報システムコース・学部 4 年&lt;/p&gt;
+情報アーキテクチャ領域・修士 1 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;FaaS（Funtion as a Service）やエッジクラウドなどのクラウド利用形態の進化にともなって，軽量さやDevOpsとの親和性が高いコンテナ型クラウドに注目が集まっている&lt;/li&gt;
