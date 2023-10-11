@@ -20,6 +20,7 @@ description: OSS研究室についてのHPです
 
 ## 研究室紹介出展概要
 
+<h3>to be determined</h3>
 
 
 ## システムソフトウェア研究
