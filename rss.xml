@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 13 Oct 2023 02:12:28 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[…]]></description><link>https://oss-fun.github.io/2023/</link><guid isPermaLink="false">https://oss-fun.github.io/2023/</guid><pubDate>Wed, 05 Apr 2023 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 13 Oct 2023 04:18:38 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[…]]></description><link>https://oss-fun.github.io/2023/</link><guid isPermaLink="false">https://oss-fun.github.io/2023/</guid><pubDate>Wed, 05 Apr 2023 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -582,8 +582,8 @@
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;souma&quot;
-        title=&quot;souma&quot;
+        alt=&quot;awa&quot;
+        title=&quot;awa&quot;
         src=&quot;/openlab-site/static/7d13f90ed00ba987b23bc525e4d834f4/01e7c/souma.png&quot;
         srcset=&quot;/openlab-site/static/7d13f90ed00ba987b23bc525e4d834f4/c26ae/souma.png 158w,
 /openlab-site/static/7d13f90ed00ba987b23bc525e4d834f4/6bdcf/souma.png 315w,
@@ -594,15 +594,46 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;坂口　颯麻&lt;/strong&gt;&lt;br&gt;
-情報システムコース　4 年&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;坂口 颯麻&lt;/strong&gt;&lt;br&gt;
+情報システムコース 4 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;Linux で実現され広く普及したコンテナ型仮想化は、 OS カーネルをコンテナ間で共有することで、軽量かつ高速に起動することができる一方、カーネル脆弱性を悪用した攻撃によりコンテナ間隔離が脆弱となるリスク&lt;/li&gt;
 &lt;li&gt;ハードウェア仮想化技術やシステムコール検査などの手法と比較して、Linux 以外の OS カーネル上で Linux コンテナを動作可能とすることで、Linux カーネルの脆弱性を利用した攻撃を低オーバヘッドで回避&lt;/li&gt;
 &lt;li&gt;異種 OS が持つ独自のセキュリティ機能を透過的適用することで、ファイル I/O やネットワークを利用した攻撃に対しても効率的な防御を実現&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;/openlab-site/49558b8529f0db447307355331e811da/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8,%E5%9D%82%E5%8F%A3.svg&quot; alt=&quot;研究紹介(鈴木)&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/openlab-site/static/b379b14792826d97ceee5b67906b213e/aa459/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 49.36708860759494%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAACl0lEQVQoz11STUwTQRR+pbaAFpRqxb+DCaCGEKrhgCHe8GIgMQoaOHCDA1eMB5JqPRBUDCZ44lzPpvHQxpiiJMQQxYQmhDYm25bSQne73Z39627bbBnfFE5M8mUmb7753vfeGwBc1zo7G+hob/fc7evzdnd1nXsdDJ6hlDrj8TjMzMy4wuEw+P1+Rgc3Ltx63C7X7fNtbb0tLS3Xx8bGXMh3wKl1EeFBMDE4PDwEQgjMz8+7mFi9XndivAnFXT6f7w7yGHoQlxm/KAgAPM8D1XUHC9CjowtUVUdfzs0N7+dyg6qiPMns7XnxQSNzg3OCrc1NoJZ1yUilHjwbH79XkqR+FLx/TLDtJlsUoc5xj+qaRrc3NpKarv8yLYsSWX7IOJFIxF2r1V6gyxXbtlcVRXlqcdx0jRC6Ho3GTNP8hzjO1ud0OqiigL2z009lOY7nj7okLRmSlCgS4j8p35tOpxXcabFYpKIo/iTb26NYnY6BFTTwpVwuc2AYRsSyrB+aqv4hijKtn5SXAmjOALRSPHc7HE27u7ueQqHwF4U0FMR80u/v0aiPDg115AcGbm7GYq0SIc2AJJpIJGgqlaKSLIeZgD05Cbg7EE5hZATeBwJu5lJV1alKpfKmWqkEBUl6fgsHfrq/gL1IY1Ye7UqqpsXWJya6rdXVs1ogcEVYWLj6DafKHuH3acNKdkqlUpWZsGq1r9m1tWF1ayuUE8V36HoZf8QyJJNJd7Va9TD1giBM6aJI1IMDWuZ5auGAREIG2V0mk/EKgiBzHEez2Sy2WdkvlkqfTWwhJqFoiKJ7Cvl8vmEVpwkCz/eXLeuTYhiLmmkuouO3+VzuBrsPhUJOrGRWwxjiA4o/3s9me5GzhP18he0IYpLgf07M8xCo0ycAAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;研究紹介(鈴木)&quot;
+        title=&quot;研究紹介(鈴木)&quot;
+        src=&quot;/openlab-site/static/b379b14792826d97ceee5b67906b213e/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png&quot;
+        srcset=&quot;/openlab-site/static/b379b14792826d97ceee5b67906b213e/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png 158w,
+/openlab-site/static/b379b14792826d97ceee5b67906b213e/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png 315w,
+/openlab-site/static/b379b14792826d97ceee5b67906b213e/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png 630w,
+/openlab-site/static/b379b14792826d97ceee5b67906b213e/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png 945w,
+/openlab-site/static/b379b14792826d97ceee5b67906b213e/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png 1260w,
+/openlab-site/static/b379b14792826d97ceee5b67906b213e/aa459/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png 1969w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&quot;ランタイム実装中立なwebassemblyライブマイグレーション&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0%E5%AE%9F%E8%A3%85%E4%B8%AD%E7%AB%8B%E3%81%AAwebassembly%E3%83%A9%E3%82%A4%E3%83%96%E3%83%9E%E3%82%A4%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&quot; aria-label=&quot;ランタイム実装中立なwebassemblyライブマイグレーション permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ランタイム実装中立なWebAssemblyライブマイグレーション&lt;/h3&gt;
 &lt;div class=&quot;author&quot;&gt;
 &lt;p&gt;&lt;span
