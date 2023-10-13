@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 13 Oct 2023 04:28:17 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[…]]></description><link>https://oss-fun.github.io/2023/</link><guid isPermaLink="false">https://oss-fun.github.io/2023/</guid><pubDate>Wed, 05 Apr 2023 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 13 Oct 2023 07:36:10 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[…]]></description><link>https://oss-fun.github.io/2023/</link><guid isPermaLink="false">https://oss-fun.github.io/2023/</guid><pubDate>Wed, 05 Apr 2023 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -504,26 +504,26 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/openlab-site/static/355c315610ec368d12bd0a63c6e5d1ee/307e7/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC%2C%E6%96%89%E8%97%A4.png&quot;
+    href=&quot;/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/948e7/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 60.12658227848101%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsTAAALEwEAmpwYAAACsklEQVQoz02Ty27kRBSG+5FYgBCMRrwD78ACiRUSa5YICSQkViwQICQYwmZYwIgkJKMIZoBJ+pJ0+26X77Hdl/Qlbnfbjj+q3ZHCkUp1TtVff9X5T51OvcnZj4IyzynX0t9uqIo12/v4rtqys6auZHzbru32623R+rtz9WZN09zRKdcruZEz9RP0voHZM5nFUyIjbGNnYLOZ37aEZb5GDCyMS5NQD7iJZxJvoMuRWmGL6XBvEy3CU1yMrsLUzoj6viT1sF+MyKwu5XYqCTd4Lw2EI/C6FjMxwes5+EMH9+U5i+mITtM0LWHqZVhKjDqQxJLQVUM8M8G8ihkHNmW5oiy2WAMf20hR+zGxPGMPfYSeycc4rObBA+F4fI0f+mgX39HrnzB0MsLrMYqbkiZxi9lI3YIolARnXP3zFV3dww1TrGiG4bhUsg6dnZA7W0RnLJQP0U7f5/T5E04HGU44QzUDxknUYtbrgoXxBfGrD+j/8RG/vjDkhTcYrszOtGTxNg8vzGKB0M4QxgWWoWBbLp4XYkpgEvvUVSl1LLG1vwmdc0ytJzF2ixNCpm2brBazB8LJZIrt+ASB1GyWMRCvUPUhmiKLEnTZ5AlVdYfnB9jCI0nGiMTg0rpAU1Vc+5J5OvifhpMZQ8UmHS+Z57UEXWLoOoomuF0t9t+m3GJaPoYVscwbRHCNNuoxVF3CUOrcVA8aTjOB0TtAjH4hto/Qu0+x+z9jj36jKIoWsy0rPP0Yd3hAJp4RGs8Q/QMZ/0QWjfb/sLmrW6fIDvnh8zf49tPHfP3J23z/2WO+/PhNnv/4rrx4vsfIhllevQdXrzP96xHe0Vss/32Hpv8aS/cbmpbwPuXiNkEovyPUYxzluJ2t4SGR8yd1vW+9um5YpOesro9YxKfchCdyPmEZH5LPRYv5D+D8aPSxk43YAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 70.88607594936708%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAB7CAAAewgFu0HU+AAACF0lEQVQoz6VT23KbMBTk/z+jD31s39NJm0mbxE5dEzvBMSHG3AWSQDIgEAgn3WR6fc4ZoRGLzmq152A9vyGsaZoOh4N8DaXU8Du01tNrYDGOIxDMfd93Xde2LTYDt5BZVVWapYMeABFCttttFEVlWWJTXdeMMdd1wzCM41gIkaap7/sg4pxbZck5Y1IIRilQEHdK4RtUQQion56e9KBVp4wxIAIp8kFKKbU6PXB54LKWdQOUcd60qm5aDCFlWVWQU9cNglJm2zbooAivuJFV72bm8uN48UFFNqvEavndvr66tRd7b1uynFNCigwjIwlmUB+PR2j5ZZj0L82nd+bre7GfJYkfxMtwPw+8y71z5i5P7teft/EPL1+F5cand2HkTsb8dXucjJ5Mb4bQv3E3cy++88lmG61uH66vrk6+Lb/M7LM779onzkO0vnfmJHJw+J9SHbtO952OQ68oWBBmi8WN5wUZ4XlBc5KnGV0sb52Nl2YsL3i0d+FAr1G80UKmEBKW74OA8VLnFzo+bYLTga/6HqVqjHB6ING5zs5pntSNguG73SPj1Uty32t4CGOFPMjMUcQR8ZrsFu2L5a0sHmRiq9zhybogiTw0eV7ARiwsM01KoXMG1emCMohkRVVx+bgLoQglSQmLk7ytuzgtQI+TcFMzHSczWf/2KnrDjGjDYRy0MSMqaV4AjWfQ/WuP6v96+y0/xk+2nA58T+UqrAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;研究紹介(石本)&quot;
         title=&quot;研究紹介(石本)&quot;
-        src=&quot;/openlab-site/static/355c315610ec368d12bd0a63c6e5d1ee/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC%2C%E6%96%89%E8%97%A4.png&quot;
-        srcset=&quot;/openlab-site/static/355c315610ec368d12bd0a63c6e5d1ee/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC%2C%E6%96%89%E8%97%A4.png 158w,
-/openlab-site/static/355c315610ec368d12bd0a63c6e5d1ee/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC%2C%E6%96%89%E8%97%A4.png 315w,
-/openlab-site/static/355c315610ec368d12bd0a63c6e5d1ee/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC%2C%E6%96%89%E8%97%A4.png 630w,
-/openlab-site/static/355c315610ec368d12bd0a63c6e5d1ee/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC%2C%E6%96%89%E8%97%A4.png 945w,
-/openlab-site/static/355c315610ec368d12bd0a63c6e5d1ee/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC%2C%E6%96%89%E8%97%A4.png 1260w,
-/openlab-site/static/355c315610ec368d12bd0a63c6e5d1ee/307e7/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E7%9F%B3%E6%9C%AC%2C%E6%96%89%E8%97%A4.png 1354w&quot;
+        src=&quot;/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png&quot;
+        srcset=&quot;/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png 158w,
+/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png 315w,
+/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png 630w,
+/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png 945w,
+/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png 1260w,
+/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/948e7/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png 2339w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
