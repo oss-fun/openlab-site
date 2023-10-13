@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 13 Oct 2023 04:18:38 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[…]]></description><link>https://oss-fun.github.io/2023/</link><guid isPermaLink="false">https://oss-fun.github.io/2023/</guid><pubDate>Wed, 05 Apr 2023 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 13 Oct 2023 04:28:17 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[…]]></description><link>https://oss-fun.github.io/2023/</link><guid isPermaLink="false">https://oss-fun.github.io/2023/</guid><pubDate>Wed, 05 Apr 2023 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -582,8 +582,8 @@
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;awa&quot;
-        title=&quot;awa&quot;
+        alt=&quot;souma&quot;
+        title=&quot;souma&quot;
         src=&quot;/openlab-site/static/7d13f90ed00ba987b23bc525e4d834f4/01e7c/souma.png&quot;
         srcset=&quot;/openlab-site/static/7d13f90ed00ba987b23bc525e4d834f4/c26ae/souma.png 158w,
 /openlab-site/static/7d13f90ed00ba987b23bc525e4d834f4/6bdcf/souma.png 315w,
@@ -665,8 +665,8 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;藤井　大吾&lt;/strong&gt;&lt;br&gt;
-高度ICTコース　4 年&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;藤井 大吾&lt;/strong&gt;&lt;br&gt;
+高度ICTコース 4 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;IoT や AI の技術進歩により、多くの IoT デバイスが大量のデータを生成し、データ転送による通信遅延が大きくなるので、デバイス付近にエッジサーバを配置するエッジクラウドが普及&lt;/li&gt;
