@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 16 Oct 2023 02:50:50 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 研究室紹介出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに 研究室紹介出展概要 オープンラボ当日は，対面にて，下記の催しを行います． WasmEdge で LogoFetch MAGIC:Magical webAssembly…]]></description><link>https://oss-fun.github.io/2023/</link><guid isPermaLink="false">https://oss-fun.github.io/2023/</guid><pubDate>Wed, 05 Apr 2023 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 16 Oct 2023 03:09:55 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 研究室紹介出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに 研究室紹介出展概要 オープンラボ当日は，対面にて，下記の催しを行います． WasmEdge で LogoFetch MAGIC:Magical webAssembly…]]></description><link>https://oss-fun.github.io/2023/</link><guid isPermaLink="false">https://oss-fun.github.io/2023/</guid><pubDate>Wed, 05 Apr 2023 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -1797,38 +1797,7 @@ TCPの信頼性保障の仕組みは、低質な回線においてはオーバ�
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/openlab-site/static/10b3de6f12499109baad4bdf7a57f719/d2602/%E3%83%94%E3%82%B6.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFslUksRD//xAAbEAEAAgIDAAAAAAAAAAAAAAABAgMSEyEiMv/aAAgBAQABBQKsxdcpJHh8p1qzYf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAWEQADAAAAAAAAAAAAAAAAAAAAARL/2gAIAQIBAT8BlkM//8QAHRAAAQQCAwAAAAAAAAAAAAAAAAECETEQEiFBkf/aAAgBAQAGPwJTr3DXUsck7KVJ/8QAHRAAAgIBBQAAAAAAAAAAAAAAAREAIUExYXGBkf/aAAgBAQABPyFjVnwwsRJ40OiphGaEcYAyN5YHmc//2gAMAwEAAgADAAAAEAcP/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQBB/9oACAEDAQE/EFyd/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAgBAgEBPxBaDof/xAAeEAEAAwABBQEAAAAAAAAAAAABABEhMUFRgZGh8P/aAAgBAQABPxC+LAgqUdkmDiqvDR095Bahlfl9jrnHWlLgrl0QPKVwKKFJP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;ピザ&quot;
-        title=&quot;ピザ&quot;
-        src=&quot;/openlab-site/static/10b3de6f12499109baad4bdf7a57f719/828fb/%E3%83%94%E3%82%B6.jpg&quot;
-        srcset=&quot;/openlab-site/static/10b3de6f12499109baad4bdf7a57f719/ff44c/%E3%83%94%E3%82%B6.jpg 158w,
-/openlab-site/static/10b3de6f12499109baad4bdf7a57f719/a6688/%E3%83%94%E3%82%B6.jpg 315w,
-/openlab-site/static/10b3de6f12499109baad4bdf7a57f719/828fb/%E3%83%94%E3%82%B6.jpg 630w,
-/openlab-site/static/10b3de6f12499109baad4bdf7a57f719/0ede0/%E3%83%94%E3%82%B6.jpg 945w,
-/openlab-site/static/10b3de6f12499109baad4bdf7a57f719/3ac88/%E3%83%94%E3%82%B6.jpg 1260w,
-/openlab-site/static/10b3de6f12499109baad4bdf7a57f719/d2602/%E3%83%94%E3%82%B6.jpg 4032w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;img src=&quot;./img/%E3%83%94%E3%82%B6.jpeg&quot; alt=&quot;ピザ&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 オープンラボ出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに オープンラボ出展概要 オープンラボ当日は，対面にて，下記の催しを行います． 教員／学生による研究室紹介とQ&A…]]></description><link>https://oss-fun.github.io/2022/</link><guid isPermaLink="false">https://oss-fun.github.io/2022/</guid><pubDate>Wed, 28 Sep 2022 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
