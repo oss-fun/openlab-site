@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 13 Oct 2023 07:36:10 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[…]]></description><link>https://oss-fun.github.io/2023/</link><guid isPermaLink="false">https://oss-fun.github.io/2023/</guid><pubDate>Wed, 05 Apr 2023 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 16 Oct 2023 02:50:50 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 研究室紹介出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに 研究室紹介出展概要 オープンラボ当日は，対面にて，下記の催しを行います． WasmEdge で LogoFetch MAGIC:Magical webAssembly…]]></description><link>https://oss-fun.github.io/2023/</link><guid isPermaLink="false">https://oss-fun.github.io/2023/</guid><pubDate>Wed, 05 Apr 2023 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -42,7 +42,19 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;研究室紹介出展概要&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E7%A0%94%E7%A9%B6%E5%AE%A4%E7%B4%B9%E4%BB%8B%E5%87%BA%E5%B1%95%E6%A6%82%E8%A6%81&quot; aria-label=&quot;研究室紹介出展概要 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;研究室紹介出展概要&lt;/h2&gt;
-&lt;h3&gt;to be determined&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;オープンラボ当日は，対面にて，下記の催しを行います．&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;WasmEdge で LogoFetch&lt;/li&gt;
+&lt;li&gt;MAGIC:Magical webAssembly miGration stIck&lt;/li&gt;
+&lt;li&gt;バランスボール・ロボ&lt;/li&gt;
+&lt;li&gt;Flowerで花推定&lt;/li&gt;
+&lt;li&gt;あさっこルームズ&lt;/li&gt;
+&lt;li&gt;Choigru&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&quot;システムソフトウェア研究&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E7%A0%94%E7%A9%B6&quot; aria-label=&quot;システムソフトウェア研究 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;システムソフトウェア研究&lt;/h2&gt;
 &lt;p&gt;本研究室では，システムソフトウェアの研究をとおして，社会で&lt;strong&gt;飛びぬけて活躍できる&lt;/strong&gt;エンジニアスキルを身につけることを目指しています．&lt;/p&gt;
 &lt;h3 id=&quot;システムソフトウェアって何&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95&quot; aria-label=&quot;システムソフトウェアって何 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;システムソフトウェアって何？&lt;/h3&gt;
@@ -320,7 +332,7 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&quot;広域に分散した-iot-デバイス郡を対象とした-p2p-型-os-プロビジョニング&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%BA%83%E5%9F%9F%E3%81%AB%E5%88%86%E6%95%A3%E3%81%97%E3%81%9F-iot-%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E9%83%A1%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F-p2p-%E5%9E%8B-os-%E3%83%97%E3%83%AD%E3%83%93%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%B3%E3%82%B0&quot; aria-label=&quot;広域に分散した iot デバイス郡を対象とした p2p 型 os プロビジョニング permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;広域に分散した IoT デバイス郡を対象とした P2P 型 OS プロビジョニング&lt;/h3&gt;
+&lt;h3 id=&quot;広域に分散した-iot-デバイス群を対象とした-p2p-型-os-プロビジョニング&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E5%BA%83%E5%9F%9F%E3%81%AB%E5%88%86%E6%95%A3%E3%81%97%E3%81%9F-iot-%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E7%BE%A4%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F-p2p-%E5%9E%8B-os-%E3%83%97%E3%83%AD%E3%83%93%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%B3%E3%82%B0&quot; aria-label=&quot;広域に分散した iot デバイス群を対象とした p2p 型 os プロビジョニング permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;広域に分散した IoT デバイス群を対象とした P2P 型 OS プロビジョニング&lt;/h3&gt;
 &lt;div class=&quot;author&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -489,7 +501,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;斉藤 優月&lt;/strong&gt;&lt;br&gt;
-情報システムコース　4 年&lt;/p&gt;
+情報システムコース・4 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;エッジコンピューティング基盤でのアプリケーション実行環境として計算資源消費量や起動速度の面で優れているWebAssembly(Wasm) に注目&lt;/li&gt;
@@ -595,7 +607,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;坂口 颯麻&lt;/strong&gt;&lt;br&gt;
-情報システムコース 4 年&lt;/p&gt;
+情報システムコース・4 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;Linux で実現され広く普及したコンテナ型仮想化は、 OS カーネルをコンテナ間で共有することで、軽量かつ高速に起動することができる一方、カーネル脆弱性を悪用した攻撃によりコンテナ間隔離が脆弱となるリスク&lt;/li&gt;
@@ -666,7 +678,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;藤井 大吾&lt;/strong&gt;&lt;br&gt;
-高度ICTコース 4 年&lt;/p&gt;
+高度ICTコース・4 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;IoT や AI の技術進歩により、多くの IoT デバイスが大量のデータを生成し、データ転送による通信遅延が大きくなるので、デバイス付近にエッジサーバを配置するエッジクラウドが普及&lt;/li&gt;
@@ -737,7 +749,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;中村 碧&lt;/strong&gt;&lt;br&gt;
-知能システムコース　4 年&lt;/p&gt;
+知能システムコース・4 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;ロボットとクラウドが連携することで高度な知能処理と低遅延な制御処理を両立できるクラウドロボティクスでは、システム起動時に各機能モジュールをロボットとクラウドへ分散配置することが必要&lt;/li&gt;
@@ -810,7 +822,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;東 未来翔&lt;/strong&gt;&lt;br&gt;
-知能システムコース　4 年&lt;/p&gt;
+知能システムコース・4 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;プライバシーの保護や、通信料の低減、学習処理の分散等の利点から機械学習の方式の一つである「連合学習」が使用されている&lt;/li&gt;
@@ -880,7 +892,7 @@ TCPの信頼性保障の仕組みは、低質な回線においてはオーバ�
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;中川 匠海&lt;/strong&gt;&lt;br&gt;
-情報システムコース　4 年&lt;/p&gt;
+情報システムコース・4 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;今日の大学では、LMS（Learning Management System）や教務システムなど、それぞれの目的に応じた複数のシステムを組み合わせたICT学修支援環境を構築している&lt;/li&gt;
@@ -952,7 +964,7 @@ TCPの信頼性保障の仕組みは、低質な回線においてはオーバ�
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;池田 呼人&lt;/strong&gt;&lt;br&gt;
-情報システムコース　4 年&lt;/p&gt;
+情報システムコース・4 年&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;手荷物を機内へ持ち込む旅客の増加は、飛行機遅延要因の一つ&lt;/li&gt;
