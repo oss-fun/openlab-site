@@ -1,0 +1,1885 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><style data-href="/openlab-site/styles.2cf9cdc70fb5e7a81a90.css" id="gatsby-global-css">@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:100;src:local("Montserrat Thin "),local("Montserrat-Thin"),url(/openlab-site/static/montserrat-latin-100-191cc9f50f3b76b9617cb383f19acb7d.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-100-370318464551d5f25b0f0a78f374faac.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:100;src:local("Montserrat Thin italic"),local("Montserrat-Thinitalic"),url(/openlab-site/static/montserrat-latin-100italic-bdeaeb79db315697bd173a55b097dc18.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-100italic-ecf7d49386e8f265878e735db34a7c4b.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:200;src:local("Montserrat Extra Light "),local("Montserrat-Extra Light"),url(/openlab-site/static/montserrat-latin-200-85d5ef9db7f2dc6979172a4a3b2c57cb.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-200-1fc98e126a3d152549240e6244d7e669.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:200;src:local("Montserrat Extra Light italic"),local("Montserrat-Extra Lightitalic"),url(/openlab-site/static/montserrat-latin-200italic-49095760a498d024fe1a85a078850df9.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-200italic-fe46cf8b9462c820457d3bf537e4057f.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:300;src:local("Montserrat Light "),local("Montserrat-Light"),url(/openlab-site/static/montserrat-latin-300-7c3daf12b706645b5d3710f863a4da04.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-300-8dc95fab9cf98d02ca8d76e97d3dff60.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:300;src:local("Montserrat Light italic"),local("Montserrat-Lightitalic"),url(/openlab-site/static/montserrat-latin-300italic-f20b178ca2024a5eac8e42e6649db86c.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-300italic-3fe16939288856e8e828fa2661bf2354.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:400;src:local("Montserrat Regular "),local("Montserrat-Regular"),url(/openlab-site/static/montserrat-latin-400-bc3aa95dca08f5fee5291e34959c27bc.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-400-8102c4838f9e3d08dad644290a9cb701.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:400;src:local("Montserrat Regular italic"),local("Montserrat-Regularitalic"),url(/openlab-site/static/montserrat-latin-400italic-5cad650422a7184467af5a4d17b264c4.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-400italic-d191f22af3bb50902b99ac577f81a322.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:500;src:local("Montserrat Medium "),local("Montserrat-Medium"),url(/openlab-site/static/montserrat-latin-500-92d16e458625f4d2c8940f6bdca0ff09.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-500-8b763220218ffc11c57c84ddb80e7b26.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:500;src:local("Montserrat Medium italic"),local("Montserrat-Mediumitalic"),url(/openlab-site/static/montserrat-latin-500italic-47bfcca6b69d6a9acca7a8bff17193e2.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-500italic-72c01f753c3940c0b9cb6bf2389caddf.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:600;src:local("Montserrat SemiBold "),local("Montserrat-SemiBold"),url(/openlab-site/static/montserrat-latin-600-6fb1b5623e528e27c18658fecf5ee0ee.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-600-7c839d15a6f54e7025ba8c0c4b333e8f.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:600;src:local("Montserrat SemiBold italic"),local("Montserrat-SemiBolditalic"),url(/openlab-site/static/montserrat-latin-600italic-60789af1c9338ed1a9546722ec54b4f7.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-600italic-f3d4de8d0afb19e777c79032ce828e3d.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:700;src:local("Montserrat Bold "),local("Montserrat-Bold"),url(/openlab-site/static/montserrat-latin-700-39d93cf678c740f9f6b2b1cfde34bee3.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-700-80f10bd382f0df1cd650fec59f3c9394.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:700;src:local("Montserrat Bold italic"),local("Montserrat-Bolditalic"),url(/openlab-site/static/montserrat-latin-700italic-ba136d97b14e82284dd595e257f11c47.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-700italic-8c98142b425630821139c24bd1698700.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:800;src:local("Montserrat ExtraBold "),local("Montserrat-ExtraBold"),url(/openlab-site/static/montserrat-latin-800-b7018be9ed6cd94da8b6675b3a468c3b.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-800-9a9befcf50d64f9d2d19d8b1d1984add.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:800;src:local("Montserrat ExtraBold italic"),local("Montserrat-ExtraBolditalic"),url(/openlab-site/static/montserrat-latin-800italic-540ffdd223d1a9ad3d4e678e1a23372e.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-800italic-897086f99f4e1f45e6b1e9368527d0bc.woff) format("woff")}@font-face{font-family:Montserrat;font-style:normal;font-display:swap;font-weight:900;src:local("Montserrat Black "),local("Montserrat-Black"),url(/openlab-site/static/montserrat-latin-900-58cd789700850375b834e8b6776002eb.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-900-26d42c9428780e545a540bbb50c84bce.woff) format("woff")}@font-face{font-family:Montserrat;font-style:italic;font-display:swap;font-weight:900;src:local("Montserrat Black italic"),local("Montserrat-Blackitalic"),url(/openlab-site/static/montserrat-latin-900italic-451157bc8861fe54f523b3669a3def71.woff2) format("woff2"),url(/openlab-site/static/montserrat-latin-900italic-a8ec4957e1c24f5793305763ad9845b3.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:300;src:local("Merriweather Light "),local("Merriweather-Light"),url(/openlab-site/static/merriweather-latin-300-b1158cfcd4aacb9d8fb61625e37af46a.woff2) format("woff2"),url(/openlab-site/static/merriweather-latin-300-cc7de05e166e90320d7d896e0f72a19d.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:300;src:local("Merriweather Light italic"),local("Merriweather-Lightitalic"),url(/openlab-site/static/merriweather-latin-300italic-8fe52a48089d6ebe46db0b8e7cc66263.woff2) format("woff2"),url(/openlab-site/static/merriweather-latin-300italic-e1331f5397c2a673f9d3765138debdb5.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:400;src:local("Merriweather Regular "),local("Merriweather-Regular"),url(/openlab-site/static/merriweather-latin-400-8276fdb72ae8f4714d4e6eba704cc39f.woff2) format("woff2"),url(/openlab-site/static/merriweather-latin-400-69f09800f4f6479d06e44eba837df872.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:400;src:local("Merriweather Regular italic"),local("Merriweather-Regularitalic"),url(/openlab-site/static/merriweather-latin-400italic-3a9be9ea9f7aa4af6de7307df21d9fc0.woff2) format("woff2"),url(/openlab-site/static/merriweather-latin-400italic-d76079ed7541a433a54f79316de086e9.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:700;src:local("Merriweather Bold "),local("Merriweather-Bold"),url(/openlab-site/static/merriweather-latin-700-fa534be7ffa380e39a7f6e03bf9a5e03.woff2) format("woff2"),url(/openlab-site/static/merriweather-latin-700-ba56ea84b8084b7ff9677f50d3cd81bd.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:700;src:local("Merriweather Bold italic"),local("Merriweather-Bolditalic"),url(/openlab-site/static/merriweather-latin-700italic-1ef5edaaa20ae53ea50399884c5e48c6.woff2) format("woff2"),url(/openlab-site/static/merriweather-latin-700italic-534bc9e7ce93c73d73426e46acd78092.woff) format("woff")}@font-face{font-family:Merriweather;font-style:normal;font-display:swap;font-weight:900;src:local("Merriweather Black "),local("Merriweather-Black"),url(/openlab-site/static/merriweather-latin-900-7528fb70e8a4a82c7305e72ff43ac25f.woff2) format("woff2"),url(/openlab-site/static/merriweather-latin-900-3799b6e2f5ed3fcccf9d7a708d7419fa.woff) format("woff")}@font-face{font-family:Merriweather;font-style:italic;font-display:swap;font-weight:900;src:local("Merriweather Black italic"),local("Merriweather-Blackitalic"),url(/openlab-site/static/merriweather-latin-900italic-e1b4d2aaa78e12ad84aaf8a56321e4c2.woff2) format("woff2"),url(/openlab-site/static/merriweather-latin-900italic-2ae22f731b3424e8dbb4b37f7ca6e708.woff) format("woff")}
+
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}[hidden]{display:none}:root{--maxWidth-none:"none";--maxWidth-xs:20rem;--maxWidth-sm:24rem;--maxWidth-md:28rem;--maxWidth-lg:32rem;--maxWidth-xl:36rem;--maxWidth-2xl:42rem;--maxWidth-3xl:48rem;--maxWidth-4xl:56rem;--maxWidth-full:"100%";--maxWidth-wrapper:var(--maxWidth-2xl);--spacing-px:"1px";--spacing-0:0;--spacing-1:0.25rem;--spacing-2:0.5rem;--spacing-3:0.75rem;--spacing-4:1rem;--spacing-5:1.25rem;--spacing-6:1.5rem;--spacing-8:2rem;--spacing-10:2.5rem;--spacing-12:3rem;--spacing-16:4rem;--spacing-20:5rem;--spacing-24:6rem;--spacing-32:8rem;--fontFamily-sans:Montserrat,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--fontFamily-serif:"Merriweather","Georgia",Cambria,"Times New Roman",Times,serif;--font-body:var(--fontFamily-sans);--font-heading:var(--fontFamily-sans);--fontWeight-normal:400;--fontWeight-medium:500;--fontWeight-semibold:600;--fontWeight-bold:700;--fontWeight-extrabold:800;--fontWeight-black:900;--fontSize-root:16px;--lineHeight-none:1;--lineHeight-tight:1.1;--lineHeight-normal:1.5;--lineHeight-relaxed:1.625;--fontSize-0:0.833rem;--fontSize-1:1rem;--fontSize-2:1.2rem;--fontSize-3:1.44rem;--fontSize-4:1.728rem;--fontSize-5:2.074rem;--fontSize-6:2.488rem;--fontSize-7:2.986rem;--color-primary:#005b99;--color-text:#2e353f;--color-text-light:#4f5969;--color-heading:#1a202c;--color-heading-black:#000;--color-accent:#d1dce5}*,:after,:before{box-sizing:border-box}html{line-height:var(--lineHeight-normal);font-size:var(--fontSize-root);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}body{font-family:var(--font-body);font-size:var(--fontSize-1);color:var(--color-text)}footer{padding:var(--spacing-6) var(--spacing-0)}hr{background:var(--color-accent);height:2px;border:0;margin-top:0}h1,h2,h3,h5,h6{margin-top:var(--spacing-12)}h1,h2,h3,h4,h5,h6{font-family:var(--font-heading);margin-bottom:var(--spacing-6);line-height:var(--lineHeight-tight);letter-spacing:-.025em}h2,h3,h4,h5,h6{font-weight:var(--fontWeight-bold);color:var(--color-heading)}h1{font-weight:var(--fontWeight-black);font-size:var(--fontSize-6);color:var(--color-heading-black)}h2{font-size:var(--fontSize-5)}h3{font-size:var(--fontSize-4)}h4{font-size:var(--fontSize-3)}h5{font-size:var(--fontSize-2)}h6{font-size:var(--fontSize-1)}h1>a,h2>a,h3>a,h4>a,h5>a,h6>a{color:inherit;text-decoration:none}p{line-height:var(--lineHeight-relaxed);--baseline-multiplier:0.179;--x-height-multiplier:0.35;margin:var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0)}ol,p,ul{padding:var(--spacing-0)}ol,ul{margin-left:var(--spacing-0);margin-right:var(--spacing-0);margin-bottom:var(--spacing-0);padding-left:var(--spacing-8);list-style-position:outside;list-style-image:none}ol li,ul li{padding-left:var(--spacing-0)}li>p,ol li,ul li{margin-bottom:calc(var(--spacing-8)/2)}li :last-child{margin-bottom:var(--spacing-0)}li>ul{margin-left:var(--spacing-8);margin-top:calc(var(--spacing-8)/2)}blockquote{color:var(--color-text-light);margin-left:calc(var(--spacing-6)*-1);margin-right:var(--spacing-8);padding:var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6);border-left:var(--spacing-1) solid var(--color-primary);font-size:var(--fontSize-2);font-style:italic;margin-bottom:var(--spacing-8)}blockquote>:last-child{margin-bottom:var(--spacing-0)}blockquote>ol,blockquote>ul{list-style-position:inside}a{color:var(--color-primary)}a:focus,a:hover{text-decoration:none}.global-wrapper{margin:var(--spacing-0) auto;max-width:var(--maxWidth-wrapper);padding:var(--spacing-10) var(--spacing-5)}.global-wrapper[data-is-root-path=true] .bio{margin-bottom:var(--spacing-20)}.global-header{margin-bottom:var(--spacing-12)}.main-heading{font-size:var(--fontSize-7);margin:0}.post-list-item{margin-bottom:var(--spacing-8);margin-top:var(--spacing-8)}.post-list-item p{margin-bottom:var(--spacing-0)}.post-list-item h2{font-size:var(--fontSize-4);color:var(--color-primary);margin-bottom:var(--spacing-2);margin-top:var(--spacing-0)}.post-list-item header{margin-bottom:var(--spacing-4)}.header-link-home{font-weight:var(--fontWeight-bold);font-family:var(--font-heading);text-decoration:none;font-size:var(--fontSize-2)}.bio{display:flex;margin-bottom:var(--spacing-16)}.bio-avatar,.bio p{margin-bottom:var(--spacing-0)}.bio-avatar{margin-right:var(--spacing-4);min-width:50px;border-radius:100%}.blog-post header h4{font-size:20px}.blog-post-nav ul{margin:var(--spacing-0)}.gatsby-highlight{margin-bottom:var(--spacing-8)}.icon{margin-left:0}@media (max-width:42rem){blockquote{padding:var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4);margin-left:var(--spacing-0)}ol,ul{list-style-position:inside}}code[class*=language-],pre[class*=language-]{color:#000;background:none;text-shadow:0 1px #fff;font-family:Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;font-size:1em;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-hyphens:none;-ms-hyphens:none;hyphens:none}code[class*=language-]::selection,code[class*=language-] ::selection,pre[class*=language-]::selection,pre[class*=language-] ::selection{text-shadow:none;background:#b3d4fc}@media print{code[class*=language-],pre[class*=language-]{text-shadow:none}}pre[class*=language-]{padding:1em;margin:.5em 0;overflow:auto}:not(pre)>code[class*=language-],pre[class*=language-]{background:#f5f2f0}:not(pre)>code[class*=language-]{padding:.1em;border-radius:.3em;white-space:normal}.token.cdata,.token.comment,.token.doctype,.token.prolog{color:#708090}.token.punctuation{color:#999}.token.namespace{opacity:.7}.token.boolean,.token.constant,.token.deleted,.token.number,.token.property,.token.symbol,.token.tag{color:#905}.token.attr-name,.token.builtin,.token.char,.token.inserted,.token.selector,.token.string{color:#690}.language-css .token.string,.style .token.string,.token.entity,.token.operator,.token.url{color:#9a6e3a;background:hsla(0,0%,100%,.5)}.token.atrule,.token.attr-value,.token.keyword{color:#07a}.token.class-name,.token.function{color:#dd4a68}.token.important,.token.regex,.token.variable{color:#e90}.token.bold,.token.important{font-weight:700}.token.italic{font-style:italic}.token.entity{cursor:help}article.blog-post header p{text-align:right;font-size:12px;font-family:var(--font-heading)}article.blog-post section[itemprop=articleBody] h2,article.blog-post section[itemprop=articleBody] h3,article.blog-post section[itemprop=articleBody] h4,article.blog-post section[itemprop=articleBody] h5,article.blog-post section[itemprop=articleBody] h6{margin-top:100px}article.blog-post section[itemprop=articleBody] h2+h3,article.blog-post section[itemprop=articleBody] h2+h4,article.blog-post section[itemprop=articleBody] h2+h5,article.blog-post section[itemprop=articleBody] h2+h6,article.blog-post section[itemprop=articleBody] h3+h4,article.blog-post section[itemprop=articleBody] h3+h5,article.blog-post section[itemprop=articleBody] h3+h6,article.blog-post section[itemprop=articleBody] h4+h5,article.blog-post section[itemprop=articleBody] h4+h6,article.blog-post section[itemprop=articleBody] h5+h6{margin-top:30px}article.blog-post section[itemprop=articleBody] .post_index{color:#000;background:#efefef;padding:20px}article.blog-post section[itemprop=articleBody] .post_index h2{margin-top:0}article.blog-post section[itemprop=articleBody]>h2{position:relative;padding:20px 10px 20px 85px;font-size:2.5rem;border-bottom:2px solid var(--color-accent)}article.blog-post section[itemprop=articleBody]>h2:before{content:"";position:absolute;bottom:15px;left:10px;display:inline-block;height:2em;width:1.72455em;margin-right:5px;background:url(/openlab-site/static/tux-38aa4d5a849c0a2a4b8c4e0f1aaa076b.jpg);background-size:contain}article.blog-post section[itemprop=articleBody] .slido{padding-left:0}article.blog-post section[itemprop=articleBody] table.timetable tbody tr td ui li::marker{content:none}article.blog-post section[itemprop=articleBody] table{width:100%;border-collapse:collapse}article.blog-post section[itemprop=articleBody] table *{padding:.5em}article.blog-post section[itemprop=articleBody] table td{border:1px solid #ccc}article.blog-post section[itemprop=articleBody] table th{color:#fff;background:var(--color-primary);border:1px solid var(--color-accent)}article.blog-post section[itemprop=articleBody] table tr:nth-child(2n) td:first-child{background:#efefef}article.blog-post section[itemprop=articleBody] .super_emphasis{text-align:center;font-size:2rem;font-weight:700}article.blog-post section[itemprop=articleBody] .author{display:flex;align-items:center;margin:40px 0}article.blog-post section[itemprop=articleBody] .author p:first-child{width:80px;height:80px;margin:0 20px 0 0;border-radius:50%;overflow:hidden}article.blog-post section[itemprop=articleBody] .author p:nth-child(2){margin:0;font-size:1.2rem}</style><meta name="generator" content="Gatsby 2.32.13"/><style type="text/css">
+    .anchor.before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      transform: translateX(-100%);
+      padding-right: 4px;
+    }
+    .anchor.after {
+      display: inline-block;
+      padding-left: 4px;
+    }
+    h1 .anchor svg,
+    h2 .anchor svg,
+    h3 .anchor svg,
+    h4 .anchor svg,
+    h5 .anchor svg,
+    h6 .anchor svg {
+      visibility: hidden;
+    }
+    h1:hover .anchor svg,
+    h2:hover .anchor svg,
+    h3:hover .anchor svg,
+    h4:hover .anchor svg,
+    h5:hover .anchor svg,
+    h6:hover .anchor svg,
+    h1 .anchor:focus svg,
+    h2 .anchor:focus svg,
+    h3 .anchor:focus svg,
+    h4 .anchor:focus svg,
+    h5 .anchor:focus svg,
+    h6 .anchor:focus svg {
+      visibility: visible;
+    }
+  </style><script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+      var hash = window.decodeURI(location.hash.replace('#', ''))
+      if (hash !== '') {
+        var element = document.getElementById(hash)
+        if (element) {
+          var scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
+          var clientTop = document.documentElement.clientTop || document.body.clientTop || 0
+          var offset = element.getBoundingClientRect().top + scrollTop - clientTop
+          // Wait for the browser to finish rendering before scrolling.
+          setTimeout((function() {
+            window.scrollTo(0, offset - 0)
+          }), 0)
+        }
+      }
+    })
+  </script><link rel="alternate" type="application/rss+xml" href="/openlab-site/rss.xml"/><link rel="icon" href="/openlab-site/favicon-32x32.png?v=e170bc4fbf59de57da655ebc061da02a" type="image/png"/><link rel="manifest" href="/openlab-site/manifest.webmanifest" crossorigin="anonymous"/><meta name="theme-color" content="#663399"/><link rel="apple-touch-icon" sizes="48x48" href="/openlab-site/icons/icon-48x48.png?v=e170bc4fbf59de57da655ebc061da02a"/><link rel="apple-touch-icon" sizes="72x72" href="/openlab-site/icons/icon-72x72.png?v=e170bc4fbf59de57da655ebc061da02a"/><link rel="apple-touch-icon" sizes="96x96" href="/openlab-site/icons/icon-96x96.png?v=e170bc4fbf59de57da655ebc061da02a"/><link rel="apple-touch-icon" sizes="144x144" href="/openlab-site/icons/icon-144x144.png?v=e170bc4fbf59de57da655ebc061da02a"/><link rel="apple-touch-icon" sizes="192x192" href="/openlab-site/icons/icon-192x192.png?v=e170bc4fbf59de57da655ebc061da02a"/><link rel="apple-touch-icon" sizes="256x256" href="/openlab-site/icons/icon-256x256.png?v=e170bc4fbf59de57da655ebc061da02a"/><link rel="apple-touch-icon" sizes="384x384" href="/openlab-site/icons/icon-384x384.png?v=e170bc4fbf59de57da655ebc061da02a"/><link rel="apple-touch-icon" sizes="512x512" href="/openlab-site/icons/icon-512x512.png?v=e170bc4fbf59de57da655ebc061da02a"/><title data-react-helmet="true">あつまれ 低レイヤの杜 | OSS Lab</title><meta data-react-helmet="true" name="description" content="OSS研究室についてのHPです"/><meta data-react-helmet="true" property="og:title" content="あつまれ 低レイヤの杜"/><meta data-react-helmet="true" property="og:description" content="OSS研究室についてのHPです"/><meta data-react-helmet="true" property="og:type" content="website"/><meta data-react-helmet="true" name="twitter:card" content="summary"/><meta data-react-helmet="true" name="twitter:creator" content=""/><meta data-react-helmet="true" name="twitter:title" content="あつまれ 低レイヤの杜"/><meta data-react-helmet="true" name="twitter:description" content="OSS研究室についてのHPです"/><link as="script" rel="preload" href="/openlab-site/webpack-runtime-89d7d3f4c53a54f1448b.js"/><link as="script" rel="preload" href="/openlab-site/framework-8e528b732ab2eaadb7b7.js"/><link as="script" rel="preload" href="/openlab-site/app-69f34f2be6ef4743f1a1.js"/><link as="script" rel="preload" href="/openlab-site/styles-e9d24b1846c7d6eb9685.js"/><link as="script" rel="preload" href="/openlab-site/commons-18c12e321c0ae2bcfe60.js"/><link as="script" rel="preload" href="/openlab-site/component---src-templates-blog-post-js-a721658826c4f244a45f.js"/><link as="fetch" rel="preload" href="/openlab-site/page-data/2024/page-data.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/openlab-site/page-data/sq/d/2841359383.json" crossorigin="anonymous"/><link as="fetch" rel="preload" href="/openlab-site/page-data/app-data.json" crossorigin="anonymous"/></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" id="gatsby-focus-wrapper"><div class="global-wrapper" data-is-root-path="false"><header class="global-header"><a class="header-link-home" href="/openlab-site/">OSS Lab</a></header><main><article class="blog-post" itemscope="" itemType="http://schema.org/Article"><header><p>Created: <!-- -->2024/10/08<br/>Last modified: <!-- -->2024/10/08</p><h1 itemProp="headline">あつまれ 低レイヤの杜</h1><h4>〜 システムソフトウェア（松原克弥）研究室</h4></header><section itemProp="articleBody"><p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/bb6986c69273daf62e0498aca061618f/4b190/manyTux.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 67.08860759493672%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAEQZMo2xf/EABoQAQEAAgMAAAAAAAAAAAAAAAECAAMEESH/2gAIAQEAAQUCdj27byauggprjSE+H//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AUf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEiH/2gAIAQIBAT8BxT//xAAaEAACAgMAAAAAAAAAAAAAAAAAAREhAhIx/9oACAEBAAY/AnDKyZOzF2xuWUf/xAAZEAEBAQEBAQAAAAAAAAAAAAABABEhYXH/2gAIAQEAAT8hKCnYEPlhbAiaU8nz5Pb/2gAMAwEAAgADAAAAEBgf/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EIU//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhEf/aAAgBAgEBPxDUHUP/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFhcaHw/9oACAEBAAE/ECyQjGOY7fajPQfnuHyFBR1jx1GbQ3Vhcx2WXstz/9k='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="manyTux"
+        title="manyTux"
+        src="/openlab-site/static/bb6986c69273daf62e0498aca061618f/828fb/manyTux.jpg"
+        srcset="/openlab-site/static/bb6986c69273daf62e0498aca061618f/ff44c/manyTux.jpg 158w,
+/openlab-site/static/bb6986c69273daf62e0498aca061618f/a6688/manyTux.jpg 315w,
+/openlab-site/static/bb6986c69273daf62e0498aca061618f/828fb/manyTux.jpg 630w,
+/openlab-site/static/bb6986c69273daf62e0498aca061618f/4b190/manyTux.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<div class="post_index">
+<h2 id="目次" style="position:relative;"><a href="#%E7%9B%AE%E6%AC%A1" aria-label="目次 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>目次</h2>
+<ul>
+<li><a href="#%E7%A0%94%E7%A9%B6%E5%AE%A4%E7%B4%B9%E4%BB%8B%E5%87%BA%E5%B1%95%E6%A6%82%E8%A6%81">研究室紹介出展概要</a></li>
+<li><a href="#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E7%A0%94%E7%A9%B6">システムソフトウェア研究</a></li>
+<li><a href="#%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B">研究紹介</a></li>
+<li><a href="#%E7%A0%94%E7%A9%B6%E6%B4%BB%E5%8B%95">研究活動</a></li>
+<li><a href="#%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E5%85%88">問い合わせ先</a></li>
+<li>
+<p><a href="#%E3%81%8A%E3%82%8F%E3%82%8A%E3%81%AB">おわりに</a></p>
+</div>
+</li>
+</ul>
+<h2 id="研究室紹介出展概要" style="position:relative;"><a href="#%E7%A0%94%E7%A9%B6%E5%AE%A4%E7%B4%B9%E4%BB%8B%E5%87%BA%E5%B1%95%E6%A6%82%E8%A6%81" aria-label="研究室紹介出展概要 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>研究室紹介出展概要</h2>
+<ul>
+<li>
+<p>オープンラボ当日は，対面にて，下記の催しを行います．</p>
+<ul>
+<li>WasmEdge で LogoFetch</li>
+<li>MAGIC:Magical webAssembly miGration stIck</li>
+<li>バランスボール・ロボ</li>
+<li>Flowerで花推定</li>
+<li>あさっこルームズ</li>
+<li>Choigru</li>
+<li>test</li>
+</ul>
+</li>
+</ul>
+<h2 id="システムソフトウェア研究" style="position:relative;"><a href="#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E7%A0%94%E7%A9%B6" aria-label="システムソフトウェア研究 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>システムソフトウェア研究</h2>
+<p>本研究室では，システムソフトウェアの研究をとおして，社会で<strong>飛びぬけて活躍できる</strong>エンジニアスキルを身につけることを目指しています．</p>
+<h3 id="システムソフトウェアって何" style="position:relative;"><a href="#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%A3%E3%81%A6%E4%BD%95" aria-label="システムソフトウェアって何 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>システムソフトウェアって何？</h3>
+<p>システムソフトウェアは，PC やスマホで動く様々なアプリケーションの快適な動作や安心・安全を支える<strong>縁の下の力持ち的</strong>なソフトウェアです．<br>
+代表的なものとして，OS（オペレーティングシステム）があります．<br>
+（例：Windows，Mac，Android，Linux など）</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 257px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/7e4c4f09369093f451aa4d9e320068c4/96e35/OS.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 38.60759493670886%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAACH0lEQVQoz12Sz0vTcRjHv5f+gjopRbkggwoGGhRFP6CDdMiIbnXqkELOTIxiGETkQfohimkzs0LaJMOW27TppnNaVOJ0TPfr+2N93XAD26ZJQZdXn01K6PDwfk4vnofXWyq7MczeRgd7GobZWW+ntM7B/qYBHjlO8mKygh5PBd1jB3nmrRS7Eav/HDE5jCInUFWNlZU0iqIhy6pIFamkzs72mqEisKJ5FKN5jPImWxH4fMLIS98phj5fFnmCp+OHBLCaWDyMpuksBEN0dFoIhyMCnihCpUtPZnDP6wx+VNjY+EH/lMru669pc56m13uALzELa+s5PkXa6XLvw+Y/TzS2yHIyw5THzoUzBqb8MySTKeJxBck8EGAtv44noJPN5ekYiVLWYOPB+yP4l+6wshpnNZck8z3OaMBEv6+KuBxBVlK4R530dbVy7/5DdD0lLhTA27Y5stk1fMFlfooLu92xTeDwUSZDt8jmM/z+Bbl8GtdcbRGoahrzsz5cjjcoiRQ3TRcJLQTQEjpSVesEj52LtLsWCWpp2lwRAdx8ucdTji/Ugp6ZxRtspvODQbxcTVTVUcevYjWXcK3mCu672wj6B1G/pZFKTUJK7RA7xJTWvcPQOPLPckFK38RxrNNnhfFjW1LkKMrSHF/HrTjsb5l2viIoBKlaAulvbQpjEPuueud/tanEIurS6z28VRthWVGTaHqaVCotMlOEFSz/AbcE2hpOUB09AAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="OS"
+        title="OS"
+        src="/openlab-site/static/7e4c4f09369093f451aa4d9e320068c4/96e35/OS.png"
+        srcset="/openlab-site/static/7e4c4f09369093f451aa4d9e320068c4/c26ae/OS.png 158w,
+/openlab-site/static/7e4c4f09369093f451aa4d9e320068c4/96e35/OS.png 257w"
+        sizes="(max-width: 257px) 100vw, 257px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<h3 id="システムソフトウェアがないとどうなるの" style="position:relative;"><a href="#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%8C%E3%81%AA%E3%81%84%E3%81%A8%E3%81%A9%E3%81%86%E3%81%AA%E3%82%8B%E3%81%AE" aria-label="システムソフトウェアがないとどうなるの permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>システムソフトウェアがないとどうなるの？</h3>
+<p>例えばインターネット… OS がないと，複雑で難解なネットワーク通信を自分で制御しなければならず，ネットサーフィンするのも一苦労です．</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 180px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/ffac2357f19d307ce2b1a2ca35ffd03e/e9ff0/system1.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFk0lEQVQ4y4WUa0zTVxjGX6gOofRqKVAQEaIjuyb7ohsbymXQgmiY01FAytSNOKegEyeKiFIKcivl2gItBVRQEHQOGKVcRBRBcEE2JpkhRtmMZAR1QZB/e94d2OXbtpM8eU/Oh995nvc9OQD/s5wlLv/sV3muBpGTCF5ZZgOObCFI+F7AZa8EjoPQgesoWstli1b9J0woFIKLmwQ8vL2Aw+HYuEgkthJ3N1suh8PicfksjgOFsVfKqOIo2J8Ct/4rrLS0FDb6vr+0X+vzKnXEBom7O7hIXIHj6Ag8Hh/4XJEdhy0Mp8AwWuUU+gGUl5fbVlRU2mp1OltNYRErOzubla5UslJVOayvs4pY8n1Jy8ROQnCwt/dw81ilcRKLL1K4is/nvykUimhkkQ8FVVJgBa0mqKsohku6XKjX5oNBkwkpR49AYmIiJCQlwyl1OUg/igRvb88NAj5vTuwsRhoZqUMUCgW42ntNEHuFIIKC8ijwCtVeaDQUv9VuVK+/bCgMPq9VR+ZmKveqlKePqzLPZKly8nW5mpKznut8JlY4sFEoECzQwTACoWCex+UidXxfwBdvoEPpoND9bBYXIDmnjCjOnMPY7DqUZzdgdmMvalsHUN9xBw+f78eIQjMeT9qHvu/4WOwdHNHD04M4u7oQGpuh/UTJKncF206whcd18lqcOKRqL+BJ00Nrfs9DS3HfpKXzwaxlcBqZkafIfD9tZUamXjL3u85ar2uPoJ09m9hxuIROntDYCyKxE7p7euQ5u7iBh5eHLY8jsoFLDQ3P8c9FlrQwR+ZGR8hMl5nM3h5YOhv9tpI8ac4iCpkffhK4gbz+2jrC4XKZxT7S2NWea9eAi6uEFRT7LoBebxidn59Hq8Vqtf4JxUfX+3D67ij+MjKC8/TkxXgPvriSiwtNGsQePcplfsSex2PooJDG3+3kLAYnsRPr7Y1vAJSUlHzzdHZ2kcNYZ2ZwtKkZpdLNODE5iVsitqMxJQ2Z9nNIzEWI7VpM3hFC7Bx5FrHYFdl2jjfpM13+99tVD4dRYFmZ5sdrvTjV0rrwa/Nl8njwNhaoNfj4yRPsuzWAE+M/I3k+g7O9FxG/0+Bw+QlyMn6bpVYTj3XnPj+mzVLAewiQ3R9qk94RDKBMV37VX38B5+7dY17OzpK/+okL09OIz56hdWoK5x5N4sytW2gdG8axuwY8fzOaFPdvs+Z0h+NpU0hbWkcAO7U9AE53BNvAwYSEj8cePMDfu7qt9zIyyKPqGjJRWYkTWh3e1+txvLoGR4qL8Y66BIeHrqKyN4KcaAvEdJOMpJukFio83R5yJqs3EFJbglmQqVKtrz17FlsbG5kGg4HUanWkxmgkemM1lhmqsNxowJJKHRaU6FB5SY6qrg9JljmcqDplqOqUWjK7ZJjZLZ24jeuWp3VsAhgcGlpeoFbfPJWejknJyQvJx1Nwf8JBcuhgIslIOUq++GwfUcjjyd6EXagyhxGVOZQoqatjzSEkuTGMpDSHk+NNmzG+eGtoWstmgLa2VhgfH+cWFhaOxMYq0G9T4Ms9MdstU20FzG99OczholAm7kQgc6A42KLqlloyTFLrodpgDNqzg/jHyTFwdxQJ2h2NgbuiLf5x0b5gNBpZba2tcKOvb2VeXv7Yl/sPYPLRJDTXavFqeyoqr0kx50YoZvbIUGmS4anWIEzQy5iNO2Msm2IjLf6KqEUt+MdFUWhMBFRXV0NNTQ3rQn09NDRclNALTJV6Q19haXlLqa6iTtNwqJQ2vSm9XfpDRkeoWWUO/unwuXD0i4lGf0UkUiitcgz4NHpRAVBaVrYEraqqsm1uboahwQG4NnSXfl0GKNBqIb9VAUqzFPL7t9jn35KCelAqTzoffsc3MspEI3f6xezopO46qbuewN07ff4A9GfvWxXqW2QAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="system1"
+        title="system1"
+        src="/openlab-site/static/ffac2357f19d307ce2b1a2ca35ffd03e/e9ff0/system1.png"
+        srcset="/openlab-site/static/ffac2357f19d307ce2b1a2ca35ffd03e/c26ae/system1.png 158w,
+/openlab-site/static/ffac2357f19d307ce2b1a2ca35ffd03e/e9ff0/system1.png 180w"
+        sizes="(max-width: 180px) 100vw, 180px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>例えば，アプリケーションを使うとき… Word や Excel，ゲームや Web ブラウザを同時に使えなかったり，フリーズしたり快適に動作しなかったりします．さらに，システム攻撃や情報漏えいに対して無防備になります．</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 190px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/a1a089214e7a369687fda6f0fd9952fe/a2d4f/system2.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 104.43037974683544%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEWklEQVQ4y3WVeUwUVxzHRwFrjKYe/YtajTRqPZoU2xKrqdq0sTamWo1NalITTQGt2lCbVrdA1dqIJY1HEUQEia2AeHTBo3igXCJuOXVZ2ZWwoixeoKDI5bLzPp2dN7DS0Je8eTPv/X7ffN/v+I7Cf4YQgoGGd/9/jvr5KL0f3lVVPfp7XUsNWbV/ctZ5nDN1R3C13e51xXqvA8udZ1S42inXpkcVL4AKlIFYxZREsLs0ik+OTyX40MvElUXp+64nnXxjvkVaWRMnqprYYHZivduun6kGcB/DLs24+VYTrffcRBdHYLmby1c585mdPpa9JWt0m/pHbSRebuDEtUccdnTye+kjbI0tPkBhMFR7PGRHnuRgaDquNz9jx9rx/HBjA7YH5ey7tpPYgi80q06cD5rZfqGevxrh+voo/g41UdXu7s/Q+3C3dZETc4HGZaHajqLPfWsC2euIJqU8mmLbNuiu51nHHX7Nu451+de6zXNttv1xUMbQ49FDpwPee9xO/sZUGDFUAg72k+u3yxCWFWCejGoeB9nBMH+KfiZeGiJt3pqO6HH3JU0x1zsIyztFVsxZ8hZF8zRAgnr8BiO8jrNGohauRmTMQ4xV5J4Gpq+jxyIi9iF2nEEcLpYM91aXEmcrI9ZSwP5qO/FH9sOkQOkQ4C/XEI3FxIny3c9PrjPeRqReQlS4ELnViJR8xLMulAM1lRytq2Fl/knSam3sshfQU5cJUydIR3+DqQ42SF4zfAFqxTlEmQbW2Iy434oociBaO1BS7ZWEF2hgN618b8ljZ0mGFot8VJN2TcXfx0pj6wVTl85DxQLlp1F/ykaNPI764wnEnnNa7blRnmvZqW4s4XrdUapumrHWnKex/iLqvHdk8P39+jKvKhrD4UM5Hx5K7a1ssOZo9XMJqs7CHSuit2z00V1JrT2PpHQLjuD3jcRIsPZhw2kf7Nd3dW+5WOYEkZy0iNxT67hZ/hsdXQ99neLpUfUPR/FlWiZNk2yGBEhmM4IoNCeyyxQHE16VrI2zf14LYLtpFl9+Pp2MtGMGoCrBhKsBAgMNMFljDcEhWpFmYXfm8MpGMwvD93Bj2BhZ1IbNk9lzWb5iFRUVlT6GetO43YilS7Q4yXg5Fy7mXFEhtOXS4zrGpoQ4lmU62HqslPsz50j2gxQSxr/B7vhE2X5aPqTa9LLU5EvM/QAiw+juzMPTfBqeXsBWFENycTnxtm7Cilr50HyXS7MXkxWygI/CvuNxc5PRz+oLemiA4u1JXX6c0HqR7tsprEtOYmbmAyYfsBOUaGd8Ui3j0h4yZeUWzJlHdLcej8cQB12JfaC6TGrK4ZGoJBz8hTGxVxmd5GJUUgMjE5yMiK9n+MbThIav1UXBp+iGOPQD9WbdMLpyxcLkae8y5b2PmfDpakatiEVZfxTFVMjrC1ZRWXLZuJQPVBngB6HHQgcsuYppUyTbtvzMVtMmfUZFbiZicyypqYf6Mesl9C8XmR05x0IOGwAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="system2"
+        title="system2"
+        src="/openlab-site/static/a1a089214e7a369687fda6f0fd9952fe/a2d4f/system2.png"
+        srcset="/openlab-site/static/a1a089214e7a369687fda6f0fd9952fe/c26ae/system2.png 158w,
+/openlab-site/static/a1a089214e7a369687fda6f0fd9952fe/a2d4f/system2.png 190w"
+        sizes="(max-width: 190px) 100vw, 190px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<h3 id="システムソフトウェアを研究していいことあるの" style="position:relative;"><a href="#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E7%A0%94%E7%A9%B6%E3%81%97%E3%81%A6%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%82%E3%82%8B%E3%81%AE" aria-label="システムソフトウェアを研究していいことあるの permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>システムソフトウェアを研究して，いいことあるの？</h3>
+<h4 id="いいことその１ブラックボックスの解明" style="position:relative;"><a href="#%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE%EF%BC%91%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E8%A7%A3%E6%98%8E" aria-label="いいことその１ブラックボックスの解明 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>いいことその１：<strong>ブラックボックスの解明</strong></h4>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/21ab2bc2ac4b890616270ed1a9dc8143/c4842/black_box.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 31.0126582278481%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAABYlAAAWJQFJUiTwAAABjklEQVQY00WRzU5aURSF70TrTxMwivYi/pCoJJZrY+0b1E6rTAQ0ERM1US7a6AM4qQMindnAFMJYDU9ASUGQB4CEnzBk5IARES98Hs6NupJzds5Z+6x91t4KAslkksDeHkE9yNHxMfpJiFqt1qfoPj3Rw8T/bFbwR6RSKRqNBtVqlUqlQr1e5/bujnw+jxKNRhn5OMq8cx6L1cKU+knGrCD7eO5vj49SNBwOs7C0iG1qErtjGsfsjDwvuz8Tj8fpdDoo2zs7+Lf9/MtkOP11impXmXMt8XBzA4IzPB56TidGIiEL5HM53JrG78tLtrxe+QHtywrtdlvySlDX5cX132spaFdVpkXVXCIOLheGw0FPUTAuLuSDe2F77dsasViMyJ8IE5M2tBWNZrNpCu4fHjA49IGz8zOsY1bGbRPMCfulUum9h8K+0TM7WSgUGBgcYDcQwC2EhkaGWf26SqvVMgWvIld8/7GOHgrxc2ODTc8m6XTaFBPrdSDdblfGcrksc/oD9Pl9bPm8FIvFt5wXj5pAnsbwhpkAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="ブラックボックス"
+        title="ブラックボックス"
+        src="/openlab-site/static/21ab2bc2ac4b890616270ed1a9dc8143/f058b/black_box.png"
+        srcset="/openlab-site/static/21ab2bc2ac4b890616270ed1a9dc8143/c26ae/black_box.png 158w,
+/openlab-site/static/21ab2bc2ac4b890616270ed1a9dc8143/6bdcf/black_box.png 315w,
+/openlab-site/static/21ab2bc2ac4b890616270ed1a9dc8143/f058b/black_box.png 630w,
+/openlab-site/static/21ab2bc2ac4b890616270ed1a9dc8143/40601/black_box.png 945w,
+/openlab-site/static/21ab2bc2ac4b890616270ed1a9dc8143/78612/black_box.png 1260w,
+/openlab-site/static/21ab2bc2ac4b890616270ed1a9dc8143/c4842/black_box.png 1634w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>Windows や Mac，Android など，システム内の動作や仕組みを理解できるため，システムやアプリケーションのチューンナップ，エラー発生や動作不安定の原因究明に役立ちます．</p>
+<h4 id="いいことその-2最新技術研究とのコラボ" style="position:relative;"><a href="#%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE-2%E6%9C%80%E6%96%B0%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%81%A8%E3%81%AE%E3%82%B3%E3%83%A9%E3%83%9C" aria-label="いいことその 2最新技術研究とのコラボ permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>いいことその 2：<strong>最新技術研究とのコラボ</strong></h4>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/39962b3c95bef5add20a9c1fd15031d7/d6a46/state_of_the_art_tech.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 58.22784810126582%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsTAAALEwEAmpwYAAADvklEQVQozyWTe0yTVxjG369xl+iWLDhxgc3NyVIwBNGgc9HBYsBl081kjGVmE9ncRBRMZt2m9I8xmczGy0acbtEgA7ZZgVoLdDAILcitXKQU2q/3r1f6tfTKpaUI7bvDdpI35/xx8pzzPO/vhQalFQwuhJ+aX3yuR92YQ9vlPOnw4RREBIeNAQvZV88hFcDpMQ983uOELx5OQ8kQC4Xddtj/pw4ONBqgoM0C/y3hxMQLD02mEjbopRei0aXI0jK6Q0GLnrXXPtKNZtx3I6jDRFQKcHUmAhftcxRP5aWKB1xUdo2GImKcDyRm+LCFgbwGHYCZ9VXW67QomFRih9OGNXoar9NqUhrsZHRhAyPcPOvshCFTO1VhDoGAXYBvNX44qWDhYJMRDolM8I5QT70rNAC3ahRgynQzZ9iiG51weK2a6YBa45qxOr0zBqPbwQxZnH/cHtck1CmN8IvZzalyzkOVYz65whjcdErB3vjkH5uciL5VJHOsWucknR8EiAVcMKT5KLmdrj5XLOvvyJW6Rgo6bTdvDV3YW3kP1gUYhB+ncc1lzyJcdoffq2Bml8seeQJH5Q48JDZjboPWuKNaCVsuDMP2n5UUnO8pX0Nb99bR1t0o0x/GbWI9ftVXg2rLHtUkk5mJHgC88n/elba5znMaP/KG3fFSuWM5v9kY2/3r5GLapbFjWypHyA0BydCSUMbYMlBj2bNypu/3lXSxPZYlsS9J6UIMuFJu+52ZcJpQIHAt3OEbgsgb8yw9YEIxmW0ufm3AFcu4Nh5/5TsFruf1nUj8uh/gysglkUR9BMsH65ZLe5swXeyKv9y4ENt234r8gTtsL537vLQWgDREy5vwIrEaL5M5sFrB4r5bakz5YWRlw9k+XFsir193Sg6wT6rvON4jxiyJdSXp3uP45iZ/nCti4682B3FTUziQ1+HfWKTww9kpXxFhL/JxuzX89l19+I3fpiKpgrFwMn8w+kxpj5PzWddOUgD7/9bys9tofLOVjh7tluCBdjlmipnHRBh3PPAoCdRUOI5QTvvgSJd9Y34LszW3XsvNuj7BTb04yiVW054qlj375PFuWHtSTkFe+2Lia83zhu1iK95VlcQGjO/HDnYokCvyRXdKfDkb/gpBktDL4esC1KddNsgnEOfU0rD16jisNmL9mT544stuePqEjCI/BUhpisDrEn1CujjYmiqaxexWLe5qmVZxxcGsNJEPXhKyHCichO9tITjW66QK2hiKTAS164aKIiBTid/0UyQ7KoM8QCYH/gV9rDiIQ4TZAgAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="最先端技術"
+        title="最先端技術"
+        src="/openlab-site/static/39962b3c95bef5add20a9c1fd15031d7/f058b/state_of_the_art_tech.png"
+        srcset="/openlab-site/static/39962b3c95bef5add20a9c1fd15031d7/c26ae/state_of_the_art_tech.png 158w,
+/openlab-site/static/39962b3c95bef5add20a9c1fd15031d7/6bdcf/state_of_the_art_tech.png 315w,
+/openlab-site/static/39962b3c95bef5add20a9c1fd15031d7/f058b/state_of_the_art_tech.png 630w,
+/openlab-site/static/39962b3c95bef5add20a9c1fd15031d7/40601/state_of_the_art_tech.png 945w,
+/openlab-site/static/39962b3c95bef5add20a9c1fd15031d7/d6a46/state_of_the_art_tech.png 1008w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>IoT（Internet of Things）やビッグデータ，クラウドコンピューティングといった最新技術に触れることができます．</p>
+<h4 id="いいことその-3pc-やスマホの眠れる力を呼び覚ます" style="position:relative;"><a href="#%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E3%81%9D%E3%81%AE-3pc-%E3%82%84%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E7%9C%A0%E3%82%8C%E3%82%8B%E5%8A%9B%E3%82%92%E5%91%BC%E3%81%B3%E8%A6%9A%E3%81%BE%E3%81%99" aria-label="いいことその 3pc やスマホの眠れる力を呼び覚ます permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>いいことその 3：<strong>PC やスマホの眠れる力を呼び覚ます</strong></h4>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 266px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/c14035efa0b120e321f2ddf2003b095d/b4ffe/god.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 134.81012658227846%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAbCAYAAAB836/YAAAACXBIWXMAABYlAAAWJQFJUiTwAAAG+ElEQVRIx1WV2VdTaRbF89z/QL/0c9eq6lJxAGmb0nIGJ0CwEaRkUFBQBFFEBUuXLq3Wam2rS8tWCSglOAFKqkBmZBBFGQMoZJTBSEhISAIGEPLrgz706oezblbu+fY5+5z97avorwjgbd0m9A2b6X8VzIA6BJN2BxZTFJaRaKz2GKy2OIkERseSsDsPSqTK74PYxpLluR+bK17ydmMxx6LQqb5EX/E1A8+9edvyVwa6/TAZVmJ+vxbL2DqJDYzYgrHZd+Cc2IXFGs+oLZFxdxLWUSlkj2LEsh2zJUgiAIW+bBF9lYswPvdlqHu1dLcO8zsBGdmMxbEF2/jfmZyOY3w8hdqyQ9Q/yaSqOB1d3/fAP7A7jnwqYB3bicW2TTosW4imegn6Jj8Ge9ZIdwEMv9vIyOgmLKOhuN0xcjCdmieJ3LuWQGVBGmV3DlBzL4kxRy4ersoIjslI9kr+DhTGal8MDUvpb1uGSbeKkffr5cUczS04HOEClkL7ywNknw6l5GoYNcpIVFfCKPgxiGJlIh8/FvJh4oLQT5WQGeqF7tsmmV3nNwz2ruT9oL90txGLPRj3RDQznnR+y9uNKnc/xbcSePTTdp5ci6DsWhhXj6xhwJAnRXMYtR6T+e4RylWLMTYtxdjiR3/PKqHrL2AbZSbBTE3G8nEmk4fKWDSNmejqj9N4O4rqm5HU3t5J7hlRhqZYAH/H4TotHSbOAXqja/DF2OrHkGatbHeDLGMugpkYj5bkkzRXpfAyP5amBwmoi+IxyjwfXdnOjykr6VMXSE6pKOCMyGc/ir4KWYgA9rfLUnpX8X7AH/PIJqEdzJjzO0lOw+X8Jz113/O6VHTXcRZ310kKLwWSdzmB6elWPLO3cTgzRZN7UWjKF6Gv88bwcplocCXvdP4Mm+YAAxmxhsuBfSKhDF4VJjHTng49GaDLpFYZQUfbfSn4lJmP/8bpPCSanFtKuReaqkVoZNPG9uVCe7XMMUBEukWkECIHduP6kEprRTzdxfHYnqfgajn4aePjrrvyPkukcwr35D6ZewSKN6qv0FZ6YZBN6158g7FjxSfaFtn09PRWJqciGdTsYmjoELWPYhiu3SddHqE0+zvqHu/hzasDTM+kMDMTg80RgsJQsgBjtTeaWh90TX/7LG7jWpz2AKm+VUYQhqE4DvuLZHQlccy2pzFUlYT6wU5KLsvdV+3G2BMhuRGi281C+fE89E8WYpQ5DrR9y2Dnt1jlLk8KoIdAOquCmGw5zPt2kU3vz2jUF5kxXqDl13Cqr4fyoSmVjvqtkhvC5AcB7LrnxWvVQky1Xkw0z8et9QXbWnD7w9R6mktjMPf8QM7FcC6c2s6lH3Zib03n2c2ttOVHoC/aRV3Rhk9sppwbUby6Mx9twRfUlIZx5fk1LP3baJRbk/18HS87A9A2HmXSeJbBxmR6KxPF6pIwPU3idVEsWlUcPXnhvCrYwrQnkBnnehTd+QsYvfUFVUfX8IeMKs5nZxKb8BVLI/9CZKQP/ZX7sNXthcETDDUkMSwUJ6TDt2UJdBeK2K8H8fpRJC65XUwIoCZvAe+yF9AV9GcyVi+n6Nh84tZ9idef/khmrC99+UGYVBG4XqTQ+TgBR9c5zM+OYCzdS9fDaGp/2cJobQImWSaOFSIb5Xwsvy2m6fRiHkX70aEMpTUvgqe/RjNUn4xauR7Dw1D6y8WZO84xrTlPr2oPYw3JaB/HUPHzZmbbDqGvEcAhHxQdNxYx/EAMtngx2coo6isOC1AMhrqtmJrX8/SWL4Vn1tD9YAem+lQMlcnU5cZilAJtUrgpK5jptsMiPQHUeKPozPJGm+OFq3AejtLFDJT4YmvwYqrdC7Q+VP3iQ/3VQN6UyDel5QTa6iMwep2x1+doz49EVxzFTGcahjI/6JyPokW5TGgt4Y1yIeb8edhVXrjlKrrrvXhb6kOPKppZ079g5DJ9pUm8q06SQieg+7gACLj2OOMtKQyU+0DL1yheZK2gK2cZfbniOPki7vyFaB8sR68KYrhc7Ks3A0vjATpzQ2i+EYi5Ml6ADuKsT2BsbvudqbwpCsMsvjrbvERkc2c1mrurGBCQrrsbGKjZw7g6A4/mpFTPZLb7KKYnsbia9jGtTpNZR9F1ZxsvskNouhkshUJR3w6m9eYKzMJIoS8Quy8NoP/3UMa7xJqGzoDlIh77VTzjOXgmxeI/5oPnvvjefaadObitN5m0ZjE5fAP3wCU5c5Yp+e503PJHYS/fxmxjkDhIIuilI9N5ARJLcijx2ORpn/v9v8Cl/BxjWZ/D9h9mrT9B/ykm6uWbYq+KxPMsHE9rDJ7eo0I1E0/fCTzdQlt9TEL+U6czKwuY7UgTtzn8f+GRDXu654w3namWVP4Li2Rk64XwH2AAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="god"
+        title="god"
+        src="/openlab-site/static/c14035efa0b120e321f2ddf2003b095d/b4ffe/god.png"
+        srcset="/openlab-site/static/c14035efa0b120e321f2ddf2003b095d/c26ae/god.png 158w,
+/openlab-site/static/c14035efa0b120e321f2ddf2003b095d/b4ffe/god.png 266w"
+        sizes="(max-width: 266px) 100vw, 266px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>PC やスマホの性能を引き出し，新たな機能を創造できます．</p>
+<h3 id="こんな人にオススメ" style="position:relative;"><a href="#%E3%81%93%E3%82%93%E3%81%AA%E4%BA%BA%E3%81%AB%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1" aria-label="こんな人にオススメ permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>こんな人にオススメ</h3>
+<ul>
+<li>コンピュータやプログラムが動いている裏側を知りたい！</li>
+<li>低レイヤに関する技術力を高めたい！</li>
+<li>松原克弥先生が好き！</li>
+</ul>
+<h4 id="キーワード" style="position:relative;"><a href="#%E3%82%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%89" aria-label="キーワード permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>キーワード</h4>
+<ul>
+<li>システムソフトウェア技術（仮想化，ネットワーク，システムプログラミング，並列分散処理など）</li>
+<li>コンピューティング技術（クラウド，IoT など）</li>
+<li>圧倒的成長</li>
+<li>松原克弥</li>
+</ul>
+<h2 id="研究紹介" style="position:relative;"><a href="#%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B" aria-label="研究紹介 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>研究紹介</h2>
+<h3 id="inter-planetary-filesystem-における-churn-耐性とコンテンツ取得効率に関する分析" style="position:relative;"><a href="#inter-planetary-filesystem-%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B-churn-%E8%80%90%E6%80%A7%E3%81%A8%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E5%8F%96%E5%BE%97%E5%8A%B9%E7%8E%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%88%86%E6%9E%90" aria-label="inter planetary filesystem における churn 耐性とコンテンツ取得効率に関する分析 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Inter-Planetary Filesystem における Churn 耐性とコンテンツ取得効率に関する分析</h3>
+<div class="author">
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/4caf999d944e3587445d46cb3ab423d6/7e516/icon_itou.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAC4jAAAuIwF4pT92AAAEz0lEQVQ4ywHEBDv7AHBdS2hdPrOsmZGAbnVlR1NOM32Ghoe80Dh6mDFtjDFujTh4mTd4m3eZqdfY0pejoTlLUb3GpcmukbKhjQB+bFSZf0asmnG2r6TO1Kq0wcNmtM5LnLZFiqVBgp83e5hRkqldnbVEkLBZl7F+i5iQi36Ij3SZk33Hsp0AgmU3glwwbF46l49ikLOrusfOdrjBQYCXSYmdOneQQX+ZQnKTUIeeU5Smi7nGhqm7i3R8PyshOSwkxKmYAHldQjAnIVlPOX2GaFGcsLTgv4OzpU54hl+EiTltgkBvjEFxj1CHoF55g9HW09Ll5KmwuXhVUzsoIZuIjQBFQEAlJip/aD9zioNzo7eTy76CopVGZXVMX21MhZZFeotrpq5Xl6dkjpWBkaS4ydbr7efCsqpcPUBlWl4AQkZHJhgcREQ8i6eqtIeYvd6yZIuNR2N4f4aSU3J9cJGQaZihcYmKZp2ohKO7bZ+6x8nD386+f15sQjU5AGhvbDEqKh0eIWGZpdLGq+XzxEl6iUdddEtcbFRiZaWZgHaZnJ+Pd2iLmW+YwHi0xKWtrNi/sIx+h1dHMwBSUE5LVVEsNjeGrKv2/++gvME3bHtYaoZXa3ZPaGmOjoq0tKhycW95ipZqiLhqqr6gqKe4kJOrmoF5ajgAhH6BTUxNRVFLjpWWt7q/ZJKYO3N/YnmTeXyFhY+HxcW6x8S7s7Clj4qRcpG7VIipo5mfqpWdf21dMyscAMazuSsqJyItKXyTl3OGkFGKjkV7iG2ClKi4vXyIjL2nlLqahMbEu87Q13SXuFKIqHBjcpxhbpZ3aEhIMgBBRkAqJhYsNCyJnJp+hIpRg45Ce492goqnpZNFepN+h5GAe311e4jFy9R9mrlNi6JMWXGTXnKWcWlUWEkAKSASMCwYJCIYU29wbnJ8RG6BXHiCo5+SlJaMLmCCMWKIP3qcLDxKnZCFoqzATYOcUFZka0RZi3ptU09KADIkFhERDhUSCzVCQENhaEFYYqCWkKOZjHqAhVhtgj1rjzpkfWZHTb+afrWyuVx3lEpVWWZaWnRtYDMyKQAdGA8AAAMSFAtEQy1NUUpYXFx/gIeQkZeVmqFTVlhCVW5/Q1WaPVy+fpDFt7GZpLBjV1yPg4BlYVAxLh4AaUsqTjkjNy4bLzQgLDAeaW9xjJGUpauyqa20TldVi0lZwGN+ooBCv4aMwbvJs7u+YEpLln5nlH1KHhkOAHRSLeunWJZtPTY8LioqHVxeZ0FMXHtmc52YqHB4fYdVYtOZdKCfJ6+jPnZzhHR3dkpCKF1aQW1fMDs1HwCwZDl7Uy5XSTktLCoSFxB4XGKCS2RrNEuZj6mqtcZjYGSwkzOIhFaflXApKy46OThWTzM8NxkyLhGKiXMAViwZBgcLJSIeNi8oOjoqTUpTaTJMODVWeHqVu4qet1x2lGF3nJ6p1tboR0JLPj0/Tko/VE04ioRw2NzXAEtOOlBVQV9kTk9PQEY+MTU3PB9HbXh0Q4tlQ6xIZahEWbJbfIljgbC0w3Jvg0xCTDkzJD07LoR5bLy+vQCAZ0+tp3vGxpmzt44nKCIfHhZlaUaJh0VnTEl9NURsLzOVQ1SsXW9TX3qyuMuLg4goJR80NCVSTC96b18rWR56rD94QAAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="itou"
+        title="itou"
+        src="/openlab-site/static/4caf999d944e3587445d46cb3ab423d6/7e516/icon_itou.png"
+        srcset="/openlab-site/static/4caf999d944e3587445d46cb3ab423d6/7e516/icon_itou.png 100w"
+        sizes="(max-width: 100px) 100vw, 100px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><strong>伊藤 晋梧</strong><br>
+高度ICT領域・修士 2 年</p>
+</div>
+<ul>
+<li>Inter-Planetary Filesystem(IPFS)と呼ばれる分散ファイルシステムが現在普及し始めている</li>
+<li>IPFSはWeb3.0の構造を支える技術であり，その性能や仕組みについて研究が行われている</li>
+<li>現在実現されている中央集権型のシステムとの比較や代替となるかどうかの検証は行われているが，IPFSのコンテンツ指向な特性や非中央集権的な仕組みを用いたことによる変化や影響はあまり検証されていない</li>
+<li>IPFSには，複数ノードがネットワークに頻繁に出入りした時の挙動が実装通りかどうかなど，明らかになっていない点が多く存在している</li>
+<li>IPFSを用いたシステムの開発を行なっても安全かどうか，挙動が正常かどうかを判断する資料がないため，IPFSを用いたシステムの開発が困難になっている</li>
+<li>IPFSの実装の調査や，ネットワークに対して実験を行い，IPFSのChurn耐性やコンテンツ取得の流れ，効率を明らかにする</li>
+</ul>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/5e3d5c69e5f64fe7cfebb9a3bef94062/9451d/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%BC%8A%E8%97%A4.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACKElEQVQoz2VS227TQBDNtyIhvgEe4IlnvgAkPgCpiRAP5YE0JUSkpUVNmgTn5jqO7Tj2+n63c9iZiFDBWqO1dnfOOXNmWror8Ob8M3QhQKusGhk1ivIYTXPAv+twOJ4d5JckCaIoguu6CIIALXW/x6uzDtS9iyROIDwfVV2fkoiAknzf571pGj7f7QQOFWBZlvy3efc8Dy26LIqSaDEajdDpdDhB13X0ej3kRQHDMHF9fYX1eo376RQvn7/Au7evcb+dIA5jCbiDpmlwHOcIuNENtNttVqGqKvr9PkzTxHA4RJJmiKTy1WolgQ3c3P7E0yfP8OH8Pb4qPdRlI6sSsG2bS2fAMEqYIU1T9qHb7XJ5x5Jr7PeO9MhBVVUQwoNhWoijAspsgTRLUdfNyd8WeUJuEVDv4oJZyD8Cnc1+8R2xj8djzOdzBs3yFLZr4vL7F6y1BbxASNvyIyAlk/+u8PHj5pbVEMlkOoO20fkRKSfTCZiUDwbfcDe6w2K5YN+nswkURXkM+Hc0wihGnKT/jcifRQq560GIrWHBkWPnB3JspBXkN5dcyE5S0MM4jpFlGfI8RyO9yfOMlShzhe8fE0TS+zCMuGk0biSkxeNZyvrrElkUwN2ZCD0HjmWc/oeDS3z6eIbtwwpib8HSNRkPCIXD90UagYfy2JQadS6ZqxyR52KrrWGbW+jqihOFLTvqC+y2G2zWS5jyTF3OsVRmpzdEnIUeyrLEb+TNOdDKUf3PAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="研究紹介(伊藤)"
+        title="研究紹介(伊藤)"
+        src="/openlab-site/static/5e3d5c69e5f64fe7cfebb9a3bef94062/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%BC%8A%E8%97%A4.png"
+        srcset="/openlab-site/static/5e3d5c69e5f64fe7cfebb9a3bef94062/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%BC%8A%E8%97%A4.png 158w,
+/openlab-site/static/5e3d5c69e5f64fe7cfebb9a3bef94062/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%BC%8A%E8%97%A4.png 315w,
+/openlab-site/static/5e3d5c69e5f64fe7cfebb9a3bef94062/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%BC%8A%E8%97%A4.png 630w,
+/openlab-site/static/5e3d5c69e5f64fe7cfebb9a3bef94062/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%BC%8A%E8%97%A4.png 945w,
+/openlab-site/static/5e3d5c69e5f64fe7cfebb9a3bef94062/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%BC%8A%E8%97%A4.png 1260w,
+/openlab-site/static/5e3d5c69e5f64fe7cfebb9a3bef94062/9451d/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%BC%8A%E8%97%A4.png 2782w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<h3 id="広域に分散した-iot-デバイス群を対象とした-p2p-型-os-プロビジョニング" style="position:relative;"><a href="#%E5%BA%83%E5%9F%9F%E3%81%AB%E5%88%86%E6%95%A3%E3%81%97%E3%81%9F-iot-%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E7%BE%A4%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F-p2p-%E5%9E%8B-os-%E3%83%97%E3%83%AD%E3%83%93%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%B3%E3%82%B0" aria-label="広域に分散した iot デバイス群を対象とした p2p 型 os プロビジョニング permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>広域に分散した IoT デバイス群を対象とした P2P 型 OS プロビジョニング</h3>
+<div class="author">
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 100px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/5a657fe3ee91bac5dd65f3968832a0c0/7e516/icon_morikawa.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAC4jAAAuIwF4pT92AAAEz0lEQVQ4ywHEBDv7ABJHbhZKcChhg1SJpVGHoj14lj59mihlh0qEoUmAnViIp0t+n0R4mUB5mC1jhyNbfyRcfiFafTFniB1VegAVTHI4dJJXjqhtnrdwobt6qcFcjadOgZ1jlq52orhznbVvmrN7pr1wnbZRhqRFe5tUh6RLgqAsY4UcU3kAGVN2SHybYJWwcKK6pMrctM/dpL7MorrHrMHMkq28jKi5sMXPx9fercTRnb3OXY6qQ3maMWqKNGqMHlZ7AChkhS5lhmWYtJK7z7nS3ODt8rjL1Ymjso6otomktHaQoYeisZewvqW9yo2isGmGmzRlgzV0kzJqiyhfgwA+dJRYjapZg59PaH9xhpSgsbyWssF4kqNddYhMZnpYc4hDW25ohJiTrLgnNkUkMD8gOFBIfZhbka08eZYANm6PVYmlWHiSLz5PBwoVChMgWXKEepisPlVrHS5AKj1RJjhLUm6DJzhJGCMyDxknMT1KVHaQd6jBZZizADRxkV+MpoSish4pNTBJXTRQZjA6NVRnZIKerXePn0JZbYuqvThKUjEzH1Jtd0RkfkdVY2J+lHekvmOYswAwa4tKdJBPZXgTIzNhhZ6Ts8KPjlxjXzVgeIOmwdGrv8h4l6s5Q0CCfEqftLOIqsAoOkpXb4GDsMhQhqQAcJ+4fKG3OU1dHjVJoL7O0uXstsXAdIiKMFBnT2yAoLS+QFptPFhtepSiwtfhhaW2Eyc4RFtti7XLiLPJAGeXsaHB0DRIWjBGWrvU4M/i6a/K23GVrThXbBUnNyxHWxcnNjBMYnaXrKG+zavG0z1VaB80RqvL2bbX5gBjk62Dp7wgN0w9V2qqxNDB1d6sxdKowtJegZYrR1oWKjomP1RFZn2hu8rT5Ou50NkyTF8eMkV+ora52ugAgqu/hqu+TGh8HTVIYYKVxNni1OTqwtjkfZusMUxgJTtMK0VZUHGFp7/MytzjtczXQFZlHS9ATm2ErMzdAJ6+zoyuv1R2ijZNYHaVprrS3tDh6dPl7aG7yURjeDFLYENgdXKUpbbP2q/J1a/M2mR+jB4zREdjeJW0xQC40t6Lqbtif5FyiZp6m62xy9bD2OLB1uC+1eCGpbVaeYxykqOKqrmXtcKHqLl5mqxBXG43UGR/m6ytydUAo8HRl7LCVXCEXHuNbo6hd5eoeZqsgqK0k7LAh6a1eJiodpancI6gZYeaVXeMR2BzTWV5WnqNjaq6pL7KALfP2snb5X+Zq115i2V9j2SBlG+Ro42ruoqpuHubrHubrHCQo4KgsHWTpFh0h1lzhlRvhGyMn5KtvJy1wwDA1N3O3+ipwM2Sq7t3kKBviZt9mqumv8ufusinwc6hu8iPrLuJpbV8malzkKGDobKDnq6KprWct8KlvcgArcTPssfSt8zXq8HNmLK+la6+jqi3l7G+mrPArMLOpsDLp7/JmLK/oLzIk6+7ornHo7zInLbAoLnEhJ2tAKC1wLXJ07fK1LfM1am+ya7Dzqa8yarAy6S6xq3Ez6O/y7bO2LfM17HH06nCzbDG0Jqxv6K6x5muvHyRoACcsL26y9a5y9Svx9K60920zti0zti5096yz9ulx9eqzNq00N24z9u3zdixydStxdGbtMKjvcyit8SMn60WFJdug0wshgAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="mori"
+        title="mori"
+        src="/openlab-site/static/5a657fe3ee91bac5dd65f3968832a0c0/7e516/icon_morikawa.png"
+        srcset="/openlab-site/static/5a657fe3ee91bac5dd65f3968832a0c0/7e516/icon_morikawa.png 100w"
+        sizes="(max-width: 100px) 100vw, 100px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><strong>森川 太斗</strong><br>
+情報アーキテクチャ領域・修士 2 年</p>
+</div>
+<div class="author">
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/5c799a6a49c5b2269b1e0a9cce818c40/01e7c/kuma2.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEVklEQVQ4y02TfUwbZRzH8Y/9ockS2JS3srte79rr9e561/ba3vUotNB2fbEtfaHQIq+lvAwZCAgy3mRDJmSwxCX7w2XJxMiyLEtkAXWLSl2dCbiZzcRkGpeAm/FlsERjJGOl2BYk/P74/fLkeT75fn/P83sytv+PrUQimS9MvtMXabgwOTLQFp4YbA16faFAYHhoeHV1Nbkbj8e390XGLrm1lcz3vv6cBTEyD28LeW0GfdBlqvfbtIxGLILVak10Mbp3ch+c1tyOb3QEAmSOTAMqCyV0yFooQ2Vhv7W6zCqX04KCIzCMxG7F9vMZe4s7Nz/mQVIHMyxG52bnWXWKSoeR07ANXiunlIslMhAU2qy255ubablEGt6p2/+OhxvMErY3HNQqaBUurfO5hpt8PQ0eTsOZdWq5TAqJxEIQWl5a3tPLSCRS5cmjH/rdgeunO98/3ccSdGPIOfFWy8xQzbEqR6XbBAphXknQOH748CvjY+N7N7cLrz3+ebKq4buLQ+cG3/CbSk52N81dHB0OuwwoGXQY9RpKKBTpGUokhFiWX19f33G+C/+5+mDA5p8/8+Zkd2ulzXJurH92urOCVVgoRkurbMUshWMYKuWUVNahl6empnfEMxJp9w/vfNmmNs+MHB/tqHeVGqYH2s/3Vzt1jIOgeSVDyAgzpwBAWKeUJ9tmFKpfVlZStrfiKXh5biaClZyJ1I00e4yseuA193vtATNFaggKFWMGFenQUTAspnFMSeKAABgfHkrDaeW5s+8eJyyNRZZTTV6OIhx6zViLh5GRnAApImSMVIyAkBLHIAjWKUgERuxG44P791Pv/M/fT7vdPiekOYoykx1VYXuxTavqq3doBaISUt7hMxjUNA6BTr1KKIQpDJVLMZ1Kc7K3NwUvXL0izwIqWD5k5gNGbqi+3MoWvl5p1jOKOrM6Uqb32owaUuYuZUt4TX4eoE5aAOGp8YnkkMQjgXIno2rxmnApKpNiw+3+sKX0WLmjzVNkoaQUKiri1BiCqOQya7FaAomA3NymptZUz8u3okYaP9VTZ9LzLE1IIbivq/rKpRN2A9/8qu7ACwecltIKlznJ4AiSzLRU8tKLBwcHR1Lw2h+P+8K1JkLe6LF5zHoShuqDwXvfRg2sKjszM1RVe3txsc5nRYSgQUUU5AsEeYKcHAEAQLFYLNVzfHPjs8uXArzerlDTCOyx239/9Gv0i+gn8wvf3F766IPLDV57V9j24ds1PCnNzMoWFYiOHAIsvCU5YYmt9KB+f3e5xWWq5On2cORubGl97cmzjWc3ri+MdneaOKY5ZG73G4pIDM6GoCwYzBILDgKpX5V86b+ePvxq7vzsSG2Xx9Dqs924dnXlpx9vXput87lxMZI0mZeTLwSEKkpu4rR6imIQAs2RpWw/T2xv/ja//mnPSPBoESXnKGowUnEiEqJQCVAAILAYgRBULMZQjNcVulxlfq+nyu/tqCn/D8rRIew+9QyxAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="kuma"
+        title="kuma"
+        src="/openlab-site/static/5c799a6a49c5b2269b1e0a9cce818c40/01e7c/kuma2.png"
+        srcset="/openlab-site/static/5c799a6a49c5b2269b1e0a9cce818c40/c26ae/kuma2.png 158w,
+/openlab-site/static/5c799a6a49c5b2269b1e0a9cce818c40/6bdcf/kuma2.png 315w,
+/openlab-site/static/5c799a6a49c5b2269b1e0a9cce818c40/01e7c/kuma2.png 512w"
+        sizes="(max-width: 512px) 100vw, 512px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><strong>熊谷 竣</strong><br>
+情報アーキテクチャ領域・修士 2 年</p>
+</div>
+<ul>
+<li>インターネット上の様々な攻撃にさらされる IoT デバイスは、ソフトウェアアップデートなど適切なセキュリティ対策が必要不可欠</li>
+<li>一方で、 IoT デバイスは広域に分散して配置されているため管理が煩雑</li>
+<li>サーバから OS イメージを動的に取得しつつデバイスを起動するネットワークブートは効率的な管理を実現できる</li>
+<li>大量のデバイスを一斉起動した際、サーバに集中する負荷で起動時間が増加する「ブートストーム」が発生</li>
+<li>P2P を用いた OS イメージの分散管理を導入することで課題の解決を図り、独自のテストベッドを用いて研究の有効性を評価</li>
+</ul>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/62eb803e53a47fe8db90af0fe377d600/4ea1e/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%A3%AE%E5%B7%9D%2C%E7%86%8A%E8%B0%B7.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAw1AAAMNQAHgcQlTAAABQ0lEQVQoz12TibKDMAhF+//f6fKsVaNGjSsvB8WxZYYGWW7ghr4kyrZtsiyLrOuqim3fnPu+a840TRJC0HOeZ1VslDjy4ocinN57GYZBE7HbttVvkgGq61rz8Hddp0rcOac1N6AVoAT6vpeyLNWmwDrkYstN01SBiJlfAY/jkF8pikK7QSi2ZBN8f3muQE8BSwFR5SjM0rReyo+TYZy10Pg0DrvYvY8xdJzOOJfD9z0ygO93eY21RsBa0rxQHuFpHEepqkpHdK6NY575SZJI4zq1I4ocz5HtQVCKjT/EXpQuyk8Vu/SSZVm8aJKmcbJelNwjI4xjAOYD+CmM10ewEE5wgJhgewJiELTXo1PbNeXsGhkbQDrlPHP7a1fXbw5toUmyPTRQLrBFtn1FuYTc5x/i61HokJ3C5jT9/X76LUat0fQPyX9cHgoexs0AAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="研究紹介(森川)"
+        title="研究紹介(森川)"
+        src="/openlab-site/static/62eb803e53a47fe8db90af0fe377d600/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%A3%AE%E5%B7%9D%2C%E7%86%8A%E8%B0%B7.png"
+        srcset="/openlab-site/static/62eb803e53a47fe8db90af0fe377d600/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%A3%AE%E5%B7%9D%2C%E7%86%8A%E8%B0%B7.png 158w,
+/openlab-site/static/62eb803e53a47fe8db90af0fe377d600/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%A3%AE%E5%B7%9D%2C%E7%86%8A%E8%B0%B7.png 315w,
+/openlab-site/static/62eb803e53a47fe8db90af0fe377d600/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%A3%AE%E5%B7%9D%2C%E7%86%8A%E8%B0%B7.png 630w,
+/openlab-site/static/62eb803e53a47fe8db90af0fe377d600/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%A3%AE%E5%B7%9D%2C%E7%86%8A%E8%B0%B7.png 945w,
+/openlab-site/static/62eb803e53a47fe8db90af0fe377d600/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%A3%AE%E5%B7%9D%2C%E7%86%8A%E8%B0%B7.png 1260w,
+/openlab-site/static/62eb803e53a47fe8db90af0fe377d600/4ea1e/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%A3%AE%E5%B7%9D%2C%E7%86%8A%E8%B0%B7.png 2667w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<h3 id="webassembly-ランタイムにおける計算リソース利用量の監視制御" style="position:relative;"><a href="#webassembly-%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%A8%88%E7%AE%97%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E5%88%A9%E7%94%A8%E9%87%8F%E3%81%AE%E7%9B%A3%E8%A6%96%E5%88%B6%E5%BE%A1" aria-label="webassembly ランタイムにおける計算リソース利用量の監視制御 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>WebAssembly ランタイムにおける計算リソース利用量の監視・制御</h3>
+<div class="author">
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/aa2a7dff3dee9a93a2206d1661f6afae/36dd4/ishi.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/aAAwDAQACEAMQAAAB5cL7T1eehTKkHUC//8QAHBABAAEEAwAAAAAAAAAAAAAAAQACAxESECEz/9oACAEBAAEFAremhTni35nYjSzZIuZ//8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIQEQP/2gAIAQMBAT8BTmuAzZ//xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAgEBPwFWP//EABsQAQACAgMAAAAAAAAAAAAAAAEAERBhITJB/9oACAEBAAY/Auou46wyz2UlYoZzP//EABsQAQADAAMBAAAAAAAAAAAAAAEAETFBUYFh/9oACAEBAAE/IX7pZ3mbKkXOJoyu7SXhLpnsBWAYjtK/Z//aAAwDAQACAAMAAAAQxAA8/8QAGBEBAQADAAAAAAAAAAAAAAAAARARMVH/2gAIAQMBAT8QWzmYI0z/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxASxJ//xAAbEAEBAAMBAQEAAAAAAAAAAAABEQAhMVFBwf/aAAgBAQABPxBT5AOxrSUOSePceaGgdzfebIS5KfZiUdag6vmJBHoTBQYgeg9x1sEh+eYEjUqrn//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="ishi"
+        title="ishi"
+        src="/openlab-site/static/aa2a7dff3dee9a93a2206d1661f6afae/36dd4/ishi.jpg"
+        srcset="/openlab-site/static/aa2a7dff3dee9a93a2206d1661f6afae/ff44c/ishi.jpg 158w,
+/openlab-site/static/aa2a7dff3dee9a93a2206d1661f6afae/a6688/ishi.jpg 315w,
+/openlab-site/static/aa2a7dff3dee9a93a2206d1661f6afae/36dd4/ishi.jpg 512w"
+        sizes="(max-width: 512px) 100vw, 512px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><strong>石本 直也</strong><br>
+情報アーキテクチャ領域・修士 2 年</p>
+</div>
+<div class="author">
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/4044fee843d26c3b914a3b1576c86420/36dd4/yuzuki.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGO2OqI3YwWaD//xAAcEAEAAgIDAQAAAAAAAAAAAAACAAEDEhARExT/2gAIAQEAAQUCJ3XzGI2bwuexqZb2fHU//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERIRIgMkH/2gAIAQEABj8CxR2QxqIT9Isp1p//xAAbEAACAgMBAAAAAAAAAAAAAAAAARExIVFxgf/aAAgBAQABPyFmY6SKVLwoc1oQupHRTU0jKEjBEkD/2gAMAwEAAgADAAAAEFfn/wD/xAAYEQEAAwEAAAAAAAAAAAAAAAABABARUf/aAAgBAwEBPxBCacv/xAAYEQEAAwEAAAAAAAAAAAAAAAABABARUf/aAAgBAgEBPxAXZj2//8QAHhABAQACAgIDAAAAAAAAAAAAAREAUSFxMWEQQbH/2gAIAQEAAT8QIju2AG85JKcKE/cfR0HD7MVGnJr2dZ90qiIi7usVrgAQnfn3cgo46yPL4P/Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="yuzu"
+        title="yuzu"
+        src="/openlab-site/static/4044fee843d26c3b914a3b1576c86420/36dd4/yuzuki.jpg"
+        srcset="/openlab-site/static/4044fee843d26c3b914a3b1576c86420/ff44c/yuzuki.jpg 158w,
+/openlab-site/static/4044fee843d26c3b914a3b1576c86420/a6688/yuzuki.jpg 315w,
+/openlab-site/static/4044fee843d26c3b914a3b1576c86420/36dd4/yuzuki.jpg 512w"
+        sizes="(max-width: 512px) 100vw, 512px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><strong>斉藤 優月</strong><br>
+情報システムコース・4 年</p>
+</div>
+<ul>
+<li>エッジコンピューティング基盤でのアプリケーション実行環境として計算資源消費量や起動速度の面で優れているWebAssembly(Wasm) に注目</li>
+<li>既存 Wasm ランタイムの計算リソース制御は、指定した独自の実行コスト（Gasコスト）を超えた場合、プログラムの強制終了による制限のみ</li>
+<li>Wasmアプリケーションごとの実行状態（メモリ使用量、CPU使用率など）の取得をLinuxカーネルの機能とWasmRuntimeの機能を活用し実現する</li>
+<li>計算機基盤（OS）は、時間当たりの CPU 実行割合で管理しているため、Gasコストを各CPU毎の実行時間に変換し、Wasmの実行を時間当たりのコスト消費量で制御する機構を実現</li>
+<li>これにより、計算資源の限られたクラウド基盤において柔軟で効率的な計算リソース割り当てが可能となる</li>
+</ul>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/948e7/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 70.88607594936708%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAB7CAAAewgFu0HU+AAACF0lEQVQoz6VT23KbMBTk/z+jD31s39NJm0mbxE5dEzvBMSHG3AWSQDIgEAgn3WR6fc4ZoRGLzmq152A9vyGsaZoOh4N8DaXU8Du01tNrYDGOIxDMfd93Xde2LTYDt5BZVVWapYMeABFCttttFEVlWWJTXdeMMdd1wzCM41gIkaap7/sg4pxbZck5Y1IIRilQEHdK4RtUQQion56e9KBVp4wxIAIp8kFKKbU6PXB54LKWdQOUcd60qm5aDCFlWVWQU9cNglJm2zbooAivuJFV72bm8uN48UFFNqvEavndvr66tRd7b1uynFNCigwjIwlmUB+PR2j5ZZj0L82nd+bre7GfJYkfxMtwPw+8y71z5i5P7teft/EPL1+F5cand2HkTsb8dXucjJ5Mb4bQv3E3cy++88lmG61uH66vrk6+Lb/M7LM779onzkO0vnfmJHJw+J9SHbtO952OQ68oWBBmi8WN5wUZ4XlBc5KnGV0sb52Nl2YsL3i0d+FAr1G80UKmEBKW74OA8VLnFzo+bYLTga/6HqVqjHB6ING5zs5pntSNguG73SPj1Uty32t4CGOFPMjMUcQR8ZrsFu2L5a0sHmRiq9zhybogiTw0eV7ARiwsM01KoXMG1emCMohkRVVx+bgLoQglSQmLk7ytuzgtQI+TcFMzHSczWf/2KnrDjGjDYRy0MSMqaV4AjWfQ/WuP6v96+y0/xk+2nA58T+UqrAAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="研究紹介(石本)"
+        title="研究紹介(石本)"
+        src="/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png"
+        srcset="/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png 158w,
+/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png 315w,
+/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png 630w,
+/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png 945w,
+/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png 1260w,
+/openlab-site/static/81bdc41a6971f0c5c52726672f3d8e71/948e7/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%96%89%E8%97%A4%2C%E7%9F%B3%E6%9C%AC.png 2339w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<h3 id="異種os機能連携によるセキュアコンテナの実現" style="position:relative;"><a href="#%E7%95%B0%E7%A8%AEos%E6%A9%9F%E8%83%BD%E9%80%A3%E6%90%BA%E3%81%AB%E3%82%88%E3%82%8B%E3%82%BB%E3%82%AD%E3%83%A5%E3%82%A2%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E3%81%AE%E5%AE%9F%E7%8F%BE" aria-label="異種os機能連携によるセキュアコンテナの実現 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>異種OS機能連携によるセキュアコンテナの実現</h3>
+<div class="author">
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/f3261f330ae2b6804507feff3847171e/36dd4/awa.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAEDAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB9zvKpqhQKD//xAAZEAABBQAAAAAAAAAAAAAAAAABAAIQIEH/2gAIAQEAAQUCJly2n//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABQQAQAAAAAAAAAAAAAAAAAAADD/2gAIAQEABj8CH//EABwQAQACAQUAAAAAAAAAAAAAAAERIQAQIDFhgf/aAAgBAQABPyGGTrDjQwjfmEpLrb//2gAMAwEAAgADAAAAEOjPAP/EABYRAAMAAAAAAAAAAAAAAAAAABEgIf/aAAgBAwEBPxA1P//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAECAQE/ECP/xAAcEAEAAQUBAQAAAAAAAAAAAAABEQAQIUFRMaH/2gAIAQEAAT8QngZJFKQ9LBKZ+gmdUkKdufLRf//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="awa"
+        title="awa"
+        src="/openlab-site/static/f3261f330ae2b6804507feff3847171e/36dd4/awa.jpg"
+        srcset="/openlab-site/static/f3261f330ae2b6804507feff3847171e/ff44c/awa.jpg 158w,
+/openlab-site/static/f3261f330ae2b6804507feff3847171e/a6688/awa.jpg 315w,
+/openlab-site/static/f3261f330ae2b6804507feff3847171e/36dd4/awa.jpg 512w"
+        sizes="(max-width: 512px) 100vw, 512px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><strong>鈴木 進太郎</strong><br>
+情報アーキテクチャ領域・修士 1 年</p>
+</div>
+<div class="author">
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/7d13f90ed00ba987b23bc525e4d834f4/01e7c/souma.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsTAAALEwEAmpwYAAACPUlEQVQ4y4VUW3OaUBD2n3fa6XOnj51p+5h2kg4aNcnYaYwaBWsUERtEjRdUEPQIkYuIXHuEkTGU2DPnYXd2v/3OfuyS8F4/xm4HeF6SJFmWYxMSx47rn8Demib66XPl+zlJPfb6fW4+DxJeBYclAtrkm3e9dptok+MmUS8U7ZfIKJjjOEEQbMeBF7qSopAodvnhI3FXVETxFLNlWRiGjRmmVMhXK/een4a8fU+X0T3MLwfBjm9EwYZhZDPpRv2B7lDJi2/P62eOYZAvXxVF+ZczCobhX7mbFPJjPGY4joUKrwBoNRp0pwMF22jqdqtPmDHeqMf3vF6vuzQd4TFtpzmT8SeWaJFVtJJOIQCAICdxrDBN08vlEsq2WCygu9vtVFWFBqN5vxd2oYz9vLq8yabFg3iJEAl1zuVyQYcwDGFQwsl0KoGlsHFaspfK5TPIhbgCMc/GcbxYLIbKa5p2qOtCMMbbaLvv2ma8YDB7MBhEGnaCR+leeaaXyW4whC/AgT8ajYJWj8O+5c40L98XkfsmHLsocwhWFNl3w4+3v3Da+qp3XmqdJbOWbcc/+5GieHWr2J64dVQTTpLr87qKYTeAd9vs6ZoSMyQBM/xImQqBTlRi5TaBS629kexIpssaXoXVayQVShA/JPpGK1dr+a5w/UDf/pngwCkNpXwPXNWoOc+fWowgsNlsrku17tNwLizOcuV2pzeccjOWhZv2n59BsDEQb5qm3wiwLeu49ClwqLB7yN7voOvGIuH5C1wCbQ62aJZzAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="souma"
+        title="souma"
+        src="/openlab-site/static/7d13f90ed00ba987b23bc525e4d834f4/01e7c/souma.png"
+        srcset="/openlab-site/static/7d13f90ed00ba987b23bc525e4d834f4/c26ae/souma.png 158w,
+/openlab-site/static/7d13f90ed00ba987b23bc525e4d834f4/6bdcf/souma.png 315w,
+/openlab-site/static/7d13f90ed00ba987b23bc525e4d834f4/01e7c/souma.png 512w"
+        sizes="(max-width: 512px) 100vw, 512px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><strong>坂口 颯麻</strong><br>
+情報システムコース・4 年</p>
+</div>
+<ul>
+<li>Linux で実現され広く普及したコンテナ型仮想化は、 OS カーネルをコンテナ間で共有することで、軽量かつ高速に起動することができる一方、カーネル脆弱性を悪用した攻撃によりコンテナ間隔離が脆弱となるリスク</li>
+<li>ハードウェア仮想化技術やシステムコール検査などの手法と比較して、Linux 以外の OS カーネル上で Linux コンテナを動作可能とすることで、Linux カーネルの脆弱性を利用した攻撃を低オーバヘッドで回避</li>
+<li>異種 OS が持つ独自のセキュリティ機能を透過的適用することで、ファイル I/O やネットワークを利用した攻撃に対しても効率的な防御を実現</li>
+</ul>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/b379b14792826d97ceee5b67906b213e/aa459/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 49.36708860759494%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAACl0lEQVQoz11STUwTQRR+pbaAFpRqxb+DCaCGEKrhgCHe8GIgMQoaOHCDA1eMB5JqPRBUDCZ44lzPpvHQxpiiJMQQxYQmhDYm25bSQne73Z39627bbBnfFE5M8mUmb7753vfeGwBc1zo7G+hob/fc7evzdnd1nXsdDJ6hlDrj8TjMzMy4wuEw+P1+Rgc3Ltx63C7X7fNtbb0tLS3Xx8bGXMh3wKl1EeFBMDE4PDwEQgjMz8+7mFi9XndivAnFXT6f7w7yGHoQlxm/KAgAPM8D1XUHC9CjowtUVUdfzs0N7+dyg6qiPMns7XnxQSNzg3OCrc1NoJZ1yUilHjwbH79XkqR+FLx/TLDtJlsUoc5xj+qaRrc3NpKarv8yLYsSWX7IOJFIxF2r1V6gyxXbtlcVRXlqcdx0jRC6Ho3GTNP8hzjO1ud0OqiigL2z009lOY7nj7okLRmSlCgS4j8p35tOpxXcabFYpKIo/iTb26NYnY6BFTTwpVwuc2AYRsSyrB+aqv4hijKtn5SXAmjOALRSPHc7HE27u7ueQqHwF4U0FMR80u/v0aiPDg115AcGbm7GYq0SIc2AJJpIJGgqlaKSLIeZgD05Cbg7EE5hZATeBwJu5lJV1alKpfKmWqkEBUl6fgsHfrq/gL1IY1Ye7UqqpsXWJya6rdXVs1ogcEVYWLj6DafKHuH3acNKdkqlUpWZsGq1r9m1tWF1ayuUE8V36HoZf8QyJJNJd7Va9TD1giBM6aJI1IMDWuZ5auGAREIG2V0mk/EKgiBzHEez2Sy2WdkvlkqfTWwhJqFoiKJ7Cvl8vmEVpwkCz/eXLeuTYhiLmmkuouO3+VzuBrsPhUJOrGRWwxjiA4o/3s9me5GzhP18he0IYpLgf07M8xCo0ycAAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="研究紹介(鈴木)"
+        title="研究紹介(鈴木)"
+        src="/openlab-site/static/b379b14792826d97ceee5b67906b213e/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png"
+        srcset="/openlab-site/static/b379b14792826d97ceee5b67906b213e/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png 158w,
+/openlab-site/static/b379b14792826d97ceee5b67906b213e/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png 315w,
+/openlab-site/static/b379b14792826d97ceee5b67906b213e/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png 630w,
+/openlab-site/static/b379b14792826d97ceee5b67906b213e/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png 945w,
+/openlab-site/static/b379b14792826d97ceee5b67906b213e/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png 1260w,
+/openlab-site/static/b379b14792826d97ceee5b67906b213e/aa459/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E9%88%B4%E6%9C%A8%2C%E5%9D%82%E5%8F%A3.png 1969w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<h3 id="ランタイム実装中立なwebassemblyライブマイグレーション" style="position:relative;"><a href="#%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0%E5%AE%9F%E8%A3%85%E4%B8%AD%E7%AB%8B%E3%81%AAwebassembly%E3%83%A9%E3%82%A4%E3%83%96%E3%83%9E%E3%82%A4%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" aria-label="ランタイム実装中立なwebassemblyライブマイグレーション permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>ランタイム実装中立なWebAssemblyライブマイグレーション</h3>
+<div class="author">
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/9402127778beb7c2d878a11159ef6c92/36dd4/funera.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB2QAASD//xAAYEAADAQEAAAAAAAAAAAAAAAAAATEQEf/aAAgBAQABBQLJsIQb4//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABsQAAEFAQEAAAAAAAAAAAAAAAABESEx8GEQ/9oACAEBAAY/AtBoLY0eWwvBeDIf/8QAHBAAAgIDAQEAAAAAAAAAAAAAABExYQFBcYGh/9oACAEBAAE/IYpCKQcPBMikIpfBw8EzOjgzo4M+oP/aAAwDAQACAAMAAAAQ88A8/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHRAAAQMFAQAAAAAAAAAAAAAAIQARcQExYbHwgf/aAAgBAQABPxDmS265ktuonE9XMlt1zJ7dROJ6sUMXusUMXuqnqNRajOv/2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="fune"
+        title="fune"
+        src="/openlab-site/static/9402127778beb7c2d878a11159ef6c92/36dd4/funera.jpg"
+        srcset="/openlab-site/static/9402127778beb7c2d878a11159ef6c92/ff44c/funera.jpg 158w,
+/openlab-site/static/9402127778beb7c2d878a11159ef6c92/a6688/funera.jpg 315w,
+/openlab-site/static/9402127778beb7c2d878a11159ef6c92/36dd4/funera.jpg 512w"
+        sizes="(max-width: 512px) 100vw, 512px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><strong>藤井 大吾</strong><br>
+高度ICTコース・4 年</p>
+</div>
+<ul>
+<li>IoT や AI の技術進歩により、多くの IoT デバイスが大量のデータを生成し、データ転送による通信遅延が大きくなるので、デバイス付近にエッジサーバを配置するエッジクラウドが普及</li>
+<li>エッジクラウドはクラウド・エッジサーバ・デバイスから構成され、各層のマシンや地理的特徴から処理性能と通信遅延のトレードオフが発生</li>
+<li>WebAssembly(Wasm) を用いて、エッジクラウドにおけるクラウド層・エッジサーバ層・デバイス層間でアプリをマイグレーションすることで、処理性能と通信遅延のトレードオフを柔軟に変更可能に</li>
+<li>異種 Wasm ランタイム間でマイグレーションを実現することで各環境や用途に合わせたWasm ランタイムを選択</li>
+</ul>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/9f93d5a26cd5e55e194a7c87c98615de/d9199/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E8%97%A4%E4%BA%95.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACG0lEQVQozyVSWW7bMBTUzXqVfvanV+hJeoT0MwiKNILqXXEka7E2mlpDUZREydplCXBcOh08DEhwhhg+Pu52u318fDBO02yxXAYQlnnuOE6C47aupuutByJW1rJi6QftIGveKTIO0VEOCS64ruuqNG7ypCmy8/ncNU1ZFGHop7R1AyxpRmDI756ryvZ+oyiSGfmIYJqgvCwrrq5rSxZF4Vn4/fj09BRjnBDCmIQO//Dr67fv9k6gGXknRDnqEY5pWYyXfhi7tm24qq5jnKw3W1aqqlZVlRICXS9F0DUU5WgV8jOx3mAQeBBAF6IIASsEZlAWFTdN0zAMl8uFLS6fYOEBe7QDEMLz7dYeF0h5Ffi9vFMFfncyA/UNHvagyM/cPM/jODLP+Am2ZebA9/kX3lf/dq4Quqc4xoYF1pudZlg5pdNd23/GrirbCGzDh05k6IAQkmWZ73nAASSEGYK5IaaRG8TIdiw/9LM7aEpyZuSYWlW15XIpiqJtWdDzWMM8z3Ndl6mm+dp5KlK2kqQbylGWNA9Ea0Fb/JHTpOTatmV3UEqTJCFp2uQ5zTKEYvd00m3wuDdRmmOU7FbSfnvYrmQU4apsCspMNcfG43q9Mo7jeLle0SCoi8K0Af+y4Hfylx8/BR0ObS3r2qskaaZJi6Lv2XC0TdPczf/RD0OeZT3r3zSxz2eJ5mmK87Lt+3Ec+p6dj3e6Y2Q1TfM/Qu1GbwiEfUgAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="研究紹介(藤井)"
+        title="研究紹介(藤井)"
+        src="/openlab-site/static/9f93d5a26cd5e55e194a7c87c98615de/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E8%97%A4%E4%BA%95.png"
+        srcset="/openlab-site/static/9f93d5a26cd5e55e194a7c87c98615de/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E8%97%A4%E4%BA%95.png 158w,
+/openlab-site/static/9f93d5a26cd5e55e194a7c87c98615de/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E8%97%A4%E4%BA%95.png 315w,
+/openlab-site/static/9f93d5a26cd5e55e194a7c87c98615de/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E8%97%A4%E4%BA%95.png 630w,
+/openlab-site/static/9f93d5a26cd5e55e194a7c87c98615de/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E8%97%A4%E4%BA%95.png 945w,
+/openlab-site/static/9f93d5a26cd5e55e194a7c87c98615de/d9199/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E8%97%A4%E4%BA%95.png 960w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<h3 id="クラウドドボティクスに適したロボット基盤ソフトウェアに関する研究" style="position:relative;"><a href="#%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%89%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E3%81%AB%E9%81%A9%E3%81%97%E3%81%9F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%9F%BA%E7%9B%A4%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A0%94%E7%A9%B6" aria-label="クラウドドボティクスに適したロボット基盤ソフトウェアに関する研究 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>クラウドドボティクスに適したロボット基盤ソフトウェアに関する研究</h3>
+<div class="author">
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/d115919fab55176c8de6463147ad93f3/01e7c/aoi.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEz0lEQVQ4ywHEBDv7ANbW2ceyktO7lsCph5yLeZKIe5uWiKWci5iIeop/doRzZG11fmh9kWJ0hmp8i11ZVo57Z7irlraok7eqmADU09W5p43Aq6C6opeEZ0pqWUehknqlkXXNvrTn5u6gjoNRXm5TdplTcZBXdpZDPDiTel3Ov6vOwK7Lvq0AvrS0rKCQwJ+DtpaHmn1goIdsnIdsnYNkpI13koR3hXRgaWFaQkRKVlRWeXRvdWVUkXlhgHBfi3tkrJqAAIp4Z5WDcpqLe3VxbHdfR3diSF9POn5pUGVRPFpcRFtYRxoXGhcXGhIREyYmJVNKQHdpWTk2MId5Y7OggQBQSkKTj4LHxsqNl555ZlG0m3qql3y3oIGFcVmFjHJmYlMHBgoUFBcQEBQYGRxbUEVfT0BNRTvPxbjLuqAAa2ZgiYZ60s3PuLe0fW9gwqWE0LiW1LqTtZl3hnJaiHJcMSUjAgQFCgsNDAoJjHRb1LuYzLaVx7OTv6yLAIyGgnZrXa6ciJ2FbKqNbsmtg9K6j863jsiofNSsf9+4iqaGbSMdGgUGBhISFkA6OMaylNvHptzKqtG+nwCkhWaqiGOui2O+mW/Lp3q3mXKnknCnkGy7mnC2mnadh2x+cmNCPzwVFRoXGiEVGB97ZlG2mXbZxKbWwqMAt5Jnu5Vqt5Nor41lpYVimX9iwqJ15b6FrJJuMDI6ICIrGBsiFxkfFBUbFRYaCw0Sbl5M2LuV1sCi0b2fAJt4VJNxTZFwS6uJXaCGYzo7Q1JMR3hnVFFIQiQlKxIRExcYGxYXGxAQExISFgMFCWNYR93Hpt7KrNTBpACdek+vjFy+m2jJp3S/onU3NjcfJC4TFyIeHycfHyMNDBASEhYSERMMDQ4EBQkiHxmZjHSxoIbNuJ7OuqEAs49fupZmw6Fyyat73b+NaV5PDhEZJSQoKiouGhsfExMWCwwRAgIFDQwJOzQojn5krpx9ppV3uKWKwrCYAK6MYreXbMSle86xhtq+ksmxiDYwLRwcIR4eHxERFAAAAhsYFGFXRI18XqmTcaGOcKGPcpyIbLahiMKvmQDIqoDLroPJq4HGqIDKrITUuJJRR0EeHB8KCw0XFRVcUD+gjGuynXe0nni+p4G5pYStmXmplHbPvaXQwKsA07aL07iN0bSKx6uB2cKfyrmcOjItFxMXUEg/xbee7+DB18akwKuGvqmFxK6JsZp3qpNyz7mZ2smv3My0ANa4jdi8kda6kd7IpdnGqbyjgWhVQYZ3ZvDgwefXuMu6m6uYeauXdq+aeaGKaIVuT6OPdcy2mNG/o9bEqQDZvZDYvpHUupG+pIO9on/LuJ+6qJKqlXXIuJbEs5Cmk3WQel2RelqUe1p7ZEVpVDiFclmlkXa6porJs5YA2LuQ1ryR1r6Sq5BupIhqz7yjwq2RnYNiqJN1t6WIpJF1lYBhinFQdF4+X0oscVo8g25Ui3hfo41ytZyAANGyic6wh8yxip6DYXlcPZ2CYqmLaKSDXpyCY4d1W4ZxUnZfPl1HKFhCI2NLKm1VNYFqSpF6W6OJaaaKawDu4tLl2cnk2crSx7nCt6rOw7fYy73XybnUyLvFvLHGvK+4r6O2raHAt6rDuazKwLPQxrnWy77XzMDc0MIjKVNWM2miAwAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="aoi"
+        title="aoi"
+        src="/openlab-site/static/d115919fab55176c8de6463147ad93f3/01e7c/aoi.png"
+        srcset="/openlab-site/static/d115919fab55176c8de6463147ad93f3/c26ae/aoi.png 158w,
+/openlab-site/static/d115919fab55176c8de6463147ad93f3/6bdcf/aoi.png 315w,
+/openlab-site/static/d115919fab55176c8de6463147ad93f3/01e7c/aoi.png 512w"
+        sizes="(max-width: 512px) 100vw, 512px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><strong>中村 碧</strong><br>
+知能システムコース・4 年</p>
+</div>
+<ul>
+<li>ロボットとクラウドが連携することで高度な知能処理と低遅延な制御処理を両立できるクラウドロボティクスでは、システム起動時に各機能モジュールをロボットとクラウドへ分散配置することが必要</li>
+<li>バッテリ残やネットワーク状況の変化などが要因となり、モジュール配置構成が最適ではなくなる可能性</li>
+<li>CPUアーキテクチャが異なるロボットとクラウド間でROS（Robot Operating System）ノードの配置を動的に再構成できるようにするために、WebAssemblyを用いた軽量でアーキテクチャ中立なROSランタイムを実現</li>
+<li>ROS ランタイムの WebAssembly 化にともなうオーバヘッド増加に対処す るために、組み込みデバイス向け軽量ROS2実装であるmROS2/POSIXを採用</li>
+<li>災害時などの環境が変化する場合に対しても、ロボットとクラウド間での処理分担を柔軟に再構成・最適化することで、ロボット制御の継続実行 を可能にする</li>
+</ul>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/0c4d7ba6e18e07496ecb030ec8daf0ec/4ea1e/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E6%9D%91.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAw1AAAMNQAHgcQlTAAAB5klEQVQoz5WSTU8TURSG+y9dm7hyw8KdwbjQDZq4oamgktigIDB+tEUg0oiJsVACKE2gNrTRgTKdzkeZaTvTaWc6j7etYtM0fpzkvecuzn3y3nNOhJEIw7B3EP68D+tv0auJXEL+AeAHAa7n0XTdfm6127hCtlXHsWv9msifILbj4rgtvE6bnmdD08hnt9ndfMf7ZIKPb1f5ur/H9rMkR9KdAXDURbcrXAgHuu0KoMeZobKZS1AyC1xoBpmXSbYWlkk8mmPtyVOyqQ0+zUgUVm4OgFbLF48cDMekoOaQtSqnioVhO5jCsN5yWC+scO58R6mYRKUdppcyTM0keBBPM53M8SKaoihN9vseqdTb7Ms2aqNCVv7ASUXFtHzRm4Ci6dL0Q7R2hZqnoygqMWmJucUFnj+MEY/HiaXesBydpyTdGgA74rQC8VUC4cikLZpd1XTKuk06pyLXLPRmmZJ1jKHUyc7b7MYtMrMKO49V9hZ9Ps8WKb6a/NXD/oL8TkODyesNqrU63+wTLL+OcSpzcG+Cg6nrbN2+KnSNL/dvcHj3igBODByOTnmg3nBCun6HZqOB1/IIgpCg46Lk1zk/XuXsaI1yfgOjlEY+fM2FWhw/5eG9/N+4XOxxsPHOhcRajVXY7b/7AbbOMwWdtsS+AAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="研究紹介(中村)"
+        title="研究紹介(中村)"
+        src="/openlab-site/static/0c4d7ba6e18e07496ecb030ec8daf0ec/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E6%9D%91.png"
+        srcset="/openlab-site/static/0c4d7ba6e18e07496ecb030ec8daf0ec/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E6%9D%91.png 158w,
+/openlab-site/static/0c4d7ba6e18e07496ecb030ec8daf0ec/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E6%9D%91.png 315w,
+/openlab-site/static/0c4d7ba6e18e07496ecb030ec8daf0ec/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E6%9D%91.png 630w,
+/openlab-site/static/0c4d7ba6e18e07496ecb030ec8daf0ec/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E6%9D%91.png 945w,
+/openlab-site/static/0c4d7ba6e18e07496ecb030ec8daf0ec/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E6%9D%91.png 1260w,
+/openlab-site/static/0c4d7ba6e18e07496ecb030ec8daf0ec/4ea1e/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E6%9D%91.png 2667w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<h3 id="連合学習処理における通信方式の最適化" style="position:relative;"><a href="#%E9%80%A3%E5%90%88%E5%AD%A6%E7%BF%92%E5%87%A6%E7%90%86%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96" aria-label="連合学習処理における通信方式の最適化 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>連合学習処理における通信方式の最適化</h3>
+<div class="author">
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/58c8e2cd72ad9adbd9d88d6d38e45bce/01e7c/mikkun.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAFxGAABcRgEUlENBAAAEz0lEQVQ4ywHEBDv7AC4uLjo6OkM+PyIgIAwNDAoJCRIRERYWFiYmJiEhIQ4ODhAPDwsLCxsaGxYXFy0tLkA7QC00TEdRdlttmAAJCQkrKionJyUICAgJCgwPDxASEhIiIiI9Pj40NDQhISEKDg8HCw5FR09jZ3JkYGZrVF04RGxgcqWEmsYADQ0NCgsLDw4MKSYdKSUdFhQPNzg5Ojs6JCMhOzo0KykiUzYzVDo7SUpQh4eNo6++NkJfND9nOEZzO0VrAA4ODgkJCQYGBjo4M3FlQnZnOldPPFVOPUlALl9YRV5NSu++uoh3dCclID85M15sez9Mbyw1WC04XCAoRQAODg4TExMbGxsdHR1bV0xyZ0uYil6uoHm+sYtbU0o0JyuNhYLc3NmUmaJMVGBFQDw9Rl9VY49od55YX3gADQ0NGhoaLCwsMTEwLy4rKyonamBIsKF3qaaKVj4/jWJSWklCb2VfpbfGkbPSYGVvXG6RanWYb3aHlZmrAA4ODhESExoaGikqKTc3NhsbGmFbTnFoRnRSPb2GgPS8nr6ReUg4NDc3M1xgYoaOnMTQ4ZepynySvIOj0AAODg5APDcYGRlBPjwsLCxFRUWOiX9bVkCtc1v/oID/rpGJcnVONzdfbYrb2+L09PHP5f6ZuueFqt+UsdwASEJAhndqh3VqkYJ2IB8cODk6WVhVQz8voHRY/8Ok/6mT052UVlqJ2qvB+OrA7/PtpMXzgabdg6rlhqHGADQxLYx1ady3puTv7ZWOjB8oOjlAWUJKWDw6MriUfvnlz3Jyfp6CtefOoO3s0OXv9abK7pW01UJbjzdFdQABAgIYGxy3hHDSz87s//+QkKxlcqRTSFdySUSvg3aZgG1RSVeqlIbl4aj7/Obe6OCks8Bscok2QGc5R3YADQ0NEBESSkRBcW5yqNzp2ePZy8Wdt6+k7tyIw7pwr5OCZU1MWU82p7SC0NPOvrmwv7qvycnOam6FPUduAAkJCRUVFSwuLyQlJIeksuX+3f37cNDyxqrew86mdv+0l8+ijTwwLXaCe7/C0JeZrVdabY2NlbKwqZ2dogAODg4UFBQLCgocHBuQmoLp8a3z93j8/4G+nWryk4f/0LKrl4czJymAhIlqdJVETnBGU3xBSm1ucoOjnpgACgoKGhoaGBgXBAMIZ2lF9vuF3ON3xsym5aSR/9250smlMygsLCYvZWVpZmp+QEptN0JpNEFtKTNTR0pZAA4ODgwMDBAQDxMSFzY3KuHjh9jZgLzChd7dvuLTt0tJQyQjMy8vOk1LTWBcWlRVYRwjPlRji0dVeiAlOAASEhINDQ0XFxcoLiVjZ1HEyXHw933z9oro66xpdYklLUQwNkctNUc+PT5MSURpZF1PTlIqNExFUnYXGSQADw8PIyIjMjopXWBYdXhit7Z029eby815eoRnLzpePEZbNkBXOEJaPT5BQD05REA9ZmFaJSUqCQwUERMXAAwLDSYsI0dNOGODaGeLVpOUib7LxPH23YCFcTxMYUJOcUBMZ0NPbUZTbkdOW0FFSktMUC0tLwAAAQ0NDgANCw4sNSVYYkRol2h5pmqWpo1jWXK6yL6UiYJXYlFSZ2c6RFlLX5NEWpM8THJXbqRHVHAgIicWFhUNDg4VnNQiPc7hyQAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="mikkun"
+        title="mikkun"
+        src="/openlab-site/static/58c8e2cd72ad9adbd9d88d6d38e45bce/01e7c/mikkun.png"
+        srcset="/openlab-site/static/58c8e2cd72ad9adbd9d88d6d38e45bce/c26ae/mikkun.png 158w,
+/openlab-site/static/58c8e2cd72ad9adbd9d88d6d38e45bce/6bdcf/mikkun.png 315w,
+/openlab-site/static/58c8e2cd72ad9adbd9d88d6d38e45bce/01e7c/mikkun.png 512w"
+        sizes="(max-width: 512px) 100vw, 512px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><strong>東 未来翔</strong><br>
+知能システムコース・4 年</p>
+</div>
+<ul>
+<li>プライバシーの保護や、通信料の低減、学習処理の分散等の利点から機械学習の方式の一つである「連合学習」が使用されている</li>
+<li>回線品質の低いクライアントが参加したすると、学習の進捗全体が阻害されるという課題がある</li>
+<li>多くの連合学習フレームワークがTCPベースの通信方式を採用している
+TCPの信頼性保障の仕組みは、低質な回線においてはオーバーヘッドを増大させることが知られる
+-本研究では、連合学習の通信にUDPをベースとするDDSを採用し、上記課題の解決とQoS（Quality of Service）の制御によるより効率的な通信を目指す</li>
+</ul>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/2aaa09965d398274080017037b880972/828fb/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%9D%B1.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 36.708860759493675%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAHABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdukBX//xAAYEAACAwAAAAAAAAAAAAAAAAAAAQIRIf/aAAgBAQABBQKtkhH/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAQ/9oACAEBAAY/An//xAAaEAACAgMAAAAAAAAAAAAAAAAAIQERYZGx/9oACAEBAAE/IZybLGQS6f/aAAwDAQACAAMAAAAQe8//xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAgBAwEBPxBH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhAAAgMBAQAAAAAAAAAAAAAAASEAETFB0f/aAAgBAQABPxDDRHjewABkkYbKhy4//9k='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="研究紹介(東)"
+        title="研究紹介(東)"
+        src="/openlab-site/static/2aaa09965d398274080017037b880972/828fb/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%9D%B1.jpg"
+        srcset="/openlab-site/static/2aaa09965d398274080017037b880972/ff44c/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%9D%B1.jpg 158w,
+/openlab-site/static/2aaa09965d398274080017037b880972/a6688/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%9D%B1.jpg 315w,
+/openlab-site/static/2aaa09965d398274080017037b880972/828fb/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%9D%B1.jpg 630w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<h3 id="キャンパスdxに向けた学務情報のオープンデータ化" style="position:relative;"><a href="#%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9dx%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%AD%A6%E5%8B%99%E6%83%85%E5%A0%B1%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E5%8C%96" aria-label="キャンパスdxに向けた学務情報のオープンデータ化 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>キャンパスDXに向けた学務情報のオープンデータ化</h3>
+<div class="author">
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/4d9b3cfb8add1533fa504e7d638f4b5d/36dd4/takumi.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAECAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB77EBWvIiiv/EABcQAAMBAAAAAAAAAAAAAAAAAAEQIDH/2gAIAQEAAQUCo4v/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAUEAEAAAAAAAAAAAAAAAAAAAAw/9oACAEBAAY/Ah//xAAaEAACAgMAAAAAAAAAAAAAAAABEAARICEx/9oACAEBAAE/IcLR7wcX/9oADAMBAAIAAwAAABCbz7z/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAbEAADAAMBAQAAAAAAAAAAAAAAAREhMUFhEP/aAAgBAQABPxBZexokRZ50h60UlRJ+MxVLnz//2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="takumi"
+        title="takumi"
+        src="/openlab-site/static/4d9b3cfb8add1533fa504e7d638f4b5d/36dd4/takumi.jpg"
+        srcset="/openlab-site/static/4d9b3cfb8add1533fa504e7d638f4b5d/ff44c/takumi.jpg 158w,
+/openlab-site/static/4d9b3cfb8add1533fa504e7d638f4b5d/a6688/takumi.jpg 315w,
+/openlab-site/static/4d9b3cfb8add1533fa504e7d638f4b5d/36dd4/takumi.jpg 512w"
+        sizes="(max-width: 512px) 100vw, 512px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><strong>中川 匠海</strong><br>
+情報システムコース・4 年</p>
+</div>
+<ul>
+<li>今日の大学では、LMS（Learning Management System）や教務システムなど、それぞれの目的に応じた複数のシステムを組み合わせたICT学修支援環境を構築している</li>
+<li>複数のシステムに必要な情報が分散していることや、Webサイトやメール等の限られたアクセス手段しか提供されないことで、学生に対する「学務情報への到達容易性」が課題となっている</li>
+<li>複数のシステムでそれぞれ異なる形式で分散管理されている学務情報（休講・振替連絡、課題〆切、教室空き状況など）をスクレイピング技術等を用いて収集し、モバイルアプリなどで活用できるようにオープンデータ化する</li>
+<li>スマートフォンやSNSなどの情報アクセス媒体に慣れた「デジタルネイティブ世代」の学生に適した学修支援の実現を目指す</li>
+</ul>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/c4b5c347c7f48de8bd7e75b56a706f62/4ea1e/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E5%B7%9D.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAw1AAAMNQAHgcQlTAAABmUlEQVQoz61Ty07CUBDtz/F5Ltix8A/YuIC1gEGMRkoCNPIwEEixQCnQ9/s4My2G4JZJJrnzOnPuua2S5znu6QrubAqj2o4D23bg+QE8z8fpdEaSpojjRGJxqvnknEvTDEEQSuwHgfS71JNmGRQuHg4WJpMJ9M0GhmHIgssQN65WaywWS1kahhHiJIWx3WI6nWE+/4au64jiGAnllYxQfRq0nYIFg6jqALvdvrhDEsMPmY1fsKP+lNjzMOdc18NoNBYXDfM8g2mdcbQTasoFo16v40sbQz9HaE1NDN7HMA42VXIB8TyPemPpdV0XvV4PnXYbURQVj8JNprkHg1uWJR4Sq9l8jYfqE56rj7CONoajIfr9Pt0iQKfTwYYkso5HvL284KPdQn55FMhuoFarkV4riQMCPGz30F4H+PkcwHVc0Wq5ZC1tkmRHEsTCttlsotFoSCwaspmmiUqlgm63KzEXC60iibNSO86zX4zzqqoK81LDgiFfW9M0ARbGZV7O5dJru3zI/77D2+Hr+O8PuD7fAPGZWbLz+Rf4HUtYdcfbJwAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="研究紹介(中川)"
+        title="研究紹介(中川)"
+        src="/openlab-site/static/c4b5c347c7f48de8bd7e75b56a706f62/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E5%B7%9D.png"
+        srcset="/openlab-site/static/c4b5c347c7f48de8bd7e75b56a706f62/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E5%B7%9D.png 158w,
+/openlab-site/static/c4b5c347c7f48de8bd7e75b56a706f62/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E5%B7%9D.png 315w,
+/openlab-site/static/c4b5c347c7f48de8bd7e75b56a706f62/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E5%B7%9D.png 630w,
+/openlab-site/static/c4b5c347c7f48de8bd7e75b56a706f62/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E5%B7%9D.png 945w,
+/openlab-site/static/c4b5c347c7f48de8bd7e75b56a706f62/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E5%B7%9D.png 1260w,
+/openlab-site/static/c4b5c347c7f48de8bd7e75b56a706f62/4ea1e/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E4%B8%AD%E5%B7%9D.png 2667w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<h3 id="空港手荷物受け取り所におけるvpsを利用したwebarアプリケーションの提案" style="position:relative;"><a href="#%E7%A9%BA%E6%B8%AF%E6%89%8B%E8%8D%B7%E7%89%A9%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8A%E6%89%80%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8Bvps%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9Fwebar%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%8F%90%E6%A1%88" aria-label="空港手荷物受け取り所におけるvpsを利用したwebarアプリケーションの提案 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>空港手荷物受け取り所におけるVPSを利用したWebARアプリケーションの提案</h3>
+<div class="author">
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 350px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/ae540bc333f4ff903f8ab065601d5acb/13ae7/yohi.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAE+UlEQVQ4y32TC2xTVRjHv9vLYx1zY48McUGIhkVwwEDAxGiiiRiEoE4FxiCCGBSNAiYIZJD4IBrnCJohcSjDTfZwhbXr5h5mwMa2Mrr1cdvbx+2TtmxdX2xj7NHRNsfvdGaL0XiSL+ece8/5ff/vcUCj4xk1pwe90ZyjM5ge0RnNYLTYwGC2iNDoDCbc25yuuJVcKIX/HZzBBFremI2wfbxJAL1JWI/z+xxvTKFwpVoLuBcZBSvT06sChbKPOgeVVvffQB4VUBiqSuV40xZc5/f7AuxklNCLCehARB0ZBCtIGxrjcN4sxJXjv38D0fN8/JmPB19CexPXjyFoE35/DUPdhg7fwm87EbieEEKBVAA6mQbi+p9As9UhxkOHEFKKVoR2Fu0UXjiAIW/WGcwrcb8Iz7yMlw+ig9U0TTTseIqMAlD4zOjV6ECjMzT1afUG3mR+VcXpl+HhdDyciYA1aDtRyW6lmptLz6OD/Qh8gwINZusMeGZMjI+DijOqBdudgQ9PFCUotQawjI8Cb5wOB/NKQ1uGaj9DW0bV4PdtCCmg63joCJ0ZkWgU7ngGLsViMeL1BVWF5yoX/Cm44dalStY0PMJwegNLwzJZ7XMRfhgvL/lb1VbM8/J4a2EHzADven3YNsIHmHCi0WjIjfbOdlyyPZ+cgOaCd0Udn5+miljaQhhqMsIOqzk+kRbEbLUztFC+4L1ZhV23NdCh6NvwYGyCjE9OTo0GAqRja14DPUhHXUYW01snj0NpMXB+Bnv0eTTAtDNOlwdcnv5Z4Pc/V8GZ0sspg76gO/wwSiJTU+HWnHWkGsRnK/C/9Kk1opbXt4MNHXD4qmi42E4iLB5Y7M74K8JOmQWiEhFV43T11w3dHyNDgVCkeUVutHZOEpEmZ75XvWQ5OIvOzG3NzhG1HznGGgb8bHlWNiMFFji8J9m1D5pwvtapnAba8YDd68dK2vYMjY4Tf78v0rwyNyZhFxBZcmb091Ubc+/J5ND46OPQ/ulx4LwBuJq3C85RMW6XyOIeYBV9HLN07SaIp6m5uIQpO3AIzpz6JuPuHc/IyHiYtGx8IVYL86ISRkzUpWV+7+RUS1Pus7VtO985yo2FN199e8/qMoAk4rCDbcAHJRdrwOsPsiUXqwFqFz8JqkrJnBqA491fF8tGYoSYfq2MSCAh9scTK6Ihm4M2AGl78RVys2AvieDaeP5CWLY022V391frBfveY6e+S/GHhuBilRRANn8hyBakL25IyjhaBZDXV3O1NTj5kHh6NcStN5HQyIPIaCT2UKi5MsWXlk1OEBIOeX3Edb2DBIJDZDAQIqGhkWF8GF/+UikVw5WEhSCZl5xQn5j+lVyc+jGKPthR+EW1oDdbbQ732ODwKLkbHCbB0Qni9oWIyzNIHB5v2OG/Z9UaLCW31Xw+9qHD6nQrLlXL0kAmTmVk81OgPiE1X56YflqelFEoATj5G8B+6aoNp28cOXa5++yPbbpuZbnaZNut4c072ruUa7EmzMBgEDS8AAUfFSbSgjRd6wJoFKeBBFXWiVMpNEuemJYrT128pSFl0Y46mLMdFW8uB1hHAX2yJuAsTrh5Sw2Q+TQEQsMifGXsyW/Pxyvc2q5gQIrA5ucArqDSelzXI7gB81oxLwXu/1QhKkbSD9P9CtrrnazO4mR71HpR520tKHo56FHz0I1zJ744hUoPfwEHMWvH8Xp0IAAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="yohi"
+        title="yohi"
+        src="/openlab-site/static/ae540bc333f4ff903f8ab065601d5acb/13ae7/yohi.png"
+        srcset="/openlab-site/static/ae540bc333f4ff903f8ab065601d5acb/c26ae/yohi.png 158w,
+/openlab-site/static/ae540bc333f4ff903f8ab065601d5acb/6bdcf/yohi.png 315w,
+/openlab-site/static/ae540bc333f4ff903f8ab065601d5acb/13ae7/yohi.png 350w"
+        sizes="(max-width: 350px) 100vw, 350px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><strong>池田 呼人</strong><br>
+情報システムコース・4 年</p>
+</div>
+<ul>
+<li>手荷物を機内へ持ち込む旅客の増加は、飛行機遅延要因の一つ</li>
+<li>荷物を預けることが忌避される要因として、閑暇な空間である手荷物受取所
+で終わりが予測できない時間の待機が旅客の不満を生んでいる現状</li>
+<li>手荷物受取所の設備を活かした情報提供手段として、ベルトコンベアを利用
+して「回転すし」スタイルの体験をとおしたグルメ情報閲覧サービスを実現</li>
+<li>閑暇を解消することで、手荷物預けに対する忌避感の減少を減少し、飛行機
+遅延の改善に貢献</li>
+<li>オブジェクトをベルト上の正しい位置へ配置するために屋内外で利用できる位置推定技術VPS(Visual Positioning System)を活用</li>
+</ul>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/556551826846e612b082fc4e002d373e/e8950/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%B1%A0%E7%94%B0.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAw1AAAMNQAHgcQlTAAAB60lEQVQoz5WSWWsTYRSGc6X/yFvpTxBKixe9VBREEL2tF4q4IBICFStFiPXK5cKFitjW0oImBsnWLJNksk1qJpOlzVYzmcz3ODPNxFpU6oHDN3PO4fne8854hBDYYZ/HSWvyr2m3PS7suGEY0O9DrwfdLrTb0OnAAULgcWGmNWXU6+h1jR+1GgM7NY39atV51hsNZ65SGRAIpEkkS8iySrncIJ9vUq+PnP4EuK8oFBMJSoUSW2trbK6uUshkaKkqLeuibr5g3TqksqM7wKyUZWMzxPMXKyhKh1briEJh7ZALBHjtu0tTStPIZulXFAytxrCmoltgMTIYDgWjIWynVRbvPeCk5wTLz944jJHVdzw0TdMplGMRck99//bQFOiWBqWQ4ZX/MWfmzpOSJFyOx3ZTjIGdSJz2sp9e6AvGTtVS0mb90WVyX98iBz9Si63TTAT44L3G4HuF2ysFZhbilJr6AVCMV3bXXlpY5NzMHP7TU7ycPsutG/O8803z8M5Frs7O4r10Ae/NeT4t3Se8tYHWF0xdf0+02BorPAKU5CKfw3HCkkw4niL4bZtkXiWSzBOMJAlGU4SiaYKxDM3dXeTqHqeuPCGtNH4BXW/+51+c+Dky0fb61scwJ4zfFNqnbezh/FPNrR8O9/0n/eIs0oEpphIAAAAASUVORK5CYII='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="研究紹介(池田)"
+        title="研究紹介(池田)"
+        src="/openlab-site/static/556551826846e612b082fc4e002d373e/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%B1%A0%E7%94%B0.png"
+        srcset="/openlab-site/static/556551826846e612b082fc4e002d373e/c26ae/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%B1%A0%E7%94%B0.png 158w,
+/openlab-site/static/556551826846e612b082fc4e002d373e/6bdcf/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%B1%A0%E7%94%B0.png 315w,
+/openlab-site/static/556551826846e612b082fc4e002d373e/f058b/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%B1%A0%E7%94%B0.png 630w,
+/openlab-site/static/556551826846e612b082fc4e002d373e/40601/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%B1%A0%E7%94%B0.png 945w,
+/openlab-site/static/556551826846e612b082fc4e002d373e/78612/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%B1%A0%E7%94%B0.png 1260w,
+/openlab-site/static/556551826846e612b082fc4e002d373e/e8950/%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B_%E6%B1%A0%E7%94%B0.png 2000w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><a href="https://researchmap.jp/ktymtbr/published_papers"><strong>過去の卒業研究・修士研究（発表論文へのリンク）</strong></a></p>
+<h2 id="研究活動" style="position:relative;"><a href="#%E7%A0%94%E7%A9%B6%E6%B4%BB%E5%8B%95" aria-label="研究活動 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>研究活動</h2>
+<h3 id="設備" style="position:relative;"><a href="#%E8%A8%AD%E5%82%99" aria-label="設備 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>設備</h3>
+<p>研究室では，学部 4 年生が利用する表部屋と，院生が利用する院生室と裏部屋の 3 つが提供されています．</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/81d3e93cff3951307927705e777712de/4b190/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAUtxKVkIf//EABkQAQEBAAMAAAAAAAAAAAAAAAECAwQQEf/aAAgBAQABBQJ5NLN166AsTOUvX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAEQACECIkH/2gAIAQEABj8C1PJeaoP/xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAhMZH/2gAIAQEAAT8hIe3EmZxJK9yor9zFMU9yTXf/2gAMAwEAAgADAAAAEKDP/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Qh//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EKf/xAAaEAEAAwEBAQAAAAAAAAAAAAABABEhQWEx/9oACAEBAAE/EGl6os0Hiyjt6HHocPOR0KrbqHEqoNvOxAVv6aciltbXWf/Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="表部屋"
+        title="表部屋"
+        src="/openlab-site/static/81d3e93cff3951307927705e777712de/828fb/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg"
+        srcset="/openlab-site/static/81d3e93cff3951307927705e777712de/ff44c/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 158w,
+/openlab-site/static/81d3e93cff3951307927705e777712de/a6688/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 315w,
+/openlab-site/static/81d3e93cff3951307927705e777712de/828fb/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 630w,
+/openlab-site/static/81d3e93cff3951307927705e777712de/4b190/%E8%A1%A8%E9%83%A8%E5%B1%8B.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/473a9665f6b0b3b5ceaae2f5e5051982/4b190/%E8%A3%8F%E9%83%A8%E5%B1%8B.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFG+KaiDN//xAAcEAACAgIDAAAAAAAAAAAAAAABAgADBBETFCH/2gAIAQEAAQUCJVJ2RrltaVqHx2GrF9n/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABwQAAEDBQAAAAAAAAAAAAAAAAABESECEiIxQf/aAAgBAQAGPwJ1GpQ1aZSQdP/EABwQAAMBAAIDAAAAAAAAAAAAAAABESExQVFhgf/aAAgBAQABPyFD1F8p+y6/BD+1qXREMaJDbfLyf//aAAwDAQACAAMAAAAQMD//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxBT/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EIy//8QAHBABAQACAwEBAAAAAAAAAAAAAREAITFBYVFx/9oACAEBAAE/EJCspovOJmr2uNE1rpLih5J0453nYHhNsxkEGkcsGfX5+5//2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="裏部屋"
+        title="裏部屋"
+        src="/openlab-site/static/473a9665f6b0b3b5ceaae2f5e5051982/828fb/%E8%A3%8F%E9%83%A8%E5%B1%8B.jpg"
+        srcset="/openlab-site/static/473a9665f6b0b3b5ceaae2f5e5051982/ff44c/%E8%A3%8F%E9%83%A8%E5%B1%8B.jpg 158w,
+/openlab-site/static/473a9665f6b0b3b5ceaae2f5e5051982/a6688/%E8%A3%8F%E9%83%A8%E5%B1%8B.jpg 315w,
+/openlab-site/static/473a9665f6b0b3b5ceaae2f5e5051982/828fb/%E8%A3%8F%E9%83%A8%E5%B1%8B.jpg 630w,
+/openlab-site/static/473a9665f6b0b3b5ceaae2f5e5051982/4b190/%E8%A3%8F%E9%83%A8%E5%B1%8B.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/c5dad596bffcfea2faab9544210f5e8e/d2602/%E9%99%A2%E7%94%9F%E5%AE%A4.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGjKRLW55P/xAAZEAACAwEAAAAAAAAAAAAAAAABAgAREhP/2gAIAQEAAQUCyLsTosYl47aCaA//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EAB0QAAIBBAMAAAAAAAAAAAAAAAABIQIREjEyUXH/2gAIAQEABj8CU7Fo5EsS6LY0P1H/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhQTFRYf/aAAgBAQABPyHIqUumdTTidnxQsUz1HqqDlTDHHzcz/9oADAMBAAIAAwAAABBwL//EABcRAAMBAAAAAAAAAAAAAAAAAAABEXH/2gAIAQMBAT8Qbpo//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAgBAgEBPxBKMjD/xAAbEAEBAAMBAQEAAAAAAAAAAAABEQAhMYFRwf/aAAgBAQABPxCIKgBFndZshLo4qfjkOH06/cNUdwULkDCKANkuvcblInnLn//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="院生室"
+        title="院生室"
+        src="/openlab-site/static/c5dad596bffcfea2faab9544210f5e8e/828fb/%E9%99%A2%E7%94%9F%E5%AE%A4.jpg"
+        srcset="/openlab-site/static/c5dad596bffcfea2faab9544210f5e8e/ff44c/%E9%99%A2%E7%94%9F%E5%AE%A4.jpg 158w,
+/openlab-site/static/c5dad596bffcfea2faab9544210f5e8e/a6688/%E9%99%A2%E7%94%9F%E5%AE%A4.jpg 315w,
+/openlab-site/static/c5dad596bffcfea2faab9544210f5e8e/828fb/%E9%99%A2%E7%94%9F%E5%AE%A4.jpg 630w,
+/openlab-site/static/c5dad596bffcfea2faab9544210f5e8e/0ede0/%E9%99%A2%E7%94%9F%E5%AE%A4.jpg 945w,
+/openlab-site/static/c5dad596bffcfea2faab9544210f5e8e/3ac88/%E9%99%A2%E7%94%9F%E5%AE%A4.jpg 1260w,
+/openlab-site/static/c5dad596bffcfea2faab9544210f5e8e/d2602/%E9%99%A2%E7%94%9F%E5%AE%A4.jpg 4032w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>研究室には，高級キーボードや大型ディスプレイ，ドローンやロボットなどのデバイス，PC クラスタやサーバ PC など，こだわりの研究設備が揃っています．</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/4b190/%E8%A8%AD%E5%82%991.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFHjQmZCX//xAAaEAEAAgMBAAAAAAAAAAAAAAABAgMEEiMh/9oACAEBAAEFAjkErNpKMokqcY55Hl3/xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAIAQMBAT8BjH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAACAgIDAAAAAAAAAAAAAAABEQACECExYYH/2gAIAQEABj8CTRjfk0q9StjysECf/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARIUFh/9oACAEBAAE/IWiLG1mxA2O0mC26+oM99rg0fXsakQJ//9oADAMBAAIAAwAAABAH/wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAEDAQE/EIujp4f/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEAAgMBAQEAAAAAAAAAAAABABEhMUFhkbH/2gAIAQEAAT8QryDIL6vUYC5WLjyLzccDS7+ReNcutGCJqI1YR2UOCAvwn//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="キーボード"
+        title="キーボード"
+        src="/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/828fb/%E8%A8%AD%E5%82%991.jpg"
+        srcset="/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/ff44c/%E8%A8%AD%E5%82%991.jpg 158w,
+/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/a6688/%E8%A8%AD%E5%82%991.jpg 315w,
+/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/828fb/%E8%A8%AD%E5%82%991.jpg 630w,
+/openlab-site/static/4466ac1d4360f843db3a6505f4c7e7cf/4b190/%E8%A8%AD%E5%82%991.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/5a190/%E8%A8%AD%E5%82%992.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEOElEQVQ4yx2Ue1DUVRTHf/8004xpPnLfsLDuwuLCIouwgguygMAuuyzIY1kegivmIxEZwcdUalZgiaaCiQIyTmlTzqTO6EjqlI9WTFY0owRy0j8ohDEaS82a7NPNO3Pm3DNz7vf7vd975kr/PBzmj7Ehvj9xnOCnewj2HOXuYJDb3/ZyZ/AiIyMHGRv6mIl7QZ49GeXvR/d58Mswt3rPMfB1gHv9V3j2dIyJ+wP8++wvpImRW4z9PMSl0z0M9p2jbf8uwnQ6TDEx6PRGatcU8etEGw/GL/F4YpQ/fx9l5M5Nvuw5Q38gyPiPN7nVd57hgQD/L8mR5WDLps0M//AVv41+x+fHDhGi1aI3GFAow6it8zA+KgDv9/L44RhPH41yNSCI9x2gpf0EZ784z5mTR+k5cYQn43eRKoqdeHK9DPYH+On2Nd7fvhVDRCRGUzSRUdHkujMJ9h3n7p3rDA1cpP9aD42NDThdHmwpC0hNTSMl1U5L81aGg2eRvG4HNlsqS6sryffkCmV6Jk2eyqSXpjHp5elMmS6j61AHnR2tHDrYRHPzWxgFkTHKhCk6loTEeSTPt7F3x9vcuHwKKSUpCaVKgUajQq5QMEuvR63WoFJqUKhDiDSZqFpSxc6dzbTvb6Jh/VoSrFbsGRk4nU6WVJfRvO11Th/r5uKpI0jr61/DaDQQZTTiKy+ko2sXK1f4yXU5WOKvYOOmRgqKimnZs4cP2nfT1Lqbrdub8eR7RH8ZGZkZ+Gv87HrvHU591oXUFziJv7oEmVIpPItAO0vLTLGfMnUa5YurONDVQXtHO40b11Mm6iKvT4AspLNzH33fXOBw54d8dLCVNxvX8u62N5CuXj5NubcAnUqNaqaMUJmCSHHVeI2Wpi2buX6jlyuB87S27qC+fjWbNtSzfLmfxoY1rKldgS8/j22rl/NJ227OdXcjHe5uo2vfThaZLRTGxOGzWKlOSKYsdi4LhFfe0iLWrVvFxg11NAiQZcv8LK2pxucrweHIwTQ7irpyLxcO7GWLrxJpcXkBJUV55IQbKNRGkCULJWOGGvt0NZNfeJHklGQxJrXU1a3kVaGsstJHqa+YfKHMbk9DNyscuVpJlMjhr8iRaldV4XYvJFGmwqUIwy4PIXmmhjkzlGiFlykLbNTUVLFy1TLKK0vFY+U8j/T0NMyxZiIj9c9DJpcTqQtHKizIxlfqwahUEa9QEy0TbMJHvVxJeIgGa5KVHGcW85ISSEy0kJhgwSpyQkLc83q2yUhEhF5MiYFEixkpJzsVlztLHFZj0oUxVzTotaFEx5jQhocSYzaRZk9hvs1Kut1GriOT/Lwciha5cLuysKfNJ0mQxcfHYjEZkDLT5+FwphNtNmKeY2KuNR6DMUJ8DAYs8XFkZ9nxlhRQWeGloqyIkkIXxQKspNAtQJ3kubKFl6kCMI64OWb+A3XFkeLfIuemAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="モニター"
+        title="モニター"
+        src="/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/f058b/%E8%A8%AD%E5%82%992.png"
+        srcset="/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/c26ae/%E8%A8%AD%E5%82%992.png 158w,
+/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/6bdcf/%E8%A8%AD%E5%82%992.png 315w,
+/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/f058b/%E8%A8%AD%E5%82%992.png 630w,
+/openlab-site/static/9fa634f0e592df551906ae7e29cb5b22/5a190/%E8%A8%AD%E5%82%992.png 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>研究室内のメンバーだけでなく，楽しい後輩たちや他の研究室のメンバーともコミュニケーションを取りながら，楽しく研究できます．</p>
+<h3 id="ゼミ" style="position:relative;"><a href="#%E3%82%BC%E3%83%9F" aria-label="ゼミ permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>ゼミ</h3>
+<p>本研究室では，教員と学生の予定に合わせて進捗報告のゼミ 1 回，自分が読んだ論文の紹介をするゼミ 1 回，研究分野の近い者同士でのグループゼミ 1 回の合計 3 回を毎週行っています．</p>
+<h3 id="学会" style="position:relative;"><a href="#%E5%AD%A6%E4%BC%9A" aria-label="学会 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>学会</h3>
+<p>研究やゼミを通して順調に成果を出すことで，学会やオープンソース系の会議（RubyKaigi，OSC，Open Source Summit など）に参加することができます．</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/9d8662afaa87270d395f4622ac89fd2e/72e01/%E5%AD%A6%E4%BC%9A.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/2gAMAwEAAhADEAAAATtOdQEkadP/xAAaEAEAAwADAAAAAAAAAAAAAAADAAECEhMj/9oACAEBAAEFAgK102OJwWsZr0Dpn//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPwEHbL//xAAWEQEBAQAAAAAAAAAAAAAAAAABABL/2gAIAQIBAT8BUC1f/8QAHBABAAEFAQEAAAAAAAAAAAAAAREAAhAxUQMh/9oACAEBAAY/AoGOtRbbAO+4YD7Xmu7sf//EABoQAAIDAQEAAAAAAAAAAAAAAAERACExEEH/2gAIAQEAAT8hMlADgMXpRsKWLFNmFNvj/9oADAMBAAIAAwAAABBD3//EABYRAAMAAAAAAAAAAAAAAAAAAAEQYf/aAAgBAwEBPxAiV//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/ECJf/8QAGhABAQEBAQEBAAAAAAAAAAAAAREAITFhcf/aAAgBAQABPxASVwHZZzcYtqVulfm/OWYOLfJcEuleIHXzAhv/2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="学会"
+        title="学会"
+        src="/openlab-site/static/9d8662afaa87270d395f4622ac89fd2e/828fb/%E5%AD%A6%E4%BC%9A.jpg"
+        srcset="/openlab-site/static/9d8662afaa87270d395f4622ac89fd2e/ff44c/%E5%AD%A6%E4%BC%9A.jpg 158w,
+/openlab-site/static/9d8662afaa87270d395f4622ac89fd2e/a6688/%E5%AD%A6%E4%BC%9A.jpg 315w,
+/openlab-site/static/9d8662afaa87270d395f4622ac89fd2e/828fb/%E5%AD%A6%E4%BC%9A.jpg 630w,
+/openlab-site/static/9d8662afaa87270d395f4622ac89fd2e/0ede0/%E5%AD%A6%E4%BC%9A.jpg 945w,
+/openlab-site/static/9d8662afaa87270d395f4622ac89fd2e/72e01/%E5%AD%A6%E4%BC%9A.jpg 1024w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>研究が上手くいけば，海外に行けるかも！？</p>
+<h3 id="イベント" style="position:relative;"><a href="#%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88" aria-label="イベント permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>イベント</h3>
+<p>本研究室では，研究以外にもメンバー内での交流を図るために，新歓，BBQ，飲みなどのイベントを開催しています．もちろん，お酒が苦手な人でも気軽に参加できるような雰囲気で楽しんでいます！</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/a29145bfdb10cffecbb73f80fba642c9/3ad49/%E9%A3%B2%E3%81%BF%E4%BC%9A2023.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 58.86075949367089%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQCA//EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGbcKL3JX//xAAaEAEAAgMBAAAAAAAAAAAAAAABAhEAAxMS/9oACAEBAAEFAjakesr6LltelyGuKf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8BiY//xAAcEAABAwUAAAAAAAAAAAAAAAAAARARISIxUXH/2gAIAQEABj8C5sS1omhlv//EABsQAAICAwEAAAAAAAAAAAAAAAABIVERMUGx/9oACAEBAAE/Ic0apIpjzskttKTwg63snK6f/9oADAMBAAIAAwAAABAcz//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxBS62r/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxCC/8QAHRABAQACAQUAAAAAAAAAAAAAAREAITFBUZGh4f/aAAgBAQABPxDQyohPWoax0xBCKS/C3BSUIJWne3IRQmwEvjGaEXQgDxiRZerjP//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="飲み"
+        title="飲み"
+        src="/openlab-site/static/a29145bfdb10cffecbb73f80fba642c9/828fb/%E9%A3%B2%E3%81%BF%E4%BC%9A2023.jpg"
+        srcset="/openlab-site/static/a29145bfdb10cffecbb73f80fba642c9/ff44c/%E9%A3%B2%E3%81%BF%E4%BC%9A2023.jpg 158w,
+/openlab-site/static/a29145bfdb10cffecbb73f80fba642c9/a6688/%E9%A3%B2%E3%81%BF%E4%BC%9A2023.jpg 315w,
+/openlab-site/static/a29145bfdb10cffecbb73f80fba642c9/828fb/%E9%A3%B2%E3%81%BF%E4%BC%9A2023.jpg 630w,
+/openlab-site/static/a29145bfdb10cffecbb73f80fba642c9/0ede0/%E9%A3%B2%E3%81%BF%E4%BC%9A2023.jpg 945w,
+/openlab-site/static/a29145bfdb10cffecbb73f80fba642c9/3ac88/%E9%A3%B2%E3%81%BF%E4%BC%9A2023.jpg 1260w,
+/openlab-site/static/a29145bfdb10cffecbb73f80fba642c9/3ad49/%E9%A3%B2%E3%81%BF%E4%BC%9A2023.jpg 3760w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p>研究室内外に関わらず，本研究室に興味がある人も参加できるかも…？</p>
+<h2 id="問い合わせ先" style="position:relative;"><a href="#%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E5%85%88" aria-label="問い合わせ先 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>問い合わせ先</h2>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/5a190/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 10.759493670886075%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAYAAABYBvyLAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAXUlEQVQI14WN2wqAIABD/f9PTM28gD0kXjIwDVf2Hh0YgzE2UmtFzgdS2h/PiCm9LpWG0gYTZbB2hVIGIUQMeu/4gowSnwU25+B9AGUcYpFvNjSOamso5URr1+/gDWY+meofbggsAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="連絡先"
+        title="連絡先"
+        src="/openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/f058b/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png"
+        srcset="/openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/c26ae/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png 158w,
+/openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/6bdcf/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png 315w,
+/openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/f058b/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png 630w,
+/openlab-site/static/f96af7dad17562fc34000ac62fb5e8dd/5a190/%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9.png 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<h2 id="おわりに" style="position:relative;"><a href="#%E3%81%8A%E3%82%8F%E3%82%8A%E3%81%AB" aria-label="おわりに permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>おわりに</h2>
+<p class="super_emphasis">
+当研究室にきて，圧倒的成長しよう！<br />
+低レイヤ沼が君を待っている！
+</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/4b190/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A81.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAATtPsmESmv/EABoQAAICAwAAAAAAAAAAAAAAAAECABMDERL/2gAIAQEAAQUCCHdQjqQxeXTIen//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8BRsv/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIR/9oACAECAQE/AZaNP//EABkQAQEAAwEAAAAAAAAAAAAAAAABETJBcf/aAAgBAQAGPwKOsR41Wv/EABoQAQEBAAMBAAAAAAAAAAAAAAERADFBUZH/2gAIAQEAAT8hl3hfN13FXBkVAjLdfj7kYrfHf//aAAwDAQACAAMAAAAQRw//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oACAEDAQE/EMgmh//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8Qh0a3D//EABsQAQADAQEBAQAAAAAAAAAAAAEAESExUdGx/9oACAEBAAE/ELFmJYqNQPKz9g2ieKP2ZX4W7FH23v5LKxZaUedn/9k='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="発表1"
+        title="発表1"
+        src="/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A81.jpg"
+        srcset="/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/ff44c/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A81.jpg 158w,
+/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/a6688/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A81.jpg 315w,
+/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A81.jpg 630w,
+/openlab-site/static/456246e72ae4bf5ded397d77bb4412bb/4b190/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A81.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/c8c20404f753fe42165ef1f4709fda34/4b190/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A83.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 71.51898734177216%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUCA//EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABoz8Ci4s3/8QAGhAAAwADAQAAAAAAAAAAAAAAAAECERITIv/aAAgBAQABBQK6VFbcEnr7M4Oh/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABYRAQEBAAAAAAAAAAAAAAAAAAABEv/aAAgBAgEBPwFqP//EABwQAAICAgMAAAAAAAAAAAAAAAABAhESMSEyof/aAAgBAQAGPwLghhKmK9nfwSNH/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARIVFx/9oACAEBAAE/IXCLCsqMhAdg17DZcDyHLlep/9oADAMBAAIAAwAAABBg7//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCRt//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEWH/2gAIAQIBAT8QUy6X/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFBUYH/2gAIAQEAAT8QS7YKbKjYjEdkyQlZoRt1iCWA6AQqotFcgT37KwEEOT//2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="発表2"
+        title="発表2"
+        src="/openlab-site/static/c8c20404f753fe42165ef1f4709fda34/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A83.jpg"
+        srcset="/openlab-site/static/c8c20404f753fe42165ef1f4709fda34/ff44c/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A83.jpg 158w,
+/openlab-site/static/c8c20404f753fe42165ef1f4709fda34/a6688/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A83.jpg 315w,
+/openlab-site/static/c8c20404f753fe42165ef1f4709fda34/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A83.jpg 630w,
+/openlab-site/static/c8c20404f753fe42165ef1f4709fda34/4b190/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A83.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/df053de250b8d19685d90e5104e2f80b/d2602/awa_presen.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//aAAwDAQACEAMQAAABug1MK5I8L//EABsQAAICAwEAAAAAAAAAAAAAAAABAgMREhMx/9oACAEBAAEFAo8sWjNUeFsU5f/EABcRAQADAAAAAAAAAAAAAAAAAAABAhH/2gAIAQMBAT8BirH/xAAWEQADAAAAAAAAAAAAAAAAAAAAAQL/2gAIAQIBAT8Bdio//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEhURAiof/aAAgBAQAGPwKX01vLaok//8QAGxAAAwEAAwEAAAAAAAAAAAAAAAERITFBUWH/2gAIAQEAAT8hwwvYVVcvgpPaLwIlyNCvSuH/2gAMAwEAAgADAAAAEAQv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAh/9oACAEDAQE/EFHWUN//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAECAQE/EAThAmt//8QAGhABAQEBAQEBAAAAAAAAAAAAAREAITFRwf/aAAgBAQABPxBdPghXuSViva8jhBB+PNy/vBZoI4laGtTf/9k='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="発表3"
+        title="発表3"
+        src="/openlab-site/static/df053de250b8d19685d90e5104e2f80b/828fb/awa_presen.jpg"
+        srcset="/openlab-site/static/df053de250b8d19685d90e5104e2f80b/ff44c/awa_presen.jpg 158w,
+/openlab-site/static/df053de250b8d19685d90e5104e2f80b/a6688/awa_presen.jpg 315w,
+/openlab-site/static/df053de250b8d19685d90e5104e2f80b/828fb/awa_presen.jpg 630w,
+/openlab-site/static/df053de250b8d19685d90e5104e2f80b/0ede0/awa_presen.jpg 945w,
+/openlab-site/static/df053de250b8d19685d90e5104e2f80b/3ac88/awa_presen.jpg 1260w,
+/openlab-site/static/df053de250b8d19685d90e5104e2f80b/d2602/awa_presen.jpg 4032w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/9f69c068786cf368212c460e58e12e87/d2602/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A84.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFupVKHjRf/xAAZEAACAwEAAAAAAAAAAAAAAAABAgADEgT/2gAIAQEAAQUCym8CYWC0DortDvP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFX/8QAHxAAAgECBwAAAAAAAAAAAAAAAAECITEQERJBUXGR/9oACAEBAAY/AnHfssvCyNbiOtOMsP/EABoQAAMBAQEBAAAAAAAAAAAAAAABESExkfD/2gAIAQEAAT8hUTIXyCAKG+Rjcn1LdhOtuA8Z/9oADAMBAAIAAwAAABB/D//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EIj/xAAVEQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAgEBPxBI/8QAHBABAQEAAgMBAAAAAAAAAAAAAREAIXExQVGx/9oACAEBAAE/EBgcwVqvs6blfM8p/XAAlnKE1xLlFCi6EMozEezQgm//2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="発表4"
+        title="発表4"
+        src="/openlab-site/static/9f69c068786cf368212c460e58e12e87/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A84.jpg"
+        srcset="/openlab-site/static/9f69c068786cf368212c460e58e12e87/ff44c/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A84.jpg 158w,
+/openlab-site/static/9f69c068786cf368212c460e58e12e87/a6688/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A84.jpg 315w,
+/openlab-site/static/9f69c068786cf368212c460e58e12e87/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A84.jpg 630w,
+/openlab-site/static/9f69c068786cf368212c460e58e12e87/0ede0/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A84.jpg 945w,
+/openlab-site/static/9f69c068786cf368212c460e58e12e87/3ac88/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A84.jpg 1260w,
+/openlab-site/static/9f69c068786cf368212c460e58e12e87/d2602/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A84.jpg 4032w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/a494b1c20be9eebc6cb200f4e12f0711/d2602/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A85.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABL8ZuHSIf/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxIRIf/aAAgBAQABBQLqkmtZlZ67LcdNYFP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIREjEhMqH/2gAIAQEABj8CeaVp0aR1RJFPiXhT2f/EABwQAAMAAgMBAAAAAAAAAAAAAAABETFRQYGRof/aAAgBAQABPyGokkURwjqk8+IpLd+jbO4FsNq3GYf/2gAMAwEAAgADAAAAEE//AP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EEf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8QbH//xAAcEAEAAgIDAQAAAAAAAAAAAAABACERMUFRkWH/2gAIAQEAAT8QTRkwgBoXjO4sZxyXZ7CqnqQgKm2tDjUFkJhwqfQ1G5xKBNZr2f/Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="発表5"
+        title="発表5"
+        src="/openlab-site/static/a494b1c20be9eebc6cb200f4e12f0711/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A85.jpg"
+        srcset="/openlab-site/static/a494b1c20be9eebc6cb200f4e12f0711/ff44c/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A85.jpg 158w,
+/openlab-site/static/a494b1c20be9eebc6cb200f4e12f0711/a6688/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A85.jpg 315w,
+/openlab-site/static/a494b1c20be9eebc6cb200f4e12f0711/828fb/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A85.jpg 630w,
+/openlab-site/static/a494b1c20be9eebc6cb200f4e12f0711/0ede0/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A85.jpg 945w,
+/openlab-site/static/a494b1c20be9eebc6cb200f4e12f0711/3ac88/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A85.jpg 1260w,
+/openlab-site/static/a494b1c20be9eebc6cb200f4e12f0711/d2602/%E7%A0%94%E7%A9%B6%E7%99%BA%E8%A1%A85.jpg 4032w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/95965b25d2a0a0a1531acae9f8c0a165/9568a/beru_poster.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 115.82278481012658%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQEG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAeTY3oykhRl6QVAv/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIDEgARISMy/9oACAEBAAEFAiV3VsPCbWT5mb17sTyDGLFv/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGxABAQACAwEAAAAAAAAAAAAAAQAhQQISMYH/2gAIAQEABj8CXs4fl5ZuQbiYbUt//8QAGxABAAMBAQEBAAAAAAAAAAAAAQARITFRgZH/2gAIAQEAAT8hIFKhqBeX+y9Rpnk22v2J28juvMisi72ZFIliDWf/2gAMAwEAAgADAAAAEEDoQP/EABYRAQEBAAAAAAAAAAAAAAAAAAAREP/aAAgBAwEBPxDKj//EABcRAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QjRp//8QAHxABAAIDAAEFAAAAAAAAAAAAAQARITFBUWFxkbHB/9oACAEBAAE/EGGlyYXin3e+kFtQ+A/sDuzq7+o6sqU6FNJ2hqY81BM2HwCYwgNnYPfMUBe76EyfVW73P//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="発表6"
+        title="発表6"
+        src="/openlab-site/static/95965b25d2a0a0a1531acae9f8c0a165/828fb/beru_poster.jpg"
+        srcset="/openlab-site/static/95965b25d2a0a0a1531acae9f8c0a165/ff44c/beru_poster.jpg 158w,
+/openlab-site/static/95965b25d2a0a0a1531acae9f8c0a165/a6688/beru_poster.jpg 315w,
+/openlab-site/static/95965b25d2a0a0a1531acae9f8c0a165/828fb/beru_poster.jpg 630w,
+/openlab-site/static/95965b25d2a0a0a1531acae9f8c0a165/0ede0/beru_poster.jpg 945w,
+/openlab-site/static/95965b25d2a0a0a1531acae9f8c0a165/3ac88/beru_poster.jpg 1260w,
+/openlab-site/static/95965b25d2a0a0a1531acae9f8c0a165/9568a/beru_poster.jpg 3024w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/73b3f2e5ae281e0a093a17c8cdb40931/9568a/yosikawa_poster.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 103.16455696202532%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAVABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBP/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/2gAMAwEAAhADEAAAAb63ACKTy5yiaGH/xAAbEAACAgMBAAAAAAAAAAAAAAABAgADERIhBP/aAAgBAQABBQIBjNCSeHztmm+4VuWzF2Vbsk9n/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/ASP/xAAYEQACAwAAAAAAAAAAAAAAAAAAARAREv/aAAgBAgEBPwE04o//xAAaEAADAAMBAAAAAAAAAAAAAAAAARECITEQ/9oACAEBAAY/AtYk54mLRSY5Fbp0/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFRQYH/2gAIAQEAAT8hPtE7cyi41GfaJsRZ5DYOTNAJVPRiGG0//9oADAMBAAIAAwAAABAbL0P/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFB/9oACAEDAQE/EIk442v/xAAYEQEBAAMAAAAAAAAAAAAAAAABABExUf/aAAgBAgEBPxBkGN2HL//EAB0QAQEAAwACAwAAAAAAAAAAAAERACExQVFhcaH/2gAIAQEAAT8QEsPAN/uBlntEswLMU8nHNdTYi/ODTXij27ySMRz6xjt1ncBmANPGKEInIZ//2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="発表7"
+        title="発表7"
+        src="/openlab-site/static/73b3f2e5ae281e0a093a17c8cdb40931/828fb/yosikawa_poster.jpg"
+        srcset="/openlab-site/static/73b3f2e5ae281e0a093a17c8cdb40931/ff44c/yosikawa_poster.jpg 158w,
+/openlab-site/static/73b3f2e5ae281e0a093a17c8cdb40931/a6688/yosikawa_poster.jpg 315w,
+/openlab-site/static/73b3f2e5ae281e0a093a17c8cdb40931/828fb/yosikawa_poster.jpg 630w,
+/openlab-site/static/73b3f2e5ae281e0a093a17c8cdb40931/0ede0/yosikawa_poster.jpg 945w,
+/openlab-site/static/73b3f2e5ae281e0a093a17c8cdb40931/3ac88/yosikawa_poster.jpg 1260w,
+/openlab-site/static/73b3f2e5ae281e0a093a17c8cdb40931/9568a/yosikawa_poster.jpg 3024w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/641edc964b0b3465651672dfdef1fc01/4b190/%E7%A0%94%E7%A9%B61.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHVxti8iF//xAAZEAACAwEAAAAAAAAAAAAAAAABAgADEhH/2gAIAQEAAQUC0whsZUFuYW5LCNJW3P/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAIBBAMAAAAAAAAAAAAAAAABEQIhQWExMqH/2gAIAQEABj8Cc32ZdT8MCclO+Wdouf/EABsQAAICAwEAAAAAAAAAAAAAAAERACExQVFh/9oACAEBAAE/IQYCk2AKjMwF6hBLvcLeGkfYaFWnQxw8qsz/2gAMAwEAAgADAAAAEKzP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAEDAQE/EKx//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/EJGv/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFBYXGR/9oACAEBAAE/EDnYhgrg6YrqIBbAwp3rMMQg7Il9oiwU1eaMZ7uCOC6D4wR4AWODU//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="研究1"
+        title="研究1"
+        src="/openlab-site/static/641edc964b0b3465651672dfdef1fc01/828fb/%E7%A0%94%E7%A9%B61.jpg"
+        srcset="/openlab-site/static/641edc964b0b3465651672dfdef1fc01/ff44c/%E7%A0%94%E7%A9%B61.jpg 158w,
+/openlab-site/static/641edc964b0b3465651672dfdef1fc01/a6688/%E7%A0%94%E7%A9%B61.jpg 315w,
+/openlab-site/static/641edc964b0b3465651672dfdef1fc01/828fb/%E7%A0%94%E7%A9%B61.jpg 630w,
+/openlab-site/static/641edc964b0b3465651672dfdef1fc01/4b190/%E7%A0%94%E7%A9%B61.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/ec448728bdea02cadc51f379591e9c24/4b190/%E7%A0%94%E7%A9%B62.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFKKHxomF//xAAaEAEAAgMBAAAAAAAAAAAAAAACAQMAERIh/9oACAEBAAEFAqSyUVNcLzqdFdZYHK//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAwEBAAAAAAAAAAAAAAABEQAQQSJx/9oACAEBAAY/As8gCZymK5Sn/8QAGxABAAMBAQEBAAAAAAAAAAAAAQARITFBUXH/2gAIAQEAAT8hybq9PJmIOq5CpbBBg/PIJr06MXp/af/aAAwDAQACAAMAAAAQLA//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxBn/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/EMiP/8QAHBABAQACAwEBAAAAAAAAAAAAAREAITFRYcHw/9oACAEBAAE/ELTn4y/C41GvBAHlvGpjpFnealI3d/PcbsRjpejlSyEIEz//2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="研究2"
+        title="研究2"
+        src="/openlab-site/static/ec448728bdea02cadc51f379591e9c24/828fb/%E7%A0%94%E7%A9%B62.jpg"
+        srcset="/openlab-site/static/ec448728bdea02cadc51f379591e9c24/ff44c/%E7%A0%94%E7%A9%B62.jpg 158w,
+/openlab-site/static/ec448728bdea02cadc51f379591e9c24/a6688/%E7%A0%94%E7%A9%B62.jpg 315w,
+/openlab-site/static/ec448728bdea02cadc51f379591e9c24/828fb/%E7%A0%94%E7%A9%B62.jpg 630w,
+/openlab-site/static/ec448728bdea02cadc51f379591e9c24/4b190/%E7%A0%94%E7%A9%B62.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/57e5404392e3ef8f1e36d8f95f83519a/4b190/%E7%A0%94%E7%A9%B63.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAWk67iUvI//EABsQAAICAwEAAAAAAAAAAAAAAAIDAREAEhMi/9oACAEBAAEFAjnZQuOuVykfZDIOz//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/AQn/xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAgEBPwFX/8QAHBAAAgICAwAAAAAAAAAAAAAAAAECERJBECJR/9oACAEBAAY/AnHeiFrqi8mNJZEV7x//xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhMUFR/9oACAEBAAE/IYDL8OURopo6ug2qi629Q1UYz4f/2gAMAwEAAgADAAAAEEM//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAhMf/aAAgBAwEBPxAnrZf/xAAZEQABBQAAAAAAAAAAAAAAAAAAAREhMVH/2gAIAQIBAT8QW4H0f//EABsQAAMBAQEBAQAAAAAAAAAAAAERIQAxUXGB/9oACAEBAAE/EHAAEwAjgIqoSLHA/nuHAyY5MB0B0lEBMrUhLQ4vPxZhBG//2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="研究3"
+        title="研究3"
+        src="/openlab-site/static/57e5404392e3ef8f1e36d8f95f83519a/828fb/%E7%A0%94%E7%A9%B63.jpg"
+        srcset="/openlab-site/static/57e5404392e3ef8f1e36d8f95f83519a/ff44c/%E7%A0%94%E7%A9%B63.jpg 158w,
+/openlab-site/static/57e5404392e3ef8f1e36d8f95f83519a/a6688/%E7%A0%94%E7%A9%B63.jpg 315w,
+/openlab-site/static/57e5404392e3ef8f1e36d8f95f83519a/828fb/%E7%A0%94%E7%A9%B63.jpg 630w,
+/openlab-site/static/57e5404392e3ef8f1e36d8f95f83519a/4b190/%E7%A0%94%E7%A9%B63.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/9f5142c6cba1379afa3d0ec0c7773fac/4b190/%E7%A0%94%E7%A9%B64.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABTdIZqjYf/8QAHBAAAwABBQAAAAAAAAAAAAAAAQIDEQAEEhMU/9oACAEBAAEFAtqODtbpn6MagGeLBBR8WP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAIBAAAgAFBQEAAAAAAAAAAAAAAAIBETFBURIhIjKRof/aAAgBAQAGPwJl+4JR5RodfTZ6MKkb5NUrSP/EABsQAQADAQEBAQAAAAAAAAAAAAEAETEhQWGB/9oACAEBAAE/IbIW0pOQFq6mX5ofNQXlYiezpcIul/kIkOeGz//aAAwDAQACAAMAAAAQXD//xAAXEQEAAwAAAAAAAAAAAAAAAAAAASFR/9oACAEDAQE/EJ1b/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQIBAT8QR//EAB4QAQACAgIDAQAAAAAAAAAAAAERMQBRIUFxgaGR/9oACAEBAAE/EJC99GGjaX6xeGQA5XbrFk4/Yo/DBhLS6VM1DiYqjUPA81hmEQYcDv78z//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="研究4"
+        title="研究4"
+        src="/openlab-site/static/9f5142c6cba1379afa3d0ec0c7773fac/828fb/%E7%A0%94%E7%A9%B64.jpg"
+        srcset="/openlab-site/static/9f5142c6cba1379afa3d0ec0c7773fac/ff44c/%E7%A0%94%E7%A9%B64.jpg 158w,
+/openlab-site/static/9f5142c6cba1379afa3d0ec0c7773fac/a6688/%E7%A0%94%E7%A9%B64.jpg 315w,
+/openlab-site/static/9f5142c6cba1379afa3d0ec0c7773fac/828fb/%E7%A0%94%E7%A9%B64.jpg 630w,
+/openlab-site/static/9f5142c6cba1379afa3d0ec0c7773fac/4b190/%E7%A0%94%E7%A9%B64.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/72cb4303c611ea54c3a9246eda35b37c/4b190/computer.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAwT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGd0zlHMQ//xAAZEAEBAQEBAQAAAAAAAAAAAAACAQMSEBP/2gAIAQEAAQUCxw7HwMOvMQaMtt8//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAESIgIQEXH/2gAIAQEABj8ClJeFmypxZNLf/8QAGxAAAgMAAwAAAAAAAAAAAAAAAREAITEQUaH/2gAIAQEAAT8hwNaozEh8IgJsl24WnDQDNQk8f//aAAwDAQACAAMAAAAQF8//xAAVEQEBAAAAAAAAAAAAAAAAAAAQQf/aAAgBAwEBPxCH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAQEAAgMBAAAAAAAAAAAAAREAIXExQVGR/9oACAEBAAE/EGl5shqh+e8NzQsQjn7dSaAs83eRUNgVzF7xy87/2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="computer"
+        title="computer"
+        src="/openlab-site/static/72cb4303c611ea54c3a9246eda35b37c/828fb/computer.jpg"
+        srcset="/openlab-site/static/72cb4303c611ea54c3a9246eda35b37c/ff44c/computer.jpg 158w,
+/openlab-site/static/72cb4303c611ea54c3a9246eda35b37c/a6688/computer.jpg 315w,
+/openlab-site/static/72cb4303c611ea54c3a9246eda35b37c/828fb/computer.jpg 630w,
+/openlab-site/static/72cb4303c611ea54c3a9246eda35b37c/4b190/computer.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/05d9684409de45c9b5ee58f24c9fdaf2/4b190/%E8%87%AA%E4%BD%9CPC.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAGNSlPGo6Tf/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARAxIyQf/aAAgBAQABBQK5hCtAfDmif//EABYRAQEBAAAAAAAAAAAAAAAAAAAREv/aAAgBAwEBPwGVl//EABURAQEAAAAAAAAAAAAAAAAAABEA/9oACAECAQE/AUm//8QAGxAAAQQDAAAAAAAAAAAAAAAAAQACEBESIjH/2gAIAQEABj8CWzAbRxZYvsCP/8QAGhAAAwADAQAAAAAAAAAAAAAAAAERITFRYf/aAAgBAQABPyGrusRTJtvhBoulHY9V6haIoj//2gAMAwEAAgADAAAAEKwv/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhEf/aAAgBAwEBPxCTMKH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAATH/2gAIAQIBAT8Qmiv/xAAdEAEBAAIDAAMAAAAAAAAAAAABEQAhMUFhUXHB/9oACAEBAAE/EN9auUVvmF2mwNEcF79yD/Jjs/fvJIUb84yyolL0y4YgtATgz//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="自作PC"
+        title="自作PC"
+        src="/openlab-site/static/05d9684409de45c9b5ee58f24c9fdaf2/828fb/%E8%87%AA%E4%BD%9CPC.jpg"
+        srcset="/openlab-site/static/05d9684409de45c9b5ee58f24c9fdaf2/ff44c/%E8%87%AA%E4%BD%9CPC.jpg 158w,
+/openlab-site/static/05d9684409de45c9b5ee58f24c9fdaf2/a6688/%E8%87%AA%E4%BD%9CPC.jpg 315w,
+/openlab-site/static/05d9684409de45c9b5ee58f24c9fdaf2/828fb/%E8%87%AA%E4%BD%9CPC.jpg 630w,
+/openlab-site/static/05d9684409de45c9b5ee58f24c9fdaf2/4b190/%E8%87%AA%E4%BD%9CPC.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/eb2693a98b68ce2883a34d5168628bfb/4b190/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABoya0rQV//8QAGBABAAMBAAAAAAAAAAAAAAAAAQADEgL/2gAIAQEAAQUCKiGN55litgAT/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECERIh/9oACAEDAQE/AYq+mEf/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIREv/aAAgBAgEBPwGTo0z/xAAbEAACAgMBAAAAAAAAAAAAAAAAAQIRECExIv/aAAgBAQAGPwK3J6PMmzhT4ax//8QAHRABAAEDBQAAAAAAAAAAAAAAAQAQETEhQXGhwf/aAAgBAQABPyHQn7HEC7N7FMlZcVwlpC1P/9oADAMBAAIAAwAAABBTD//EABYRAQEBAAAAAAAAAAAAAAAAAAEAYf/aAAgBAwEBPxAgTG//xAAWEQEBAQAAAAAAAAAAAAAAAAAAATH/2gAIAQIBAT8QwIv/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMVFBYf/aAAgBAQABPxAyxWyZfSIhAzs1C99ghLQUBwbggYryK3uf/9k='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="自作キーボード"
+        title="自作キーボード"
+        src="/openlab-site/static/eb2693a98b68ce2883a34d5168628bfb/828fb/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg"
+        srcset="/openlab-site/static/eb2693a98b68ce2883a34d5168628bfb/ff44c/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg 158w,
+/openlab-site/static/eb2693a98b68ce2883a34d5168628bfb/a6688/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg 315w,
+/openlab-site/static/eb2693a98b68ce2883a34d5168628bfb/828fb/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg 630w,
+/openlab-site/static/eb2693a98b68ce2883a34d5168628bfb/4b190/%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/1f2246df6d1e261b316d2d05dc4ac3c6/4b190/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQX/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHGhZDoEQX/AP/EABsQAAICAwEAAAAAAAAAAAAAAAECAAMREyEy/9oACAEBAAEFAlvZV3GIKysr9Z7/AP/EABYRAQEBAAAAAAAAAAAAAAAAAAEQQf/aAAgBAwEBPwFHJ//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAaEAACAgMAAAAAAAAAAAAAAAABEQAQEjFx/9oACAEBAAY/AkZswZBntKv/xAAaEAEAAgMBAAAAAAAAAAAAAAABABEhMVFB/9oACAEBAAE/IcYGtMvscgkWuss+TOzXIoQNFz//2gAMAwEAAgADAAAAEKPv/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARMf/aAAgBAwEBPxBHWQ3/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAECAQE/EAHSy//EABoQAAMBAQEBAAAAAAAAAAAAAAERIQAxYVH/2gAIAQEAAT8QcEMcCvdMZQkBeGfNDG1GT7u5TRxXMb0AkBv/2Q=='); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="オープンキャンパス"
+        title="オープンキャンパス"
+        src="/openlab-site/static/1f2246df6d1e261b316d2d05dc4ac3c6/828fb/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg"
+        srcset="/openlab-site/static/1f2246df6d1e261b316d2d05dc4ac3c6/ff44c/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg 158w,
+/openlab-site/static/1f2246df6d1e261b316d2d05dc4ac3c6/a6688/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg 315w,
+/openlab-site/static/1f2246df6d1e261b316d2d05dc4ac3c6/828fb/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg 630w,
+/openlab-site/static/1f2246df6d1e261b316d2d05dc4ac3c6/4b190/%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3.jpg 800w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/91eb3000c50cd0f168a6939a5b5109f8/d2602/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC1.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFKCKmiP//EABoQAQADAAMAAAAAAAAAAAAAAAIAAQMREiL/2gAIAQEAAQUCOvlaRrhWUaFdbOSU/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bp//EABYRAQEBAAAAAAAAAAAAAAAAAAABIf/aAAgBAgEBPwGxj//EAB0QAAIBBAMAAAAAAAAAAAAAAAABAhEiMUEhUZH/2gAIAQEABj8Clxgg+x3Pwu2VesVGz//EABsQAQABBQEAAAAAAAAAAAAAAAEAESExQVGh/9oACAEBAAE/IU7uYNHqsKIscMM+DNkGAQkEb5Z//9oADAMBAAIAAwAAABBoP//EABcRAQADAAAAAAAAAAAAAAAAAAABIVH/2gAIAQMBAT8QgvH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAIUH/2gAIAQIBAT8QM6//xAAfEAEAAgEDBQAAAAAAAAAAAAABESEAMUFRcYGRocH/2gAIAQEAAT8QAxpwNk1Vd8jBU0HIe8AIlDIJ6reJytQknnLFHTKRwkaYMBnsLv8Ac//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="バーベキュー1"
+        title="バーベキュー1"
+        src="/openlab-site/static/91eb3000c50cd0f168a6939a5b5109f8/828fb/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC1.jpg"
+        srcset="/openlab-site/static/91eb3000c50cd0f168a6939a5b5109f8/ff44c/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC1.jpg 158w,
+/openlab-site/static/91eb3000c50cd0f168a6939a5b5109f8/a6688/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC1.jpg 315w,
+/openlab-site/static/91eb3000c50cd0f168a6939a5b5109f8/828fb/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC1.jpg 630w,
+/openlab-site/static/91eb3000c50cd0f168a6939a5b5109f8/0ede0/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC1.jpg 945w,
+/openlab-site/static/91eb3000c50cd0f168a6939a5b5109f8/3ac88/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC1.jpg 1260w,
+/openlab-site/static/91eb3000c50cd0f168a6939a5b5109f8/d2602/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC1.jpg 4032w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/cbfbd62c356a8637ef381686797b4833/d2602/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC2.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHE81l7mj//xAAaEAADAAMBAAAAAAAAAAAAAAABAgMAEiIh/9oACAEBAAEFAuFtvN8UT1ansyFLdH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAHRAAAgIBBQAAAAAAAAAAAAAAABECIQESYnGBkf/aAAgBAQAGPwK1ZUY+GNSfJuOhn//EABoQAQADAQEBAAAAAAAAAAAAAAEAESFhMVH/2gAIAQEAAT8hVAML0sJRyZcAo5cT3OnLinPiUdpvJ//aAAwDAQACAAMAAAAQj/8A/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EFGU/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EMSJ/8QAHRABAAICAgMAAAAAAAAAAAAAAREhAEExcWGxwf/aAAgBAQABPxBgqjwgZ9YAiom+GvvWDq2FnbfGJAIDWFOq7xVUgjfEkYBiYVpWf//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="バーベキュー2"
+        title="バーベキュー2"
+        src="/openlab-site/static/cbfbd62c356a8637ef381686797b4833/828fb/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC2.jpg"
+        srcset="/openlab-site/static/cbfbd62c356a8637ef381686797b4833/ff44c/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC2.jpg 158w,
+/openlab-site/static/cbfbd62c356a8637ef381686797b4833/a6688/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC2.jpg 315w,
+/openlab-site/static/cbfbd62c356a8637ef381686797b4833/828fb/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC2.jpg 630w,
+/openlab-site/static/cbfbd62c356a8637ef381686797b4833/0ede0/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC2.jpg 945w,
+/openlab-site/static/cbfbd62c356a8637ef381686797b4833/3ac88/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC2.jpg 1260w,
+/openlab-site/static/cbfbd62c356a8637ef381686797b4833/d2602/%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC2.jpg 4032w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/openlab-site/static/a7d102267c0ddac6780cbb28941fc7b9/d2602/%E3%83%94%E3%82%B6.jpg"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url('data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABadcyqJBP/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAERIDIv/aAAgBAQABBQIELKSKRkv53qc6C//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEv/aAAgBAgEBPwGUv//EABsQAAIBBQAAAAAAAAAAAAAAAAABEhAhMUFR/9oACAEBAAY/Ai7dEuIjHJs//8QAGhABAAIDAQAAAAAAAAAAAAAAAQAhETFBgf/aAAgBAQABPyFh2DepbknsxVvkMYK7nsCKM9yizvxn/9oADAMBAAIAAwAAABCL7//EABcRAAMBAAAAAAAAAAAAAAAAAAABEVH/2gAIAQMBAT8QrZdH/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAh/9oACAECAQE/EAk7v//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExQVGBscH/2gAIAQEAAT8QE7LooDwysCBQx3w/YlRDumYBwQUOTMEibhQvNSyO9dAep//Z'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="ピザ"
+        title="ピザ"
+        src="/openlab-site/static/a7d102267c0ddac6780cbb28941fc7b9/828fb/%E3%83%94%E3%82%B6.jpg"
+        srcset="/openlab-site/static/a7d102267c0ddac6780cbb28941fc7b9/ff44c/%E3%83%94%E3%82%B6.jpg 158w,
+/openlab-site/static/a7d102267c0ddac6780cbb28941fc7b9/a6688/%E3%83%94%E3%82%B6.jpg 315w,
+/openlab-site/static/a7d102267c0ddac6780cbb28941fc7b9/828fb/%E3%83%94%E3%82%B6.jpg 630w,
+/openlab-site/static/a7d102267c0ddac6780cbb28941fc7b9/0ede0/%E3%83%94%E3%82%B6.jpg 945w,
+/openlab-site/static/a7d102267c0ddac6780cbb28941fc7b9/3ac88/%E3%83%94%E3%82%B6.jpg 1260w,
+/openlab-site/static/a7d102267c0ddac6780cbb28941fc7b9/d2602/%E3%83%94%E3%82%B6.jpg 4032w"
+        sizes="(max-width: 630px) 100vw, 630px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p></section></article><nav class="blog-post-nav"><ul style="display:flex;flex-wrap:wrap;justify-content:space-between;list-style:none;padding:0"><li><a rel="prev" href="/openlab-site/2023/">← <!-- -->あつまれ 低レイヤの杜</a></li><li></li></ul></nav></main><footer>© <!-- -->2024<!-- -->, OSS Lab</footer></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/2024/";/*]]>*/</script><script id="gatsby-chunk-mapping">/*<![CDATA[*/window.___chunkMapping={"polyfill":["/polyfill-7f1ec355261b605a652a.js"],"app":["/app-69f34f2be6ef4743f1a1.js"],"component---src-pages-404-js":["/component---src-pages-404-js-994c3193491059bf8b6b.js"],"component---src-pages-index-js":["/component---src-pages-index-js-7f2a947db9bbe7717384.js"],"component---src-pages-using-typescript-tsx":["/component---src-pages-using-typescript-tsx-811c8e0cf309df5e3046.js"],"component---src-templates-blog-post-js":["/component---src-templates-blog-post-js-a721658826c4f244a45f.js"]};/*]]>*/</script><script src="/openlab-site/polyfill-7f1ec355261b605a652a.js" nomodule=""></script><script src="/openlab-site/component---src-templates-blog-post-js-a721658826c4f244a45f.js" async=""></script><script src="/openlab-site/commons-18c12e321c0ae2bcfe60.js" async=""></script><script src="/openlab-site/styles-e9d24b1846c7d6eb9685.js" async=""></script><script src="/openlab-site/app-69f34f2be6ef4743f1a1.js" async=""></script><script src="/openlab-site/framework-8e528b732ab2eaadb7b7.js" async=""></script><script src="/openlab-site/webpack-runtime-89d7d3f4c53a54f1448b.js" async=""></script></body></html>
