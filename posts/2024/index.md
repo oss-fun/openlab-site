@@ -27,6 +27,7 @@ description: OSS研究室についてのHPです
     - Flowerで花推定
     - あさっこルームズ
     - Choigru
+    - test
 
 
 ## システムソフトウェア研究
