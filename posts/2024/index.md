@@ -265,7 +265,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 ### 移動・外出を考慮したスマートリモコンのパーソナライズ機構
 <div class="author">
 
-![sion](./img/icon_sion.png)
+![sion](./img/icon_sion.jpg)
 
 **木田 至音**  
 情報システムコース・4 年
