@@ -301,7 +301,8 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 ![iwa-research](./img/iwa_research.png)
 
 
-### 悪性USBデバイスを用いた物理的不正アクセスへの対処手法に関する研究 <div class="author">
+### 悪性USBデバイスを用いた物理的不正アクセスへの対処手法に関する研究 
+<div class="author">
 
 ![eriya](./img/icon_eriya.jpeg)
 
