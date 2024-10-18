@@ -89,7 +89,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 
 <div class="author">
 
-![itou](./img/icon_itou.png)
+![chikuwa-icon](./img/icon_chikuwait.jpeg)
 
 **中田 裕貴**  
 博士 1 年
@@ -98,7 +98,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 
 <div class="author">
 
-![itou](./img/icon_fune.jpeg)
+![fune-icon](./img/icon_fune.jpeg)
 
 **藤井 大悟**  
 高度ICT領域・修士 1 年
@@ -116,7 +116,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 
 <div class="author">
 
-![yuzuki-icon](./img/icon_yuzuki.jpeg)
+![sumeshi-icon](./img/icon_sumeshi.jpeg)
 
 **酒井 佑馬**  
 情報システムコース・4 年
@@ -138,13 +138,15 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
     - アプリケーション状態はWasm仮想マシンだけではなく、OSのファイルなど広範囲に四散
     - **実行状態の統一表現への変換やライブマイグレーションに適したランタイム拡張の実現**
     - **OSの内部状態取得手法を組み合わせたWasmライブマイグレーションの実現**
+
+![wasm-migration-1](./img/wasm-migration-1.png)
+
 - 研究課題2：Wasmライブマイグレーションの分散処理管理システムへの統合（斎藤）
     - Kubernetesなどの、デファクトスタンダードな分散処理環境の管理システムは、
     地理的分散やデバイス・エッジ・クラウドの階層構造を意識したアプリケーション再配置ができない
     - **研究課題1の提案を、Kubernetesのアプリケーション再配置ロジックに適用し
     Kubernetesにおけるエッジクラウドの特性を活かした再配置を実現**
 
-![wasm-migration-1](./img/wasm-migration-1.png)
 ![wasm-migration-2](./img/wasm-migration-2.png)
 
 ### IoTデバイス郡を対象としたP2P型ネットワークブート機構の最適化
@@ -171,7 +173,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 
 <div class="author">
 
-![itou](./img/icon_ishi.jpeg)
+![ishi](./img/icon_ishi.jpeg)
 
 **石本 直也**  
 情報アーキテクチャ領域・修士 2 年
@@ -184,7 +186,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 - pub/sub通信をベースとした外部ノード関数の呼び出し処理（RPC）を可能とすることで、より高度な分散処理・配置構成可能なクラウドロボット基盤の実現
 - mROS2-Wasmにおいて機能モジュール間のRPCを可能とする通信機能を実現、マイグレーション時の処理継続性について評価
 
-<!-- ![ishi-research](./img/freebsd_figure.svg) -->
+![ishi-research](./img/ishi_research.png)
 
 ### 異種OS機能連携によるセキュアコンテナの実現
 
@@ -201,7 +203,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 - Linux以外のOS カーネル上でLinuxコンテナを動作可能とすることで、ハードウェア仮想化技術やシステムコール検査などのコンテナ間隔離手法と比較して、低オーバーヘッドかつ強固なコンテナ間隔離を実現
 - 異種OSが持つ独自のセキュリティ機能をコンテナに適用することで、ライブラリやアプリケーションの脆弱性による攻撃を無効化・影響範囲の最小化
 
-![awa-research](./img/freebsd_figure.svg)
+![awa-research](./img/freebsd_figure.jpg)
 
 ### 異種OS機能連携のためのセキュアコンテナネットワーキング機構の実現
 
@@ -220,10 +222,8 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 - 異種OS機能連携によるセキュアコンテナをクラウドコンピューティング基盤へ導入することを想定し、Linux標準のコンテナネットワーキング機構を異種OS上に移植することで、Linuxと同等の複数ノード上コンテナ間通信を実現
 - 異種OS独自のセキュリティ機構を用いた、ネットワークリソースへのアクセスの検査・代理実行によって、ネットワークを悪用したコンテナへの攻撃を回避
 
-![souma-research](./img/souma_openlab.svg)
+![souma-research](./img/souma_openlab.jpg)
 <!-- ### ランタイム中立なWebAssemblyライブマイグレーションの実現 -->
-
-### 異種OS機能連携のためのセキュアコンテナ・ネットワーキング機構の実現
 
 
 ### 空港手荷物受取所向け拡張現実型情報提示システムの社会実装
@@ -248,7 +248,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 ### 無線通信を想定したロボット制御ミドルウェア ROS 2 の通信機構に関する評価
 <div class="author">
 
-![fune](./img/aoi.jpeg)
+![fune](./img/icon_ksatoshi.jpeg)
 
 **川平 覚士**  
 知能システムコース・4 年
@@ -265,7 +265,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 ### 移動・外出を考慮したスマートリモコンのパーソナライズ機構
 <div class="author">
 
-![fune](./img/aoi.jpeg)
+![sion](./img/icon_sion.png)
 
 **木田 至音**  
 情報システムコース・4 年
@@ -285,7 +285,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 ### VM型TEEエミュレーション機能の実現
 <div class="author">
 
-![fune](./img/aoi.jpeg)
+![iwa](./img/icon_iwa.png)
 
 **岩崎 誠也**  
 情報システムコース・4 年
@@ -303,7 +303,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 
 ### 悪性USBデバイスを用いた物理的不正アクセスへの対処手法に関する研究 <div class="author">
 
-![fune](./img/aoi.jpeg)
+![eriya](./img/icon_eriya.jpeg)
 
 **武藤 恵理也**  
 情報システムコース・4 年
@@ -316,12 +316,12 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 - USBデバイス接続時に認証を要求し、認証に成功したデバイスのみシステムとの通信を許可
 - 軽量なハイパーバイザであるBitVisorを用いた提案手法の実装と有効性評価を計画
 
-![eriya-research](./img/eriya_research.svg)
+![eriya-research](./img/eriya_research.jpg)
 
 ### 独自インターフェースを持つ未来大仮想マシンのIaC対応
 <div class="author">
 
-![fune](./img/aoi.jpeg)
+![yusuke](./img/icon_yusuke.jpeg)
 
 **西 侑亮**  
 情報システムコース・4 年
@@ -334,7 +334,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 - セキュリティや予算の関係上、仮想マシンを直接管理をするAPIは公開できない
 - Webブラウザを全自動で操るスクレイピング技術を使って、未来大の仮想マシン管理画面( https://manage.p.fun.ac.jp/server_manage )を操作して仮想マシンを管理
 
-![eriya-research](./img/eriya_research.svg)
+![eriya-research](./img/yusuke_research.png)
 
 
 
