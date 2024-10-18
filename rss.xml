@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 18 Oct 2024 06:49:08 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 研究室紹介出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに 研究室紹介出展概要 オープンラボ当日は，対面にて，下記の催しを行います． BadUSB危機一髪 異空間鉄道86-64 ROSFit Adventure 堅（Kata）いコンテナ IoT…]]></description><link>https://oss-fun.github.io/2024/</link><guid isPermaLink="false">https://oss-fun.github.io/2024/</guid><pubDate>Tue, 08 Oct 2024 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 18 Oct 2024 06:54:50 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 研究室紹介出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに 研究室紹介出展概要 オープンラボ当日は，対面にて，下記の催しを行います． BadUSB危機一髪 異空間鉄道86-64 ROSFit Adventure 堅（Kata）いコンテナ IoT…]]></description><link>https://oss-fun.github.io/2024/</link><guid isPermaLink="false">https://oss-fun.github.io/2024/</guid><pubDate>Tue, 08 Oct 2024 06:54:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -934,28 +934,30 @@ Kubernetesにおけるエッジクラウドの特性を活かした再配置を�
 &lt;div class=&quot;author&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/openlab-site/static/894e524356146cb346abbb1f595710f0/01e7c/icon_sion.png&quot;
+    href=&quot;/openlab-site/static/126cfa0a9915d13df328f75a8ea68982/6a068/icon_sion.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsTAAALEwEAmpwYAAACL0lEQVQ4y52Tz0/TYBjH+48oTJmCImzTRC8evMjFGP8CLybgzZMHTpzXMTbWqjEkGDMjiVG3g8YYL0BMIJLwa0C8AAkkfd933dqtP9d2bXleBq66oovJN2369v30+z7P8y3jauX/FhP+QiWugtqCx25hFXuG7Fma16hTWZqrV2GxCxjIRt0h2+piSvrwSCqMqUvPmtKeZ8qdPNNBKtb+QvnlbcRG0GSUiu0VX99zcKmTD8LE1SvN2oE4O4Im+zCfwFyMik8gtqf67qFrSHRPOKwizzb0jbcoHcV8HE9faysXg2tjbx7OFTQPwAryHFNZSApsDzX8DR6Gs+hrefg6eJwJq0u8wPaGwFOXze0C7Xy4M3TLrFmHy3R3dhCAE5KLoUw/tLBZ3aUzC5Td0W1LVb6nqflUfwtG6UsgfX3uD9vQOdOeaysz4quRY9vhypsHxtZ7iM0/50xgHr6t+74Px7PxpoO3PFjxfWprVM9wVgSoB2q2hVWwrX15KhdGJdDHUak4Vv86rq/mnfIOHZUm0rS3YZiwpdq4JH96grk4FCwkz6NUBKUuHCsiJM/BlTy/Wf820ZT2f02baTXJ/PmZvLgFScTZq7TPkIrc0KlOHlH2CkRNnL1rHyy3eAZujd15AmGcHsT89VaYwpWLEf4GygyIM3dsVHJNmYECKvn7NJJ/wYLi4vDPyMXHrlljjJ0izgwQLt4VeRobwiWswx+Mssii1MV2nroRpDUd1TfmjgCNRLCOQf6mwAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEFAgMEBv/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABscuahzeocgVfeS2luIkaBX//xAAdEAADAQACAwEAAAAAAAAAAAABAgMAERMSICEx/9oACAEBAAEFAucPu4OvTrUWopnR2Roo2rAdk5+CBQMQCPz0/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwFf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPwGJGX//xAAgEAACAQEJAAAAAAAAAAAAAAAAARECEBIgISIxQVFx/9oACAEBAAY/ArZJVbE2jVNXrFdyT5YqZ2OyHh//xAAeEAEAAwACAgMAAAAAAAAAAAABABEhMWFBgSBRcf/aAAgBAQABPyGhrNVOPuos816nDrvD9lNz3kdqL1NCQpFvKMuDbMTtHcZAI+GACjA+H//aAAwDAQACAAMAAAAQ/wAtj4Af/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQAREDH/2gAIAQMBAT8QfbGW17//xAAZEQACAwEAAAAAAAAAAAAAAAAAARARIUH/2gAIAQIBAT8QW6Whi6Un/8QAIBABAAICAgIDAQAAAAAAAAAAAQARITFRYUFxgZHR8P/aAAgBAQABPxBaabrXnxKglDW203XqIH4qsPELF/mpchcZU4pxUP4NuVPZ1Eralq9D0amAj1mdHX3Li+CysxgW+T8QUbZCxhcgFBxLc9Mdxcz/2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;sion&quot;
         title=&quot;sion&quot;
-        src=&quot;/openlab-site/static/894e524356146cb346abbb1f595710f0/01e7c/icon_sion.png&quot;
-        srcset=&quot;/openlab-site/static/894e524356146cb346abbb1f595710f0/c26ae/icon_sion.png 158w,
-/openlab-site/static/894e524356146cb346abbb1f595710f0/6bdcf/icon_sion.png 315w,
-/openlab-site/static/894e524356146cb346abbb1f595710f0/01e7c/icon_sion.png 512w&quot;
-        sizes=&quot;(max-width: 512px) 100vw, 512px&quot;
+        src=&quot;/openlab-site/static/126cfa0a9915d13df328f75a8ea68982/828fb/icon_sion.jpg&quot;
+        srcset=&quot;/openlab-site/static/126cfa0a9915d13df328f75a8ea68982/ff44c/icon_sion.jpg 158w,
+/openlab-site/static/126cfa0a9915d13df328f75a8ea68982/a6688/icon_sion.jpg 315w,
+/openlab-site/static/126cfa0a9915d13df328f75a8ea68982/828fb/icon_sion.jpg 630w,
+/openlab-site/static/126cfa0a9915d13df328f75a8ea68982/0ede0/icon_sion.jpg 945w,
+/openlab-site/static/126cfa0a9915d13df328f75a8ea68982/6a068/icon_sion.jpg 960w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
