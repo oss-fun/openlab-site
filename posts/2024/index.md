@@ -21,11 +21,11 @@ description: OSS研究室についてのHPです
 ## 研究室紹介出展概要
 
 - オープンラボ当日は，対面にて，下記の催しを行います．
-    - BadUSB危機一髪
     - 異空間鉄道86-64
     - ROSFit Adventure
     - 堅（Kata）いコンテナ
     - IoTでIaT（イルミネーション as Terraform）
+    - ちょいぐる
 
 
 ## システムソフトウェア研究
