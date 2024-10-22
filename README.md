@@ -1,6 +1,8 @@
 ## Requirements
 - node v12
-- gatsby v2
+- gatsby-cli latest-v2
+
+インストール方法は[こちら](docs/node.md)
 
 ## ローカルで実行 
 ref: [gatsby-blob-starter](docs/gatsby-blog-starter.md)
