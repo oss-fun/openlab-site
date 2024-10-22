@@ -1,9 +1,9 @@
 ## Requirements
-- node: v12
-- gatsby: v2
+- node v12
+- gatsby v2
 
 ## ローカルで実行 
-ref: [gatsby-blob-starter](docs/gatsby-blob-starter.md)
+ref: [gatsby-blob-starter](docs/gatsby-blog-starter.md)
 1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
