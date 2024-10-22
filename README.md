@@ -2,7 +2,8 @@
 - node: v12
 - gatsby: v2
 
-## ローカルで実行 (ref: docs/gatsby-blob-starter.md)
+## ローカルで実行 
+ref: [gatsby-blob-starter] (docs/gatsby-blob-starter.md)
 1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
@@ -21,4 +22,4 @@
     Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
     
 ## ポスターについて
--> docs/poster.md
+-> [about poster] (docs/poster.md)
