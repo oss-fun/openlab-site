@@ -2,7 +2,7 @@
 - node v12
 - gatsby-cli latest-v2
 
-インストール方法は[こちら](docs/node.md)
+インストール方法は[こちら](docs/requirements.md)
 
 ## ローカルで実行 
 ref: [gatsby-blob-starter](docs/gatsby-blog-starter.md)
