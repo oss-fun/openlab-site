@@ -43,7 +43,7 @@ article.blog-post {
 
     > h2 {
       position: relative;
-      padding: $grid $grid / 2 $grid 85px;
+      padding: $grid calc($grid / 2) $grid 85px;
       font-size: 2.5rem;
       border-bottom: 2px solid var(--color-accent);
 
@@ -53,11 +53,11 @@ article.blog-post {
         content: "";
         position: absolute;
         bottom: $grid * 0.75;
-        left: $grid / 2;
+        left: calc($grid / 2);
         display: inline-block;
         height: $image_height;
-        width: $image_height * (144 / 167);
-        margin-right: $grid / 4;
+        width: $image_height * calc(144 / 167);
+        margin-right: calc($grid / 4);
         background: url(./tux.jpg);
         background-size: contain;
       }
@@ -112,7 +112,7 @@ article.blog-post {
         width: $avatar_size;
         height: $avatar_size;
         margin: 0 $grid 0 0;
-        border-radius: 50%;
+        border-radius: 20%;
         overflow: hidden;
       }
 
@@ -120,6 +120,14 @@ article.blog-post {
         margin: 0;
         font-size: 1.2rem;
       }
+    }
+
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 100%;
+      height: auto;
     }
   }
 }
