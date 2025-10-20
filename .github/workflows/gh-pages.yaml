@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - feature-2025
+      - master
 
 jobs:
   build-deploy:
