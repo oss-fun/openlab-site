@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab RSS Feed]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Oct 2025 10:41:00 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[…]]></description><link>https://oss-fun.github.io/2025/</link><guid isPermaLink="false">https://oss-fun.github.io/2025/</guid><pubDate>Tue, 14 Oct 2025 09:12:11 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[OSS Lab RSS Feed]]></title><description><![CDATA[オープンラボ用でのOSS Labの紹介]]></description><link>https://oss-fun.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 20 Oct 2025 04:01:38 GMT</lastBuildDate><item><title><![CDATA[あつまれ 低レイヤの杜]]></title><description><![CDATA[目次 研究室紹介出展概要 システムソフトウェア研究 研究紹介 研究活動 問い合わせ先 おわりに 研究室紹介出展概要 オープンラボ当日は，対面にて，下記の催しを行います． ちょいぐる ラインでGO！！ 異空間鉄道 86-64 OSなニブイチ 〜BSDからの挑戦状〜 わらしべBoot…]]></description><link>https://oss-fun.github.io/2025/</link><guid isPermaLink="false">https://oss-fun.github.io/2025/</guid><pubDate>Tue, 14 Oct 2025 09:12:11 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -45,10 +45,10 @@
 &lt;li&gt;オープンラボ当日は，対面にて，下記の催しを行います．
 &lt;ul&gt;
 &lt;li&gt;ちょいぐる&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;ラインでGO！！&lt;/li&gt;
+&lt;li&gt;異空間鉄道 86-64&lt;/li&gt;
+&lt;li&gt;OSなニブイチ 〜BSDからの挑戦状〜&lt;/li&gt;
+&lt;li&gt;わらしべBoot&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -263,58 +263,7 @@
 &lt;li&gt;松原克弥&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;研究紹介&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E7%A0%94%E7%A9%B6%E7%B4%B9%E4%BB%8B&quot; aria-label=&quot;研究紹介 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;研究紹介&lt;/h2&gt;
-&lt;!-- ### 異種計算機群の有機的連携を可能にする超分散コンピューティング基盤
-
-&lt;div class=&quot;author&quot;&gt;
-
-![chikuwa-icon](./img/icon_chikuwait.jpeg)
-
-**中田 裕貴**
-博士 1 年
-
-&lt;/div&gt;
-
-&lt;div class=&quot;author&quot;&gt;
-
-![fune-icon](./img/icon_fune.jpeg)
-
-**藤井 大悟**
-高度ICT領域・修士 1 年
-
-&lt;/div&gt;
-
-&lt;div class=&quot;author&quot;&gt;
-
-![yuzuki-icon](./img/icon_yuzuki.jpeg)
-
-**齊藤 優月**
-情報アーキテクチャ領域・修士 1 年
-
-&lt;/div&gt;
-
-&lt;div class=&quot;author&quot;&gt;
-
-![sumeshi-icon](./img/icon_sumeshi.jpeg)
-
-**酒井 佑馬**
-複雑系コース・4 年
-
-&lt;/div&gt;
-
-- デバイス・ユーザ近傍のエッジサーバ・大規模なデータセンタを活用したクラウドの有機的連携によってIoTやAIなどの大規模なデータを高速に処理
-  - 有機的連携: 周辺環境などの状況変化や処理要件に合わせて、アプリケーションを構成する各計算モジュール群が実行場所を動的に変化させながら分散処理を最適化
-- 多様な計算機間での実行ソフトウェアの動的再配置には、多くの技術的課題が存在
-  - Kubernetesのような分散処理管理システムには、各計算モジュールをどこの計算機へ配置するかを決める機能があるが、デバイス・エッジ・クラウドなどの異なる特性をもつ計算機階層を有効的に活用できない
-  - デバイス、エッジ、クラウドのハードウェアやOSが異なるため、計算モジュール実行先の柔軟な選択を可能にするには、多様な計算機環境に対応するソフトウェア実行基盤とその実行モジュールを動的に再配置できる機構が必要
-- WebAssemblyとライブマイグレーションを組み合わせによってこれらの課題を解決
-  - WebAssembly：あらゆる計算機環境でプログラムを実行可能な仮想マシンであり、 デバイスやエッジ、クラウド環境それぞれに特化したランタイムが存在
-  - ライブマイグレーション：実行中のソフトウェアと処理状態を別の計算機環境に移動・再配置し処理を継続する技術
-  - 各環境に最適なWebAssemblyランタイムでソフトウェア実行し、ランタイム間でのライブマイグレーションとKubernetesによる制御を可能にすることで、クラウド-エッジ-デバイス間で柔軟なアプリケーション動的再配置を実現
-
-![wasm-migration-1](./img/wasm-migration-1.png)
-
-![wasm-migration-2](./img/wasm-migration-2.png) --&gt;
-&lt;h3 id=&quot;タイトル&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB&quot; aria-label=&quot;タイトル permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;タイトル&lt;/h3&gt;
+&lt;h3 id=&quot;ランタイム中立なwebassemblyライブマイグレーションの実現&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0%E4%B8%AD%E7%AB%8B%E3%81%AAwebassembly%E3%83%A9%E3%82%A4%E3%83%96%E3%83%9E%E3%82%A4%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE&quot; aria-label=&quot;ランタイム中立なwebassemblyライブマイグレーションの実現 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ランタイム中立なWebAssemblyライブマイグレーションの実現&lt;/h3&gt;
 &lt;div class=&quot;author&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -349,15 +298,6 @@
 &lt;p&gt;&lt;strong&gt;中田 裕貴&lt;/strong&gt;&lt;br&gt;
 博士 2 年&lt;/p&gt;
 &lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;./img/research-chikuwa.svg&quot; alt=&quot;research-chikuwa&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;ランタイム中立なwebassemblyライブマイグレーションの実現&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0%E4%B8%AD%E7%AB%8B%E3%81%AAwebassembly%E3%83%A9%E3%82%A4%E3%83%96%E3%83%9E%E3%82%A4%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE&quot; aria-label=&quot;ランタイム中立なwebassemblyライブマイグレーションの実現 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;ランタイム中立なWebAssemblyライブマイグレーションの実現&lt;/h3&gt;
 &lt;div class=&quot;author&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -399,7 +339,7 @@
 &lt;li&gt;Wasmランタイムも軽量性・高速性・多機能性など異なる特徴をもち、環境ごとに最適なランタイムが変わる&lt;/li&gt;
 &lt;li&gt;本研究では、計算環境とランタイムの多様性を動的に活用するランタイム中立なWasmマイグレーションを提案し、アプリケーションが状況に応じて最適なノードやランタイムを選び、異種環境の利点を最大限に引き出せることを目指す&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;/openlab-site/54c16f62db026b84158de24b5274af62/research-fune.svg&quot; alt=&quot;research-fune&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/openlab-site/b12fded56cd11d3c8b930ea733f0f593/research-chikuwa-fune.svg&quot; alt=&quot;research-chikuwa-fune&quot;&gt;&lt;/p&gt;
 &lt;h3 id=&quot;webassemblyマイグレーションを活用した異種クラウド編成機能&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#webassembly%E3%83%9E%E3%82%A4%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E7%95%B0%E7%A8%AE%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%B7%A8%E6%88%90%E6%A9%9F%E8%83%BD&quot; aria-label=&quot;webassemblyマイグレーションを活用した異種クラウド編成機能 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;WebAssemblyマイグレーションを活用した異種クラウド編成機能&lt;/h3&gt;
 &lt;div class=&quot;author&quot;&gt;
 &lt;p&gt;&lt;span
