@@ -1,10 +1,10 @@
-## Install node v12
+## Install node v18
 ```
-nvm install 12
-nvm use 12
+nvm install 18
+nvm use 18
 ```
 
-## Install gatsby-cli latest-v2
+## Install gatsby-cli
 ```
-npm install -g gatsby-cli@latest-v2
+npm install -g gatsby-cli
 ```

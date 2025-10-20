@@ -1,6 +1,6 @@
 ## Requirements
-- node v12
-- gatsby-cli latest-v2
+- node v18
+- gatsby-cli
 
 インストール方法は[こちら](docs/requirements.md)
 
