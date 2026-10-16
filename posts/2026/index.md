@@ -260,7 +260,7 @@ PC やスマホの性能を引き出し，新たな機能を創造できます�
 
 [**過去の卒業研究・修士研究（発表論文へのリンク）**](https://researchmap.jp/ktymtbr/published_papers)
 
-[**研究室サイト（ニュースなど）**](https://oss-fun.github.io/)
+[**研究室サイト（学会発表実績など）**](https://oss-fun.github.io/)
 
 ## 研究活動
 
